@@ -14,62 +14,62 @@ if sys.platform == 'win32':
 sys.path.insert(0, str(BASE_DIR))
 from publisher import upload_reel_to_facebook
 
+# Standard ISO Language Mappings (Discrete / SEO-Neutral)
 ENGINES = {
-    'kotoka': ('brands.kotoka.kotoka_engine', 'Japanese'),
-    'ivrina': ('brands.ivrina.ivrina_engine', 'Hebrew'),
-    'voblo': ('brands.voblo.voblo_engine', 'Spanish'),
-    'dimoi': ('brands.dimoi.dimoi_engine', 'French'),
-    'spracho': ('brands.spracho.spracho_engine', 'German'),
-    'dicoo': ('brands.dicoo.dicoo_engine', 'Italian'),
-    'malamoo': ('brands.malamoo.malamoo_engine', 'Korean'),
-    'bohua': ('brands.bohua.bohua_engine', 'Chinese'),
-    'govoro': ('brands.govoro.govoro_engine', 'Russian'),
-    'faloo': ('brands.faloo.faloo_engine', 'Portuguese'),
+    'ja': ('ja.ja_engine', 'Japanese', 'ja'),
+    'he': ('he.he_engine', 'Hebrew', 'he'),
+    'es': ('es.es_engine', 'Spanish', 'es'),
+    'fr': ('fr.fr_engine', 'French', 'fr'),
+    'de': ('de.de_engine', 'German', 'de'),
+    'it': ('it.it_engine', 'Italian', 'it'),
+    'ko': ('ko.ko_engine', 'Korean', 'ko'),
+    'zh': ('zh.zh_engine', 'Chinese', 'zh'),
+    'ru': ('ru.ru_engine', 'Russian', 'ru'),
+    'pt': ('pt.pt_engine', 'Portuguese', 'pt'),
 }
 
 TAGS = {
-    'kotoka': '#Japanese #LearnJapanese #Nihongo #Japan #AnimeJapanese #Kotoka #StudyJapanese',
-    'ivrina': '#Hebrew #LearnHebrew #Ivrit #Israel #TelAviv #Ivrina #HebrewLanguage',
-    'voblo': '#Spanish #LearnSpanish #Espanol #SpanishLanguage #Voblo #HablarEspanol',
-    'dimoi': '#French #LearnFrench #Francais #Paris #Dimoi #FrenchPhrases #ParlerFrancais',
-    'spracho': '#German #LearnGerman #Deutsch #Germany #Spracho #GermanA1 #DeutschLernen',
-    'dicoo': '#Italian #LearnItalian #Italiano #Italy #Dicoo #ParlaItaliano #ItalianPhrases',
-    'malamoo': '#Korean #LearnKorean #Hangul #KDrama #Malamoo #Kpop #KoreanLanguage',
-    'bohua': '#Chinese #LearnChinese #Mandarin #Hanzi #Bohua #ChineseLanguage #Zhongwen',
-    'govoro': '#Russian #LearnRussian #Russkiy #Govoro #RussianLanguage #RussianWords',
-    'faloo': '#Portuguese #LearnPortuguese #Portugues #Brazil #Faloo #Brasil #Português'
+    'ja': '#Japanese #LearnJapanese #Nihongo #Japan #AnimeJapanese #StudyJapanese',
+    'he': '#Hebrew #LearnHebrew #Ivrit #Israel #TelAviv #HebrewLanguage',
+    'es': '#Spanish #LearnSpanish #Espanol #SpanishLanguage #HablarEspanol',
+    'fr': '#French #LearnFrench #Francais #Paris #FrenchPhrases #ParlerFrancais',
+    'de': '#German #LearnGerman #Deutsch #Germany #GermanA1 #DeutschLernen',
+    'it': '#Italian #LearnItalian #Italiano #Italy #ParlaItaliano #ItalianPhrases',
+    'ko': '#Korean #LearnKorean #Hangul #KDrama #Kpop #KoreanLanguage',
+    'zh': '#Chinese #LearnChinese #Mandarin #Hanzi #ChineseLanguage #Zhongwen',
+    'ru': '#Russian #LearnRussian #Russkiy #RussianLanguage #RussianWords',
+    'pt': '#Portuguese #LearnPortuguese #Portugues #Brazil #Brasil #Português'
 }
 
-async def run_brand_cycle(brand_name, upload=True):
-    brand_lower = brand_name.lower()
-    if brand_lower not in ENGINES:
-        print(f"Unknown brand: {brand_name}")
+async def run_cycle(lang_code, upload=True):
+    lang_code = lang_code.lower()
+    if lang_code not in ENGINES:
+        print(f"Unknown language code: {lang_code}")
         return
 
-    mod_path, lang = ENGINES[brand_lower]
+    mod_path, lang_name, brand_id = ENGINES[lang_code]
     print(f"\n============================================================")
-    print(f"🚀 RUNNING CYCLE FOR {brand_name.upper()} ({lang})")
+    print(f"RUNNING MODULE: {lang_code.upper()} ({lang_name})")
     print(f"============================================================")
 
-    # Dynamic import of brand engine
-    engine_file = BASE_DIR / brand_lower / f'{brand_lower}_engine.py'
+    engine_file = BASE_DIR / lang_code / f'{lang_code}_engine.py'
     if not engine_file.exists():
         print(f"Engine file not found: {engine_file}")
         return
 
     import importlib.util
-    spec = importlib.util.spec_from_file_location(f"{brand_lower}_engine", engine_file)
-    brand_mod = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(brand_mod)
+    spec = importlib.util.spec_from_file_location(f"{lang_code}_engine", engine_file)
+    lang_mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(lang_mod)
 
-    # Generate a brand new dialogue and video
-    video_path = await brand_mod.generate_single_reel()
-    print(f"[{brand_name}] New Video Generated: {video_path}")
+    # Generate dialogue and render 15-second reel
+    video_path = await lang_mod.generate_single_reel()
+    print(f"[{lang_code}] Generated: {video_path}")
 
-    # Load the latest dialogue details from history
-    hist = brand_mod.load_history()
+    # Read latest generated lines for post caption & pinned study note
+    hist = lang_mod.load_history()
     latest_entry = hist['dialogues'][-1]['dialogue']
-    topic = latest_entry.get('topic', f'{lang} Daily Lesson')
+    topic = latest_entry.get('topic', f'{lang_name} Daily Lesson')
 
     lines_summary = []
     for line in latest_entry.get('lines', []):
@@ -78,36 +78,36 @@ async def run_brand_cycle(brand_name, upload=True):
         lines_summary.append(f"• {native} ({en})")
 
     dialogue_text = "\n".join(lines_summary)
-    hashtags = TAGS.get(brand_lower, f"#{lang} #Learn{lang} #{brand_name.capitalize()}")
+    hashtags = TAGS.get(lang_code, f"#{lang_name} #Learn{lang_name}")
 
     caption = (
-        f"✨ Daily {lang} in 15 Seconds! — {topic}\n\n"
+        f"✨ Daily {lang_name} in 15 Seconds! — {topic}\n\n"
         f"Master this quick conversation:\n"
         f"{dialogue_text}\n\n"
-        f"Practice speaking it out loud! 💬 Save for later & follow @{brand_name.capitalize()} for daily lessons.\n\n"
+        f"Practice speaking it out loud! 💬 Save for later & follow for daily lessons.\n\n"
         f"{hashtags}"
     )
 
-    title = f"Daily {lang}: {topic}"
+    title = f"Daily {lang_name}: {topic}"
 
     if upload:
         upload_reel_to_facebook(
             video_path=video_path,
             title=title,
             description=caption,
-            brand_name=brand_name
+            brand_name=lang_code
         )
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description="Multi-Brand Autonomous Reel Runner")
-    parser.add_argument('--brand', type=str, default='all', help="Brand to run (e.g. kotoka, ivrina, faloo, or 'all')")
+    parser = argparse.ArgumentParser(description="Language Matrix Execution Module")
+    parser.add_argument('--lang', type=str, default='all', help="Language code (e.g. ja, he, es, or 'all')")
     parser.add_argument('--no-upload', action='store_true', help="Skip upload step")
     args = parser.parse_args()
 
     should_upload = not args.no_upload
 
-    if args.brand.lower() == 'all':
-        for b in ENGINES.keys():
-            asyncio.run(run_brand_cycle(b, upload=should_upload))
+    if args.lang.lower() == 'all':
+        for code in ENGINES.keys():
+            asyncio.run(run_cycle(code, upload=should_upload))
     else:
-        asyncio.run(run_brand_cycle(args.brand, upload=should_upload))
+        asyncio.run(run_cycle(args.lang, upload=should_upload))

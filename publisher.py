@@ -9,22 +9,34 @@ import requests
 if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8')
 
-def get_page_credentials(brand_name):
-    # Check direct environment variables first
-    brand_upper = brand_name.upper()
-    page_token = os.getenv(f'{brand_upper}_PAGE_TOKEN') or os.getenv('FACEBOOK_ACCESS_TOKEN')
-    page_id = os.getenv(f'{brand_upper}_PAGE_ID') or os.getenv('FACEBOOK_PAGE_ID')
+def get_page_credentials(code):
+    code_upper = code.upper()
+    iso_map = {
+        'JA': 'KOTOKA', 'HE': 'IVRINA', 'ES': 'VOBLO', 'FR': 'DIMOI', 'DE': 'SPRACHO',
+        'IT': 'DICOO', 'KO': 'MALAMOO', 'ZH': 'BOHUA', 'RU': 'GOVORO', 'PT': 'FALOO'
+    }
+    lookup_key = iso_map.get(code_upper, code_upper)
+
+    # Check environment variables (either ISO code or legacy secret name)
+    page_token = (os.getenv(f'{code_upper}_PAGE_TOKEN') or 
+                  os.getenv(f'{lookup_key}_PAGE_TOKEN') or 
+                  os.getenv('FACEBOOK_ACCESS_TOKEN'))
+    page_id = (os.getenv(f'{code_upper}_PAGE_ID') or 
+               os.getenv(f'{lookup_key}_PAGE_ID') or 
+               os.getenv('FACEBOOK_PAGE_ID'))
 
     if page_token and page_id:
         return page_id, page_token
 
-    # Check local page_tokens.json fallback (same directory as publisher.py)
+    # Check local page_tokens.json fallback
     token_file = pathlib.Path(__file__).parent / 'page_tokens.json'
     if token_file.exists():
         with open(token_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            if brand_upper in data:
-                return data[brand_upper]['PAGE_ID'], data[brand_upper]['PAGE_TOKEN']
+            if lookup_key in data:
+                return data[lookup_key]['PAGE_ID'], data[lookup_key]['PAGE_TOKEN']
+            if code_upper in data:
+                return data[code_upper]['PAGE_ID'], data[code_upper]['PAGE_TOKEN']
 
     return None, None
 
