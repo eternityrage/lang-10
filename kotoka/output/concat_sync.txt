@@ -1,0 +1,2 @@
+file 'C:\Users\kreg9\Downloads\kreggscode\agy cli\brands\kotoka\output\sync_seg_0.mp4'
+file 'C:\Users\kreg9\Downloads\kreggscode\agy cli\brands\kotoka\output\sync_seg_1.mp4'
