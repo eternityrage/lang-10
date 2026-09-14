@@ -35,6 +35,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-14T16:20:47.686758",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like this dress?",
+            "target_text": "Cette robe vous plaît ?",
+            "japanese": "Cette robe vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's pretty!",
+            "target_text": "Oui, elle est jolie !",
+            "japanese": "Oui, elle est jolie !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What size do you want?",
+            "target_text": "Quelle taille voulez-vous ?",
+            "japanese": "Quelle taille voulez-vous ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Size small, please!",
+            "target_text": "Une taille S, merci !",
+            "japanese": "Une taille S, merci !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }

@@ -35,6 +35,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-14T16:20:03.736991",
+      "dialogue": {
+        "topic": "Fiesta con música",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you coming to the party?",
+            "target_text": "¿Vienes a la fiesta?",
+            "japanese": "¿Vienes a la fiesta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I'm coming with friends.",
+            "target_text": "Sí, vengo con amigos.",
+            "japanese": "Sí, vengo con amigos.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you bringing music to dance?",
+            "target_text": "¿Traes música para bailar?",
+            "japanese": "¿Traes música para bailar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, it will be fun.",
+            "target_text": "Claro, será muy divertido.",
+            "japanese": "Claro, será muy divertido.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }

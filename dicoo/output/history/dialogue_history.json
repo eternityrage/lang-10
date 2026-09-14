@@ -35,6 +35,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-14T16:22:12.165063",
+      "dialogue": {
+        "topic": "Espresso Bar & Cornetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, an espresso and a croissant?",
+            "target_text": "Ciao, un espresso e un cornetto?",
+            "japanese": "Ciao, un espresso e un cornetto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, coming right away!",
+            "target_text": "Certo, arriva subito!",
+            "japanese": "Certo, arriva subito!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is everything?",
+            "target_text": "Quanto costa tutto?",
+            "japanese": "Quanto costa tutto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Three euros, thank you!",
+            "target_text": "Tre euro, grazie!",
+            "japanese": "Tre euro, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }

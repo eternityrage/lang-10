@@ -82,8 +82,11 @@ def upload_reel_to_facebook(video_path, title, description, brand_name):
         }
         res_finish = requests.post(start_url, data=finish_data, timeout=60)
         if res_finish.status_code == 200 and res_finish.json().get('success'):
-            print(f"[{brand_name}] ✅ FACEBOOK REEL PUBLISHED: https://facebook.com/{video_id}")
+            print(f"[{brand_name}] [OK] FACEBOOK REEL PUBLISHED: https://facebook.com/{video_id}")
             fb_res = {'status': 'success', 'video_id': video_id, 'platform': 'facebook'}
+            
+            # Post viral pinned comment with dialogue notes
+            post_pinned_comment(video_id, description, access_token, brand_name)
         else:
             raise Exception(f"Publish finalization failed: {res_finish.text}")
 
@@ -92,8 +95,34 @@ def upload_reel_to_facebook(video_path, title, description, brand_name):
         return fb_res
 
     except Exception as e:
-        print(f"[{brand_name}] ❌ Facebook Upload Error: {e}")
+        print(f"[{brand_name}] [ERR] Facebook Upload Error: {e}")
         return {'status': 'failed', 'error': str(e)}
+
+def post_pinned_comment(video_id, description, access_token, brand_name):
+    print(f"[{brand_name}] Adding pinned conversation study comment...")
+    time.sleep(5)
+    
+    pinned_text = (
+        f"📝 MINI LESSON STUDY NOTES:\n\n"
+        f"{description}\n\n"
+        f"💡 Challenge: Repeat each line out loud 3 times! Which phrase did you like the most? Drop your answer in the comments below! 👇"
+    )
+    
+    comment_url = f"https://graph.facebook.com/v21.0/{video_id}/comments"
+    for attempt in range(5):
+        try:
+            res = requests.post(comment_url, data={'access_token': access_token, 'message': pinned_text}, timeout=20)
+            if res.status_code == 200:
+                cid = res.json().get('id')
+                print(f"[{brand_name}] Study comment posted! (ID: {cid})")
+                # Try pinning comment
+                requests.post(f"https://graph.facebook.com/v21.0/{cid}", data={'access_token': access_token, 'is_pinned': 'true'}, timeout=15)
+                break
+            elif res.status_code in (400, 404):
+                time.sleep(8)
+        except Exception as e:
+            print(f"[{brand_name}] Pinned comment note: {e}")
+            break
 
 def upload_to_connected_instagram(video_path_obj, caption, page_id, access_token, brand_name):
     print(f"[{brand_name}] Checking for connected Instagram Business Account...")

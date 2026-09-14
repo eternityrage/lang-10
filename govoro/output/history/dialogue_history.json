@@ -119,6 +119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-14T16:24:37.512893",
+      "dialogue": {
+        "topic": "Cute Russian Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you glow!",
+            "russian": "Привет, ты сияешь!",
+            "translit": "Privet, ty siyayesh!",
+            "japanese": "Привет, ты сияешь!",
+            "romaji": "Privet, ty siyayesh!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, I am happy!",
+            "russian": "Спасибо, я счастлива!",
+            "translit": "Spasibo, ya schastliva!",
+            "japanese": "Спасибо, я счастлива!",
+            "romaji": "Spasibo, ya schastliva!"
+          },
+          {
+            "speaker": "A",
+            "english": "Your smile is kind.",
+            "russian": "У тебя добрая улыбка.",
+            "translit": "U tebya dobraya ulybka.",
+            "japanese": "У тебя добрая улыбка.",
+            "romaji": "U tebya dobraya ulybka."
+          },
+          {
+            "speaker": "B",
+            "english": "You are super too!",
+            "russian": "Ты тоже супер!",
+            "translit": "Ty tozhe super!",
+            "japanese": "Ты тоже супер!",
+            "romaji": "Ty tozhe super!"
+          }
+        ]
+      }
     }
   ]
 }

@@ -35,6 +35,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-14T16:21:28.998524",
+      "dialogue": {
+        "topic": "Berlin Street Life",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the flea market here?",
+            "target_text": "Ist der Flohmarkt hier?",
+            "japanese": "Ist der Flohmarkt hier?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right around the corner!",
+            "target_text": "Ja, gleich um die Ecke!",
+            "japanese": "Ja, gleich um die Ecke!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is there good music?",
+            "target_text": "Gibt es gute Musik?",
+            "japanese": "Gibt es gute Musik?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, Berlin dances today!",
+            "target_text": "Klar, Berlin tanzt heute!",
+            "japanese": "Klar, Berlin tanzt heute!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
