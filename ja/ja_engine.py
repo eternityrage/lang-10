@@ -41,12 +41,13 @@ WIDTH = 1080
 HEIGHT = 1920
 FPS = 24
 
-VOICE_A = 'es-ES-ElviraNeural'
-VOICE_B = 'es-ES-AlvaroNeural'
+VOICE_A = 'ja-JP-NanamiNeural'
+VOICE_B = 'ja-JP-KeitaNeural'
 
 CATEGORIES = [
-    'Tapas & Cafe', 'Madrid & Barcelona', 'Greetings & Compliments',
-    'Shopping & Market', 'Travel & Metro', 'Fiesta & Chill'
+    'Food & Cafe', 'Tokyo Street Japanese', 'Dating & Romance', 'Casual Slang',
+    'Travel & Transit', 'Shopping & Fashion', 'Convenience Store Life', 'Cute Reactions',
+    'Anime Quotes', 'Work & Chill'
 ]
 
 def load_history():
@@ -72,16 +73,20 @@ def generate_ai_dialogue(category=None):
     context = chr(10).join(['- ' + r for r in recent[:15]])
 
     prompt = (
-        'Generate an ultra-simple, beginner-friendly 4-line Spanish dialogue (Level 1 / A1 beginner) between Character A and Character B.\n'
+        'Generate an ultra-simple, beginner-friendly 4-line Japanese dialogue (JLPT N5 level) between Character A (Cupcake) and Character B (Coffee Mug).\n'
         f'Category: {category}\n'
         'CRITICAL SIMPLICITY REQUIREMENTS:\n'
         '- Keep each sentence TINY, SIMPLE, and beginner-level (3 to 6 words max per sentence!).\n'
-        '- Level: Absolute beginner everyday conversational Spanish.\n'
+        '- Level: JLPT N5 (Basic daily greetings, questions, ordering, simple adjectives).\n'
         '- Anyone seeing the reel should be able to instantly memorize and repeat each line!\n'
-        '- Only natural Spanish and English translation (no transliteration needed).\n'
-        '- Flow: Turn 1 (A) question/greeting -> Turn 2 (B) cheerful answer -> Turn 3 (A) follow-up -> Turn 4 (B) conclusion.\n'
+        '- Example dialogue flow:\n'
+        '  Turn 1 (A): "Is this delicious?" -> "これ、おいしいですか？"\n'
+        '  Turn 2 (B): "Yes! Very delicious." -> "はい！とても おいしいです。"\n'
+        '  Turn 3 (A): "Can I eat one?" -> "ひとつ 食べていいですか？"\n'
+        '  Turn 4 (B): "Sure, please go ahead!" -> "どうぞ、食べてください！"\n'
+        '- Avoid difficult Kanji and avoid complex grammar!\n'
         f'Avoid repeating recent topics:\n{context}\n'
-        'Return pure JSON only with keys: topic (string) and lines (list of exactly 4 items, each with speaker ["A" or "B"], english, target_text).'
+        'Return pure JSON only with keys: topic (string) and lines (list of exactly 4 items, each with speaker ["A" or "B"], english, japanese, romaji).'
     )
 
     url = 'https://gen.pollinations.ai/v1/chat/completions'
@@ -92,7 +97,7 @@ def generate_ai_dialogue(category=None):
     payload = {
         'model': AI_MODEL,
         'messages': [
-            {'role': 'system', 'content': 'You are an expert Spanish teacher creating viral micro-dialogues for absolute beginners. Keep sentences short, clean, and memorable. Output ONLY valid JSON.'},
+            {'role': 'system', 'content': 'You are an expert Japanese teacher creating viral, beginner-level (JLPT N5) micro-dialogues for absolute beginners. Keep sentences short, clean, and memorable. Output ONLY valid JSON.'},
             {'role': 'user', 'content': prompt}
         ],
         'temperature': 0.75
@@ -105,28 +110,24 @@ def generate_ai_dialogue(category=None):
             raw = re.sub(r'^```json\s*', '', raw)
             raw = re.sub(r'\s*```$', '', raw)
             data = json.loads(raw)
+            # Enforce strict alternating speaker assignment: A, B, A, B
             speakers = ['A', 'B', 'A', 'B']
             if 'lines' in data:
                 for idx, item in enumerate(data['lines'][:4]):
                     item['speaker'] = speakers[idx % len(speakers)]
-                    if 'target_text' not in item:
-                        for k in ['text', 'spanish', 'espanol']:
-                            if k in item: item['target_text'] = item[k]; break
-                    item['japanese'] = item.get('target_text', '')
-                    item['romaji'] = ''
                 data['lines'] = data['lines'][:4]
-            print('[Voblo Spanish] Generated dialogue: ' + str(data.get('topic')))
+            print('[AI] Generated dialogue: ' + str(data.get('topic')))
             return data
     except Exception as e:
-        print('[Voblo Spanish] Fallback triggered: ' + str(e))
+        print('[AI] Fallback triggered: ' + str(e))
 
     return {
         'topic': category,
         'lines': [
-            {'speaker': 'A', 'english': 'Hello! Is this tortilla delicious?', 'target_text': '¡Hola! ¿Esta tortilla es rica?', 'japanese': '¡Hola! ¿Esta tortilla es rica?', 'romaji': ''},
-            {'speaker': 'B', 'english': 'Yes, it is very good!', 'target_text': '¡Sí, está muy buena!', 'japanese': '¡Sí, está muy buena!', 'romaji': ''},
-            {'speaker': 'A', 'english': 'Can I try one piece?', 'target_text': '¿Puedo probar un poco?', 'japanese': '¿Puedo probar un poco?', 'romaji': ''},
-            {'speaker': 'B', 'english': 'Sure, please enjoy!', 'target_text': '¡Claro, buen provecho!', 'japanese': '¡Claro, buen provecho!', 'romaji': ''}
+            {'speaker': 'A', 'english': 'Is this delicious?', 'japanese': 'これ、おいしいですか？', 'romaji': 'Kore, oishii desu ka?'},
+            {'speaker': 'B', 'english': 'Yes, it is very sweet!', 'japanese': 'はい、とても甘いですよ！', 'romaji': 'Hai, totemo amai desu yo!'},
+            {'speaker': 'A', 'english': 'Can I try one?', 'japanese': 'ひとつ 食べていいですか？', 'romaji': 'Hitotsu tabete ii desu ka?'},
+            {'speaker': 'B', 'english': 'Sure, please enjoy!', 'japanese': 'どうぞ、食べてください！', 'romaji': 'Douzo, tabete kudasai!'}
         ]
     }
 
@@ -191,8 +192,8 @@ def render_frame(speaker_speaking, is_talking, mouth_flap, line_data, font_en, f
 
     # Wrap texts cleanly within safety margins
     wrapped_en = wrap_text(line_data['english'], font_en, max_w=920)
-    raw_spanish = line_data.get('target_text', line_data.get('japanese', ''))
-    wrapped_jp = wrap_text(raw_spanish, font_jp, max_w=920)
+    wrapped_jp = wrap_japanese(line_data['japanese'], font_jp, max_w=920)
+    wrapped_ro = wrap_text(line_data['romaji'], font_ro, max_w=920)
 
     # Measure exact bounding boxes for stacked layout
     bbox_en = draw.multiline_textbbox((0, 0), wrapped_en, font=font_en, align='center', spacing=12)
@@ -201,8 +202,12 @@ def render_frame(speaker_speaking, is_talking, mouth_flap, line_data, font_en, f
     bbox_jp = draw.multiline_textbbox((0, 0), wrapped_jp, font=font_jp, align='center', spacing=18)
     h_jp = bbox_jp[3] - bbox_jp[1]
 
-    gap_1 = 55  # Gap between English and Spanish
-    total_text_h = h_en + gap_1 + h_jp
+    bbox_ro = draw.multiline_textbbox((0, 0), wrapped_ro, font=font_ro, align='center', spacing=12)
+    h_ro = bbox_ro[3] - bbox_ro[1]
+
+    gap_1 = 50  # Gap between English and Japanese
+    gap_2 = 45  # Gap between Japanese and Romaji
+    total_text_h = h_en + gap_1 + h_jp + gap_2 + h_ro
 
     # Center the entire text stack vertically in the upper region (Y: 150 to 1100)
     top_y = 180 + (850 - total_text_h) // 2
@@ -214,6 +219,9 @@ def render_frame(speaker_speaking, is_talking, mouth_flap, line_data, font_en, f
     cur_y += h_en + gap_1
 
     draw.multiline_text((WIDTH // 2, cur_y), wrapped_jp, fill=(255, 255, 255), font=font_jp, anchor='ma', align='center', spacing=18)
+    cur_y += h_jp + gap_2
+
+    draw.multiline_text((WIDTH // 2, cur_y), wrapped_ro, fill=(112, 174, 255), font=font_ro, anchor='ma', align='center', spacing=12)
 
     # Mouth only opens when speaker is currently talking AND mouth flap cadence is open
     char_a_mouth_open = (speaker_speaking == 'A' and is_talking and mouth_flap)
@@ -238,10 +246,10 @@ async def generate_single_reel():
     save_dialogue_to_history(dialogue)
 
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    reel_id = f'voblo_{timestamp}'
+    reel_id = f'kotoka_{timestamp}'
 
     font_en = get_platform_font(style='bold', lang='default', size=58)
-    font_jp = get_platform_font(style='bold', lang='es', size=76)
+    font_jp = get_platform_font(style='bold', lang='ja', size=76)
     font_ro = get_platform_font(style='regular', lang='default', size=52)
 
     segments = []
@@ -322,7 +330,7 @@ async def generate_single_reel():
         s.unlink(missing_ok=True)
     concat_txt.unlink(missing_ok=True)
 
-    print('\n[Voblo Spanish] Generated: ' + str(final_vid.name))
+    print('\n[Kotoka] Generated: ' + str(final_vid.name))
     return final_vid
 
 if __name__ == '__main__':

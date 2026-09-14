@@ -12,6 +12,8 @@ from datetime import datetime
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 from dotenv import load_dotenv
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from font_loader import get_platform_font
 import edge_tts
 
 if sys.platform == 'win32':
@@ -234,10 +236,10 @@ async def generate_single_reel():
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     reel_id = f'govoro_{timestamp}'
 
-    font_en = ImageFont.truetype('C:/Windows/Fonts/segoeuib.ttf', 58)
+    font_en = get_platform_font(style='bold', lang='default', size=58)
     # Segoe UI Bold has complete high-quality Cyrillic character support
-    font_ru = ImageFont.truetype('C:/Windows/Fonts/segoeuib.ttf', 76)
-    font_tr = ImageFont.truetype('C:/Windows/Fonts/segoeui.ttf', 52)
+    font_ru = get_platform_font(style='bold', lang='ru', size=76)
+    font_tr = get_platform_font(style='regular', lang='default', size=52)
 
     segments = []
     for i, line in enumerate(dialogue['lines']):

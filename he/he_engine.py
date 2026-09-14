@@ -12,6 +12,8 @@ from datetime import datetime
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 from dotenv import load_dotenv
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from font_loader import get_platform_font
 import edge_tts
 
 from bidi.algorithm import get_display
@@ -251,9 +253,9 @@ async def generate_single_reel():
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     reel_id = f'ivrina_{timestamp}'
 
-    font_en = ImageFont.truetype('C:/Windows/Fonts/segoeuib.ttf', 58)
-    font_jp = ImageFont.truetype('C:/Windows/Fonts/DavidCLM-Bold.otf', 82)
-    font_ro = ImageFont.truetype('C:/Windows/Fonts/segoeui.ttf', 52)
+    font_en = get_platform_font(style='bold', lang='default', size=58)
+    font_jp = get_platform_font(style='bold', lang='he', size=76)
+    font_ro = get_platform_font(style='regular', lang='default', size=52)
 
     segments = []
     for i, line in enumerate(dialogue['lines']):

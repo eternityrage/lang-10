@@ -10,26 +10,26 @@ on:
 env:
   POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
   AI_MODEL: "openai-large"
-  JA_PAGE_ID: ${{ secrets.KOTOKA_PAGE_ID }}
-  JA_PAGE_TOKEN: ${{ secrets.KOTOKA_PAGE_TOKEN }}
-  HE_PAGE_ID: ${{ secrets.IVRINA_PAGE_ID }}
-  HE_PAGE_TOKEN: ${{ secrets.IVRINA_PAGE_TOKEN }}
-  ES_PAGE_ID: ${{ secrets.VOBLO_PAGE_ID }}
-  ES_PAGE_TOKEN: ${{ secrets.VOBLO_PAGE_TOKEN }}
-  FR_PAGE_ID: ${{ secrets.DIMOI_PAGE_ID }}
-  FR_PAGE_TOKEN: ${{ secrets.DIMOI_PAGE_TOKEN }}
-  DE_PAGE_ID: ${{ secrets.SPRACHO_PAGE_ID }}
-  DE_PAGE_TOKEN: ${{ secrets.SPRACHO_PAGE_TOKEN }}
-  IT_PAGE_ID: ${{ secrets.DICOO_PAGE_ID }}
-  IT_PAGE_TOKEN: ${{ secrets.DICOO_PAGE_TOKEN }}
-  KO_PAGE_ID: ${{ secrets.MALAMOO_PAGE_ID }}
-  KO_PAGE_TOKEN: ${{ secrets.MALAMOO_PAGE_TOKEN }}
-  ZH_PAGE_ID: ${{ secrets.BOHUA_PAGE_ID }}
-  ZH_PAGE_TOKEN: ${{ secrets.BOHUA_PAGE_TOKEN }}
-  RU_PAGE_ID: ${{ secrets.GOVORO_PAGE_ID }}
-  RU_PAGE_TOKEN: ${{ secrets.GOVORO_PAGE_TOKEN }}
-  PT_PAGE_ID: ${{ secrets.FALOO_PAGE_ID }}
-  PT_PAGE_TOKEN: ${{ secrets.FALOO_PAGE_TOKEN }}
+  JA_PAGE_ID: ${{ secrets.JA_PAGE_ID }}
+  JA_PAGE_TOKEN: ${{ secrets.JA_PAGE_TOKEN }}
+  HE_PAGE_ID: ${{ secrets.HE_PAGE_ID }}
+  HE_PAGE_TOKEN: ${{ secrets.HE_PAGE_TOKEN }}
+  ES_PAGE_ID: ${{ secrets.ES_PAGE_ID }}
+  ES_PAGE_TOKEN: ${{ secrets.ES_PAGE_TOKEN }}
+  FR_PAGE_ID: ${{ secrets.FR_PAGE_ID }}
+  FR_PAGE_TOKEN: ${{ secrets.FR_PAGE_TOKEN }}
+  DE_PAGE_ID: ${{ secrets.DE_PAGE_ID }}
+  DE_PAGE_TOKEN: ${{ secrets.DE_PAGE_TOKEN }}
+  IT_PAGE_ID: ${{ secrets.IT_PAGE_ID }}
+  IT_PAGE_TOKEN: ${{ secrets.IT_PAGE_TOKEN }}
+  KO_PAGE_ID: ${{ secrets.KO_PAGE_ID }}
+  KO_PAGE_TOKEN: ${{ secrets.KO_PAGE_TOKEN }}
+  ZH_PAGE_ID: ${{ secrets.ZH_PAGE_ID }}
+  ZH_PAGE_TOKEN: ${{ secrets.ZH_PAGE_TOKEN }}
+  RU_PAGE_ID: ${{ secrets.RU_PAGE_ID }}
+  RU_PAGE_TOKEN: ${{ secrets.RU_PAGE_TOKEN }}
+  PT_PAGE_ID: ${{ secrets.PT_PAGE_ID }}
+  PT_PAGE_TOKEN: ${{ secrets.PT_PAGE_TOKEN }}
 
 jobs:
   run-matrix:
@@ -53,7 +53,7 @@ jobs:
       - name: 📦 Install Fonts and FFmpeg
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg fonts-noto-cjk fonts-wqy-microhei fonts-wqy-zenhei fonts-noto-core fonts-dejavu-core fonts-sil-culmus
+          sudo apt-get install -y ffmpeg fonts-noto-cjk fonts-noto-cjk-extra fonts-wqy-microhei fonts-wqy-zenhei fonts-noto-core fonts-dejavu-core fonts-culmus
 
       - name: 📦 Install Python Requirements
         run: |

@@ -12,6 +12,8 @@ from datetime import datetime
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 from dotenv import load_dotenv
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from font_loader import get_platform_font
 import edge_tts
 
 if sys.platform == 'win32':
@@ -222,8 +224,8 @@ async def generate_single_reel():
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     reel_id = f'faloo_{timestamp}'
 
-    font_en = ImageFont.truetype('C:/Windows/Fonts/segoeuib.ttf', 58)
-    font_pt = ImageFont.truetype('C:/Windows/Fonts/segoeuib.ttf', 76)
+    font_en = get_platform_font(style='bold', lang='default', size=58)
+    font_pt = get_platform_font(style='bold', lang='pt', size=76)
 
     segments = []
     for i, line in enumerate(dialogue['lines']):
