@@ -40,7 +40,7 @@ HEIGHT = 1920
 FPS = 24
 
 VOICE_A = 'zh-CN-XiaoxiaoNeural'
-VOICE_B = 'zh-CN-YunxiNeural'
+VOICE_B = 'zh-CN-YunyangNeural'
 
 CATEGORIES = [
     'Night Market Street Food', 'Ordering Milk Tea', 'Daily Greetings',
@@ -258,11 +258,20 @@ async def generate_single_reel():
         frames_temp.mkdir(parents=True, exist_ok=True)
         aud_path = AUDIO_DIR / f'{reel_id}_aud_{i}.mp3'
         voice = VOICE_A if line['speaker'] == 'A' else VOICE_B
-        pitch = "+8Hz" if line['speaker'] == 'A' else "+4Hz"
+        pitch = "+4Hz" if line['speaker'] == 'A' else "+2Hz"
+        rate = "-18%" if line['speaker'] == 'A' else "-22%"
         clean_zh = line['chinese'].replace('\n', ' ')
-        # Slower, clearer pronunciation for beginners (-10% rate, custom pitch per mascot)
-        comm = edge_tts.Communicate(clean_zh, voice, rate='-10%', pitch=pitch)
-        await comm.save(str(aud_path))
+        
+        # Slower, clearer pronunciation for beginners with retry resilience
+        for attempt in range(4):
+            try:
+                comm = edge_tts.Communicate(clean_zh, voice, rate=rate, pitch=pitch)
+                await comm.save(str(aud_path))
+                break
+            except Exception as err:
+                if attempt == 3:
+                    raise err
+                await asyncio.sleep(1.0)
 
         # Pad audio with 1.1s of silence at the end so learners have time to process and read
         padded_aud_path = AUDIO_DIR / f'{reel_id}_aud_{i}_pad.mp3'
