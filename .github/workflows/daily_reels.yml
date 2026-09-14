@@ -53,7 +53,7 @@ jobs:
       - name: 📦 Install Fonts and FFmpeg
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg fonts-noto-cjk fonts-noto-cjk-extra fonts-wqy-microhei fonts-wqy-zenhei fonts-noto-core fonts-dejavu-core fonts-culmus
+          sudo apt-get install -y ffmpeg fonts-noto-cjk fonts-noto-cjk-extra fonts-wqy-microhei fonts-wqy-zenhei fonts-noto-core fonts-dejavu-core
 
       - name: 📦 Install Python Requirements
         run: |
