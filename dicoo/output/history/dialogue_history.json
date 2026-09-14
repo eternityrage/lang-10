@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "timestamp": "2026-09-14T12:49:02.150919",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, what flavors do you have?",
+            "target_text": "Buongiorno, che gusti avete?",
+            "japanese": "Buongiorno, che gusti avete?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "We have chocolate and strawberry!",
+            "target_text": "Abbiamo cioccolato e fragola!",
+            "japanese": "Abbiamo cioccolato e fragola!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A small cup, please.",
+            "target_text": "Una coppetta, per favore.",
+            "japanese": "Una coppetta, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right away, here you go!",
+            "target_text": "Subito, ecco a lei!",
+            "japanese": "Subito, ecco a lei!",
+            "romaji": ""
+          }
+        ]
+      }
+    }
+  ]
+}

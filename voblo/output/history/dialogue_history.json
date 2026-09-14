@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "timestamp": "2026-09-14T12:41:42.716548",
+      "dialogue": {
+        "topic": "Greetings & Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! You look good.",
+            "target_text": "¡Hola! Te ves bien.",
+            "japanese": "¡Hola! Te ves bien.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you! I am happy.",
+            "target_text": "¡Gracias! Estoy feliz.",
+            "japanese": "¡Gracias! Estoy feliz.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How are you today?",
+            "target_text": "¿Cómo estás hoy?",
+            "japanese": "¿Cómo estás hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I am great, thanks!",
+            "target_text": "¡Estoy genial, gracias!",
+            "japanese": "¡Estoy genial, gracias!",
+            "romaji": ""
+          }
+        ]
+      }
+    }
+  ]
+}

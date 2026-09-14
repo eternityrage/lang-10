@@ -1,0 +1,124 @@
+{
+  "dialogues": [
+    {
+      "timestamp": "2026-09-14T15:03:27.959159",
+      "dialogue": {
+        "topic": "Convenience Store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have water?",
+            "russian": "У вас есть вода?",
+            "translit": "U vas yest voda?",
+            "japanese": "У вас есть вода?",
+            "romaji": "U vas yest voda?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here it is!",
+            "russian": "Да, вот она!",
+            "translit": "Da, vot ona!",
+            "japanese": "Да, вот она!",
+            "romaji": "Da, vot ona!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "russian": "Сколько это стоит?",
+            "translit": "Skolko eto stoit?",
+            "japanese": "Сколько это стоит?",
+            "romaji": "Skolko eto stoit?"
+          },
+          {
+            "speaker": "B",
+            "english": "Fifty rubles, please.",
+            "russian": "Пятьдесят рублей, пожалуйста.",
+            "translit": "Pyatdesyat rubley, pozhaluysta.",
+            "japanese": "Пятьдесят рублей, пожалуйста.",
+            "romaji": "Pyatdesyat rubley, pozhaluysta."
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-09-14T15:04:20.427647",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have fresh bread?",
+            "russian": "У вас свежий хлеб?",
+            "translit": "U vas svezhiy khleb?",
+            "japanese": "У вас свежий хлеб?",
+            "romaji": "U vas svezhiy khleb?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the bread is very fresh!",
+            "russian": "Да, хлеб очень свежий!",
+            "translit": "Da, khleb ochen svezhiy!",
+            "japanese": "Да, хлеб очень свежий!",
+            "romaji": "Da, khleb ochen svezhiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Give me one loaf, please.",
+            "russian": "Дайте один батон, пожалуйста.",
+            "translit": "Dayte odin baton, pozhaluysta.",
+            "japanese": "Дайте один батон, пожалуйста.",
+            "romaji": "Dayte odin baton, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here is your bread.",
+            "russian": "Конечно, вот ваш хлеб.",
+            "translit": "Konechno, vot vash khleb.",
+            "japanese": "Конечно, вот ваш хлеб.",
+            "romaji": "Konechno, vot vash khleb."
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-09-14T15:05:36.516334",
+      "dialogue": {
+        "topic": "Buying milk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have milk?",
+            "russian": "У вас есть молоко?",
+            "translit": "U vas yest' moloko?",
+            "japanese": "У вас есть молоко?",
+            "romaji": "U vas yest' moloko?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here is milk.",
+            "russian": "Да, вот молоко.",
+            "translit": "Da, vot moloko.",
+            "japanese": "Да, вот молоко.",
+            "romaji": "Da, vot moloko."
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "russian": "Сколько оно стоит?",
+            "translit": "Skol'ko ono stoit?",
+            "japanese": "Сколько оно стоит?",
+            "romaji": "Skol'ko ono stoit?"
+          },
+          {
+            "speaker": "B",
+            "english": "One hundred rubles, please.",
+            "russian": "Сто рублей, пожалуйста.",
+            "translit": "Sto rubley, pozhaluysta.",
+            "japanese": "Сто рублей, пожалуйста.",
+            "romaji": "Sto rubley, pozhaluysta."
+          }
+        ]
+      }
+    }
+  ]
+}

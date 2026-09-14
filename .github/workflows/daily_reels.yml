@@ -1,0 +1,83 @@
+name: Velocity Polyglot Reels - Daily 4x Automation
+
+on:
+  schedule:
+    # 4 times daily (UTC: 05:00, 11:00, 17:00, 23:00)
+    - cron: '0 5 * * *'
+    - cron: '0 11 * * *'
+    - cron: '0 17 * * *'
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+env:
+  POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
+  AI_MODEL: "openai-large"
+  KOTOKA_PAGE_ID: ${{ secrets.KOTOKA_PAGE_ID }}
+  KOTOKA_PAGE_TOKEN: ${{ secrets.KOTOKA_PAGE_TOKEN }}
+  IVRINA_PAGE_ID: ${{ secrets.IVRINA_PAGE_ID }}
+  IVRINA_PAGE_TOKEN: ${{ secrets.IVRINA_PAGE_TOKEN }}
+  VOBLO_PAGE_ID: ${{ secrets.VOBLO_PAGE_ID }}
+  VOBLO_PAGE_TOKEN: ${{ secrets.VOBLO_PAGE_TOKEN }}
+  DIMOI_PAGE_ID: ${{ secrets.DIMOI_PAGE_ID }}
+  DIMOI_PAGE_TOKEN: ${{ secrets.DIMOI_PAGE_TOKEN }}
+  SPRACHO_PAGE_ID: ${{ secrets.SPRACHO_PAGE_ID }}
+  SPRACHO_PAGE_TOKEN: ${{ secrets.SPRACHO_PAGE_TOKEN }}
+  DICOO_PAGE_ID: ${{ secrets.DICOO_PAGE_ID }}
+  DICOO_PAGE_TOKEN: ${{ secrets.DICOO_PAGE_TOKEN }}
+  MALAMOO_PAGE_ID: ${{ secrets.MALAMOO_PAGE_ID }}
+  MALAMOO_PAGE_TOKEN: ${{ secrets.MALAMOO_PAGE_TOKEN }}
+  BOHUA_PAGE_ID: ${{ secrets.BOHUA_PAGE_ID }}
+  BOHUA_PAGE_TOKEN: ${{ secrets.BOHUA_PAGE_TOKEN }}
+  GOVORO_PAGE_ID: ${{ secrets.GOVORO_PAGE_ID }}
+  GOVORO_PAGE_TOKEN: ${{ secrets.GOVORO_PAGE_TOKEN }}
+  FALOO_PAGE_ID: ${{ secrets.FALOO_PAGE_ID }}
+  FALOO_PAGE_TOKEN: ${{ secrets.FALOO_PAGE_TOKEN }}
+
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        brand: [kotoka, ivrina, voblo, dimoi, spracho, dicoo, malamoo, bohua, govoro, faloo]
+
+    steps:
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install System Dependencies & CJK/Hebrew/Cyrillic Fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-noto-cjk fonts-wqy-microhei fonts-wqy-zenhei fonts-noto-core fonts-dejavu-core fonts-sil-culmus
+          echo "✅ Fonts and FFmpeg installed"
+
+      - name: 📦 Install Python Packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🎬 Run Engine & Auto-Publish Reel
+        run: |
+          python run_brands.py --brand ${{ matrix.brand }}
+
+      - name: 💾 Commit & Push Dialogue History (Never Repeats)
+        if: success()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ${{ matrix.brand }}/output/history/*.json || true
+          if ! git diff --staged --quiet; then
+            git commit -m "📊 Record ${{ matrix.brand }} dialogue history [skip ci]"
+            git pull --rebase origin main || true
+            git push origin main || true
+            echo "✅ Dialogue history committed - NO repeats across runs!"
+          else
+            echo "ℹ️ No changes to commit"
+          fi

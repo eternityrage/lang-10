@@ -1,0 +1,44 @@
+{
+  "dialogues": [
+    {
+      "timestamp": "2026-09-14T12:37:33.515174",
+      "dialogue": {
+        "topic": "Shuk Carmel Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much are the tomatoes?",
+            "target_text": "שלום, כמה העגבניות?",
+            "transliteration": "Shalom, kama ha-agvaniyot?",
+            "japanese": "שלום, כמה העגבניות?",
+            "romaji": "Shalom, kama ha-agvaniyot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, very fresh!",
+            "target_text": "עשרה שקלים, טריות מאוד!",
+            "transliteration": "Asara shkalim, triyot me'od!",
+            "japanese": "עשרה שקלים, טריות מאוד!",
+            "romaji": "Asara shkalim, triyot me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I taste one?",
+            "target_text": "אפשר לטעום אחת?",
+            "transliteration": "Efshar lit'om achat?",
+            "japanese": "אפשר לטעום אחת?",
+            "romaji": "Efshar lit'om achat?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, please, enjoy!",
+            "target_text": "בטח, בבקשה ובתיאבון!",
+            "transliteration": "Betach, bevakasha, u-vete'avon!",
+            "japanese": "בטח, בבקשה ובתיאבון!",
+            "romaji": "Betach, bevakasha, u-vete'avon!"
+          }
+        ]
+      }
+    }
+  ]
+}

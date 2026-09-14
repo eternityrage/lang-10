@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "timestamp": "2026-09-14T15:20:28.500340",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What's up, all good?",
+            "target_text": "E aí, tudo bem?",
+            "japanese": "E aí, tudo bem?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All great, thanks!",
+            "target_text": "Tudo ótimo, valeu!",
+            "japanese": "Tudo ótimo, valeu!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Let's grab a coffee?",
+            "target_text": "Bora tomar um café?",
+            "japanese": "Bora tomar um café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go, deal!",
+            "target_text": "Bora, fechado então!",
+            "japanese": "Bora, fechado então!",
+            "romaji": ""
+          }
+        ]
+      }
+    }
+  ]
+}

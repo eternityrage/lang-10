@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "timestamp": "2026-09-14T12:47:42.108919",
+      "dialogue": {
+        "topic": "Polite Requests",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can you please help?",
+            "target_text": "Kannst du bitte helfen?",
+            "japanese": "Kannst du bitte helfen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I gladly help.",
+            "target_text": "Ja, ich helfe gern.",
+            "japanese": "Ja, ich helfe gern.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can you pass the pen?",
+            "target_text": "Gibst du mir bitte den Stift?",
+            "japanese": "Gibst du mir bitte den Stift?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here it is.",
+            "target_text": "Klar, hier ist er.",
+            "japanese": "Klar, hier ist er.",
+            "romaji": ""
+          }
+        ]
+      }
+    }
+  ]
+}

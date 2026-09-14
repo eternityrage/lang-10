@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "timestamp": "2026-09-14T12:45:01.540095",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are you looking for something?",
+            "target_text": "Bonjour, vous cherchez quelque chose ?",
+            "japanese": "Bonjour, vous cherchez quelque chose ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a red dress!",
+            "target_text": "Oui, une robe rouge !",
+            "japanese": "Oui, une robe rouge !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What size, please?",
+            "target_text": "Quelle taille, s’il vous plaît ?",
+            "japanese": "Quelle taille, s’il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Size M, thank you!",
+            "target_text": "Taille M, merci !",
+            "japanese": "Taille M, merci !",
+            "romaji": ""
+          }
+        ]
+      }
+    }
+  ]
+}
