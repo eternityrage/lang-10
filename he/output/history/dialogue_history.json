@@ -79,6 +79,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T09:46:41.110433",
+      "dialogue": {
+        "topic": "Finding the Beach in Tel Aviv",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is the sea?",
+            "target_text": "סליחה, איפה הים?",
+            "transliteration": "Slikha, eifo ha-yam?",
+            "japanese": "סליחה, איפה הים?",
+            "romaji": "Slikha, eifo ha-yam?"
+          },
+          {
+            "speaker": "B",
+            "english": "The sea is very close!",
+            "target_text": "הים ממש קרוב!",
+            "transliteration": "Ha-yam mamash karov!",
+            "japanese": "הים ממש קרוב!",
+            "romaji": "Ha-yam mamash karov!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can we walk?",
+            "target_text": "אפשר ללכת ברגל?",
+            "transliteration": "Efshar lalekhet ba-regel?",
+            "japanese": "אפשר ללכת ברגל?",
+            "romaji": "Efshar lalekhet ba-regel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, five minutes!",
+            "target_text": "כן, חמש דקות!",
+            "transliteration": "Ken, khamesh dakot!",
+            "japanese": "כן, חמש דקות!",
+            "romaji": "Ken, khamesh dakot!"
+          }
+        ]
+      }
     }
   ]
 }
