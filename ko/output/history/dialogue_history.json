@@ -79,6 +79,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T09:46:45.246348",
+      "dialogue": {
+        "topic": "Speaking Casually",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can I speak casually?",
+            "korean": "말 놓아도 돼요?",
+            "romaja": "Mal noado dwaeyo?",
+            "japanese": "말 놓아도 돼요?",
+            "romaji": "Mal noado dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love that!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, can I use your name?",
+            "korean": "그럼 이름 불러도 돼?",
+            "romaja": "Geureom ireum bulleodo dwae?",
+            "japanese": "그럼 이름 불러도 돼?",
+            "romaji": "Geureom ireum bulleodo dwae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, call me casually!",
+            "korean": "응, 편하게 불러!",
+            "romaja": "Eung, pyeonhage bulleo!",
+            "japanese": "응, 편하게 불러!",
+            "romaji": "Eung, pyeonhage bulleo!"
+          }
+        ]
+      }
     }
   ]
 }
