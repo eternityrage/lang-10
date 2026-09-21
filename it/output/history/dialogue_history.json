@@ -179,6 +179,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T20:54:14.166332",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, I’d like gelato.",
+            "target_text": "Ciao, vorrei un gelato.",
+            "japanese": "Ciao, vorrei un gelato.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Cone or cup?",
+            "target_text": "Certo! Cono o coppetta?",
+            "japanese": "Certo! Cono o coppetta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Cone, cream, please.",
+            "target_text": "Cono, crema, per favore.",
+            "japanese": "Cono, crema, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go!",
+            "target_text": "Ecco a te!",
+            "japanese": "Ecco a te!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
