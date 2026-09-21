@@ -107,6 +107,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T10:18:39.092845",
+      "dialogue": {
+        "topic": "Parisian Cafe & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "A coffee, please?",
+            "target_text": "Un café, s'il vous plaît ?",
+            "japanese": "Un café, s'il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And a croissant too.",
+            "target_text": "Et un croissant aussi.",
+            "japanese": "Et un croissant aussi.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, enjoy!",
+            "target_text": "Voilà, bonne dégustation !",
+            "japanese": "Voilà, bonne dégustation !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
