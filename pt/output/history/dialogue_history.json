@@ -143,6 +143,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T16:48:21.962002",
+      "dialogue": {
+        "topic": "Pizza com amigo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want pizza?",
+            "target_text": "Oi, quer pizza?",
+            "japanese": "Oi, quer pizza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, pizza is life!",
+            "target_text": "Quero, pizza é vida!",
+            "japanese": "Quero, pizza é vida!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Today, at eight?",
+            "target_text": "Hoje, às oito?",
+            "japanese": "Hoje, às oito?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Deal, see you later!",
+            "target_text": "Fechado, até mais!",
+            "japanese": "Fechado, até mais!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
