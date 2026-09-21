@@ -95,6 +95,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T16:48:26.059526",
+      "dialogue": {
+        "topic": "Travel & Transit - Train Station",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this the station?",
+            "japanese": "ここは えきですか？",
+            "romaji": "Koko wa eki desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is the station.",
+            "japanese": "はい、えきです。",
+            "romaji": "Hai, eki desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Is the train soon?",
+            "japanese": "でんしゃは すぐですか？",
+            "romaji": "Densha wa sugu desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "japanese": "はい、いきましょう！",
+            "romaji": "Hai, ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
