@@ -127,6 +127,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T20:54:59.637005",
+      "dialogue": {
+        "topic": "Snack time hype",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Snack time now?",
+            "japanese": "おやつの じかん？",
+            "romaji": "Oyatsu no jikan?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah! Let's go!",
+            "japanese": "うん！いこう！",
+            "romaji": "Un! Ikou!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? I'm happy!",
+            "japanese": "マジ？うれしい！",
+            "romaji": "Maji? Ureshii!"
+          },
+          {
+            "speaker": "B",
+            "english": "Let's eat together!",
+            "japanese": "いっしょに たべよう！",
+            "romaji": "Issho ni tabeyou!"
+          }
+        ]
+      }
     }
   ]
 }
