@@ -107,6 +107,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T10:19:14.722067",
+      "dialogue": {
+        "topic": "Shopping & Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this apple?",
+            "target_text": "¿Cuánto cuesta esta manzana?",
+            "japanese": "¿Cuánto cuesta esta manzana?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only one euro!",
+            "target_text": "¡Solo un euro!",
+            "japanese": "¡Solo un euro!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want two, please.",
+            "target_text": "Quiero dos, por favor.",
+            "japanese": "Quiero dos, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, two euros.",
+            "target_text": "Claro, son dos euros.",
+            "japanese": "Claro, son dos euros.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
