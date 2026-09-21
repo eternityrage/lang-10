@@ -199,6 +199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T20:54:27.156118",
+      "dialogue": {
+        "topic": "Subway & Convenience Store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the convenience store?",
+            "korean": "편의점 어디예요?",
+            "romaja": "Pyeonuijeom eodiyeyo?",
+            "japanese": "편의점 어디예요?",
+            "romaji": "Pyeonuijeom eodiyeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "There, inside the subway station!",
+            "korean": "저기, 지하철역 안이에요!",
+            "romaja": "Jeogi, jihacheollyeok an-ieyo!",
+            "japanese": "저기, 지하철역 안이에요!",
+            "romaji": "Jeogi, jihacheollyeok an-ieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do they have transit cards?",
+            "korean": "교통카드 있어요?",
+            "romaja": "Gyotong kadeu isseoyo?",
+            "japanese": "교통카드 있어요?",
+            "romaji": "Gyotong kadeu isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go quickly!",
+            "korean": "네, 빨리 가요!",
+            "romaja": "Ne, ppalli gayo!",
+            "japanese": "네, 빨리 가요!",
+            "romaji": "Ne, ppalli gayo!"
+          }
+        ]
+      }
     }
   ]
 }
