@@ -179,6 +179,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T20:54:06.411442",
+      "dialogue": {
+        "topic": "Rio Beach & Coconut Water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, beach today?",
+            "target_text": "Oi, praia hoje?",
+            "japanese": "Oi, praia hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what a beautiful day!",
+            "target_text": "Sim, que dia lindo!",
+            "japanese": "Sim, que dia lindo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Want coconut water?",
+            "target_text": "Quer água de coco?",
+            "japanese": "Quer água de coco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I do, by the beach!",
+            "target_text": "Quero, na orla!",
+            "japanese": "Quero, na orla!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
