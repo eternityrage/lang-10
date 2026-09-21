@@ -179,6 +179,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T20:54:14.972201",
+      "dialogue": {
+        "topic": "Sweet Dance Invitation",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want to dance with me?",
+            "target_text": "Tu veux danser avec moi ?",
+            "japanese": "Tu veux danser avec moi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You have a lovely smile.",
+            "target_text": "Tu as un joli sourire.",
+            "japanese": "Tu as un joli sourire.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you too.",
+            "target_text": "Merci, toi aussi.",
+            "japanese": "Merci, toi aussi.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
