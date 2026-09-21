@@ -63,6 +63,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T10:18:59.045607",
+      "dialogue": {
+        "topic": "Warm coffee surprise",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Wow, you are warm!",
+            "japanese": "わあ、あたたかいです！",
+            "romaji": "Waa, atatakai desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Sorry! Are you okay?",
+            "japanese": "ごめんね！だいじょうぶですか？",
+            "romaji": "Gomen ne! Daijoubu desu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, I am okay.",
+            "japanese": "はい、だいじょうぶです。",
+            "romaji": "Hai, daijoubu desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Good! Please smile.",
+            "japanese": "よかった！わらってください。",
+            "romaji": "Yokatta! Waratte kudasai."
+          }
+        ]
+      }
     }
   ]
 }
