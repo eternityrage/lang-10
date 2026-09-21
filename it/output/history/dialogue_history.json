@@ -107,6 +107,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T10:18:53.747926",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you today?",
+            "target_text": "Ciao, come va oggi?",
+            "japanese": "Ciao, come va oggi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Good, thanks! And you?",
+            "target_text": "Bene, grazie! E tu?",
+            "japanese": "Bene, grazie! E tu?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "All good. Beautiful square!",
+            "target_text": "Tutto bene. Bella piazza!",
+            "japanese": "Tutto bene. Bella piazza!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very beautiful!",
+            "target_text": "Sì, è molto bella!",
+            "japanese": "Sì, è molto bella!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
