@@ -159,6 +159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T16:48:21.292747",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Go to pocha now?",
+            "korean": "지금 포차 갈까요?",
+            "romaja": "Jigeum pocha galkkayo?",
+            "japanese": "지금 포차 갈까요?",
+            "romaji": "Jigeum pocha galkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I'm hungry!",
+            "korean": "좋아요, 배고파요!",
+            "romaja": "Joayo, baegopayo!",
+            "japanese": "좋아요, 배고파요!",
+            "romaji": "Joayo, baegopayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Should we eat tteokbokki?",
+            "korean": "떡볶이 먹을까요?",
+            "romaja": "Tteokbokki meogeulkkayo?",
+            "japanese": "떡볶이 먹을까요?",
+            "romaji": "Tteokbokki meogeulkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go now!",
+            "korean": "네, 빨리 가요!",
+            "romaja": "Ne, ppalli gayo!",
+            "japanese": "네, 빨리 가요!",
+            "romaji": "Ne, ppalli gayo!"
+          }
+        ]
+      }
     }
   ]
 }
