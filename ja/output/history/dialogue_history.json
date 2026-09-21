@@ -31,6 +31,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T09:47:12.304768",
+      "dialogue": {
+        "topic": "Dating & Romance",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you free?",
+            "japanese": "マグさん、ひまですか？",
+            "romaji": "Magu-san, hima desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am free.",
+            "japanese": "はい、ひまです。",
+            "romaji": "Hai, hima desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Want to go on a date?",
+            "japanese": "デートしませんか？",
+            "romaji": "Deeto shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "japanese": "はい、いきましょう！",
+            "romaji": "Hai, ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
