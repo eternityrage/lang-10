@@ -199,6 +199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T10:19:06.299539",
+      "dialogue": {
+        "topic": "Street greeting with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, my friend!",
+            "russian": "Привет, мой друг!",
+            "translit": "Privet, moy drug!",
+            "japanese": "Привет, мой друг!",
+            "romaji": "Privet, moy drug!"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi, I am very glad!",
+            "russian": "Привет, я очень рад!",
+            "translit": "Privet, ya ochen rad!",
+            "japanese": "Привет, я очень рад!",
+            "romaji": "Privet, ya ochen rad!"
+          },
+          {
+            "speaker": "A",
+            "english": "How are you today?",
+            "russian": "Как твои дела сегодня?",
+            "translit": "Kak tvoi dela segodnya?",
+            "japanese": "Как твои дела сегодня?",
+            "romaji": "Kak tvoi dela segodnya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let’s walk together!",
+            "russian": "Отлично, пойдём гулять вместе!",
+            "translit": "Otlichno, poydyom gulyat vmeste!",
+            "japanese": "Отлично, пойдём гулять вместе!",
+            "romaji": "Otlichno, poydyom gulyat vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
