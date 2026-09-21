@@ -1,12 +1,13 @@
 # Environment variables
 .env
 page_tokens.json
+youtube_tokens.json
 
 # Audio and video temp rendering
-output/audio/
-output/video/
-output/temp_frames_*
-output/concat_*.txt
+**/output/audio/**
+**/output/video/**
+**/output/temp_frames_*/**
+**/output/concat_*.txt
 *.mp4
 *.mp3
 *.wav

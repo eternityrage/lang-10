@@ -9,13 +9,20 @@ import requests
 if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8')
 
+from datetime import datetime, timezone
+from google.oauth2.credentials import Credentials
+from google.auth.transport.requests import Request
+from googleapiclient.discovery import build
+from googleapiclient.http import MediaFileUpload
+
+ISO_MAP = {
+    'JA': 'KOTOKA', 'HE': 'IVRINA', 'ES': 'VOBLO', 'FR': 'DIMOI', 'DE': 'SPRACHO',
+    'IT': 'DICOO', 'KO': 'MALAMOO', 'ZH': 'BOHUA', 'RU': 'GOVORO', 'PT': 'FALOO'
+}
+
 def get_page_credentials(code):
     code_upper = code.upper()
-    iso_map = {
-        'JA': 'KOTOKA', 'HE': 'IVRINA', 'ES': 'VOBLO', 'FR': 'DIMOI', 'DE': 'SPRACHO',
-        'IT': 'DICOO', 'KO': 'MALAMOO', 'ZH': 'BOHUA', 'RU': 'GOVORO', 'PT': 'FALOO'
-    }
-    lookup_key = iso_map.get(code_upper, code_upper)
+    lookup_key = ISO_MAP.get(code_upper, code_upper)
 
     # Check environment variables (either ISO code or legacy secret name)
     page_token = (os.getenv(f'{code_upper}_PAGE_TOKEN') or 
@@ -39,6 +46,235 @@ def get_page_credentials(code):
                 return data[code_upper]['PAGE_ID'], data[code_upper]['PAGE_TOKEN']
 
     return None, None
+
+def get_youtube_credentials(code):
+    code_upper = code.upper()
+    lookup_key = ISO_MAP.get(code_upper, code_upper)
+
+    client_id = (os.getenv('YOUTUBE_CLIENT_ID') or os.getenv('YT_CLIENT_ID', '')).strip()
+    client_secret = (os.getenv('YOUTUBE_CLIENT_SECRET') or os.getenv('YT_CLIENT_SECRET', '')).strip()
+    refresh_token = (os.getenv(f'{code_upper}_YT_REFRESH_TOKEN') or
+                     os.getenv(f'{lookup_key}_YT_REFRESH_TOKEN') or
+                     os.getenv('YOUTUBE_REFRESH_TOKEN', '')).strip()
+
+    if client_id and client_secret and refresh_token:
+        return client_id, client_secret, refresh_token
+
+    # Fallback to local youtube_tokens.json
+    yt_file = pathlib.Path(__file__).parent / 'youtube_tokens.json'
+    if yt_file.exists():
+        try:
+            with open(yt_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            entry = data.get(code_upper) or data.get(lookup_key)
+            if entry:
+                cid = entry.get('client_id') or client_id
+                csec = entry.get('client_secret') or client_secret
+                rt = entry.get('refresh_token')
+                if cid and csec and rt:
+                    return cid, csec, rt
+        except Exception as e:
+            print(f"[{code}] Note loading youtube_tokens.json: {e}")
+
+    return None, None, None
+
+def should_upload_to_youtube(lang_code, mode='auto', min_interval_hours=9.0):
+    """
+    Ensures YouTube only publishes TWICE a day (spaced by at least min_interval_hours),
+    while Facebook can publish 4 times a day.
+    """
+    mode = (mode or 'auto').lower()
+    if mode == 'skip':
+        return False, "YouTube upload explicitly disabled (mode=skip)"
+    if mode == 'force':
+        return True, "YouTube upload forced (mode=force)"
+
+    # Check environment variable overrides
+    if os.getenv('SKIP_YOUTUBE', '').lower() in ('true', '1', 'yes'):
+        return False, "Skipped by SKIP_YOUTUBE env"
+    if os.getenv('FORCE_YOUTUBE', '').lower() in ('true', '1', 'yes'):
+        return True, "Forced by FORCE_YOUTUBE env"
+
+    hist_file = pathlib.Path(__file__).parent / lang_code / 'output' / 'history' / 'youtube_history.json'
+    if not hist_file.exists():
+        return True, "Initial YouTube upload for this channel"
+
+    try:
+        with open(hist_file, 'r', encoding='utf-8') as f:
+            hist_data = json.load(f)
+        uploads = hist_data.get('uploads', [])
+        if not uploads:
+            return True, "No prior YouTube uploads in history"
+
+        now = datetime.now(timezone.utc)
+        
+        # Parse last upload time
+        last_entry = uploads[-1]
+        last_str = last_entry.get('timestamp')
+        last_dt = datetime.fromisoformat(last_str)
+        if last_dt.tzinfo is None:
+            last_dt = last_dt.replace(tzinfo=timezone.utc)
+
+        elapsed_hours = (now - last_dt).total_seconds() / 3600.0
+
+        # Count uploads in last 24 hours
+        recent_24h = []
+        for u in uploads:
+            u_dt = datetime.fromisoformat(u['timestamp'])
+            if u_dt.tzinfo is None:
+                u_dt = u_dt.replace(tzinfo=timezone.utc)
+            if (now - u_dt).total_seconds() < 86400:
+                recent_24h.append(u)
+
+        if len(recent_24h) >= 2:
+            return False, f"Daily 2-video quota reached ({len(recent_24h)} uploads in last 24h, last {elapsed_hours:.1f}h ago)"
+
+        if elapsed_hours < min_interval_hours:
+            return False, f"Cooldown active: {elapsed_hours:.1f}h elapsed since last upload (min interval is {min_interval_hours}h)"
+
+        return True, f"Eligible for YouTube upload ({len(recent_24h)} in last 24h, last {elapsed_hours:.1f}h ago)"
+    except Exception as e:
+        print(f"[{lang_code}] Warning checking YouTube history: {e}")
+        return True, "History check fallback"
+
+def record_youtube_upload(lang_code, video_id, topic):
+    hist_dir = pathlib.Path(__file__).parent / lang_code / 'output' / 'history'
+    hist_dir.mkdir(parents=True, exist_ok=True)
+    hist_file = hist_dir / 'youtube_history.json'
+    data = {'uploads': []}
+    if hist_file.exists():
+        try:
+            with open(hist_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+        except Exception:
+            pass
+
+    data.setdefault('uploads', []).append({
+        'timestamp': datetime.now(timezone.utc).isoformat(),
+        'video_id': video_id,
+        'topic': topic,
+        'url': f'https://youtube.com/shorts/{video_id}'
+    })
+
+    with open(hist_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+def post_youtube_comment(youtube, video_id, description, brand_name):
+    print(f"[{brand_name}] Adding YouTube study notes comment...")
+    time.sleep(3)
+    comment_text = (
+        f"📝 MINI LESSON STUDY NOTES:\n\n"
+        f"{description}\n\n"
+        f"💡 Challenge: Repeat each line out loud 3 times! Which phrase did you like the most? Drop your answer in the comments! 👇"
+    )
+    try:
+        req = youtube.commentThreads().insert(
+            part="snippet",
+            body={
+                "snippet": {
+                    "videoId": video_id,
+                    "topLevelComment": {
+                        "snippet": {
+                            "textOriginal": comment_text
+                        }
+                    }
+                }
+            }
+        )
+        res = req.execute()
+        cid = res.get('id')
+        print(f"[{brand_name}] YouTube study comment posted! (ID: {cid})")
+        return cid
+    except Exception as e:
+        print(f"[{brand_name}] Note on YouTube comment: {e}")
+        return None
+
+def upload_reel_to_youtube(video_path, title, description, tags, brand_name):
+    print(f"\n============================================================")
+    print(f"[{brand_name.upper()}] PUBLISHING TO YOUTUBE SHORTS (2x DAILY SCHEDULE)")
+    print(f"============================================================")
+
+    client_id, client_secret, refresh_token = get_youtube_credentials(brand_name)
+    if not client_id or not client_secret or not refresh_token:
+        print(f"[{brand_name}] ⚠️ Missing YouTube credentials for {brand_name}. Skipping YouTube upload.")
+        return {'status': 'skipped', 'error': 'Missing YouTube credentials'}
+
+    video_path_obj = pathlib.Path(video_path)
+    if not video_path_obj.exists():
+        print(f"[{brand_name}] ❌ Video file not found: {video_path}")
+        return {'status': 'failed', 'error': 'Video file not found'}
+
+    try:
+        creds = Credentials(
+            None,
+            refresh_token=refresh_token,
+            token_uri="https://oauth2.googleapis.com/token",
+            client_id=client_id,
+            client_secret=client_secret,
+            scopes=["https://www.googleapis.com/auth/youtube"]
+        )
+        creds.refresh(Request())
+        youtube = build('youtube', 'v3', credentials=creds)
+
+        # Ensure title fits YouTube 100 character limit
+        clean_title = title.strip()
+        if len(clean_title) > 90:
+            clean_title = clean_title[:87] + "..."
+        if "#Shorts" not in clean_title and len(clean_title) + 8 <= 100:
+            clean_title = f"{clean_title} #Shorts"
+
+        yt_desc = description.strip()
+        if "#Shorts" not in yt_desc:
+            yt_desc = f"{yt_desc}\n\n#Shorts #LanguageLearning"
+
+        body = {
+            'snippet': {
+                'title': clean_title,
+                'description': yt_desc,
+                'tags': tags or ['language learning', 'shorts', 'education'],
+                'categoryId': '27'  # Education
+            },
+            'status': {
+                'privacyStatus': 'public',
+                'selfDeclaredMadeForKids': False,
+            }
+        }
+
+        media = MediaFileUpload(
+            str(video_path_obj),
+            chunksize=-1,
+            resumable=True,
+            mimetype='video/mp4'
+        )
+
+        print(f"[{brand_name}] Uploading YouTube Short: {clean_title}")
+        req = youtube.videos().insert(
+            part=','.join(body.keys()),
+            body=body,
+            media_body=media
+        )
+
+        response = None
+        while response is None:
+            status, response = req.next_chunk()
+            if status:
+                print(f"[{brand_name}] YouTube Upload Progress: {int(status.progress() * 100)}%")
+
+        video_id = response.get('id')
+        yt_url = f"https://youtube.com/shorts/{video_id}"
+        print(f"[{brand_name}] [OK] YOUTUBE SHORT PUBLISHED: {yt_url}")
+
+        # Post study comment
+        post_youtube_comment(youtube, video_id, description, brand_name)
+
+        # Record upload in history
+        record_youtube_upload(brand_name, video_id, clean_title)
+
+        return {'status': 'success', 'video_id': video_id, 'url': yt_url, 'platform': 'youtube'}
+
+    except Exception as e:
+        print(f"[{brand_name}] [ERR] YouTube Upload Error: {e}")
+        return {'status': 'failed', 'error': str(e)}
 
 def upload_reel_to_facebook(video_path, title, description, brand_name):
     print(f"\n============================================================")

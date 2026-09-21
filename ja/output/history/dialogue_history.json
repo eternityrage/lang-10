@@ -1,0 +1,36 @@
+{
+  "dialogues": [
+    {
+      "timestamp": "2026-09-21T15:13:48.322064",
+      "dialogue": {
+        "topic": "Shopping & Fashion",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this hat cute?",
+            "japanese": "この ぼうし、かわいいですか？",
+            "romaji": "Kono boushi, kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Very cute.",
+            "japanese": "はい！とても かわいいです。",
+            "romaji": "Hai! Totemo kawaii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "japanese": "いくらですか？",
+            "romaji": "Ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is 300 yen.",
+            "japanese": "さんびゃく えんです。",
+            "romaji": "Sanbyaku en desu."
+          }
+        ]
+      }
+    }
+  ]
+}
