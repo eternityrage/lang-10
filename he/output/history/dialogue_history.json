@@ -119,6 +119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T10:18:50.920511",
+      "dialogue": {
+        "topic": "Falafel on a Tel Aviv Street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the falafel fresh?",
+            "target_text": "היי, הפלאפל טרי?",
+            "transliteration": "Hi, ha-falafel tari?",
+            "japanese": "היי, הפלאפל טרי?",
+            "romaji": "Hi, ha-falafel tari?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, fresh and hot!",
+            "target_text": "כן, טרי וחם!",
+            "transliteration": "Ken, tari ve-cham!",
+            "japanese": "כן, טרי וחם!",
+            "romaji": "Ken, tari ve-cham!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I get a small pita?",
+            "target_text": "אפשר פיתה קטנה?",
+            "transliteration": "Efshar pita ktana?",
+            "japanese": "אפשר פיתה קטנה?",
+            "romaji": "Efshar pita ktana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here, enjoy!",
+            "target_text": "בטח, הנה, בתיאבון!",
+            "transliteration": "Betach, hine, bete'avon!",
+            "japanese": "בטח, הנה, בתיאבון!",
+            "romaji": "Betach, hine, bete'avon!"
+          }
+        ]
+      }
     }
   ]
 }
