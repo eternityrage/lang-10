@@ -199,6 +199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T10:18:28.081320",
+      "dialogue": {
+        "topic": "Ordering Milk Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi!",
+            "chinese": "你好呀！",
+            "pinyin": "Nǐ hǎo ya!",
+            "japanese": "你好呀！",
+            "romaji": "Nǐ hǎo ya!"
+          },
+          {
+            "speaker": "B",
+            "english": "I want milk tea.",
+            "chinese": "我要奶茶。",
+            "pinyin": "Wǒ yào nǎichá.",
+            "japanese": "我要奶茶。",
+            "romaji": "Wǒ yào nǎichá."
+          },
+          {
+            "speaker": "A",
+            "english": "Want ice?",
+            "chinese": "要冰吗？",
+            "pinyin": "Yào bīng ma?",
+            "japanese": "要冰吗？",
+            "romaji": "Yào bīng ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thanks!",
+            "chinese": "要，谢谢！",
+            "pinyin": "Yào, xièxie!",
+            "japanese": "要，谢谢！",
+            "romaji": "Yào, xièxie!"
+          }
+        ]
+      }
     }
   ]
 }
