@@ -107,6 +107,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T10:19:00.185077",
+      "dialogue": {
+        "topic": "Walk in the square",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want to walk?",
+            "target_text": "Oi, vamos passear?",
+            "japanese": "Oi, vamos passear?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, for sure!",
+            "target_text": "Vamos, com certeza!",
+            "japanese": "Vamos, com certeza!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "In the square now?",
+            "target_text": "Na praça agora?",
+            "japanese": "Na praça agora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it will be great!",
+            "target_text": "Sim, vai ser ótimo!",
+            "japanese": "Sim, vai ser ótimo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
