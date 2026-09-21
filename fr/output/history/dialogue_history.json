@@ -143,6 +143,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T16:48:34.139287",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What size, madam?",
+            "target_text": "Quelle taille, madame ?",
+            "japanese": "Quelle taille, madame ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Size thirty-eight, thank you!",
+            "target_text": "Taille trente-huit, merci !",
+            "japanese": "Taille trente-huit, merci !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Here are the shoes.",
+            "target_text": "Voici les chaussures.",
+            "japanese": "Voici les chaussures.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, I’ll take them!",
+            "target_text": "Parfait, je les prends !",
+            "japanese": "Parfait, je les prends !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
