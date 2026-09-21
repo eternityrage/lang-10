@@ -239,6 +239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T16:48:23.796654",
+      "dialogue": {
+        "topic": "Buying Chocolate",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have chocolate?",
+            "russian": "Здравствуйте, у вас есть шоколад?",
+            "translit": "Zdravstvuyte, u vas yest shokolad?",
+            "japanese": "Здравствуйте, у вас есть шоколад?",
+            "romaji": "Zdravstvuyte, u vas yest shokolad?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here is good chocolate!",
+            "russian": "Да, вот хороший шоколад!",
+            "translit": "Da, vot khoroshiy shokolad!",
+            "japanese": "Да, вот хороший шоколад!",
+            "romaji": "Da, vot khoroshiy shokolad!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one bar?",
+            "russian": "Сколько стоит одна плитка?",
+            "translit": "Skolko stoit odna plitka?",
+            "japanese": "Сколько стоит одна плитка?",
+            "romaji": "Skolko stoit odna plitka?"
+          },
+          {
+            "speaker": "B",
+            "english": "One hundred rubles, please.",
+            "russian": "Сто рублей, пожалуйста.",
+            "translit": "Sto rubley, pozhaluysta.",
+            "japanese": "Сто рублей, пожалуйста.",
+            "romaji": "Sto rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
