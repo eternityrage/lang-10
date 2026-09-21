@@ -71,6 +71,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T09:46:42.192228",
+      "dialogue": {
+        "topic": "A cute coffee date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you free tonight?",
+            "target_text": "Tu es libre ce soir ?",
+            "japanese": "Tu es libre ce soir ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we have a coffee?",
+            "target_text": "On prend un café ?",
+            "japanese": "On prend un café ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, at eight o'clock!",
+            "target_text": "D'accord, à huit heures !",
+            "japanese": "D'accord, à huit heures !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
