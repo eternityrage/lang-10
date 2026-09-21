@@ -71,6 +71,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-21T09:47:22.199750",
+      "dialogue": {
+        "topic": "Italian hand gesture: Che vuoi?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What does this gesture mean?",
+            "target_text": "Che significa questo gesto?",
+            "japanese": "Che significa questo gesto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: what do you want?",
+            "target_text": "Significa: che vuoi?",
+            "japanese": "Significa: che vuoi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Ah, it's very Italian!",
+            "target_text": "Ah, è molto italiano!",
+            "japanese": "Ah, è molto italiano!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I always do it!",
+            "target_text": "Sì, lo faccio sempre!",
+            "japanese": "Sì, lo faccio sempre!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
