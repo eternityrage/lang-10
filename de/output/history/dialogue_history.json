@@ -215,6 +215,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T01:23:58.465380",
+      "dialogue": {
+        "topic": "Cafe & Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this seat free?",
+            "target_text": "Ist hier noch frei?",
+            "japanese": "Ist hier noch frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please sit down!",
+            "target_text": "Ja, bitte, setzen Sie sich!",
+            "japanese": "Ja, bitte, setzen Sie sich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What are you drinking?",
+            "target_text": "Was trinken Sie?",
+            "japanese": "Was trinken Sie?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "A shandy, very tasty!",
+            "target_text": "Ein Radler, sehr lecker!",
+            "japanese": "Ein Radler, sehr lecker!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
