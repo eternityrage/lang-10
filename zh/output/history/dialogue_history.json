@@ -319,6 +319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T01:24:43.642336",
+      "dialogue": {
+        "topic": "Morning Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want coffee?",
+            "chinese": "喝咖啡吗？",
+            "pinyin": "Hē kāfēi ma?",
+            "japanese": "喝咖啡吗？",
+            "romaji": "Hē kāfēi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I do!",
+            "chinese": "好呀，我喝！",
+            "pinyin": "Hǎo ya, wǒ hē!",
+            "japanese": "好呀，我喝！",
+            "romaji": "Hǎo ya, wǒ hē!"
+          },
+          {
+            "speaker": "A",
+            "english": "Hot coffee?",
+            "chinese": "要热的吗？",
+            "pinyin": "Yào rè de ma?",
+            "japanese": "要热的吗？",
+            "romaji": "Yào rè de ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Hot, thanks.",
+            "chinese": "热的，谢谢。",
+            "pinyin": "Rè de, xièxie.",
+            "japanese": "热的，谢谢。",
+            "romaji": "Rè de, xièxie."
+          }
+        ]
+      }
     }
   ]
 }
