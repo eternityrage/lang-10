@@ -191,6 +191,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T09:34:01.902368",
+      "dialogue": {
+        "topic": "Anime courage",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, let's go!",
+            "japanese": "マグさん、いきましょう！",
+            "romaji": "Magu-san, ikimashou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I am strong!",
+            "japanese": "はい！わたしは つよいです！",
+            "romaji": "Hai! Watashi wa tsuyoi desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "You are my friend.",
+            "japanese": "あなたは わたしの ともだちです。",
+            "romaji": "Anata wa watashi no tomodachi desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Let's do our best!",
+            "japanese": "いっしょに がんばりましょう！",
+            "romaji": "Issho ni ganbarimashou!"
+          }
+        ]
+      }
     }
   ]
 }
