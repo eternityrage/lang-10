@@ -287,6 +287,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T15:26:39.793605",
+      "dialogue": {
+        "topic": "Cafe & Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is there cake?",
+            "target_text": "Hallo, gibt es Kuchen?",
+            "japanese": "Hallo, gibt es Kuchen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, apple cake is fresh!",
+            "target_text": "Ja, Apfelkuchen ist frisch!",
+            "japanese": "Ja, Apfelkuchen ist frisch!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then one slice, please.",
+            "target_text": "Dann ein Stück, bitte.",
+            "japanese": "Dann ein Stück, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, coming right up!",
+            "target_text": "Gerne, kommt sofort!",
+            "japanese": "Gerne, kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
