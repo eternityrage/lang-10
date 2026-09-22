@@ -251,6 +251,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T09:34:06.476810",
+      "dialogue": {
+        "topic": "Travel & Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the metro?",
+            "target_text": "¿Dónde está el metro?",
+            "japanese": "¿Dónde está el metro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is here, to the right!",
+            "target_text": "¡Está aquí, a la derecha!",
+            "japanese": "¡Está aquí, a la derecha!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Which line do I take?",
+            "target_text": "¿Qué línea tomo?",
+            "japanese": "¿Qué línea tomo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Take line two.",
+            "target_text": "Toma la línea dos.",
+            "japanese": "Toma la línea dos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
