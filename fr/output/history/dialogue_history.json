@@ -323,6 +323,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T20:04:13.019958",
+      "dialogue": {
+        "topic": "Waiting for the bus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "When does the bus arrive?",
+            "target_text": "Le bus arrive quand ?",
+            "japanese": "Le bus arrive quand ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It arrives soon!",
+            "target_text": "Il arrive bientôt !",
+            "japanese": "Il arrive bientôt !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "In how many minutes?",
+            "target_text": "Dans combien de minutes ?",
+            "japanese": "Dans combien de minutes ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "In two minutes!",
+            "target_text": "Dans deux minutes !",
+            "japanese": "Dans deux minutes !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
