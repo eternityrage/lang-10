@@ -215,6 +215,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T01:24:24.085394",
+      "dialogue": {
+        "topic": "Breakfast at home",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want some bread?",
+            "target_text": "Tu veux du pain ?",
+            "japanese": "Tu veux du pain ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And some butter?",
+            "target_text": "Et du beurre ?",
+            "japanese": "Et du beurre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thank you very much!",
+            "target_text": "Oui, merci beaucoup !",
+            "japanese": "Oui, merci beaucoup !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
