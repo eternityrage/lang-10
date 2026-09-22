@@ -279,6 +279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T09:34:17.947477",
+      "dialogue": {
+        "topic": "K-Food & Street Snacks",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want some fish cake soup?",
+            "korean": "어묵 국물 마실래?",
+            "romaja": "Eomuk gungmul masillae?",
+            "japanese": "어묵 국물 마실래?",
+            "romaji": "Eomuk gungmul masillae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's warm!",
+            "korean": "응, 따뜻해서 좋아!",
+            "romaja": "Eung, ttatteutaeseo joa!",
+            "japanese": "응, 따뜻해서 좋아!",
+            "romaji": "Eung, ttatteutaeseo joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we eat tteokbokki too?",
+            "korean": "떡볶이도 같이 먹을까?",
+            "romaja": "Tteokbokkido gachi meogeulkka?",
+            "japanese": "떡볶이도 같이 먹을까?",
+            "romaji": "Tteokbokkido gachi meogeulkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, let's eat together!",
+            "korean": "좋아, 같이 먹자!",
+            "romaja": "Joa, gachi meokja!",
+            "japanese": "좋아, 같이 먹자!",
+            "romaji": "Joa, gachi meokja!"
+          }
+        ]
+      }
     }
   ]
 }
