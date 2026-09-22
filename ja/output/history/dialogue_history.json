@@ -223,6 +223,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T15:26:54.460256",
+      "dialogue": {
+        "topic": "Cute foam heart reaction",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Wow, it's a heart!",
+            "japanese": "わあ、ハートです！",
+            "romaji": "Waa, haato desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Is it cute?",
+            "japanese": "かわいいですか？",
+            "romaji": "Kawaii desu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, very cute!",
+            "japanese": "はい、とても かわいいです！",
+            "romaji": "Hai, totemo kawaii desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "I'm happy!",
+            "japanese": "うれしいです！",
+            "romaji": "Ureshii desu!"
+          }
+        ]
+      }
     }
   ]
 }
