@@ -215,6 +215,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T01:23:55.014337",
+      "dialogue": {
+        "topic": "Train from Madrid to Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Does the train go to Barcelona?",
+            "target_text": "¿El tren va a Barcelona?",
+            "japanese": "¿El tren va a Barcelona?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it leaves from Madrid!",
+            "target_text": "¡Sí, sale de Madrid!",
+            "japanese": "¡Sí, sale de Madrid!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What time does it leave?",
+            "target_text": "¿A qué hora sale?",
+            "japanese": "¿A qué hora sale?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It leaves at eight.",
+            "target_text": "Sale a las ocho.",
+            "japanese": "Sale a las ocho.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
