@@ -287,6 +287,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T15:26:24.488358",
+      "dialogue": {
+        "topic": "Street greeting: going to the park",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "target_text": "Bonjour, ça va ?",
+            "japanese": "Bonjour, ça va ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very well, thanks!",
+            "target_text": "Très bien, merci !",
+            "japanese": "Très bien, merci !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where are you going?",
+            "target_text": "Tu vas où ?",
+            "japanese": "Tu vas où ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’m going to the park.",
+            "target_text": "Je vais au parc.",
+            "japanese": "Je vais au parc.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
