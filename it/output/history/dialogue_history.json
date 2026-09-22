@@ -323,6 +323,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T20:04:13.271518",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you local?",
+            "target_text": "Ciao, sei di qui?",
+            "japanese": "Ciao, sei di qui?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I live here!",
+            "target_text": "Sì, vivo qui!",
+            "japanese": "Sì, vivo qui!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What a nice square!",
+            "target_text": "Che bella piazza!",
+            "japanese": "Che bella piazza!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is wonderful!",
+            "target_text": "Sì, è stupenda!",
+            "japanese": "Sì, è stupenda!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
