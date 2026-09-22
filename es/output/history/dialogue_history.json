@@ -287,6 +287,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T15:26:47.328505",
+      "dialogue": {
+        "topic": "Música y baile",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there music here?",
+            "target_text": "¿Hay música aquí?",
+            "japanese": "¿Hay música aquí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very good music!",
+            "target_text": "¡Sí, música muy buena!",
+            "japanese": "¡Sí, música muy buena!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we dance a little?",
+            "target_text": "¿Bailamos un poco?",
+            "japanese": "¿Bailamos un poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go now!",
+            "target_text": "¡Sí, vamos ahora!",
+            "japanese": "¡Sí, vamos ahora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
