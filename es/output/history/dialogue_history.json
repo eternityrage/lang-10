@@ -323,6 +323,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T20:04:20.109042",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want a tapa?",
+            "target_text": "¿Quieres una tapa?",
+            "japanese": "¿Quieres una tapa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure.",
+            "target_text": "Sí, con gusto.",
+            "japanese": "Sí, con gusto.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And a coffee?",
+            "target_text": "¿Y un café?",
+            "japanese": "¿Y un café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thank you very much.",
+            "target_text": "Sí, muchas gracias.",
+            "japanese": "Sí, muchas gracias.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
