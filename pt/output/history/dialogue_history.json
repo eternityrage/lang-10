@@ -215,6 +215,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T01:24:14.562633",
+      "dialogue": {
+        "topic": "Street Slang Greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, my buddy!",
+            "target_text": "Salve, meu parceiro!",
+            "japanese": "Salve, meu parceiro!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’m happy, bro!",
+            "target_text": "Tô feliz, meu mano!",
+            "japanese": "Tô feliz, meu mano!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Good to see you here!",
+            "target_text": "Bom te ver aqui!",
+            "japanese": "Bom te ver aqui!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, see you later!",
+            "target_text": "Valeu, até mais!",
+            "japanese": "Valeu, até mais!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
