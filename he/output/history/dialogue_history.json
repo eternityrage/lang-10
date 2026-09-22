@@ -359,6 +359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T20:04:14.052483",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, one croissant, please?",
+            "target_text": "היי, קרואסון אחד, בבקשה?",
+            "transliteration": "Hai, kruason echad, bevakasha?",
+            "japanese": "היי, קרואסון אחד, בבקשה?",
+            "romaji": "Hai, kruason echad, bevakasha?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly, it is warm!",
+            "target_text": "כן, בשמחה, הוא חם!",
+            "transliteration": "Ken, besimcha, hu cham!",
+            "japanese": "כן, בשמחה, הוא חם!",
+            "romaji": "Ken, besimcha, hu cham!"
+          },
+          {
+            "speaker": "A",
+            "english": "And a small coffee, please.",
+            "target_text": "וגם קפה קטן, בבקשה.",
+            "transliteration": "Vegam kafe katan, bevakasha.",
+            "japanese": "וגם קפה קטן, בבקשה.",
+            "romaji": "Vegam kafe katan, bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, it is ready now.",
+            "target_text": "מעולה, זה מוכן עכשיו.",
+            "transliteration": "Me'ule, ze muchan achshav.",
+            "japanese": "מעולה, זה מוכן עכשיו.",
+            "romaji": "Me'ule, ze muchan achshav."
+          }
+        ]
+      }
     }
   ]
 }
