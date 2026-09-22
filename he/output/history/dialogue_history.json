@@ -319,6 +319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T15:26:19.967839",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, taxi to the hotel?",
+            "target_text": "שלום, מונית למלון?",
+            "transliteration": "Shalom, monit la-malon?",
+            "japanese": "שלום, מונית למלון?",
+            "romaji": "Shalom, monit la-malon?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly, get in!",
+            "target_text": "כן, בשמחה, תעלה!",
+            "transliteration": "Ken, be-simcha, ta'ale!",
+            "japanese": "כן, בשמחה, תעלה!",
+            "romaji": "Ken, be-simcha, ta'ale!"
+          },
+          {
+            "speaker": "A",
+            "english": "How long does it take?",
+            "target_text": "כמה זמן זה לוקח?",
+            "transliteration": "Kama zman ze loke'ach?",
+            "japanese": "כמה זמן זה לוקח?",
+            "romaji": "Kama zman ze loke'ach?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten minutes, no problem.",
+            "target_text": "עשר דקות, אין בעיה.",
+            "transliteration": "Eser dakot, ein be'aya.",
+            "japanese": "עשר דקות, אין בעיה.",
+            "romaji": "Eser dakot, ein be'aya."
+          }
+        ]
+      }
     }
   ]
 }
