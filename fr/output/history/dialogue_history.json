@@ -251,6 +251,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T09:34:05.305272",
+      "dialogue": {
+        "topic": "Metro & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the metro?",
+            "target_text": "Où est le métro ?",
+            "japanese": "Où est le métro ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right there, on the right!",
+            "target_text": "Juste là, à droite !",
+            "japanese": "Juste là, à droite !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far?",
+            "target_text": "C’est loin ?",
+            "japanese": "C’est loin ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, two minutes.",
+            "target_text": "Non, deux minutes.",
+            "japanese": "Non, deux minutes.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
