@@ -215,6 +215,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T01:24:09.699333",
+      "dialogue": {
+        "topic": "Rome & Florence Walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the Duomo?",
+            "target_text": "Dov'è il Duomo?",
+            "japanese": "Dov'è il Duomo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is very close!",
+            "target_text": "È molto vicino!",
+            "japanese": "È molto vicino!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk?",
+            "target_text": "Andiamo a piedi?",
+            "japanese": "Andiamo a piedi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, great idea!",
+            "target_text": "Sì, ottima idea!",
+            "japanese": "Sì, ottima idea!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
