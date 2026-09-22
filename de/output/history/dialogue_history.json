@@ -251,6 +251,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T09:34:01.111042",
+      "dialogue": {
+        "topic": "Cafe & Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What are you drinking?",
+            "target_text": "Was trinkst du?",
+            "japanese": "Was trinkst du?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I am drinking apple spritzer!",
+            "target_text": "Ich trinke Apfelschorle!",
+            "japanese": "Ich trinke Apfelschorle!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it taste good?",
+            "target_text": "Schmeckt sie gut?",
+            "japanese": "Schmeckt sie gut?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very tasty!",
+            "target_text": "Ja, sehr lecker!",
+            "japanese": "Ja, sehr lecker!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
