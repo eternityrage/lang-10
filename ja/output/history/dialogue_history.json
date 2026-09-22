@@ -255,6 +255,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T20:04:38.369368",
+      "dialogue": {
+        "topic": "Work break with coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is work hard?",
+            "japanese": "しごと、たいへんですか？",
+            "romaji": "Shigoto, taihen desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little tired.",
+            "japanese": "はい、すこし つかれました。",
+            "romaji": "Hai, sukoshi tsukaremashita."
+          },
+          {
+            "speaker": "A",
+            "english": "Let's rest a little now.",
+            "japanese": "いま すこし やすみましょう。",
+            "romaji": "Ima sukoshi yasumimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, coffee, here you go.",
+            "japanese": "はい、コーヒーを どうぞ。",
+            "romaji": "Hai, koohii o douzo."
+          }
+        ]
+      }
     }
   ]
 }
