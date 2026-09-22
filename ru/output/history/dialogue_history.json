@@ -319,6 +319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T01:23:59.059774",
+      "dialogue": {
+        "topic": "Meeting a friend on the street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! How are you?",
+            "russian": "Привет! Как дела?",
+            "translit": "Privet! Kak dela?",
+            "japanese": "Привет! Как дела?",
+            "romaji": "Privet! Kak dela?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks! And you?",
+            "russian": "Отлично, спасибо! А ты?",
+            "translit": "Otlichno, spasibo! A ty?",
+            "japanese": "Отлично, спасибо! А ты?",
+            "romaji": "Otlichno, spasibo! A ty?"
+          },
+          {
+            "speaker": "A",
+            "english": "Also great. Let's walk?",
+            "russian": "Тоже отлично. Пойдём гулять?",
+            "translit": "Tozhe otlichno. Poydyom gulyat?",
+            "japanese": "Тоже отлично. Пойдём гулять?",
+            "romaji": "Tozhe otlichno. Poydyom gulyat?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "russian": "Да, пойдём!",
+            "translit": "Da, poydyom!",
+            "japanese": "Да, пойдём!",
+            "romaji": "Da, poydyom!"
+          }
+        ]
+      }
     }
   ]
 }
