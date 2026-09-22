@@ -319,6 +319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T15:26:20.597382",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this seat okay?",
+            "korean": "여기 자리 괜찮아?",
+            "romaja": "Yeogi jari gwaenchana?",
+            "japanese": "여기 자리 괜찮아?",
+            "romaji": "Yeogi jari gwaenchana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's really nice!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "What should we eat first?",
+            "korean": "뭐 먼저 먹을까?",
+            "romaja": "Mwo meonjeo meogeulkka?",
+            "japanese": "뭐 먼저 먹을까?",
+            "romaji": "Mwo meonjeo meogeulkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Let's eat kimchi pancake first!",
+            "korean": "김치전 먼저 먹자!",
+            "romaja": "Gimchijeon meonjeo meokja!",
+            "japanese": "김치전 먼저 먹자!",
+            "romaji": "Gimchijeon meonjeo meokja!"
+          }
+        ]
+      }
     }
   ]
 }
