@@ -287,6 +287,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T15:26:20.893617",
+      "dialogue": {
+        "topic": "Açaí Bowl & Smoothies",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want açaí?",
+            "target_text": "Oi, quer açaí?",
+            "japanese": "Oi, quer açaí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold!",
+            "target_text": "Quero, bem gelado!",
+            "japanese": "Quero, bem gelado!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With banana or strawberry?",
+            "target_text": "Com banana ou morango?",
+            "japanese": "Com banana ou morango?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With banana, please!",
+            "target_text": "Com banana, por favor!",
+            "japanese": "Com banana, por favor!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
