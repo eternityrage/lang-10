@@ -359,6 +359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T09:33:53.174310",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Shall we walk?",
+            "russian": "Привет! Идём гулять?",
+            "translit": "Privet! Idyom gulyat'?",
+            "japanese": "Привет! Идём гулять?",
+            "romaji": "Privet! Idyom gulyat'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the snow is so pretty!",
+            "russian": "Да, снег такой красивый!",
+            "translit": "Da, sneg takoy krasivyy!",
+            "japanese": "Да, снег такой красивый!",
+            "romaji": "Da, sneg takoy krasivyy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it very cold outside?",
+            "russian": "На улице очень холодно?",
+            "translit": "Na ulitse ochen' kholodno?",
+            "japanese": "На улице очень холодно?",
+            "romaji": "Na ulitse ochen' kholodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "No problem, I have a scarf.",
+            "russian": "Ничего, у меня шарф.",
+            "translit": "Nichego, u menya sharf.",
+            "japanese": "Ничего, у меня шарф.",
+            "romaji": "Nichego, u menya sharf."
+          }
+        ]
+      }
     }
   ]
 }
