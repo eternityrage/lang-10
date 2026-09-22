@@ -251,6 +251,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T09:33:55.454938",
+      "dialogue": {
+        "topic": "Playing video games",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, wanna play video games?",
+            "target_text": "Oi, bora jogar videogame?",
+            "japanese": "Oi, bora jogar videogame?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it will be fun!",
+            "target_text": "Sim, vai ser legal!",
+            "japanese": "Sim, vai ser legal!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "At my house?",
+            "target_text": "Na minha casa?",
+            "japanese": "Na minha casa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, I’m coming now!",
+            "target_text": "Perfeito, chego já!",
+            "japanese": "Perfeito, chego já!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
