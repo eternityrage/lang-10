@@ -159,6 +159,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-22T01:24:04.534317",
+      "dialogue": {
+        "topic": "Travel & Transit",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the bus?",
+            "japanese": "バスは どこですか？",
+            "romaji": "Basu wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is over there.",
+            "japanese": "あそこです。",
+            "romaji": "Asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Does it leave now?",
+            "japanese": "いま でますか？",
+            "romaji": "Ima demasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very soon.",
+            "japanese": "はい、すぐ でます。",
+            "romaji": "Hai, sugu demasu."
+          }
+        ]
+      }
     }
   ]
 }
