@@ -359,6 +359,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T01:09:42.732080",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have margherita pizza?",
+            "target_text": "Ciao, avete pizza margherita?",
+            "japanese": "Ciao, avete pizza margherita?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very good!",
+            "target_text": "Sì, è molto buona!",
+            "japanese": "Sì, è molto buona!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one pizza?",
+            "target_text": "Quanto costa una pizza?",
+            "japanese": "Quanto costa una pizza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only eight euros!",
+            "target_text": "Solo otto euro!",
+            "japanese": "Solo otto euro!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
