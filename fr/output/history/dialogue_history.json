@@ -359,6 +359,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T01:09:43.038871",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, nice smile!",
+            "target_text": "Bonsoir, joli sourire !",
+            "japanese": "Bonsoir, joli sourire !",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, that's kind!",
+            "target_text": "Merci, c'est gentil !",
+            "japanese": "Merci, c'est gentil !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I see you again?",
+            "target_text": "Je peux te revoir ?",
+            "japanese": "Je peux te revoir ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, tomorrow evening!",
+            "target_text": "Oui, demain soir !",
+            "japanese": "Oui, demain soir !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
