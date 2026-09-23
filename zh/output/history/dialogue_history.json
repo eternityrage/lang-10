@@ -599,6 +599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T20:03:25.145970",
+      "dialogue": {
+        "topic": "Hotpot Dinner",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you hungry?",
+            "chinese": "你饿吗？",
+            "pinyin": "Nǐ è ma?",
+            "japanese": "你饿吗？",
+            "romaji": "Nǐ è ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "I’m very hungry!",
+            "chinese": "我很饿！",
+            "pinyin": "Wǒ hěn è!",
+            "japanese": "我很饿！",
+            "romaji": "Wǒ hěn è!"
+          },
+          {
+            "speaker": "A",
+            "english": "Spicy pot?",
+            "chinese": "要辣锅吗？",
+            "pinyin": "Yào là guō ma?",
+            "japanese": "要辣锅吗？",
+            "romaji": "Yào là guō ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Clear soup, please!",
+            "chinese": "要清汤！",
+            "pinyin": "Yào qīng tāng!",
+            "japanese": "要清汤！",
+            "romaji": "Yào qīng tāng!"
+          }
+        ]
+      }
     }
   ]
 }
