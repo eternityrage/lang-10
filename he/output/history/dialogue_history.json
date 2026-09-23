@@ -519,6 +519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T20:03:31.128917",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, hummus with pita?",
+            "target_text": "שלום, חומוס עם פיתה?",
+            "transliteration": "Shalom, hummus im pita?",
+            "japanese": "שלום, חומוס עם פיתה?",
+            "romaji": "Shalom, hummus im pita?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, that sounds good!",
+            "target_text": "כן, זה נשמע טוב!",
+            "transliteration": "Ken, ze nishma tov!",
+            "japanese": "כן, זה נשמע טוב!",
+            "romaji": "Ken, ze nishma tov!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want a small salad too?",
+            "target_text": "רוצה גם סלט קטן?",
+            "transliteration": "Rotze gam salat katan?",
+            "japanese": "רוצה גם סלט קטן?",
+            "romaji": "Rotze gam salat katan?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thanks a lot!",
+            "target_text": "כן, תודה רבה!",
+            "transliteration": "Ken, toda raba!",
+            "japanese": "כן, תודה רבה!",
+            "romaji": "Ken, toda raba!"
+          }
+        ]
+      }
     }
   ]
 }
