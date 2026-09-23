@@ -519,6 +519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T09:39:00.108684",
+      "dialogue": {
+        "topic": "Buying a Bag",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have a bag?",
+            "russian": "Здравствуйте, есть пакет?",
+            "translit": "Zdravstvuyte, yest' paket?",
+            "japanese": "Здравствуйте, есть пакет?",
+            "romaji": "Zdravstvuyte, yest' paket?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here is a bag!",
+            "russian": "Да, вот пакет!",
+            "translit": "Da, vot paket!",
+            "japanese": "Да, вот пакет!",
+            "romaji": "Da, vot paket!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "russian": "Сколько он стоит?",
+            "translit": "Skol'ko on stoit?",
+            "japanese": "Сколько он стоит?",
+            "romaji": "Skol'ko on stoit?"
+          },
+          {
+            "speaker": "B",
+            "english": "Five rubles, please.",
+            "russian": "Пять рублей, пожалуйста.",
+            "translit": "Pyat' rubley, pozhaluysta.",
+            "japanese": "Пять рублей, пожалуйста.",
+            "romaji": "Pyat' rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
