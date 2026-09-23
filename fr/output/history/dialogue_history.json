@@ -431,6 +431,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T15:18:48.754785",
+      "dialogue": {
+        "topic": "Street Greetings: Neighbors",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are you from the neighborhood?",
+            "target_text": "Bonjour, vous êtes du quartier ?",
+            "japanese": "Bonjour, vous êtes du quartier ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I live right here!",
+            "target_text": "Oui, j'habite juste ici !",
+            "japanese": "Oui, j'habite juste ici !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Me too, near the park.",
+            "target_text": "Moi aussi, près du parc.",
+            "japanese": "Moi aussi, près du parc.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, see you soon!",
+            "target_text": "Super, à bientôt !",
+            "japanese": "Super, à bientôt !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
