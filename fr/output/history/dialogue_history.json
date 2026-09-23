@@ -467,6 +467,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T20:03:19.731979",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how much is it?",
+            "target_text": "Bonjour, combien ça coûte ?",
+            "japanese": "Bonjour, combien ça coûte ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only ten euros!",
+            "target_text": "Seulement dix euros !",
+            "japanese": "Seulement dix euros !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take this bag.",
+            "target_text": "Je prends ce sac.",
+            "japanese": "Je prends ce sac.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, thank you very much!",
+            "target_text": "Parfait, merci beaucoup !",
+            "japanese": "Parfait, merci beaucoup !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
