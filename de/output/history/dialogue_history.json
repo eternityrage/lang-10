@@ -467,6 +467,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T20:03:13.906535",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, which line to the main station?",
+            "target_text": "Entschuldigung, welche Linie zum Hauptbahnhof?",
+            "japanese": "Entschuldigung, welche Linie zum Hauptbahnhof?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, take the U2!",
+            "target_text": "Klar, nimm die U2!",
+            "japanese": "Klar, nimm die U2!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far?",
+            "target_text": "Ist es weit?",
+            "japanese": "Ist es weit?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, only two stops.",
+            "target_text": "Nein, nur zwei Stationen.",
+            "japanese": "Nein, nur zwei Stationen.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
