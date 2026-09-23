@@ -519,6 +519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T20:03:08.767740",
+      "dialogue": {
+        "topic": "Warm hotteok street snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want warm hotteok?",
+            "korean": "따뜻한 호떡 먹을래요?",
+            "romaja": "Ttatteutan hotteok meogeullaeyo?",
+            "japanese": "따뜻한 호떡 먹을래요?",
+            "romaji": "Ttatteutan hotteok meogeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we buy one?",
+            "korean": "하나 같이 살까요?",
+            "romaja": "Hana gachi salkkayo?",
+            "japanese": "하나 같이 살까요?",
+            "romaji": "Hana gachi salkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's share half.",
+            "korean": "좋아요, 반씩 먹어요.",
+            "romaja": "Joayo, banssik meogeoyo.",
+            "japanese": "좋아요, 반씩 먹어요.",
+            "romaji": "Joayo, banssik meogeoyo."
+          }
+        ]
+      }
     }
   ]
 }
