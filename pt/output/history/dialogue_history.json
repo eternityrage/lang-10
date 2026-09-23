@@ -431,6 +431,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T15:18:22.351245",
+      "dialogue": {
+        "topic": "Party & Samba Vibes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we dance samba?",
+            "target_text": "Oi, vamos dançar samba?",
+            "japanese": "Oi, vamos dançar samba?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love samba!",
+            "target_text": "Vamos, eu amo samba!",
+            "japanese": "Vamos, eu amo samba!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the music good?",
+            "target_text": "A música está boa?",
+            "japanese": "A música está boa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It’s great, come with me!",
+            "target_text": "Está ótima, vem comigo!",
+            "japanese": "Está ótima, vem comigo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
