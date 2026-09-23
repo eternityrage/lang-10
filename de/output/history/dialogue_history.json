@@ -395,6 +395,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T09:39:26.032269",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Does the subway go downtown?",
+            "target_text": "Fährt die U-Bahn ins Zentrum?",
+            "japanese": "Fährt die U-Bahn ins Zentrum?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, straight downtown!",
+            "target_text": "Ja, direkt ins Zentrum!",
+            "japanese": "Ja, direkt ins Zentrum!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How many stops?",
+            "target_text": "Wie viele Stationen?",
+            "japanese": "Wie viele Stationen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only three stops.",
+            "target_text": "Nur drei Stationen.",
+            "japanese": "Nur drei Stationen.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
