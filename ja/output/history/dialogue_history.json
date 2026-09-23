@@ -319,6 +319,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T09:39:10.952235",
+      "dialogue": {
+        "topic": "Slow Work Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, work now?",
+            "japanese": "マグさん、しごとですか？",
+            "romaji": "Magu-san, shigoto desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little.",
+            "japanese": "はい、すこしです。",
+            "romaji": "Hai, sukoshi desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Coffee, please.",
+            "japanese": "コーヒー、ください。",
+            "romaji": "Koohii, kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, relax.",
+            "japanese": "はい、ゆっくりしてね。",
+            "romaji": "Hai, yukkuri shite ne."
+          }
+        ]
+      }
     }
   ]
 }
