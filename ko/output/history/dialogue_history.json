@@ -399,6 +399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T01:09:37.717974",
+      "dialogue": {
+        "topic": "Spicy Tteokbokki",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want spicy tteokbokki?",
+            "korean": "매운 떡볶이 먹을래요?",
+            "romaja": "Maeun tteokbokki meogeullaeyo?",
+            "japanese": "매운 떡볶이 먹을래요?",
+            "romaji": "Maeun tteokbokki meogeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, shall we buy two servings?",
+            "korean": "그럼 두 인분 살까요?",
+            "romaja": "Geureom du inbun salkkayo?",
+            "japanese": "그럼 두 인분 살까요?",
+            "romaji": "Geureom du inbun salkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, let’s eat together!",
+            "korean": "좋아요, 같이 먹어요!",
+            "romaja": "Joayo, gachi meogeoyo!",
+            "japanese": "좋아요, 같이 먹어요!",
+            "romaji": "Joayo, gachi meogeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
