@@ -431,6 +431,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T15:20:07.195888",
+      "dialogue": {
+        "topic": "Florence walk: Ponte Vecchio",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we walk on Ponte Vecchio?",
+            "target_text": "Camminiamo sul Ponte Vecchio?",
+            "japanese": "Camminiamo sul Ponte Vecchio?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s beautiful!",
+            "target_text": "Sì, è bellissimo!",
+            "japanese": "Sì, è bellissimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then shall we take a photo?",
+            "target_text": "Poi facciamo una foto?",
+            "japanese": "Poi facciamo una foto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here is perfect!",
+            "target_text": "Certo, qui è perfetto!",
+            "japanese": "Certo, qui è perfetto!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
