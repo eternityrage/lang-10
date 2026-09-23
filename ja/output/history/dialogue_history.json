@@ -351,6 +351,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T15:21:34.199044",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this delicious?",
+            "japanese": "これ、おいしいですか？",
+            "romaji": "Kore, oishii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very sweet!",
+            "japanese": "はい、とても甘いですよ！",
+            "romaji": "Hai, totemo amai desu yo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try one?",
+            "japanese": "ひとつ 食べていいですか？",
+            "romaji": "Hitotsu tabete ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, please enjoy!",
+            "japanese": "どうぞ、食べてください！",
+            "romaji": "Douzo, tabete kudasai!"
+          }
+        ]
+      }
     }
   ]
 }
