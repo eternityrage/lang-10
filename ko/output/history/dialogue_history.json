@@ -479,6 +479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T15:19:00.206225",
+      "dialogue": {
+        "topic": "Did you eat? Coffee together",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Did you eat?",
+            "korean": "밥 먹었어요?",
+            "romaja": "Bap meogeosseoyo?",
+            "japanese": "밥 먹었어요?",
+            "romaji": "Bap meogeosseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, I ate!",
+            "korean": "응, 먹었어!",
+            "romaja": "Eung, meogeosseo!",
+            "japanese": "응, 먹었어!",
+            "romaji": "Eung, meogeosseo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want some coffee?",
+            "korean": "커피 마실래요?",
+            "romaja": "Keopi masillaeyo?",
+            "japanese": "커피 마실래요?",
+            "romaji": "Keopi masillaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s drink together!",
+            "korean": "네, 같이 마셔요!",
+            "romaja": "Ne, gachi masyeoyo!",
+            "japanese": "네, 같이 마셔요!",
+            "romaji": "Ne, gachi masyeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
