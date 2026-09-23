@@ -359,6 +359,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T01:10:57.111700",
+      "dialogue": {
+        "topic": "Greetings & Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what a nice jacket!",
+            "target_text": "¡Hola, qué bonita chaqueta!",
+            "japanese": "¡Hola, qué bonita chaqueta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, it is very comfortable!",
+            "target_text": "¡Gracias, es muy cómoda!",
+            "japanese": "¡Gracias, es muy cómoda!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the jacket new?",
+            "target_text": "¿La chaqueta es nueva?",
+            "japanese": "¿La chaqueta es nueva?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it.",
+            "target_text": "Sí, me encanta mucho.",
+            "japanese": "Sí, me encanta mucho.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
