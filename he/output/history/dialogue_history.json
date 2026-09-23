@@ -479,6 +479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T15:18:32.374626",
+      "dialogue": {
+        "topic": "Morning greeting slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, good morning!",
+            "target_text": "אהלן, בוקר טוב!",
+            "transliteration": "Ahalan, boker tov!",
+            "japanese": "אהלן, בוקר טוב!",
+            "romaji": "Ahalan, boker tov!"
+          },
+          {
+            "speaker": "B",
+            "english": "Morning light, great!",
+            "target_text": "בוקר אור, סבבה!",
+            "transliteration": "Boker or, sababa!",
+            "japanese": "בוקר אור, סבבה!",
+            "romaji": "Boker or, sababa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Meet today?",
+            "target_text": "ניפגש היום?",
+            "transliteration": "Nipagesh hayom?",
+            "japanese": "ניפגש היום?",
+            "romaji": "Nipagesh hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, yalla bye!",
+            "target_text": "כן, יאללה ביי!",
+            "transliteration": "Ken, yalla bye!",
+            "japanese": "כן, יאללה ביי!",
+            "romaji": "Ken, yalla bye!"
+          }
+        ]
+      }
     }
   ]
 }
