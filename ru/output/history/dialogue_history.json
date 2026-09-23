@@ -479,6 +479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T01:09:40.300288",
+      "dialogue": {
+        "topic": "Street greetings: meeting a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you here?",
+            "russian": "Привет, ты здесь?",
+            "translit": "Privet, ty zdes?",
+            "japanese": "Привет, ты здесь?",
+            "romaji": "Privet, ty zdes?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am here!",
+            "russian": "Да, я уже здесь!",
+            "translit": "Da, ya uzhe zdes!",
+            "japanese": "Да, я уже здесь!",
+            "romaji": "Da, ya uzhe zdes!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, shall we go together?",
+            "russian": "Класс, идём вместе?",
+            "translit": "Klass, idyom vmeste?",
+            "japanese": "Класс, идём вместе?",
+            "romaji": "Klass, idyom vmeste?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, friend, let's go!",
+            "russian": "Да, друг, идём!",
+            "translit": "Da, drug, idyom!",
+            "japanese": "Да, друг, идём!",
+            "romaji": "Da, drug, idyom!"
+          }
+        ]
+      }
     }
   ]
 }
