@@ -383,6 +383,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T20:03:36.814379",
+      "dialogue": {
+        "topic": "Anime hero encouragement",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, don’t give up!",
+            "japanese": "マグさん、がんばって！",
+            "romaji": "Magu-san, ganbatte!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I won’t lose!",
+            "japanese": "はい！まけません！",
+            "romaji": "Hai! Makemasen!"
+          },
+          {
+            "speaker": "A",
+            "english": "I am with you.",
+            "japanese": "わたしも います。",
+            "romaji": "Watashi mo imasu."
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you, Cupcake!",
+            "japanese": "ありがとう、カップケーキさん！",
+            "romaji": "Arigatou, Kappukeeki-san!"
+          }
+        ]
+      }
     }
   ]
 }
