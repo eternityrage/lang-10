@@ -395,6 +395,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T09:39:14.170822",
+      "dialogue": {
+        "topic": "Bailar en la fiesta",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we dance a little?",
+            "target_text": "¿Bailamos un poco?",
+            "japanese": "¿Bailamos un poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "target_text": "¡Sí, me encanta!",
+            "japanese": "¡Sí, me encanta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Now or later?",
+            "target_text": "¿Ahora o después?",
+            "japanese": "¿Ahora o después?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Now, let's go!",
+            "target_text": "¡Ahora, vamos!",
+            "japanese": "¡Ahora, vamos!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
