@@ -599,6 +599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T20:03:16.445680",
+      "dialogue": {
+        "topic": "Buying juice",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have juice?",
+            "russian": "Здравствуйте, у вас есть сок?",
+            "translit": "Zdravstvuyte, u vas est sok?",
+            "japanese": "Здравствуйте, у вас есть сок?",
+            "romaji": "Zdravstvuyte, u vas est sok?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, juice is right here!",
+            "russian": "Да, сок вот тут!",
+            "translit": "Da, sok vot tut!",
+            "japanese": "Да, сок вот тут!",
+            "romaji": "Da, sok vot tut!"
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, I will take one.",
+            "russian": "Спасибо, я возьму один.",
+            "translit": "Spasibo, ya vozmu odin.",
+            "japanese": "Спасибо, я возьму один.",
+            "romaji": "Spasibo, ya vozmu odin."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, one hundred rubles, please.",
+            "russian": "Отлично, с вас сто рублей.",
+            "translit": "Otlichno, s vas sto rubley.",
+            "japanese": "Отлично, с вас сто рублей.",
+            "romaji": "Otlichno, s vas sto rubley."
+          }
+        ]
+      }
     }
   ]
 }
