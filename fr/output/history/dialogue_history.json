@@ -395,6 +395,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-23T09:39:17.501568",
+      "dialogue": {
+        "topic": "Dinner at home",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you hungry?",
+            "target_text": "Tu as faim ?",
+            "japanese": "Tu as faim ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hungry!",
+            "target_text": "Oui, très faim !",
+            "japanese": "Oui, très faim !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we eat now?",
+            "target_text": "On mange maintenant ?",
+            "japanese": "On mange maintenant ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, to the table!",
+            "target_text": "Oui, à table !",
+            "japanese": "Oui, à table !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
