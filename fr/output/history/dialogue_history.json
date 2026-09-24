@@ -503,6 +503,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T01:00:31.230893",
+      "dialogue": {
+        "topic": "Street greeting on a sunny day",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, nice day, right?",
+            "target_text": "Bonjour, belle journée, non ?",
+            "japanese": "Bonjour, belle journée, non ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what beautiful sun!",
+            "target_text": "Oui, quel beau soleil !",
+            "japanese": "Oui, quel beau soleil !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where are you going?",
+            "target_text": "Tu vas où ?",
+            "japanese": "Tu vas où ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "To the park, see you!",
+            "target_text": "Au parc, à plus !",
+            "japanese": "Au parc, à plus !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
