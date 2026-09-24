@@ -599,6 +599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T09:39:34.962532",
+      "dialogue": {
+        "topic": "Tel Aviv city bikes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are these bikes available?",
+            "target_text": "היי, האופניים האלה פנויים?",
+            "transliteration": "Hi, ha-ofanayim ha-ele pnuyim?",
+            "japanese": "היי, האופניים האלה פנויים?",
+            "romaji": "Hi, ha-ofanayim ha-ele pnuyim?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are available now!",
+            "target_text": "כן, הם פנויים עכשיו!",
+            "transliteration": "Ken, hem pnuyim achshav!",
+            "japanese": "כן, הם פנויים עכשיו!",
+            "romaji": "Ken, hem pnuyim achshav!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much per hour?",
+            "target_text": "כמה זה לשעה?",
+            "transliteration": "Kama ze le-sha'a?",
+            "japanese": "כמה זה לשעה?",
+            "romaji": "Kama ze le-sha'a?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, enjoy!",
+            "target_text": "עשרה שקלים, תהנה!",
+            "transliteration": "Asara shkalim, tehene!",
+            "japanese": "עשרה שקלים, תהנה!",
+            "romaji": "Asara shkalim, tehene!"
+          }
+        ]
+      }
     }
   ]
 }
