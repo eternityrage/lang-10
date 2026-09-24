@@ -539,6 +539,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T09:38:50.438600",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, a cone?",
+            "target_text": "Buonasera, un cono?",
+            "japanese": "Buonasera, un cono?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thanks! Strawberry.",
+            "target_text": "Sì, grazie! Alla fragola.",
+            "japanese": "Sì, grazie! Alla fragola.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you want whipped cream on top?",
+            "target_text": "Vuoi la panna sopra?",
+            "japanese": "Vuoi la panna sopra?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, perfect, thank you very much!",
+            "target_text": "Sì, perfetto, grazie mille!",
+            "japanese": "Sì, perfetto, grazie mille!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
