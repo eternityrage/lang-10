@@ -679,6 +679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T09:38:55.561041",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How are you?",
+            "chinese": "你好吗？",
+            "pinyin": "Nǐ hǎo ma?",
+            "japanese": "你好吗？",
+            "romaji": "Nǐ hǎo ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "I’m very good!",
+            "chinese": "我很好！",
+            "pinyin": "Wǒ hěn hǎo!",
+            "japanese": "我很好！",
+            "romaji": "Wǒ hěn hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is today good?",
+            "chinese": "今天好吗？",
+            "pinyin": "Jīntiān hǎo ma?",
+            "japanese": "今天好吗？",
+            "romaji": "Jīntiān hǎo ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Today is good!",
+            "chinese": "今天很好！",
+            "pinyin": "Jīntiān hěn hǎo!",
+            "japanese": "今天很好！",
+            "romaji": "Jīntiān hěn hǎo!"
+          }
+        ]
+      }
     }
   ]
 }
