@@ -503,6 +503,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T01:00:39.438747",
+      "dialogue": {
+        "topic": "Visitando Madrid y Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "First, do we see Barcelona?",
+            "target_text": "¿Primero vemos Barcelona?",
+            "japanese": "¿Primero vemos Barcelona?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, how beautiful!",
+            "target_text": "¡Sí, qué bonito!",
+            "japanese": "¡Sí, qué bonito!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then, do we see Madrid?",
+            "target_text": "¿Luego vemos Madrid?",
+            "japanese": "¿Luego vemos Madrid?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, let’s go now!",
+            "target_text": "¡Perfecto, vamos ahora!",
+            "japanese": "¡Perfecto, vamos ahora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
