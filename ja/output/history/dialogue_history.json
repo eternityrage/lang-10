@@ -479,6 +479,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T15:43:30.451690",
+      "dialogue": {
+        "topic": "Cupcake and Coffee Mug confess love",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like me?",
+            "japanese": "わたしのこと すきですか？",
+            "romaji": "Watashi no koto suki desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love you.",
+            "japanese": "はい、だいすきです。",
+            "romaji": "Hai, daisuki desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Really? I’m happy.",
+            "japanese": "ほんとうですか？うれしいです。",
+            "romaji": "Hontou desu ka? Ureshii desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go on a date.",
+            "japanese": "デートに いきましょう。",
+            "romaji": "Deeto ni ikimashou."
+          }
+        ]
+      }
     }
   ]
 }
