@@ -559,6 +559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T01:00:31.447015",
+      "dialogue": {
+        "topic": "Hongdae vibe at a Gangnam cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this a Gangnam cafe?",
+            "korean": "여기 강남 카페야?",
+            "romaja": "Yeogi Gangnam kapeya?",
+            "japanese": "여기 강남 카페야?",
+            "romaji": "Yeogi Gangnam kapeya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's so pretty!",
+            "korean": "응, 완전 예뻐!",
+            "romaja": "Eung, wanjeon yeppeo!",
+            "japanese": "응, 완전 예뻐!",
+            "romaji": "Eung, wanjeon yeppeo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Does it feel like Hongdae?",
+            "korean": "홍대 느낌 나?",
+            "romaja": "Hongdae neukkim na?",
+            "japanese": "홍대 느낌 나?",
+            "romaji": "Hongdae neukkim na?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's take photos!",
+            "korean": "응, 사진 찍자!",
+            "romaja": "Eung, sajin jjikja!",
+            "japanese": "응, 사진 찍자!",
+            "romaji": "Eung, sajin jjikja!"
+          }
+        ]
+      }
     }
   ]
 }
