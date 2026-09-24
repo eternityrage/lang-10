@@ -415,6 +415,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T01:00:40.890773",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, a memo?",
+            "japanese": "マグさん、メモですか？",
+            "romaji": "Magu-san, memo desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a memo.",
+            "japanese": "はい、メモです。",
+            "romaji": "Hai, memo desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Later, shall we relax?",
+            "japanese": "あとで ゆっくりしますか？",
+            "romaji": "Ato de yukkuri shimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s relax!",
+            "japanese": "はい、ゆっくりしましょう！",
+            "romaji": "Hai, yukkuri shimashou!"
+          }
+        ]
+      }
     }
   ]
 }
