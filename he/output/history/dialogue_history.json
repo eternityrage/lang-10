@@ -559,6 +559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T01:00:39.641995",
+      "dialogue": {
+        "topic": "Buying sweet oranges at Shuk Carmel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are the oranges sweet?",
+            "target_text": "שלום, התפוזים מתוקים?",
+            "transliteration": "Shalom, ha-tapuzim metukim?",
+            "japanese": "שלום, התפוזים מתוקים?",
+            "romaji": "Shalom, ha-tapuzim metukim?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very sweet today!",
+            "target_text": "כן, מאוד מתוקים היום!",
+            "transliteration": "Ken, me'od metukim hayom!",
+            "japanese": "כן, מאוד מתוקים היום!",
+            "romaji": "Ken, me'od metukim hayom!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, two kilos please.",
+            "target_text": "מצוין, שני קילו בבקשה.",
+            "transliteration": "Metzuyan, shnei kilo bevakasha.",
+            "japanese": "מצוין, שני קילו בבקשה.",
+            "romaji": "Metzuyan, shnei kilo bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Here, have a nice day!",
+            "target_text": "בבקשה, יום נעים!",
+            "transliteration": "Bevakasha, yom na'im!",
+            "japanese": "בבקשה, יום נעים!",
+            "romaji": "Bevakasha, yom na'im!"
+          }
+        ]
+      }
     }
   ]
 }
