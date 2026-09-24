@@ -539,6 +539,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T09:38:58.389439",
+      "dialogue": {
+        "topic": "Parisian Cafe & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have macarons?",
+            "target_text": "Bonjour, vous avez des macarons ?",
+            "japanese": "Bonjour, vous avez des macarons ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are delicious!",
+            "target_text": "Oui, ils sont délicieux !",
+            "japanese": "Oui, ils sont délicieux !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take two, please.",
+            "target_text": "Je prends deux, merci.",
+            "japanese": "Je prends deux, merci.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With pleasure, here you go!",
+            "target_text": "Avec plaisir, voilà !",
+            "japanese": "Avec plaisir, voilà !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
