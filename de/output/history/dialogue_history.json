@@ -503,6 +503,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T01:00:35.761145",
+      "dialogue": {
+        "topic": "Evening Greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening! All good?",
+            "target_text": "Guten Abend! Alles gut?",
+            "japanese": "Guten Abend! Alles gut?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thanks! Very good.",
+            "target_text": "Ja, danke! Sehr gut.",
+            "japanese": "Ja, danke! Sehr gut.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice! See you tomorrow?",
+            "target_text": "Schön! Bis morgen?",
+            "japanese": "Schön! Bis morgen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you tomorrow!",
+            "target_text": "Ja, bis morgen!",
+            "japanese": "Ja, bis morgen!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
