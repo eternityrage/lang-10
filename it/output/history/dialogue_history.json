@@ -503,6 +503,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-24T01:00:45.446542",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "A small cup, please?",
+            "target_text": "Una coppetta piccola, per favore?",
+            "japanese": "Una coppetta piccola, per favore?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, which flavor do you want?",
+            "target_text": "Certo, che gusto vuoi?",
+            "japanese": "Certo, che gusto vuoi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Pistachio, please.",
+            "target_text": "Pistacchio, per favore.",
+            "japanese": "Pistacchio, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here is your gelato.",
+            "target_text": "Ecco il tuo gelato.",
+            "japanese": "Ecco il tuo gelato.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
