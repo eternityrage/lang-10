@@ -839,6 +839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T09:55:23.927950",
+      "dialogue": {
+        "topic": "Night Market Noodles",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Eat noodles?",
+            "chinese": "吃面吗？",
+            "pinyin": "Chī miàn ma?",
+            "japanese": "吃面吗？",
+            "romaji": "Chī miàn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s eat!",
+            "chinese": "好呀，吃！",
+            "pinyin": "Hǎo ya, chī!",
+            "japanese": "好呀，吃！",
+            "romaji": "Hǎo ya, chī!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it spicy?",
+            "chinese": "辣不辣？",
+            "pinyin": "Là bu là?",
+            "japanese": "辣不辣？",
+            "romaji": "Là bu là?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not spicy, tasty!",
+            "chinese": "不辣，好吃！",
+            "pinyin": "Bù là, hǎo chī!",
+            "japanese": "不辣，好吃！",
+            "romaji": "Bù là, hǎo chī!"
+          }
+        ]
+      }
     }
   ]
 }
