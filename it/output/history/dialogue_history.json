@@ -683,6 +683,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T09:55:42.483371",
+      "dialogue": {
+        "topic": "Walking by the Arno",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Walk by the Arno?",
+            "target_text": "Passeggiamo lungo l'Arno?",
+            "japanese": "Passeggiamo lungo l'Arno?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go, beautiful!",
+            "target_text": "Sì, andiamo, è bellissimo!",
+            "japanese": "Sì, andiamo, è bellissimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you see the river?",
+            "target_text": "Vedi il fiume?",
+            "japanese": "Vedi il fiume?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what a wonderful view!",
+            "target_text": "Sì, che vista splendida!",
+            "japanese": "Sì, che vista splendida!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
