@@ -719,6 +719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T01:06:25.662147",
+      "dialogue": {
+        "topic": "Coffee & Bakery - Cake Slice",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the cake fresh today?",
+            "target_text": "שלום, העוגה טרייה היום?",
+            "transliteration": "Shalom, ha-uga triya hayom?",
+            "japanese": "שלום, העוגה טרייה היום?",
+            "romaji": "Shalom, ha-uga triya hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very tasty!",
+            "target_text": "כן, היא מאוד טעימה!",
+            "transliteration": "Ken, hi me'od te'ima!",
+            "japanese": "כן, היא מאוד טעימה!",
+            "romaji": "Ken, hi me'od te'ima!"
+          },
+          {
+            "speaker": "A",
+            "english": "A small slice, please?",
+            "target_text": "אפשר פרוסה קטנה, בבקשה?",
+            "transliteration": "Efshar prusa ktana, bevakasha?",
+            "japanese": "אפשר פרוסה קטנה, בבקשה?",
+            "romaji": "Efshar prusa ktana, bevakasha?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here is your slice.",
+            "target_text": "בטח, הנה הפרוסה שלך.",
+            "transliteration": "Betach, hine ha-prusa shelcha.",
+            "japanese": "בטח, הנה הפרוסה שלך.",
+            "romaji": "Betach, hine ha-prusa shelcha."
+          }
+        ]
+      }
     }
   ]
 }
