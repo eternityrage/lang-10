@@ -647,6 +647,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T01:06:12.240631",
+      "dialogue": {
+        "topic": "Finding keys",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have my keys?",
+            "target_text": "Tu as mes clés ?",
+            "japanese": "Tu as mes clés ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here they are!",
+            "target_text": "Oui, les voilà !",
+            "japanese": "Oui, les voilà !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, thank you very much!",
+            "target_text": "Super, merci beaucoup !",
+            "japanese": "Super, merci beaucoup !",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Have a good day!",
+            "target_text": "Passe une bonne journée !",
+            "japanese": "Passe une bonne journée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
