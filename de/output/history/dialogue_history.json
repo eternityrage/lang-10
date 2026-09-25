@@ -647,6 +647,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T01:06:34.134286",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, dear Paul!",
+            "target_text": "Hallo, lieber Paul!",
+            "japanese": "Hallo, lieber Paul!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Hi, nice to see you!",
+            "target_text": "Hallo, schön dich zu sehen!",
+            "japanese": "Hallo, schön dich zu sehen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Everything okay with you?",
+            "target_text": "Alles klar bei dir?",
+            "japanese": "Alles klar bei dir?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thanks, see you later!",
+            "target_text": "Ja, danke, bis später!",
+            "japanese": "Ja, danke, bis später!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
