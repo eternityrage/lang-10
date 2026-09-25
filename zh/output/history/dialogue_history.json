@@ -919,6 +919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T20:20:46.294353",
+      "dialogue": {
+        "topic": "Compliment: You’re awesome",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you tired?",
+            "chinese": "你累吗？",
+            "pinyin": "Nǐ lèi ma?",
+            "japanese": "你累吗？",
+            "romaji": "Nǐ lèi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "I’m not tired!",
+            "chinese": "我不累！",
+            "pinyin": "Wǒ bú lèi!",
+            "japanese": "我不累！",
+            "romaji": "Wǒ bú lèi!"
+          },
+          {
+            "speaker": "A",
+            "english": "You’re awesome!",
+            "chinese": "你真棒！",
+            "pinyin": "Nǐ zhēn bàng!",
+            "japanese": "你真棒！",
+            "romaji": "Nǐ zhēn bàng!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you!",
+            "chinese": "谢谢你！",
+            "pinyin": "Xièxie nǐ!",
+            "japanese": "谢谢你！",
+            "romaji": "Xièxie nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
