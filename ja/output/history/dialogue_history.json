@@ -543,6 +543,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T01:06:22.574911",
+      "dialogue": {
+        "topic": "At the convenience store register",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you need a bag?",
+            "japanese": "ふくろは いりますか？",
+            "romaji": "Fukuro wa irimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I don't need one.",
+            "japanese": "いいえ、いりません。",
+            "romaji": "Iie, irimasen."
+          },
+          {
+            "speaker": "A",
+            "english": "Do you need chopsticks?",
+            "japanese": "おはしは いりますか？",
+            "romaji": "Ohashi wa irimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please.",
+            "japanese": "はい、ください。",
+            "romaji": "Hai, kudasai."
+          }
+        ]
+      }
     }
   ]
 }
