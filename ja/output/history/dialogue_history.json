@@ -607,6 +607,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T15:44:53.315055",
+      "dialogue": {
+        "topic": "Buying a Train Ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where are tickets?",
+            "japanese": "きっぷは どこですか？",
+            "romaji": "Kippu wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "They are over there.",
+            "japanese": "あそこです。",
+            "romaji": "Asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "japanese": "いくらですか？",
+            "romaji": "Ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is 200 yen.",
+            "japanese": "にひゃくえんです。",
+            "romaji": "Nihyaku en desu."
+          }
+        ]
+      }
     }
   ]
 }
