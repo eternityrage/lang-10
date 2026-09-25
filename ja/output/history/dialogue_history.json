@@ -575,6 +575,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T09:55:14.539798",
+      "dialogue": {
+        "topic": "Ordering coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Coffee, please.",
+            "japanese": "コーヒーを ください。",
+            "romaji": "Koohii o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          },
+          {
+            "speaker": "A",
+            "english": "Is there milk?",
+            "japanese": "ミルクは ありますか？",
+            "romaji": "Miruku wa arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is.",
+            "japanese": "はい、あります。",
+            "romaji": "Hai, arimasu."
+          }
+        ]
+      }
     }
   ]
 }
