@@ -719,6 +719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T01:06:52.234090",
+      "dialogue": {
+        "topic": "Recharging a transit card",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can I recharge this card?",
+            "korean": "교통카드 충전돼요?",
+            "romaja": "Gyotongkadeu chungjeon dwaeyo?",
+            "japanese": "교통카드 충전돼요?",
+            "romaji": "Gyotongkadeu chungjeon dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, you can!",
+            "korean": "네, 돼요!",
+            "romaja": "Ne, dwaeyo!",
+            "japanese": "네, 돼요!",
+            "romaji": "Ne, dwaeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Please add ten thousand won.",
+            "korean": "만원 충전해 주세요.",
+            "romaja": "Man won chungjeonhae juseyo.",
+            "japanese": "만원 충전해 주세요.",
+            "romaji": "Man won chungjeonhae juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, it's done!",
+            "korean": "네, 완료예요!",
+            "romaja": "Ne, wallyoyeyo!",
+            "japanese": "네, 완료예요!",
+            "romaji": "Ne, wallyoyeyo!"
+          }
+        ]
+      }
     }
   ]
 }
