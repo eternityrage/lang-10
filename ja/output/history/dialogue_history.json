@@ -639,6 +639,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T20:20:44.616181",
+      "dialogue": {
+        "topic": "A tiny flower",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, look!",
+            "japanese": "マグ、見て！",
+            "romaji": "Magu, mite!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow, a tiny flower!",
+            "japanese": "わあ、ちいさい はなです！",
+            "romaji": "Waa, chiisai hana desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it cute?",
+            "japanese": "かわいいですか？",
+            "romaji": "Kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cute!",
+            "japanese": "はい、とても かわいいです！",
+            "romaji": "Hai, totemo kawaii desu!"
+          }
+        ]
+      }
     }
   ]
 }
