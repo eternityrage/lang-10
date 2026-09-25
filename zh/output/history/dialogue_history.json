@@ -799,6 +799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T01:06:30.274835",
+      "dialogue": {
+        "topic": "Bargaining & Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Boss, discount?",
+            "chinese": "老板，打折吗？",
+            "pinyin": "Lǎobǎn, dǎzhé ma?",
+            "japanese": "老板，打折吗？",
+            "romaji": "Lǎobǎn, dǎzhé ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, 10% off!",
+            "chinese": "可以，九折！",
+            "pinyin": "Kěyǐ, jiǔ zhé!",
+            "japanese": "可以，九折！",
+            "romaji": "Kěyǐ, jiǔ zhé!"
+          },
+          {
+            "speaker": "A",
+            "english": "A bit less?",
+            "chinese": "再少一点？",
+            "pinyin": "Zài shǎo yìdiǎn?",
+            "japanese": "再少一点？",
+            "romaji": "Zài shǎo yìdiǎn?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, deal!",
+            "chinese": "好，成交！",
+            "pinyin": "Hǎo, chéngjiāo!",
+            "japanese": "好，成交！",
+            "romaji": "Hǎo, chéngjiāo!"
+          }
+        ]
+      }
     }
   ]
 }
