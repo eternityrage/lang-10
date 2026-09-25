@@ -755,6 +755,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T20:20:40.222657",
+      "dialogue": {
+        "topic": "Street Slang Greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, bro, how's it going?",
+            "target_text": "Salve, mano, que tal?",
+            "japanese": "Salve, mano, que tal?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm good, for real.",
+            "target_text": "Tô bem, na moral.",
+            "japanese": "Tô bem, na moral.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Calm day around there?",
+            "target_text": "Dia tranquilo por aí?",
+            "japanese": "Dia tranquilo por aí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Calm, no stress today.",
+            "target_text": "Tranquilo, sem stress hoje.",
+            "japanese": "Tranquilo, sem stress hoje.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
