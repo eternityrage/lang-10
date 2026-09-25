@@ -719,6 +719,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T15:44:48.099978",
+      "dialogue": {
+        "topic": "Noche de juegos",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are there games tonight?",
+            "target_text": "¿Hay juegos esta noche?",
+            "japanese": "¿Hay juegos esta noche?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, and lots of food!",
+            "target_text": "¡Sí, y mucha comida!",
+            "japanese": "¡Sí, y mucha comida!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go with Ana?",
+            "target_text": "¿Vamos con Ana?",
+            "japanese": "¿Vamos con Ana?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, it will be fun!",
+            "target_text": "¡Claro, será divertido!",
+            "japanese": "¡Claro, será divertido!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
