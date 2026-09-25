@@ -759,6 +759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T09:55:10.963999",
+      "dialogue": {
+        "topic": "Cute K-Drama Compliment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Why so cute today?",
+            "korean": "오늘 왜 이렇게 귀여워요?",
+            "romaja": "Oneul wae ireoke gwiyeowoyo?",
+            "japanese": "오늘 왜 이렇게 귀여워요?",
+            "romaji": "Oneul wae ireoke gwiyeowoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Because I feel happy!",
+            "korean": "기분이 정말 좋아요!",
+            "romaja": "Gibuni jeongmal joayo!",
+            "japanese": "기분이 정말 좋아요!",
+            "romaji": "Gibuni jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Please keep smiling.",
+            "korean": "계속 웃어 줘요.",
+            "romaja": "Gyesok useo jwoyo.",
+            "japanese": "계속 웃어 줘요.",
+            "romaji": "Gyesok useo jwoyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, I promise!",
+            "korean": "좋아요, 약속해요!",
+            "romaja": "Joayo, yaksokhaeyo!",
+            "japanese": "좋아요, 약속해요!",
+            "romaji": "Joayo, yaksokhaeyo!"
+          }
+        ]
+      }
     }
   ]
 }
