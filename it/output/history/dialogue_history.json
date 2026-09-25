@@ -755,6 +755,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-25T20:20:28.302781",
+      "dialogue": {
+        "topic": "Finding the platform",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is the platform?",
+            "target_text": "Scusi, dov'è il binario?",
+            "japanese": "Scusi, dov'è il binario?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's there, on the right!",
+            "target_text": "È là, a destra!",
+            "japanese": "È là, a destra!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does the train leave soon?",
+            "target_text": "Il treno parte presto?",
+            "japanese": "Il treno parte presto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it leaves soon!",
+            "target_text": "Sì, parte tra poco!",
+            "japanese": "Sì, parte tra poco!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
