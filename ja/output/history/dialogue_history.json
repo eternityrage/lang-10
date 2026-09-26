@@ -671,6 +671,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-26T01:07:10.918765",
+      "dialogue": {
+        "topic": "Shopping for red shoes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are these shoes good?",
+            "japanese": "このくつ、いいですか？",
+            "romaji": "Kono kutsu, ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are good.",
+            "japanese": "はい、いいです。",
+            "romaji": "Hai, ii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Red shoes, please.",
+            "japanese": "あかいくつをください。",
+            "romaji": "Akai kutsu o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
