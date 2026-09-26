@@ -879,6 +879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-26T01:07:19.674666",
+      "dialogue": {
+        "topic": "Buying grapes at Shuk Carmel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there fresh grapes?",
+            "target_text": "היי, יש ענבים טריים?",
+            "transliteration": "Hi, yesh anavim tri'im?",
+            "japanese": "היי, יש ענבים טריים?",
+            "romaji": "Hi, yesh anavim tri'im?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very sweet!",
+            "target_text": "כן, מאוד מתוקים!",
+            "transliteration": "Ken, me'od metukim!",
+            "japanese": "כן, מאוד מתוקים!",
+            "romaji": "Ken, me'od metukim!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, one kilo please.",
+            "target_text": "נהדר, קילו אחד בבקשה.",
+            "transliteration": "Nehedar, kilo echad bevakasha.",
+            "japanese": "נהדר, קילו אחד בבקשה.",
+            "romaji": "Nehedar, kilo echad bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Here, enjoy, thanks!",
+            "target_text": "הנה, בתיאבון, תודה!",
+            "transliteration": "Hine, bete'avon, toda!",
+            "japanese": "הנה, בתיאבון, תודה!",
+            "romaji": "Hine, bete'avon, toda!"
+          }
+        ]
+      }
     }
   ]
 }
