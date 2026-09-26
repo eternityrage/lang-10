@@ -791,6 +791,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-26T01:07:02.096005",
+      "dialogue": {
+        "topic": "U-Bahn stop and direction",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, does U2 stop here?",
+            "target_text": "Entschuldigung, hält hier die U2?",
+            "japanese": "Entschuldigung, hält hier die U2?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right here.",
+            "target_text": "Ja, genau hier.",
+            "japanese": "Ja, genau hier.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go toward Pankow?",
+            "target_text": "Fährt sie Richtung Pankow?",
+            "japanese": "Fährt sie Richtung Pankow?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, in two minutes.",
+            "target_text": "Ja, in zwei Minuten.",
+            "japanese": "Ja, in zwei Minuten.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
