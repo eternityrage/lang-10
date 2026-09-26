@@ -959,6 +959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-26T14:53:37.057554",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the hummus tasty?",
+            "target_text": "היי, החומוס טעים?",
+            "transliteration": "Hi, ha-chumus ta'im?",
+            "japanese": "היי, החומוס טעים?",
+            "romaji": "Hi, ha-chumus ta'im?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very tasty!",
+            "target_text": "כן, טעים מאוד!",
+            "transliteration": "Ken, ta'im me'od!",
+            "japanese": "כן, טעים מאוד!",
+            "romaji": "Ken, ta'im me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have a small plate?",
+            "target_text": "אפשר צלחת קטנה?",
+            "transliteration": "Efshar tzalahat ktana?",
+            "japanese": "אפשר צלחת קטנה?",
+            "romaji": "Efshar tzalahat ktana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here, enjoy!",
+            "target_text": "בטח, הנה, בתיאבון!",
+            "transliteration": "Betach, hine, bete'avon!",
+            "japanese": "בטח, הנה, בתיאבון!",
+            "romaji": "Betach, hine, bete'avon!"
+          }
+        ]
+      }
     }
   ]
 }
