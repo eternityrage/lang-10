@@ -879,6 +879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-26T01:06:57.048310",
+      "dialogue": {
+        "topic": "Tuna Gimbap",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want to eat gimbap together?",
+            "korean": "김밥 같이 먹을래?",
+            "romaja": "Gimbap gachi meogeullae?",
+            "japanese": "김밥 같이 먹을래?",
+            "romaji": "Gimbap gachi meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like it!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "How about tuna gimbap?",
+            "korean": "참치 김밥 어때?",
+            "romaja": "Chamchi gimbap eottae?",
+            "japanese": "참치 김밥 어때?",
+            "romaji": "Chamchi gimbap eottae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let’s buy one!",
+            "korean": "좋아, 하나 사자!",
+            "romaja": "Joa, hana saja!",
+            "japanese": "좋아, 하나 사자!",
+            "romaji": "Joa, hana saja!"
+          }
+        ]
+      }
     }
   ]
 }
