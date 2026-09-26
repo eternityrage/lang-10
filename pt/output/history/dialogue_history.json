@@ -791,6 +791,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-26T01:06:53.227392",
+      "dialogue": {
+        "topic": "Mango Smoothie",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, mango smoothie?",
+            "target_text": "Oi, vitamina de manga?",
+            "japanese": "Oi, vitamina de manga?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love mango!",
+            "target_text": "Sim, adoro manga!",
+            "japanese": "Sim, adoro manga!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With milk or water?",
+            "target_text": "Com leite ou água?",
+            "japanese": "Com leite ou água?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With milk, please!",
+            "target_text": "Com leite, por favor!",
+            "japanese": "Com leite, por favor!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
