@@ -863,6 +863,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-26T14:53:45.412940",
+      "dialogue": {
+        "topic": "Sweet flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you always smile?",
+            "target_text": "Tu souris toujours ?",
+            "japanese": "Tu souris toujours ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With you, yes!",
+            "target_text": "Avec toi, oui !",
+            "japanese": "Avec toi, oui !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "So, shall we meet again?",
+            "target_text": "Alors, on se revoit ?",
+            "japanese": "Alors, on se revoit ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
