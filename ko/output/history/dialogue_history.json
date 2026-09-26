@@ -919,6 +919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-26T09:37:56.552007",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this pocha noisy?",
+            "korean": "여기 포차 시끄러워?",
+            "romaja": "Yeogi pocha sikkeureowo?",
+            "japanese": "여기 포차 시끄러워?",
+            "romaji": "Yeogi pocha sikkeureowo?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, it's just right!",
+            "korean": "아니, 딱 좋아!",
+            "romaja": "Ani, ttak joa!",
+            "japanese": "아니, 딱 좋아!",
+            "romaji": "Ani, ttak joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, want beer?",
+            "korean": "그럼 맥주 마실래?",
+            "romaja": "Geureom maekju masillae?",
+            "japanese": "그럼 맥주 마실래?",
+            "romaji": "Geureom maekju masillae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's toast together!",
+            "korean": "좋아, 같이 건배하자!",
+            "romaja": "Joa, gachi geonbaehaja!",
+            "japanese": "좋아, 같이 건배하자!",
+            "romaji": "Joa, gachi geonbaehaja!"
+          }
+        ]
+      }
     }
   ]
 }
