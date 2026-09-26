@@ -919,6 +919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-26T09:38:19.516075",
+      "dialogue": {
+        "topic": "Taxi to the museum",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, taxi to the museum?",
+            "target_text": "שלום, מונית למוזיאון?",
+            "transliteration": "Shalom, monit la-muze'on?",
+            "japanese": "שלום, מונית למוזיאון?",
+            "romaji": "Shalom, monit la-muze'on?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with great pleasure!",
+            "target_text": "כן, בשמחה רבה!",
+            "transliteration": "Ken, be-simcha raba!",
+            "japanese": "כן, בשמחה רבה!",
+            "romaji": "Ken, be-simcha raba!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Twenty shekels, please.",
+            "target_text": "עשרים שקלים, בבקשה.",
+            "transliteration": "Esrim shekalim, bevakasha.",
+            "japanese": "עשרים שקלים, בבקשה.",
+            "romaji": "Esrim shekalim, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
