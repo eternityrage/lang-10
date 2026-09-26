@@ -791,6 +791,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-26T01:07:14.698968",
+      "dialogue": {
+        "topic": "Buying oranges at the market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have oranges?",
+            "target_text": "Hola, ¿tiene naranjas?",
+            "japanese": "Hola, ¿tiene naranjas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh.",
+            "target_text": "Sí, muy frescas.",
+            "japanese": "Sí, muy frescas.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want two, please.",
+            "target_text": "Quiero dos, por favor.",
+            "japanese": "Quiero dos, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here you go.",
+            "target_text": "Claro, aquí tiene.",
+            "japanese": "Claro, aquí tiene.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
