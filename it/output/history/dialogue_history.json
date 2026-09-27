@@ -935,6 +935,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-27T01:04:02.002824",
+      "dialogue": {
+        "topic": "Espresso Bar & Cornetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, is the croissant warm?",
+            "target_text": "Buongiorno, il cornetto è caldo?",
+            "japanese": "Buongiorno, il cornetto è caldo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, warm and good!",
+            "target_text": "Sì, caldo e buono!",
+            "japanese": "Sì, caldo e buono!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then I’ll take that one.",
+            "target_text": "Allora prendo quello.",
+            "japanese": "Allora prendo quello.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, coming right up!",
+            "target_text": "Perfetto, arriva subito!",
+            "japanese": "Perfetto, arriva subito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
