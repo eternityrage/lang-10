@@ -863,6 +863,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-27T15:32:53.211999",
+      "dialogue": {
+        "topic": "Coffee chill time",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there coffee?",
+            "japanese": "コーヒーは ありますか？",
+            "romaji": "Koohii wa arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's here.",
+            "japanese": "はい、ここに あります。",
+            "romaji": "Hai, koko ni arimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we drink together?",
+            "japanese": "いっしょに のみますか？",
+            "romaji": "Issho ni nomimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's drink slowly.",
+            "japanese": "はい、ゆっくり のみましょう。",
+            "romaji": "Hai, yukkuri nomimashou."
+          }
+        ]
+      }
     }
   ]
 }
