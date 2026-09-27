@@ -1239,6 +1239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-27T20:00:20.378930",
+      "dialogue": {
+        "topic": "Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Has the metro arrived?",
+            "chinese": "地铁到了吗？",
+            "pinyin": "Dìtiě dào le ma?",
+            "japanese": "地铁到了吗？",
+            "romaji": "Dìtiě dào le ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Let’s go.",
+            "chinese": "到了！快走。",
+            "pinyin": "Dào le! Kuài zǒu.",
+            "japanese": "到了！快走。",
+            "romaji": "Dào le! Kuài zǒu."
+          },
+          {
+            "speaker": "A",
+            "english": "Many people?",
+            "chinese": "人多吗？",
+            "pinyin": "Rén duō ma?",
+            "japanese": "人多吗？",
+            "romaji": "Rén duō ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not many. Get on.",
+            "chinese": "不多，上车。",
+            "pinyin": "Bù duō, shàng chē.",
+            "japanese": "不多，上车。",
+            "romaji": "Bù duō, shàng chē."
+          }
+        ]
+      }
     }
   ]
 }
