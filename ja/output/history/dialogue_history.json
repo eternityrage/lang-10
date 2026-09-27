@@ -895,6 +895,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-27T20:00:07.429930",
+      "dialogue": {
+        "topic": "Mug smells like coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, nice smell!",
+            "japanese": "マグ、いい におい！",
+            "romaji": "Magu, ii nioi!"
+          },
+          {
+            "speaker": "B",
+            "english": "It's coffee.",
+            "japanese": "コーヒーだよ。",
+            "romaji": "Koohii da yo."
+          },
+          {
+            "speaker": "A",
+            "english": "Can I drink a little?",
+            "japanese": "ちょっと のんでいい？",
+            "romaji": "Chotto nonde ii?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure. Go ahead!",
+            "japanese": "いいよ。どうぞ！",
+            "romaji": "Ii yo. Douzo!"
+          }
+        ]
+      }
     }
   ]
 }
