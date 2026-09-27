@@ -1079,6 +1079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-27T10:17:46.682693",
+      "dialogue": {
+        "topic": "Greetings & Slang - Long Time No See",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, long time no see!",
+            "target_text": "היי, הרבה זמן לא התראינו!",
+            "transliteration": "Hai, harbe zman lo hitra'inu!",
+            "japanese": "היי, הרבה זמן לא התראינו!",
+            "romaji": "Hai, harbe zman lo hitra'inu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, great to see you!",
+            "target_text": "כן, כיף לראות אותך!",
+            "transliteration": "Ken, kef lirot otcha!",
+            "japanese": "כן, כיף לראות אותך!",
+            "romaji": "Ken, kef lirot otcha!"
+          },
+          {
+            "speaker": "A",
+            "english": "How are you today?",
+            "target_text": "מה שלומך היום?",
+            "transliteration": "Ma shlomcha hayom?",
+            "japanese": "מה שלומך היום?",
+            "romaji": "Ma shlomcha hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks, see you!",
+            "target_text": "מצוין, תודה, נתראה!",
+            "transliteration": "Metsuyan, toda, nitra'e!",
+            "japanese": "מצוין, תודה, נתראה!",
+            "romaji": "Metsuyan, toda, nitra'e!"
+          }
+        ]
+      }
     }
   ]
 }
