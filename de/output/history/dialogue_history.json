@@ -1151,6 +1151,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T18:28:58.275090",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are the pretzels warm?",
+            "target_text": "Hallo, sind die Brezeln warm?",
+            "japanese": "Hallo, sind die Brezeln warm?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "target_text": "Ja, ganz frisch!",
+            "japanese": "Ja, ganz frisch!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, I’ll take two.",
+            "target_text": "Super, ich nehme zwei.",
+            "japanese": "Super, ich nehme zwei.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, that’s two euros.",
+            "target_text": "Gerne, das macht zwei Euro.",
+            "japanese": "Gerne, das macht zwei Euro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
