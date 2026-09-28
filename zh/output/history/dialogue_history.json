@@ -1359,6 +1359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T18:29:20.874330",
+      "dialogue": {
+        "topic": "Compliments: You’re Cool",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, you’re cool!",
+            "chinese": "嘿，你真酷！",
+            "pinyin": "Hēi, nǐ zhēn kù!",
+            "japanese": "嘿，你真酷！",
+            "romaji": "Hēi, nǐ zhēn kù!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! You too!",
+            "chinese": "谢谢！你也酷！",
+            "pinyin": "Xièxie! Nǐ yě kù!",
+            "japanese": "谢谢！你也酷！",
+            "romaji": "Xièxie! Nǐ yě kù!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really?",
+            "chinese": "真的吗？",
+            "pinyin": "Zhēn de ma?",
+            "japanese": "真的吗？",
+            "romaji": "Zhēn de ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Really. Awesome!",
+            "chinese": "真的，很棒！",
+            "pinyin": "Zhēn de, hěn bàng!",
+            "japanese": "真的，很棒！",
+            "romaji": "Zhēn de, hěn bàng!"
+          }
+        ]
+      }
     }
   ]
 }
