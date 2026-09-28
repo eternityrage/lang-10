@@ -1279,6 +1279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T18:29:28.189793",
+      "dialogue": {
+        "topic": "Bungeoppang street snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want warm bungeoppang?",
+            "korean": "따뜻한 붕어빵 먹을래?",
+            "romaja": "Ttatteutan bungeoppang meogeullae?",
+            "japanese": "따뜻한 붕어빵 먹을래?",
+            "romaji": "Ttatteutan bungeoppang meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Red bean or custard?",
+            "korean": "팥이 좋아, 슈크림이 좋아?",
+            "romaja": "Pati joa, syukeurimi joa?",
+            "japanese": "팥이 좋아, 슈크림이 좋아?",
+            "romaji": "Pati joa, syukeurimi joa?"
+          },
+          {
+            "speaker": "B",
+            "english": "One custard, please!",
+            "korean": "슈크림 하나 주세요!",
+            "romaja": "Syukeurim hana juseyo!",
+            "japanese": "슈크림 하나 주세요!",
+            "romaji": "Syukeurim hana juseyo!"
+          }
+        ]
+      }
     }
   ]
 }
