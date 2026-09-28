@@ -1023,6 +1023,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T22:28:07.258647",
+      "dialogue": {
+        "topic": "A tiny date walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you free tonight?",
+            "japanese": "こんや、ひまですか？",
+            "romaji": "Konya, hima desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am free.",
+            "japanese": "はい、ひまです。",
+            "romaji": "Hai, hima desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk together?",
+            "japanese": "いっしょに さんぽしませんか？",
+            "romaji": "Issho ni sanpo shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "japanese": "はい、行きましょう！",
+            "romaji": "Hai, ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
