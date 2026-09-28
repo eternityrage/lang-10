@@ -927,6 +927,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T01:22:40.181162",
+      "dialogue": {
+        "topic": "Green Light Crossing",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is it green?",
+            "japanese": "マグさん、みどりですか？",
+            "romaji": "Magu-san, midori desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is green.",
+            "japanese": "はい、みどりです。",
+            "romaji": "Hai, midori desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Can we cross now?",
+            "japanese": "いま、わたっていいですか？",
+            "romaji": "Ima, watatte ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please cross.",
+            "japanese": "はい、わたってください。",
+            "romaji": "Hai, watatte kudasai."
+          }
+        ]
+      }
     }
   ]
 }
