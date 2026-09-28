@@ -1319,6 +1319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T11:20:37.779710",
+      "dialogue": {
+        "topic": "Moscow Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the metro close?",
+            "russian": "Здравствуйте, метро близко?",
+            "translit": "Zdravstvuyte, metro blizko?",
+            "japanese": "Здравствуйте, метро близко?",
+            "romaji": "Zdravstvuyte, metro blizko?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very close!",
+            "russian": "Да, очень близко!",
+            "translit": "Da, ochen' blizko!",
+            "japanese": "Да, очень близко!",
+            "romaji": "Da, ochen' blizko!"
+          },
+          {
+            "speaker": "A",
+            "english": "And is a taxi expensive?",
+            "russian": "А такси дорого?",
+            "translit": "A taksi dorogo?",
+            "japanese": "А такси дорого?",
+            "romaji": "A taksi dorogo?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, the metro is better!",
+            "russian": "Нет, метро лучше!",
+            "translit": "Net, metro luchshe!",
+            "japanese": "Нет, метро лучше!",
+            "romaji": "Net, metro luchshe!"
+          }
+        ]
+      }
     }
   ]
 }
