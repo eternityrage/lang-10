@@ -1187,6 +1187,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T22:28:10.294186",
+      "dialogue": {
+        "topic": "Quick chat with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, all good?",
+            "target_text": "Oi, tudo bem?",
+            "japanese": "Oi, tudo bem?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All great, and you?",
+            "target_text": "Tudo ótimo, e você?",
+            "japanese": "Tudo ótimo, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Me too. Shall we chat?",
+            "target_text": "Também. Vamos conversar?",
+            "japanese": "Também. Vamos conversar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, friend. Let’s go!",
+            "target_text": "Claro, amigo. Bora!",
+            "japanese": "Claro, amigo. Bora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
