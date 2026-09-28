@@ -1359,6 +1359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T18:29:14.660441",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is it very cold today?",
+            "russian": "Сегодня очень холодно?",
+            "translit": "Segodnya ochen' kholodno?",
+            "japanese": "Сегодня очень холодно?",
+            "romaji": "Segodnya ochen' kholodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but very beautiful!",
+            "russian": "Да, но очень красиво!",
+            "translit": "Da, no ochen' krasivo!",
+            "japanese": "Да, но очень красиво!",
+            "romaji": "Da, no ochen' krasivo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the winter park?",
+            "russian": "Идём в зимний парк?",
+            "translit": "Idyom v zimniy park?",
+            "japanese": "Идём в зимний парк?",
+            "romaji": "Idyom v zimniy park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the snow is so soft!",
+            "russian": "Да, снег такой мягкий!",
+            "translit": "Da, sneg takoy myagkiy!",
+            "japanese": "Да, снег такой мягкий!",
+            "romaji": "Da, sneg takoy myagkiy!"
+          }
+        ]
+      }
     }
   ]
 }
