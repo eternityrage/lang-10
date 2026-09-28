@@ -1187,6 +1187,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T22:28:14.892956",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, did you sleep well?",
+            "target_text": "Guten Morgen, gut geschlafen?",
+            "japanese": "Guten Morgen, gut geschlafen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I slept great!",
+            "target_text": "Ja, ich habe super geschlafen!",
+            "japanese": "Ja, ich habe super geschlafen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice, will we see each other later?",
+            "target_text": "Schön, sehen wir uns später?",
+            "japanese": "Schön, sehen wir uns später?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you later then!",
+            "target_text": "Ja, bis später dann!",
+            "japanese": "Ja, bis später dann!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
