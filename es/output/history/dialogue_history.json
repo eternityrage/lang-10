@@ -1151,6 +1151,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T18:29:16.279500",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there tortilla today?",
+            "target_text": "¿Hay tortilla hoy?",
+            "japanese": "¿Hay tortilla hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very tasty.",
+            "target_text": "Sí, está muy rica.",
+            "japanese": "Sí, está muy rica.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want one portion, please.",
+            "target_text": "Quiero una porción, por favor.",
+            "japanese": "Quiero una porción, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, right away.",
+            "target_text": "Perfecto, ahora mismo.",
+            "japanese": "Perfecto, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
