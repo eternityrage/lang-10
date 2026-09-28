@@ -1319,6 +1319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T22:28:10.498702",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there a hummus plate?",
+            "target_text": "שלום, יש צלחת חומוס?",
+            "transliteration": "Shalom, yesh tzalachat hummus?",
+            "japanese": "שלום, יש צלחת חומוס?",
+            "romaji": "Shalom, yesh tzalachat hummus?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, warm hummus is here!",
+            "target_text": "כן, יש חומוס חם!",
+            "transliteration": "Ken, yesh hummus cham!",
+            "japanese": "כן, יש חומוס חם!",
+            "romaji": "Ken, yesh hummus cham!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have olive oil?",
+            "target_text": "אפשר עם שמן זית?",
+            "transliteration": "Efshar im shemen zayit?",
+            "japanese": "אפשר עם שמן זית?",
+            "romaji": "Efshar im shemen zayit?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, it is ready!",
+            "target_text": "בטח, זה מוכן!",
+            "transliteration": "Betach, ze muchan!",
+            "japanese": "בטח, זה מוכן!",
+            "romaji": "Betach, ze muchan!"
+          }
+        ]
+      }
     }
   ]
 }
