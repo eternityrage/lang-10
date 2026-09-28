@@ -1187,6 +1187,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T22:28:08.931517",
+      "dialogue": {
+        "topic": "Long Time No See",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, long time no see!",
+            "target_text": "Bonjour, ça fait longtemps !",
+            "japanese": "Bonjour, ça fait longtemps !",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, too long!",
+            "target_text": "Oui, trop longtemps !",
+            "japanese": "Oui, trop longtemps !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is everything okay?",
+            "target_text": "Tout va bien ?",
+            "japanese": "Tout va bien ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you soon!",
+            "target_text": "Oui, à bientôt !",
+            "japanese": "Oui, à bientôt !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
