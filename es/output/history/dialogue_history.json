@@ -1187,6 +1187,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T22:28:21.471184",
+      "dialogue": {
+        "topic": "Una bebida en la fiesta",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want a drink?",
+            "target_text": "¿Quieres una bebida?",
+            "japanese": "¿Quieres una bebida?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m very thirsty!",
+            "target_text": "¡Sí, tengo mucha sed!",
+            "japanese": "¡Sí, tengo mucha sed!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With ice or without?",
+            "target_text": "¿Con hielo o sin?",
+            "japanese": "¿Con hielo o sin?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With ice, please.",
+            "target_text": "Con hielo, por favor.",
+            "japanese": "Con hielo, por favor.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
