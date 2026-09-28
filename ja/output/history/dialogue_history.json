@@ -991,6 +991,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T18:28:58.506728",
+      "dialogue": {
+        "topic": "Anime Hero",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you a hero?",
+            "japanese": "マグ、ヒーローですか？",
+            "romaji": "Magu, hiiroo desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am a hero!",
+            "japanese": "はい、ヒーローです！",
+            "romaji": "Hai, hiiroo desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "I am a hero too!",
+            "japanese": "わたしも ヒーローです！",
+            "romaji": "Watashi mo hiiroo desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go together!",
+            "japanese": "いっしょに いきましょう！",
+            "romaji": "Issho ni ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
