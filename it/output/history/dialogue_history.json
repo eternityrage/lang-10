@@ -1115,6 +1115,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T11:20:30.547301",
+      "dialogue": {
+        "topic": "Passeggiata tra Roma e Firenze",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we walk in Rome?",
+            "target_text": "Passeggiamo a Roma?",
+            "japanese": "Passeggiamo a Roma?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, how nice!",
+            "target_text": "Sì, che bello!",
+            "japanese": "Sì, che bello!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Tomorrow shall we see Florence?",
+            "target_text": "Domani vediamo Firenze?",
+            "japanese": "Domani vediamo Firenze?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, let's go together!",
+            "target_text": "Certo, andiamo insieme!",
+            "japanese": "Certo, andiamo insieme!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
