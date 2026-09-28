@@ -1079,6 +1079,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T01:21:23.863799",
+      "dialogue": {
+        "topic": "Metro & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the train direct?",
+            "target_text": "Le train est direct ?",
+            "japanese": "Le train est direct ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s very fast!",
+            "target_text": "Oui, c’est très rapide !",
+            "japanese": "Oui, c’est très rapide !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do I get off at Châtelet?",
+            "target_text": "Je descends à Châtelet ?",
+            "japanese": "Je descends à Châtelet ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, enjoy your visit!",
+            "target_text": "Oui, bonne visite !",
+            "japanese": "Oui, bonne visite !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
