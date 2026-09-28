@@ -1115,6 +1115,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T11:20:52.479105",
+      "dialogue": {
+        "topic": "At the train platform",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, platform two?",
+            "target_text": "Bonjour, le quai deux ?",
+            "japanese": "Bonjour, le quai deux ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right there!",
+            "target_text": "Oui, juste là !",
+            "japanese": "Oui, juste là !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does the train leave soon?",
+            "target_text": "Le train part bientôt ?",
+            "japanese": "Le train part bientôt ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, in five minutes!",
+            "target_text": "Oui, dans cinq minutes !",
+            "japanese": "Oui, dans cinq minutes !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
