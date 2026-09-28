@@ -1239,6 +1239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T11:20:50.574897",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this pocha good?",
+            "korean": "이 포차 좋아?",
+            "romaja": "I pocha joa?",
+            "japanese": "이 포차 좋아?",
+            "romaji": "I pocha joa?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the vibe is good!",
+            "korean": "응, 분위기 좋아!",
+            "romaja": "Eung, bunwigi joa!",
+            "japanese": "응, 분위기 좋아!",
+            "romaji": "Eung, bunwigi joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "What should we eat?",
+            "korean": "우리 뭐 먹을까?",
+            "romaja": "Uri mwo meogeulkka?",
+            "japanese": "우리 뭐 먹을까?",
+            "romaji": "Uri mwo meogeulkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s eat kimchi pancake!",
+            "korean": "김치전 하나 먹자!",
+            "romaja": "Gimchijeon hana meokja!",
+            "japanese": "김치전 하나 먹자!",
+            "romaji": "Gimchijeon hana meokja!"
+          }
+        ]
+      }
     }
   ]
 }
