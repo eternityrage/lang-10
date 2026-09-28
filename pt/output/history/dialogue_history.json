@@ -1115,6 +1115,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T11:20:26.481586",
+      "dialogue": {
+        "topic": "Mango Smoothie",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, mango smoothie?",
+            "target_text": "Oi, vitamina de manga?",
+            "japanese": "Oi, vitamina de manga?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold!",
+            "target_text": "Sim, bem gelada!",
+            "japanese": "Sim, bem gelada!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With banana too?",
+            "target_text": "Com banana também?",
+            "japanese": "Com banana também?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, it’s perfect!",
+            "target_text": "Claro, fica perfeito!",
+            "japanese": "Claro, fica perfeito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
