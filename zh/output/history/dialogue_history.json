@@ -1279,6 +1279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T01:21:35.351475",
+      "dialogue": {
+        "topic": "Buying Apples",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are the apples sweet?",
+            "chinese": "苹果甜吗？",
+            "pinyin": "Píngguǒ tián ma?",
+            "japanese": "苹果甜吗？",
+            "romaji": "Píngguǒ tián ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Very sweet!",
+            "chinese": "很甜呀！",
+            "pinyin": "Hěn tián ya!",
+            "japanese": "很甜呀！",
+            "romaji": "Hěn tián ya!"
+          },
+          {
+            "speaker": "A",
+            "english": "A little less, please.",
+            "chinese": "少一点吧。",
+            "pinyin": "Shǎo yìdiǎn ba.",
+            "japanese": "少一点吧。",
+            "romaji": "Shǎo yìdiǎn ba."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, for you!",
+            "chinese": "好，给你！",
+            "pinyin": "Hǎo, gěi nǐ!",
+            "japanese": "好，给你！",
+            "romaji": "Hǎo, gěi nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
