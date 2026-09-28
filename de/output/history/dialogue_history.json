@@ -1115,6 +1115,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T11:20:27.431049",
+      "dialogue": {
+        "topic": "Polite request for help",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, can you help?",
+            "target_text": "Entschuldigung, können Sie helfen?",
+            "japanese": "Entschuldigung, können Sie helfen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Please open the door.",
+            "target_text": "Öffnen Sie bitte die Tür.",
+            "japanese": "Öffnen Sie bitte die Tür.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I'll open it.",
+            "target_text": "Ja, ich öffne sie.",
+            "japanese": "Ja, ich öffne sie.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
