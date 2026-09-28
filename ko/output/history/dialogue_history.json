@@ -1319,6 +1319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-28T22:28:43.234792",
+      "dialogue": {
+        "topic": "Shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shop in Myeongdong?",
+            "korean": "명동에서 쇼핑할까요?",
+            "romaja": "Myeongdongeseo syopinghalkkayo?",
+            "japanese": "명동에서 쇼핑할까요?",
+            "romaji": "Myeongdongeseo syopinghalkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds great!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "How is this bag?",
+            "korean": "이 가방 어때요?",
+            "romaja": "I gabang eottaeyo?",
+            "japanese": "이 가방 어때요?",
+            "romaji": "I gabang eottaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Pretty, let’s buy it!",
+            "korean": "예뻐요, 사요!",
+            "romaja": "Yeppeoyo, sayo!",
+            "japanese": "예뻐요, 사요!",
+            "romaji": "Yeppeoyo, sayo!"
+          }
+        ]
+      }
     }
   ]
 }
