@@ -1479,6 +1479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T10:59:25.121949",
+      "dialogue": {
+        "topic": "Meeting a Friend on the Street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, my friend!",
+            "russian": "Привет, мой друг!",
+            "translit": "Privet, moy drug!",
+            "japanese": "Привет, мой друг!",
+            "romaji": "Privet, moy drug!"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi, I am very happy!",
+            "russian": "Привет, я очень рад!",
+            "translit": "Privet, ya ochen rad!",
+            "japanese": "Привет, я очень рад!",
+            "romaji": "Privet, ya ochen rad!"
+          },
+          {
+            "speaker": "A",
+            "english": "Where are you going?",
+            "russian": "Куда ты идёшь?",
+            "translit": "Kuda ty idyosh?",
+            "japanese": "Куда ты идёшь?",
+            "romaji": "Kuda ty idyosh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go to the park together!",
+            "russian": "Пойдём в парк вместе!",
+            "translit": "Poydyom v park vmeste!",
+            "japanese": "Пойдём в парк вместе!",
+            "romaji": "Poydyom v park vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
