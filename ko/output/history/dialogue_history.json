@@ -1479,6 +1479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T21:19:20.352163",
+      "dialogue": {
+        "topic": "Calling Tonight",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can I call tonight?",
+            "korean": "오늘 밤 전화해도 돼?",
+            "romaja": "Oneul bam jeonhwahaedo dwae?",
+            "japanese": "오늘 밤 전화해도 돼?",
+            "romaji": "Oneul bam jeonhwahaedo dwae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I'll wait.",
+            "korean": "응, 나 기다릴게.",
+            "romaja": "Eung, na gidarilge.",
+            "japanese": "응, 나 기다릴게.",
+            "romaji": "Eung, na gidarilge."
+          },
+          {
+            "speaker": "A",
+            "english": "I want to hear your voice.",
+            "korean": "목소리 듣고 싶어.",
+            "romaja": "Moksori deutgo sipeo.",
+            "japanese": "목소리 듣고 싶어.",
+            "romaji": "Moksori deutgo sipeo."
+          },
+          {
+            "speaker": "B",
+            "english": "Me too, I'm excited.",
+            "korean": "나도 그래, 설레.",
+            "romaja": "Nado geurae, seolle.",
+            "japanese": "나도 그래, 설레.",
+            "romaji": "Nado geurae, seolle."
+          }
+        ]
+      }
     }
   ]
 }
