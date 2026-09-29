@@ -1399,6 +1399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T10:59:39.516554",
+      "dialogue": {
+        "topic": "Tel Aviv street directions to the beach",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the beach?",
+            "target_text": "היי, איפה הים?",
+            "transliteration": "Hai, eifo hayam?",
+            "japanese": "היי, איפה הים?",
+            "romaji": "Hai, eifo hayam?"
+          },
+          {
+            "speaker": "B",
+            "english": "Close, straight and left!",
+            "target_text": "קרוב, ישר ושמאלה!",
+            "transliteration": "Karov, yashar u-smola!",
+            "japanese": "קרוב, ישר ושמאלה!",
+            "romaji": "Karov, yashar u-smola!"
+          },
+          {
+            "speaker": "A",
+            "english": "How many minutes walking?",
+            "target_text": "כמה דקות ברגל?",
+            "transliteration": "Kama dakot baregel?",
+            "japanese": "כמה דקות ברגל?",
+            "romaji": "Kama dakot baregel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Five minutes, enjoy!",
+            "target_text": "חמש דקות, תהנה!",
+            "transliteration": "Khamesh dakot, tehene!",
+            "japanese": "חמש דקות, תהנה!",
+            "romaji": "Khamesh dakot, tehene!"
+          }
+        ]
+      }
     }
   ]
 }
