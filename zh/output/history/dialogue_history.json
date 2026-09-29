@@ -1559,6 +1559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T21:19:31.061071",
+      "dialogue": {
+        "topic": "Buying fruit",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "chinese": "这个多少钱？",
+            "pinyin": "Zhège duōshao qián?",
+            "japanese": "这个多少钱？",
+            "romaji": "Zhège duōshao qián?"
+          },
+          {
+            "speaker": "B",
+            "english": "Three yuan!",
+            "chinese": "三块钱。",
+            "pinyin": "Sān kuài qián.",
+            "japanese": "三块钱。",
+            "romaji": "Sān kuài qián."
+          },
+          {
+            "speaker": "A",
+            "english": "I want two.",
+            "chinese": "我要两个。",
+            "pinyin": "Wǒ yào liǎng ge.",
+            "japanese": "我要两个。",
+            "romaji": "Wǒ yào liǎng ge."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here you go.",
+            "chinese": "好，给你。",
+            "pinyin": "Hǎo, gěi nǐ.",
+            "japanese": "好，给你。",
+            "romaji": "Hǎo, gěi nǐ."
+          }
+        ]
+      }
     }
   ]
 }
