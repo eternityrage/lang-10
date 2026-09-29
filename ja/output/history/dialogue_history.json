@@ -1151,6 +1151,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T21:19:42.212732",
+      "dialogue": {
+        "topic": "Shibuya street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this Shibuya?",
+            "japanese": "ここは しぶやですか？",
+            "romaji": "Koko wa Shibuya desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is Shibuya.",
+            "japanese": "はい、しぶやです。",
+            "romaji": "Hai, Shibuya desu."
+          },
+          {
+            "speaker": "A",
+            "english": "There are many people.",
+            "japanese": "ひとが おおいですね。",
+            "romaji": "Hito ga ooi desu ne."
+          },
+          {
+            "speaker": "B",
+            "english": "But it is fun.",
+            "japanese": "でも、たのしいです。",
+            "romaji": "Demo, tanoshii desu."
+          }
+        ]
+      }
     }
   ]
 }
