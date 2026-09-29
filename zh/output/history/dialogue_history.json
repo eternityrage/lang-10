@@ -1519,6 +1519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T16:48:48.326104",
+      "dialogue": {
+        "topic": "Hotpot Dinner",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Meat first?",
+            "chinese": "先放肉吗？",
+            "pinyin": "Xiān fàng ròu ma?",
+            "japanese": "先放肉吗？",
+            "romaji": "Xiān fàng ròu ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, smells great!",
+            "chinese": "好，很香！",
+            "pinyin": "Hǎo, hěn xiāng!",
+            "japanese": "好，很香！",
+            "romaji": "Hǎo, hěn xiāng!"
+          },
+          {
+            "speaker": "A",
+            "english": "Add vegetables next.",
+            "chinese": "再放菜。",
+            "pinyin": "Zài fàng cài.",
+            "japanese": "再放菜。",
+            "romaji": "Zài fàng cài."
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s eat!",
+            "chinese": "开吃吧！",
+            "pinyin": "Kāi chī ba!",
+            "japanese": "开吃吧！",
+            "romaji": "Kāi chī ba!"
+          }
+        ]
+      }
     }
   ]
 }
