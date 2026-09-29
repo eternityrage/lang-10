@@ -1439,6 +1439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T02:27:51.448009",
+      "dialogue": {
+        "topic": "Compliments & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you're cool!",
+            "chinese": "嗨，你好酷！",
+            "pinyin": "Hāi, nǐ hǎo kù!",
+            "japanese": "嗨，你好酷！",
+            "romaji": "Hāi, nǐ hǎo kù!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you too!",
+            "chinese": "谢谢，你也酷！",
+            "pinyin": "Xièxie, nǐ yě kù!",
+            "japanese": "谢谢，你也酷！",
+            "romaji": "Xièxie, nǐ yě kù!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really?",
+            "chinese": "真的吗？",
+            "pinyin": "Zhēn de ma?",
+            "japanese": "真的吗？",
+            "romaji": "Zhēn de ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Really, super cool!",
+            "chinese": "真的，超酷！",
+            "pinyin": "Zhēn de, chāo kù!",
+            "japanese": "真的，超酷！",
+            "romaji": "Zhēn de, chāo kù!"
+          }
+        ]
+      }
     }
   ]
 }
