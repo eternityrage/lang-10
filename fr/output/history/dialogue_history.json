@@ -1223,6 +1223,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T02:27:50.259662",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are you looking for something?",
+            "target_text": "Bonjour, vous cherchez quelque chose ?",
+            "japanese": "Bonjour, vous cherchez quelque chose ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a red dress!",
+            "target_text": "Oui, une robe rouge !",
+            "japanese": "Oui, une robe rouge !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Try this one, please.",
+            "target_text": "Essayez celle-ci, s'il vous plaît.",
+            "japanese": "Essayez celle-ci, s'il vous plaît.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, I'll take it!",
+            "target_text": "Parfait, je la prends !",
+            "japanese": "Parfait, je la prends !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
