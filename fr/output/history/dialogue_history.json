@@ -1331,6 +1331,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T21:19:51.741424",
+      "dialogue": {
+        "topic": "Metro ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have a ticket?",
+            "target_text": "Tu as un ticket ?",
+            "japanese": "Tu as un ticket ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I have a ticket!",
+            "target_text": "Oui, j'ai un ticket !",
+            "japanese": "Oui, j'ai un ticket !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "For which station?",
+            "target_text": "Pour quelle station ?",
+            "japanese": "Pour quelle station ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "For the train station!",
+            "target_text": "Pour la gare !",
+            "japanese": "Pour la gare !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
