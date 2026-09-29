@@ -1331,6 +1331,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T21:19:41.929231",
+      "dialogue": {
+        "topic": "Una bebida en la fiesta",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have a drink?",
+            "target_text": "¿Tienes una bebida?",
+            "japanese": "¿Tienes una bebida?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I have juice!",
+            "target_text": "¡Sí, tengo jugo!",
+            "japanese": "¡Sí, tengo jugo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it for me?",
+            "target_text": "¿Es para mí?",
+            "japanese": "¿Es para mí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here, friend!",
+            "target_text": "¡Sí, toma, amigo!",
+            "japanese": "¡Sí, toma, amigo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
