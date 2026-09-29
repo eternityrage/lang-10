@@ -1259,6 +1259,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T10:59:44.646400",
+      "dialogue": {
+        "topic": "Offering coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want coffee?",
+            "target_text": "Tu veux un café ?",
+            "japanese": "Tu veux un café ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Sugar or milk?",
+            "target_text": "Sucre ou lait ?",
+            "japanese": "Sucre ou lait ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Milk, please. Thanks!",
+            "target_text": "Du lait, merci !",
+            "japanese": "Du lait, merci !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
