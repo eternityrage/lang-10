@@ -1439,6 +1439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T16:48:46.675315",
+      "dialogue": {
+        "topic": "Can we speak casually?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can I speak casually?",
+            "korean": "말 놓아도 돼요?",
+            "romaja": "mal noado dwaeyo?",
+            "japanese": "말 놓아도 돼요?",
+            "romaji": "mal noado dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, really sounds good!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then I will be casual.",
+            "korean": "그럼 편하게 할게.",
+            "romaja": "geureom pyeonhage halge.",
+            "japanese": "그럼 편하게 할게.",
+            "romaji": "geureom pyeonhage halge."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, me too!",
+            "korean": "응, 나도 편해!",
+            "romaja": "eung, nado pyeonhae!",
+            "japanese": "응, 나도 편해!",
+            "romaji": "eung, nado pyeonhae!"
+          }
+        ]
+      }
     }
   ]
 }
