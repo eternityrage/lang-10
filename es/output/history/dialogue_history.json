@@ -1259,6 +1259,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T10:59:48.648600",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you coming to the party?",
+            "target_text": "¿Vienes a la fiesta?",
+            "japanese": "¿Vienes a la fiesta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m coming happy!",
+            "target_text": "¡Sí, voy feliz!",
+            "japanese": "¡Sí, voy feliz!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you bringing something to drink?",
+            "target_text": "¿Traes algo para beber?",
+            "japanese": "¿Traes algo para beber?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m bringing sodas.",
+            "target_text": "Sí, traigo refrescos.",
+            "japanese": "Sí, traigo refrescos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
