@@ -1295,6 +1295,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T16:48:52.262388",
+      "dialogue": {
+        "topic": "Colosseum walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you see the Colosseum?",
+            "target_text": "Ciao, vedi il Colosseo?",
+            "japanese": "Ciao, vedi il Colosseo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is huge!",
+            "target_text": "Sì, è enorme!",
+            "japanese": "Sì, è enorme!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a photo?",
+            "target_text": "Facciamo una foto?",
+            "japanese": "Facciamo una foto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, then we walk.",
+            "target_text": "Certo, poi camminiamo.",
+            "japanese": "Certo, poi camminiamo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
