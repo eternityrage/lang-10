@@ -1331,6 +1331,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T21:19:14.407417",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are there pretzels?",
+            "target_text": "Hallo, gibt es Brezeln?",
+            "japanese": "Hallo, gibt es Brezeln?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, fresh and warm!",
+            "target_text": "Ja, frisch und warm!",
+            "japanese": "Ja, frisch und warm!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take two, please.",
+            "target_text": "Ich nehme zwei, bitte.",
+            "japanese": "Ich nehme zwei, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With pleasure, here you go!",
+            "target_text": "Sehr gern, bitte schön!",
+            "japanese": "Sehr gern, bitte schön!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
