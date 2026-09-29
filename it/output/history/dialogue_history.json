@@ -1223,6 +1223,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T02:28:03.332328",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, lovely day, right?",
+            "target_text": "Ciao, bella giornata, vero?",
+            "japanese": "Ciao, bella giornata, vero?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s wonderful!",
+            "target_text": "Sì, è stupenda!",
+            "japanese": "Sì, è stupenda!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you having a coffee?",
+            "target_text": "Prendi un caffè?",
+            "japanese": "Prendi un caffè?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, let’s go!",
+            "target_text": "Volentieri, andiamo!",
+            "japanese": "Volentieri, andiamo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
