@@ -1295,6 +1295,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T16:48:51.296632",
+      "dialogue": {
+        "topic": "Berlin Street Music",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is he playing well?",
+            "target_text": "Hallo, spielt er gut?",
+            "japanese": "Hallo, spielt er gut?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, he plays great!",
+            "target_text": "Ja, er spielt super!",
+            "japanese": "Ja, er spielt super!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have small change?",
+            "target_text": "Hast du Kleingeld?",
+            "japanese": "Hast du Kleingeld?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we give two euros.",
+            "target_text": "Ja, wir geben zwei Euro.",
+            "japanese": "Ja, wir geben zwei Euro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
