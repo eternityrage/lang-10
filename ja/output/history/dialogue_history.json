@@ -1087,6 +1087,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T10:59:58.183479",
+      "dialogue": {
+        "topic": "Buying cute shoes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are these shoes cute?",
+            "japanese": "この くつ、かわいいですか？",
+            "romaji": "Kono kutsu, kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cute!",
+            "japanese": "はい、とても かわいいです！",
+            "romaji": "Hai, totemo kawaii desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take these.",
+            "japanese": "これを ください。",
+            "romaji": "Kore o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
