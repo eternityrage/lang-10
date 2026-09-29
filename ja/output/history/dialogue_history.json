@@ -1055,6 +1055,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T02:27:45.806859",
+      "dialogue": {
+        "topic": "Which train?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Which train is it?",
+            "japanese": "どの でんしゃですか？",
+            "romaji": "Dono densha desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "That train.",
+            "japanese": "あの でんしゃです。",
+            "romaji": "Ano densha desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Is it fast?",
+            "japanese": "はやいですか？",
+            "romaji": "Hayai desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's fast!",
+            "japanese": "はい、はやいです！",
+            "romaji": "Hai, hayai desu!"
+          }
+        ]
+      }
     }
   ]
 }
