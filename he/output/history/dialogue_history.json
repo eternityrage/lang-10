@@ -1359,6 +1359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T02:27:52.852524",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there hot coffee?",
+            "target_text": "היי, יש קפה חם?",
+            "transliteration": "Hai, yesh kafe cham?",
+            "japanese": "היי, יש קפה חם?",
+            "romaji": "Hai, yesh kafe cham?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, hot and very good!",
+            "target_text": "כן, חם וטוב מאוד!",
+            "transliteration": "Ken, cham ve-tov me'od!",
+            "japanese": "כן, חם וטוב מאוד!",
+            "romaji": "Ken, cham ve-tov me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, and a small cookie?",
+            "target_text": "נהדר, וגם עוגייה קטנה?",
+            "transliteration": "Nehedar, ve-gam ugiyah ktanah?",
+            "japanese": "נהדר, וגם עוגייה קטנה?",
+            "romaji": "Nehedar, ve-gam ugiyah ktanah?"
+          },
+          {
+            "speaker": "B",
+            "english": "Here, coffee and cookie!",
+            "target_text": "הנה, קפה ועוגייה!",
+            "transliteration": "Hine, kafe ve-ugiyah!",
+            "japanese": "הנה, קפה ועוגייה!",
+            "romaji": "Hine, kafe ve-ugiyah!"
+          }
+        ]
+      }
     }
   ]
 }
