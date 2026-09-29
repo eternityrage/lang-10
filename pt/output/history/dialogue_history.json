@@ -1259,6 +1259,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T10:59:34.155969",
+      "dialogue": {
+        "topic": "Rio Beach & Coconut Water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want coconut water?",
+            "target_text": "Oi, quer água de coco?",
+            "japanese": "Oi, quer água de coco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's very hot!",
+            "target_text": "Sim, está muito calor!",
+            "japanese": "Sim, está muito calor!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "At Arpoador beach?",
+            "target_text": "Na praia do Arpoador?",
+            "japanese": "Na praia do Arpoador?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with a beautiful view!",
+            "target_text": "Sim, com vista linda!",
+            "japanese": "Sim, com vista linda!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
