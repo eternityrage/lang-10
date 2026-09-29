@@ -1439,6 +1439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T16:49:19.079504",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, can I have small hummus?",
+            "target_text": "שלום, אפשר חומוס קטן?",
+            "transliteration": "Shalom, efshar hummus katan?",
+            "japanese": "שלום, אפשר חומוס קטן?",
+            "romaji": "Shalom, efshar hummus katan?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, happily, with tahini?",
+            "target_text": "כן, בשמחה, עם טחינה?",
+            "transliteration": "Ken, besimcha, im tchina?",
+            "japanese": "כן, בשמחה, עם טחינה?",
+            "romaji": "Ken, besimcha, im tchina?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, and a little spicy.",
+            "target_text": "כן, וקצת חריף.",
+            "transliteration": "Ken, ve-ktsat charif.",
+            "japanese": "כן, וקצת חריף.",
+            "romaji": "Ken, ve-ktsat charif."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, the hummus is ready now.",
+            "target_text": "מעולה, החומוס מוכן עכשיו.",
+            "transliteration": "Me'ule, ha-hummus muchan achshav.",
+            "japanese": "מעולה, החומוס מוכן עכשיו.",
+            "romaji": "Me'ule, ha-hummus muchan achshav."
+          }
+        ]
+      }
     }
   ]
 }
