@@ -1259,6 +1259,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T11:01:09.985688",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, do you have pistachio?",
+            "target_text": "Buongiorno, avete pistacchio?",
+            "japanese": "Buongiorno, avete pistacchio?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s very good!",
+            "target_text": "Sì, è buonissimo!",
+            "japanese": "Sì, è buonissimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then, two scoops, thanks.",
+            "target_text": "Allora, due palline, grazie.",
+            "japanese": "Allora, due palline, grazie.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right away, here’s the gelato.",
+            "target_text": "Subito, ecco il gelato.",
+            "japanese": "Subito, ecco il gelato.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
