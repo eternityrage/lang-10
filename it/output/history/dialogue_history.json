@@ -1331,6 +1331,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T21:19:25.449313",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what flavors do you have?",
+            "target_text": "Ciao, che gusti avete?",
+            "japanese": "Ciao, che gusti avete?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "We have lemon and strawberry!",
+            "target_text": "Abbiamo limone e fragola!",
+            "japanese": "Abbiamo limone e fragola!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then, two scoops, please.",
+            "target_text": "Allora, due palline, grazie.",
+            "japanese": "Allora, due palline, grazie.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right away, here is the gelato!",
+            "target_text": "Subito, ecco il gelato!",
+            "japanese": "Subito, ecco il gelato!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
