@@ -1295,6 +1295,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-29T16:48:46.993099",
+      "dialogue": {
+        "topic": "Açaí Bowl & Smoothies",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, strawberry smoothie?",
+            "target_text": "Oi, vitamina de morango?",
+            "japanese": "Oi, vitamina de morango?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "target_text": "Sim, eu adoro!",
+            "japanese": "Sim, eu adoro!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With banana too?",
+            "target_text": "Com banana também?",
+            "japanese": "Com banana também?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, let's order!",
+            "target_text": "Perfeito, vamos pedir!",
+            "japanese": "Perfeito, vamos pedir!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
