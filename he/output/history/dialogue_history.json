@@ -1599,6 +1599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T16:40:52.694237",
+      "dialogue": {
+        "topic": "Shopping for a blue shirt",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there a blue shirt?",
+            "target_text": "שלום, יש חולצה כחולה?",
+            "transliteration": "Shalom, yesh chultza kchula?",
+            "japanese": "שלום, יש חולצה כחולה?",
+            "romaji": "Shalom, yesh chultza kchula?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very pretty!",
+            "target_text": "כן, היא יפה מאוד!",
+            "transliteration": "Ken, hi yafa me'od!",
+            "japanese": "כן, היא יפה מאוד!",
+            "romaji": "Ken, hi yafa me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה היא עולה?",
+            "transliteration": "Kama hi ola?",
+            "japanese": "כמה היא עולה?",
+            "romaji": "Kama hi ola?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only fifty shekels.",
+            "target_text": "רק חמישים שקל.",
+            "transliteration": "Rak chamishim shekel.",
+            "japanese": "רק חמישים שקל.",
+            "romaji": "Rak chamishim shekel."
+          }
+        ]
+      }
     }
   ]
 }
