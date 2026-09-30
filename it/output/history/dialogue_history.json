@@ -1475,6 +1475,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T21:20:51.947274",
+      "dialogue": {
+        "topic": "Italian gesture: tutto bene",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What does this gesture mean?",
+            "target_text": "Che significa questo gesto?",
+            "japanese": "Che significa questo gesto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: all good!",
+            "target_text": "Vuol dire: tutto bene!",
+            "japanese": "Vuol dire: tutto bene!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Ah, all good like this?",
+            "target_text": "Ah, tutto bene così?",
+            "japanese": "Ah, tutto bene così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a very Italian gesture!",
+            "target_text": "Sì, gesto molto italiano!",
+            "japanese": "Sì, gesto molto italiano!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
