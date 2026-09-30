@@ -1475,6 +1475,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T21:20:27.335967",
+      "dialogue": {
+        "topic": "Coffee with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we have coffee?",
+            "target_text": "Oi, vamos tomar café?",
+            "japanese": "Oi, vamos tomar café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, I love coffee!",
+            "target_text": "Claro, eu adoro café!",
+            "japanese": "Claro, eu adoro café!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Now or later?",
+            "target_text": "Agora ou mais tarde?",
+            "japanese": "Agora ou mais tarde?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Now, I pay today!",
+            "target_text": "Agora, eu pago hoje!",
+            "japanese": "Agora, eu pago hoje!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
