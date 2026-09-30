@@ -1439,6 +1439,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T16:43:36.161039",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there tapas today?",
+            "target_text": "Hola, ¿hay tapas hoy?",
+            "japanese": "Hola, ¿hay tapas hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is tasty tortilla!",
+            "target_text": "¡Sí, hay tortilla rica!",
+            "japanese": "¡Sí, hay tortilla rica!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And a small coffee?",
+            "target_text": "¿Y un café pequeño?",
+            "japanese": "¿Y un café pequeño?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, right now.",
+            "target_text": "Claro, ahora mismo.",
+            "japanese": "Claro, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
