@@ -1279,6 +1279,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T21:36:46.469726",
+      "dialogue": {
+        "topic": "Hot drink",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is it still hot?",
+            "japanese": "まだ あついですか？",
+            "romaji": "Mada atsui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little hot.",
+            "japanese": "はい、すこし あついです。",
+            "romaji": "Hai, sukoshi atsui desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Please wait a little.",
+            "japanese": "すこし まってください。",
+            "romaji": "Sukoshi matte kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, thank you!",
+            "japanese": "はい、ありがとう！",
+            "romaji": "Hai, arigatou!"
+          }
+        ]
+      }
     }
   ]
 }
