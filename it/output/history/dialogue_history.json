@@ -1367,6 +1367,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T01:47:56.867871",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you today?",
+            "target_text": "Ciao, come va oggi?",
+            "japanese": "Ciao, come va oggi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very well, thanks, and you?",
+            "target_text": "Benissimo, grazie, e tu?",
+            "japanese": "Benissimo, grazie, e tu?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you staying in the square?",
+            "target_text": "Resti in piazza adesso?",
+            "japanese": "Resti in piazza adesso?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m waiting for a friend.",
+            "target_text": "Sì, aspetto un amico!",
+            "japanese": "Sì, aspetto un amico!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
