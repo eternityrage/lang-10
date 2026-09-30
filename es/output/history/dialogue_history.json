@@ -1475,6 +1475,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T21:20:33.048864",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we have some tapas?",
+            "target_text": "¿Tomamos unas tapas?",
+            "japanese": "¿Tomamos unas tapas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am hungry!",
+            "target_text": "¡Sí, tengo hambre!",
+            "japanese": "¡Sí, tengo hambre!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you want coffee too?",
+            "target_text": "¿Quieres café también?",
+            "japanese": "¿Quieres café también?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, coffee with milk.",
+            "target_text": "Sí, café con leche.",
+            "japanese": "Sí, café con leche.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
