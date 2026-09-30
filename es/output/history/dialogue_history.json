@@ -1403,6 +1403,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T10:49:31.895073",
+      "dialogue": {
+        "topic": "Coffee and tortilla",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have coffee with milk?",
+            "target_text": "Hola, ¿tienes café con leche?",
+            "japanese": "Hola, ¿tienes café con leche?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, and it is very tasty!",
+            "target_text": "¡Sí, y está muy rico!",
+            "japanese": "¡Sí, y está muy rico!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And a small tortilla?",
+            "target_text": "¿Y una tortilla pequeña?",
+            "japanese": "¿Y una tortilla pequeña?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, right now.",
+            "target_text": "Claro, ahora mismo.",
+            "japanese": "Claro, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
