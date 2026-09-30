@@ -1403,6 +1403,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T10:49:40.642745",
+      "dialogue": {
+        "topic": "Metro ticket and line",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one ticket, please?",
+            "target_text": "Bonjour, un ticket, s'il vous plaît ?",
+            "japanese": "Bonjour, un ticket, s'il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here is your ticket!",
+            "target_text": "Oui, voilà votre ticket !",
+            "japanese": "Oui, voilà votre ticket !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Which line is it?",
+            "target_text": "C'est quelle ligne ?",
+            "japanese": "C'est quelle ligne ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Line two, perfect!",
+            "target_text": "La ligne deux, parfait !",
+            "japanese": "La ligne deux, parfait !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
