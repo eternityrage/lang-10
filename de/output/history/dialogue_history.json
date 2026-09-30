@@ -1475,6 +1475,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T22:01:10.518983",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are there pretzels?",
+            "target_text": "Hallo, gibt es Brezeln?",
+            "japanese": "Hallo, gibt es Brezeln?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very tasty pretzels!",
+            "target_text": "Ja, sehr leckere Brezeln!",
+            "japanese": "Ja, sehr leckere Brezeln!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One pretzel, please.",
+            "target_text": "Eine Brezel, bitte.",
+            "japanese": "Eine Brezel, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly. That is two euros.",
+            "target_text": "Gern. Das macht zwei Euro.",
+            "japanese": "Gern. Das macht zwei Euro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
