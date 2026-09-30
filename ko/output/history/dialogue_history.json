@@ -1639,6 +1639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T22:06:37.216949",
+      "dialogue": {
+        "topic": "Buying a hat in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this hat?",
+            "korean": "이 모자 얼마예요?",
+            "romaja": "I moja eolmayeyo?",
+            "japanese": "이 모자 얼마예요?",
+            "romaji": "I moja eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "So cheap, ten thousand won!",
+            "korean": "정말 싸요, 만 원이에요!",
+            "romaja": "Jeongmal ssayo, man won-ieyo!",
+            "japanese": "정말 싸요, 만 원이에요!",
+            "romaji": "Jeongmal ssayo, man won-ieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have more colors?",
+            "korean": "색깔 더 있어요?",
+            "romaja": "Saekkkal deo isseoyo?",
+            "japanese": "색깔 더 있어요?",
+            "romaji": "Saekkkal deo isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, red is here!",
+            "korean": "네, 빨간색 있어요!",
+            "romaja": "Ne, ppalgansaek isseoyo!",
+            "japanese": "네, 빨간색 있어요!",
+            "romaji": "Ne, ppalgansaek isseoyo!"
+          }
+        ]
+      }
     }
   ]
 }
