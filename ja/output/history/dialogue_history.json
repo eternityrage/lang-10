@@ -1247,6 +1247,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T17:20:10.115071",
+      "dialogue": {
+        "topic": "A cute hot mug",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you hot?",
+            "japanese": "マグさん、あついですか？",
+            "romaji": "Magu-san, atsui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little hot.",
+            "japanese": "はい、少し あついです。",
+            "romaji": "Hai, sukoshi atsui desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall I blow?",
+            "japanese": "ふうふう しましょうか？",
+            "romaji": "Fuu fuu shimashou ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please!",
+            "japanese": "はい、お願いします！",
+            "romaji": "Hai, onegai shimasu!"
+          }
+        ]
+      }
     }
   ]
 }
