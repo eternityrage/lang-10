@@ -1559,6 +1559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T10:50:23.741378",
+      "dialogue": {
+        "topic": "Hongdae cafe window seat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there a seat here?",
+            "korean": "여기 자리 있어요?",
+            "romaja": "Yeogi jari isseoyo?",
+            "japanese": "여기 자리 있어요?",
+            "romaji": "Yeogi jari isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a window seat!",
+            "korean": "네, 창가 자리 있어요!",
+            "romaja": "Ne, changga jari isseoyo!",
+            "japanese": "네, 창가 자리 있어요!",
+            "romaji": "Ne, changga jari isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is the coffee good too?",
+            "korean": "여기 커피도 맛있어요?",
+            "romaja": "Yeogi keopido masisseoyo?",
+            "japanese": "여기 커피도 맛있어요?",
+            "romaji": "Yeogi keopido masisseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Hongdae cafes are best!",
+            "korean": "네, 홍대 카페 최고예요!",
+            "romaja": "Ne, Hongdae kape choegoyeyo!",
+            "japanese": "네, 홍대 카페 최고예요!",
+            "romaji": "Ne, Hongdae kape choegoyeyo!"
+          }
+        ]
+      }
     }
   ]
 }
