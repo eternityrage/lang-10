@@ -1403,6 +1403,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T10:49:46.652784",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, all good?",
+            "target_text": "E aí, tudo beleza?",
+            "japanese": "E aí, tudo beleza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All great, thanks!",
+            "target_text": "Tudo ótimo, valeu!",
+            "japanese": "Tudo ótimo, valeu!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a walk?",
+            "target_text": "Bora dar uma volta?",
+            "japanese": "Bora dar uma volta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go, we’re together!",
+            "target_text": "Bora, tamo junto!",
+            "japanese": "Bora, tamo junto!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
