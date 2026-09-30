@@ -1679,6 +1679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T16:40:51.191196",
+      "dialogue": {
+        "topic": "Buying water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have water?",
+            "russian": "Здравствуйте, вода есть?",
+            "translit": "Zdravstvuyte, voda yest'?",
+            "japanese": "Здравствуйте, вода есть?",
+            "romaji": "Zdravstvuyte, voda yest'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here is cold water!",
+            "russian": "Да, вот холодная вода!",
+            "translit": "Da, vot kholodnaya voda!",
+            "japanese": "Да, вот холодная вода!",
+            "romaji": "Da, vot kholodnaya voda!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is a bottle?",
+            "russian": "Сколько стоит бутылка?",
+            "translit": "Skol'ko stoit butylka?",
+            "japanese": "Сколько стоит бутылка?",
+            "romaji": "Skol'ko stoit butylka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Fifty rubles, please.",
+            "russian": "Пятьдесят рублей, пожалуйста.",
+            "translit": "Pyat'desyat rubley, pozhaluysta.",
+            "japanese": "Пятьдесят рублей, пожалуйста.",
+            "romaji": "Pyat'desyat rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
