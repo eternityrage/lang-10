@@ -1439,6 +1439,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T16:40:57.360362",
+      "dialogue": {
+        "topic": "Train Station & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, is the train leaving?",
+            "target_text": "Buongiorno, il treno parte?",
+            "japanese": "Buongiorno, il treno parte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it leaves soon!",
+            "target_text": "Sì, parte tra poco!",
+            "japanese": "Sì, parte tra poco!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do I have time for a coffee?",
+            "target_text": "Ho tempo per un caffè?",
+            "japanese": "Ho tempo per un caffè?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, ten minutes!",
+            "target_text": "Certo, dieci minuti!",
+            "japanese": "Certo, dieci minuti!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
