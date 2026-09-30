@@ -1367,6 +1367,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T01:47:53.608931",
+      "dialogue": {
+        "topic": "Cinema com amigo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, all good?",
+            "target_text": "Oi, tudo bem?",
+            "japanese": "Oi, tudo bem?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, and you?",
+            "target_text": "Tudo ótimo, e você?",
+            "japanese": "Tudo ótimo, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Good! Shall we go to the movies?",
+            "target_text": "Bem! Vamos ao cinema?",
+            "japanese": "Bem! Vamos ao cinema?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I’ll bring popcorn.",
+            "target_text": "Vamos! Eu levo pipoca.",
+            "japanese": "Vamos! Eu levo pipoca.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
