@@ -1599,6 +1599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T01:48:06.175155",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the bread fresh?",
+            "russian": "Здравствуйте, хлеб свежий?",
+            "translit": "Zdravstvuyte, khleb svezhiy?",
+            "japanese": "Здравствуйте, хлеб свежий?",
+            "romaji": "Zdravstvuyte, khleb svezhiy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "russian": "Да, очень свежий!",
+            "translit": "Da, ochen' svezhiy!",
+            "japanese": "Да, очень свежий!",
+            "romaji": "Da, ochen' svezhiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then one loaf, please.",
+            "russian": "Тогда один батон, пожалуйста.",
+            "translit": "Togda odin baton, pozhaluysta.",
+            "japanese": "Тогда один батон, пожалуйста.",
+            "romaji": "Togda odin baton, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here is your bread.",
+            "russian": "Конечно, вот ваш хлеб.",
+            "translit": "Konechno, vot vash khleb.",
+            "japanese": "Конечно, вот ваш хлеб.",
+            "romaji": "Konechno, vot vash khleb."
+          }
+        ]
+      }
     }
   ]
 }
