@@ -1599,6 +1599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T16:40:58.545076",
+      "dialogue": {
+        "topic": "Buying a cute bag in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this bag?",
+            "korean": "이 가방 얼마예요?",
+            "romaja": "I gabang eolmayeyo?",
+            "japanese": "이 가방 얼마예요?",
+            "romaji": "I gabang eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's only five thousand won!",
+            "korean": "딱 오천 원이에요!",
+            "romaja": "Ttak ocheon won-ieyo!",
+            "japanese": "딱 오천 원이에요!",
+            "romaji": "Ttak ocheon won-ieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do cards work here?",
+            "korean": "여기 카드 돼요?",
+            "romaja": "Yeogi kadeu dwaeyo?",
+            "japanese": "여기 카드 돼요?",
+            "romaji": "Yeogi kadeu dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, cards are okay!",
+            "korean": "네, 카드 돼요!",
+            "romaja": "Ne, kadeu dwaeyo!",
+            "japanese": "네, 카드 돼요!",
+            "romaji": "Ne, kadeu dwaeyo!"
+          }
+        ]
+      }
     }
   ]
 }
