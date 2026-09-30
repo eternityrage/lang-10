@@ -1519,6 +1519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T01:47:47.182885",
+      "dialogue": {
+        "topic": "Cute K-Drama Confession",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How do you feel today?",
+            "korean": "오늘 기분 어때?",
+            "romaja": "Oneul gibun eottae?",
+            "japanese": "오늘 기분 어때?",
+            "romaji": "Oneul gibun eottae?"
+          },
+          {
+            "speaker": "B",
+            "english": "I feel good because of you!",
+            "korean": "너 때문에 좋아!",
+            "romaja": "Neo ttaemune joa!",
+            "japanese": "너 때문에 좋아!",
+            "romaji": "Neo ttaemune joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "I’m a little excited too!",
+            "korean": "나도 조금 설레!",
+            "romaja": "Nado jogeum seolle!",
+            "japanese": "나도 조금 설레!",
+            "romaji": "Nado jogeum seolle!"
+          },
+          {
+            "speaker": "B",
+            "english": "Today is day one for us!",
+            "korean": "우리 오늘부터 1일!",
+            "romaja": "Uri oneulbuteo iril!",
+            "japanese": "우리 오늘부터 1일!",
+            "romaji": "Uri oneulbuteo iril!"
+          }
+        ]
+      }
     }
   ]
 }
