@@ -1599,6 +1599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T01:47:59.873799",
+      "dialogue": {
+        "topic": "Ordering Milk Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have milk tea?",
+            "chinese": "有奶茶吗？",
+            "pinyin": "Yǒu nǎichá ma?",
+            "japanese": "有奶茶吗？",
+            "romaji": "Yǒu nǎichá ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Please tell me.",
+            "chinese": "有！请说。",
+            "pinyin": "Yǒu! Qǐng shuō.",
+            "japanese": "有！请说。",
+            "romaji": "Yǒu! Qǐng shuō."
+          },
+          {
+            "speaker": "A",
+            "english": "Less sugar, okay?",
+            "chinese": "少糖，可以吗？",
+            "pinyin": "Shǎo táng, kěyǐ ma?",
+            "japanese": "少糖，可以吗？",
+            "romaji": "Shǎo táng, kěyǐ ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, right away.",
+            "chinese": "可以，马上。",
+            "pinyin": "Kěyǐ, mǎshàng.",
+            "japanese": "可以，马上。",
+            "romaji": "Kěyǐ, mǎshàng."
+          }
+        ]
+      }
     }
   ]
 }
