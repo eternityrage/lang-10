@@ -1367,6 +1367,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T01:47:53.901908",
+      "dialogue": {
+        "topic": "Polite request for a pen",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, got a pen?",
+            "target_text": "Entschuldigung, haben Sie einen Stift?",
+            "japanese": "Entschuldigung, haben Sie einen Stift?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, gladly.",
+            "target_text": "Ja, natürlich, sehr gern.",
+            "japanese": "Ja, natürlich, sehr gern.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "May I write briefly?",
+            "target_text": "Darf ich kurz schreiben?",
+            "japanese": "Darf ich kurz schreiben?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, take it.",
+            "target_text": "Klar, nehmen Sie ihn.",
+            "japanese": "Klar, nehmen Sie ihn.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
