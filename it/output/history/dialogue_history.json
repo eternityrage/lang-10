@@ -1403,6 +1403,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T10:49:30.147023",
+      "dialogue": {
+        "topic": "Italian slang: “dai”",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what does “dai” mean?",
+            "target_text": "Ciao, che significa “dai”?",
+            "japanese": "Ciao, che significa “dai”?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: come on!",
+            "target_text": "Vuol dire: forza!",
+            "japanese": "Vuol dire: forza!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Ah, can I say it now?",
+            "target_text": "Ah, posso dirlo ora?",
+            "japanese": "Ah, posso dirlo ora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come on, let’s go!",
+            "target_text": "Sì, dai, andiamo!",
+            "japanese": "Sì, dai, andiamo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
