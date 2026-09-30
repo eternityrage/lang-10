@@ -1559,6 +1559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T10:49:47.445839",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, what's up?",
+            "target_text": "היי, מה קורה?",
+            "transliteration": "Hi, ma kore?",
+            "japanese": "היי, מה קורה?",
+            "romaji": "Hi, ma kore?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks!",
+            "target_text": "סבבה, תודה!",
+            "transliteration": "Sababa, toda!",
+            "japanese": "סבבה, תודה!",
+            "romaji": "Sababa, toda!"
+          },
+          {
+            "speaker": "A",
+            "english": "All good with me.",
+            "target_text": "גם אצלי טוב.",
+            "transliteration": "Gam etzli tov.",
+            "japanese": "גם אצלי טוב.",
+            "romaji": "Gam etzli tov."
+          },
+          {
+            "speaker": "B",
+            "english": "Cool, see you!",
+            "target_text": "אחלה, נתראה!",
+            "transliteration": "Achla, nitra'eh!",
+            "japanese": "אחלה, נתראה!",
+            "romaji": "Achla, nitra'eh!"
+          }
+        ]
+      }
     }
   ]
 }
