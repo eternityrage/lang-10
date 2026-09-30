@@ -1719,6 +1719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T21:20:21.918744",
+      "dialogue": {
+        "topic": "Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the metro?",
+            "chinese": "地铁在哪？",
+            "pinyin": "Dìtiě zài nǎ?",
+            "japanese": "地铁在哪？",
+            "romaji": "Dìtiě zài nǎ?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ahead!",
+            "chinese": "在前面！",
+            "pinyin": "Zài qiánmiàn!",
+            "japanese": "在前面！",
+            "romaji": "Zài qiánmiàn!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far?",
+            "chinese": "远不远？",
+            "pinyin": "Yuǎn bu yuǎn?",
+            "japanese": "远不远？",
+            "romaji": "Yuǎn bu yuǎn?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not far, let’s go!",
+            "chinese": "不远，走吧！",
+            "pinyin": "Bù yuǎn, zǒu ba!",
+            "japanese": "不远，走吧！",
+            "romaji": "Bù yuǎn, zǒu ba!"
+          }
+        ]
+      }
     }
   ]
 }
