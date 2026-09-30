@@ -1367,6 +1367,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T01:47:46.467275",
+      "dialogue": {
+        "topic": "Greeting and complimenting a bag",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Nice bag.",
+            "target_text": "¡Hola! Bonito bolso.",
+            "japanese": "¡Hola! Bonito bolso.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! I like it.",
+            "target_text": "¡Gracias! Me gusta mucho.",
+            "japanese": "¡Gracias! Me gusta mucho.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it new?",
+            "target_text": "¿Es nuevo?",
+            "japanese": "¿Es nuevo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes. See you!",
+            "target_text": "Sí. ¡Hasta luego!",
+            "japanese": "Sí. ¡Hasta luego!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
