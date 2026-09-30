@@ -1519,6 +1519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T01:48:00.863039",
+      "dialogue": {
+        "topic": "Shopping for a Hat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have a red hat?",
+            "target_text": "היי, יש כובע אדום?",
+            "transliteration": "Hey, yesh kova adom?",
+            "japanese": "היי, יש כובע אדום?",
+            "romaji": "Hey, yesh kova adom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we have a red hat!",
+            "target_text": "כן, יש כובע אדום!",
+            "transliteration": "Ken, yesh kova adom!",
+            "japanese": "כן, יש כובע אדום!",
+            "romaji": "Ken, yesh kova adom!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "target_text": "כמה הוא עולה?",
+            "transliteration": "Kama hu oleh?",
+            "japanese": "כמה הוא עולה?",
+            "romaji": "Kama hu oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only twenty shekels.",
+            "target_text": "רק עשרים שקלים.",
+            "transliteration": "Rak esrim shkalim.",
+            "japanese": "רק עשרים שקלים.",
+            "romaji": "Rak esrim shkalim."
+          }
+        ]
+      }
     }
   ]
 }
