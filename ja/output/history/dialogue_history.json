@@ -1215,6 +1215,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-09-30T10:49:49.893354",
+      "dialogue": {
+        "topic": "Cute cool-down reaction",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you hot?",
+            "japanese": "マグさん、あついですか？",
+            "romaji": "Magu-san, atsui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Very hot.",
+            "japanese": "はい！とても あついです。",
+            "romaji": "Hai! Totemo atsui desu."
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll blow, okay.",
+            "japanese": "ふうふう しますね。",
+            "romaji": "Fuu fuu shimasu ne."
+          },
+          {
+            "speaker": "B",
+            "english": "Wow! It feels nice.",
+            "japanese": "わあ！きもちいいです。",
+            "romaji": "Waa! Kimochi ii desu."
+          }
+        ]
+      }
     }
   ]
 }
