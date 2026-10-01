@@ -1311,6 +1311,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T01:45:20.241528",
+      "dialogue": {
+        "topic": "Cute warm mug reaction",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you warm?",
+            "japanese": "マグさん、あたたかいですか？",
+            "romaji": "Magu-san, atatakai desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little warm.",
+            "japanese": "はい、すこし あたたかいです。",
+            "romaji": "Hai, sukoshi atatakai desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Wow, so cute!",
+            "japanese": "わあ、とても かわいいです！",
+            "romaji": "Waa, totemo kawaii desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Hehe, thank you!",
+            "japanese": "えへへ、ありがとう！",
+            "romaji": "Ehehe, arigatou!"
+          }
+        ]
+      }
     }
   ]
 }
