@@ -1511,6 +1511,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T01:45:43.901405",
+      "dialogue": {
+        "topic": "Ordering a croissant and coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, a croissant, please?",
+            "target_text": "Bonjour, un croissant, s'il vous plaît ?",
+            "japanese": "Bonjour, un croissant, s'il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, it is warm!",
+            "target_text": "Bien sûr, il est chaud !",
+            "japanese": "Bien sûr, il est chaud !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, and a coffee?",
+            "target_text": "Super, et un café ?",
+            "japanese": "Super, et un café ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, enjoy!",
+            "target_text": "Voilà, bonne dégustation !",
+            "japanese": "Voilà, bonne dégustation !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
