@@ -1839,6 +1839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T17:17:38.212743",
+      "dialogue": {
+        "topic": "Convenience Store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have water?",
+            "russian": "Здравствуйте, есть вода?",
+            "translit": "Zdravstvuyte, yest' voda?",
+            "japanese": "Здравствуйте, есть вода?",
+            "romaji": "Zdravstvuyte, yest' voda?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, here is water!",
+            "russian": "Да, конечно, вот вода!",
+            "translit": "Da, konechno, vot voda!",
+            "japanese": "Да, конечно, вот вода!",
+            "romaji": "Da, konechno, vot voda!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one bottle?",
+            "russian": "Сколько стоит бутылка?",
+            "translit": "Skol'ko stoit butylka?",
+            "japanese": "Сколько стоит бутылка?",
+            "romaji": "Skol'ko stoit butylka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Fifty rubles, please.",
+            "russian": "Пятьдесят рублей, пожалуйста.",
+            "translit": "Pyat'desyat rubley, pozhaluysta.",
+            "japanese": "Пятьдесят рублей, пожалуйста.",
+            "romaji": "Pyat'desyat rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
