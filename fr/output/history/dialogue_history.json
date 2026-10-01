@@ -1547,6 +1547,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T11:16:25.766132",
+      "dialogue": {
+        "topic": "Boutique Shopping: Looking for a Dress",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, I’m looking for a dress.",
+            "target_text": "Bonjour, je cherche une robe.",
+            "japanese": "Bonjour, je cherche une robe.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very good, what color?",
+            "target_text": "Très bien, quelle couleur ?",
+            "japanese": "Très bien, quelle couleur ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have blue?",
+            "target_text": "Vous avez du bleu ?",
+            "japanese": "Vous avez du bleu ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, follow me, madam.",
+            "target_text": "Oui, suivez-moi, madame.",
+            "japanese": "Oui, suivez-moi, madame.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
