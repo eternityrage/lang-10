@@ -1511,6 +1511,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T01:45:12.839039",
+      "dialogue": {
+        "topic": "Greetings & Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! How are you today?",
+            "target_text": "¡Hola! ¿Cómo estás hoy?",
+            "japanese": "¡Hola! ¿Cómo estás hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very well, thanks!",
+            "target_text": "¡Muy bien, gracias!",
+            "japanese": "¡Muy bien, gracias!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What a nice jacket!",
+            "target_text": "¡Qué bonita chaqueta!",
+            "japanese": "¡Qué bonita chaqueta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are very kind!",
+            "target_text": "¡Gracias, eres muy amable!",
+            "japanese": "¡Gracias, eres muy amable!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
