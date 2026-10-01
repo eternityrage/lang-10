@@ -1879,6 +1879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T21:41:49.064870",
+      "dialogue": {
+        "topic": "Taxi to the Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "To the metro station?",
+            "chinese": "去地铁站吗？",
+            "pinyin": "Qù dìtiě zhàn ma?",
+            "japanese": "去地铁站吗？",
+            "romaji": "Qù dìtiě zhàn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, get in!",
+            "chinese": "好，上车吧！",
+            "pinyin": "Hǎo, shàng chē ba!",
+            "japanese": "好，上车吧！",
+            "romaji": "Hǎo, shàng chē ba!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much?",
+            "chinese": "多少钱？",
+            "pinyin": "Duōshǎo qián?",
+            "japanese": "多少钱？",
+            "romaji": "Duōshǎo qián?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten yuan.",
+            "chinese": "十块钱。",
+            "pinyin": "Shí kuài qián.",
+            "japanese": "十块钱。",
+            "romaji": "Shí kuài qián."
+          }
+        ]
+      }
     }
   ]
 }
