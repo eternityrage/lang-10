@@ -1719,6 +1719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T11:16:12.698392",
+      "dialogue": {
+        "topic": "Taxi to the beach",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, taxi to the beach?",
+            "target_text": "שלום, מונית לחוף?",
+            "transliteration": "Shalom, monit la-khof?",
+            "japanese": "שלום, מונית לחוף?",
+            "romaji": "Shalom, monit la-khof?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, happily, come!",
+            "target_text": "כן, בשמחה, בוא!",
+            "transliteration": "Ken, be-simkha, bo!",
+            "japanese": "כן, בשמחה, בוא!",
+            "romaji": "Ken, be-simkha, bo!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Twenty shekels, please.",
+            "target_text": "עשרים שקל, בבקשה.",
+            "transliteration": "Esrim shekel, bevakasha.",
+            "japanese": "עשרים שקל, בבקשה.",
+            "romaji": "Esrim shekel, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
