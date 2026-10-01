@@ -1547,6 +1547,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T11:16:35.432483",
+      "dialogue": {
+        "topic": "Travel & Uber in São Paulo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is it to Paulista Avenue?",
+            "target_text": "Oi, é para a Paulista?",
+            "japanese": "Oi, é para a Paulista?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go now!",
+            "target_text": "Sim, vamos agora!",
+            "japanese": "Sim, vamos agora!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How long to get there?",
+            "target_text": "Quanto tempo até lá?",
+            "japanese": "Quanto tempo até lá?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only ten minutes.",
+            "target_text": "Só dez minutos.",
+            "japanese": "Só dez minutos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
