@@ -1583,6 +1583,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T17:17:13.896084",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you here often?",
+            "target_text": "Ciao, sei qui spesso?",
+            "japanese": "Ciao, sei qui spesso?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love this square!",
+            "target_text": "Sì, adoro questa piazza!",
+            "japanese": "Sì, adoro questa piazza!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "See you tomorrow?",
+            "target_text": "Ci vediamo domani?",
+            "japanese": "Ci vediamo domani?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, same time!",
+            "target_text": "Certo, alla stessa ora!",
+            "japanese": "Certo, alla stessa ora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
