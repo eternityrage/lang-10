@@ -1583,6 +1583,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T18:32:13.944713",
+      "dialogue": {
+        "topic": "Greeting and simple compliment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "target_text": "Hola, ¿cómo estás?",
+            "japanese": "Hola, ¿cómo estás?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very well, thanks!",
+            "target_text": "¡Muy bien, gracias!",
+            "japanese": "¡Muy bien, gracias!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You look very good.",
+            "target_text": "Te ves muy bien.",
+            "japanese": "Te ves muy bien.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, how kind!",
+            "target_text": "¡Gracias, qué amable!",
+            "japanese": "¡Gracias, qué amable!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
