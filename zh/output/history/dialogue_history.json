@@ -1839,6 +1839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T17:17:44.593236",
+      "dialogue": {
+        "topic": "Bargaining & Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "chinese": "这个多少钱？",
+            "pinyin": "Zhège duōshǎo qián?",
+            "japanese": "这个多少钱？",
+            "romaji": "Zhège duōshǎo qián?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten yuan!",
+            "chinese": "十块钱！",
+            "pinyin": "Shí kuài qián!",
+            "japanese": "十块钱！",
+            "romaji": "Shí kuài qián!"
+          },
+          {
+            "speaker": "A",
+            "english": "Too expensive!",
+            "chinese": "太贵了！",
+            "pinyin": "Tài guì le!",
+            "japanese": "太贵了！",
+            "romaji": "Tài guì le!"
+          },
+          {
+            "speaker": "B",
+            "english": "Eight yuan, okay.",
+            "chinese": "八块吧。",
+            "pinyin": "Bā kuài ba.",
+            "japanese": "八块吧。",
+            "romaji": "Bā kuài ba."
+          }
+        ]
+      }
     }
   ]
 }
