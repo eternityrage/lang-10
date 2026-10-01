@@ -1679,6 +1679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T01:45:20.236849",
+      "dialogue": {
+        "topic": "Window seat at a Hongdae cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this seat free?",
+            "korean": "여기 자리 있어요?",
+            "romaja": "Yeogi jari isseoyo?",
+            "japanese": "여기 자리 있어요?",
+            "romaji": "Yeogi jari isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, by the window!",
+            "korean": "네, 창가 자리예요!",
+            "romaja": "Ne, changga jariyeyo!",
+            "japanese": "네, 창가 자리예요!",
+            "romaji": "Ne, changga jariyeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is the coffee good?",
+            "korean": "여기 커피 맛있어요?",
+            "romaja": "Yeogi keopi masisseoyo?",
+            "japanese": "여기 커피 맛있어요?",
+            "romaji": "Yeogi keopi masisseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, drink with me!",
+            "korean": "네, 같이 마셔요!",
+            "romaja": "Ne, gachi masyeoyo!",
+            "japanese": "네, 같이 마셔요!",
+            "romaji": "Ne, gachi masyeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
