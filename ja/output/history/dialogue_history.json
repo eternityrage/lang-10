@@ -1343,6 +1343,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T11:16:11.983822",
+      "dialogue": {
+        "topic": "Warming bread at the convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "This bread, please.",
+            "japanese": "この パン、ください。",
+            "romaji": "Kono pan, kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Warm it up?",
+            "japanese": "あたためますか？",
+            "romaji": "Atatamemasu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, please do.",
+            "japanese": "はい、おねがいします。",
+            "romaji": "Hai, onegai shimasu."
+          },
+          {
+            "speaker": "B",
+            "english": "Please wait here.",
+            "japanese": "ここで まってください。",
+            "romaji": "Koko de matte kudasai."
+          }
+        ]
+      }
     }
   ]
 }
