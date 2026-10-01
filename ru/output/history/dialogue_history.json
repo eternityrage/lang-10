@@ -1879,6 +1879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T21:41:29.406874",
+      "dialogue": {
+        "topic": "Taxi to the metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this taxi free?",
+            "russian": "Здравствуйте, это такси свободно?",
+            "translit": "Zdravstvuyte, eto taksi svobodno?",
+            "japanese": "Здравствуйте, это такси свободно?",
+            "romaji": "Zdravstvuyte, eto taksi svobodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, get in, please!",
+            "russian": "Да, садитесь, пожалуйста!",
+            "translit": "Da, sadites', pozhaluysta!",
+            "japanese": "Да, садитесь, пожалуйста!",
+            "romaji": "Da, sadites', pozhaluysta!"
+          },
+          {
+            "speaker": "A",
+            "english": "To Arbatskaya metro, please.",
+            "russian": "До метро «Арбатская», пожалуйста.",
+            "translit": "Do metro «Arbatskaya», pozhaluysta.",
+            "japanese": "До метро «Арбатская», пожалуйста.",
+            "romaji": "Do metro «Arbatskaya», pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, we go now!",
+            "russian": "Хорошо, едем сейчас!",
+            "translit": "Khorosho, edem seychas!",
+            "japanese": "Хорошо, едем сейчас!",
+            "romaji": "Khorosho, edem seychas!"
+          }
+        ]
+      }
     }
   ]
 }
