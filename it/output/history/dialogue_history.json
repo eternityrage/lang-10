@@ -1511,6 +1511,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T01:45:20.865293",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, do you have margherita pizza?",
+            "target_text": "Buonasera, avete la pizza margherita?",
+            "japanese": "Buonasera, avete la pizza margherita?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s very good!",
+            "target_text": "Sì, è buonissima!",
+            "japanese": "Sì, è buonissima!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Perfect, one for me.",
+            "target_text": "Perfetto, una per me.",
+            "japanese": "Perfetto, una per me.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Coming right away, thank you!",
+            "target_text": "Arriva subito, grazie!",
+            "japanese": "Arriva subito, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
