@@ -1799,6 +1799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T21:41:53.086475",
+      "dialogue": {
+        "topic": "A sweet evening walk invitation",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you free tonight?",
+            "korean": "오늘 저녁 시간 있어요?",
+            "romaja": "oneul jeonyeok sigan isseoyo?",
+            "japanese": "오늘 저녁 시간 있어요?",
+            "romaji": "oneul jeonyeok sigan isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am free!",
+            "korean": "네, 시간 있어요!",
+            "romaja": "ne, sigan isseoyo!",
+            "japanese": "네, 시간 있어요!",
+            "romaji": "ne, sigan isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Would you walk with me?",
+            "korean": "저랑 같이 산책할래요?",
+            "romaja": "jeorang gachi sanchaekallaeyo?",
+            "japanese": "저랑 같이 산책할래요?",
+            "romaji": "jeorang gachi sanchaekallaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, my heart flutters!",
+            "korean": "좋아요, 정말 설레요!",
+            "romaja": "joayo, jeongmal seolleyo!",
+            "japanese": "좋아요, 정말 설레요!",
+            "romaji": "joayo, jeongmal seolleyo!"
+          }
+        ]
+      }
     }
   ]
 }
