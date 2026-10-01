@@ -1407,6 +1407,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T21:41:26.896363",
+      "dialogue": {
+        "topic": "Sitting Together",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "May I sit here?",
+            "japanese": "ここ、いいですか？",
+            "romaji": "Koko, ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please sit.",
+            "japanese": "はい、すわってください。",
+            "romaji": "Hai, suwatte kudasai."
+          },
+          {
+            "speaker": "A",
+            "english": "I want to be together.",
+            "japanese": "いっしょに いたいです。",
+            "romaji": "Issho ni itai desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Me too.",
+            "japanese": "わたしもです。",
+            "romaji": "Watashi mo desu."
+          }
+        ]
+      }
     }
   ]
 }
