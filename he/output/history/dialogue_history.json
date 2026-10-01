@@ -1799,6 +1799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T21:46:02.676935",
+      "dialogue": {
+        "topic": "Coffee and Croissant",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have coffee?",
+            "target_text": "שלום, יש קפה?",
+            "transliteration": "Shalom, yesh kafe?",
+            "japanese": "שלום, יש קפה?",
+            "romaji": "Shalom, yesh kafe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, hot and tasty!",
+            "target_text": "כן, חם וטעים!",
+            "transliteration": "Ken, cham ve-ta'im!",
+            "japanese": "כן, חם וטעים!",
+            "romaji": "Ken, cham ve-ta'im!"
+          },
+          {
+            "speaker": "A",
+            "english": "And a croissant, please.",
+            "target_text": "וגם קרואסון, בבקשה.",
+            "transliteration": "Ve-gam kruason, bevakasha.",
+            "japanese": "וגם קרואסון, בבקשה.",
+            "romaji": "Ve-gam kruason, bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, it is coming now.",
+            "target_text": "מצוין, זה מגיע עכשיו.",
+            "transliteration": "Metsuyan, ze magia achshav.",
+            "japanese": "מצוין, זה מגיע עכשיו.",
+            "romaji": "Metsuyan, ze magia achshav."
+          }
+        ]
+      }
     }
   ]
 }
