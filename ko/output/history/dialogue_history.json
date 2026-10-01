@@ -1759,6 +1759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T18:32:16.983784",
+      "dialogue": {
+        "topic": "Tteokbokki at a street snack stall",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the tteokbokki spicy?",
+            "korean": "떡볶이 매워요?",
+            "romaja": "Tteokbokki maewoyo?",
+            "japanese": "떡볶이 매워요?",
+            "romaji": "Tteokbokki maewoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little spicy!",
+            "korean": "조금 매워요!",
+            "romaja": "Jogeum maewoyo!",
+            "japanese": "조금 매워요!",
+            "romaji": "Jogeum maewoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Water too, please.",
+            "korean": "물도 주세요.",
+            "romaja": "Muldo juseyo.",
+            "japanese": "물도 주세요.",
+            "romaji": "Muldo juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "korean": "네, 여기요!",
+            "romaja": "Ne, yeogiyo!",
+            "japanese": "네, 여기요!",
+            "romaji": "Ne, yeogiyo!"
+          }
+        ]
+      }
     }
   ]
 }
