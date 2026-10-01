@@ -1759,6 +1759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T18:09:54.035989",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have a small coffee?",
+            "target_text": "שלום, יש לכם קפה קטן?",
+            "transliteration": "Shalom, yesh lachem kafe katan?",
+            "japanese": "שלום, יש לכם קפה קטן?",
+            "romaji": "Shalom, yesh lachem kafe katan?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, and a warm croissant!",
+            "target_text": "כן, ויש קרואסון חם!",
+            "transliteration": "Ken, ve-yesh kruason cham!",
+            "japanese": "כן, ויש קרואסון חם!",
+            "romaji": "Ken, ve-yesh kruason cham!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, how much is it?",
+            "target_text": "מצוין, כמה זה עולה?",
+            "transliteration": "Metsuyan, kama ze ole?",
+            "japanese": "מצוין, כמה זה עולה?",
+            "romaji": "Metsuyan, kama ze ole?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only twenty shekels, please.",
+            "target_text": "רק עשרים שקלים, בבקשה.",
+            "transliteration": "Rak esrim shkalim, bevakasha.",
+            "japanese": "רק עשרים שקלים, בבקשה.",
+            "romaji": "Rak esrim shkalim, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
