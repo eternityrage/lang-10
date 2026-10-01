@@ -1375,6 +1375,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-01T17:17:13.131864",
+      "dialogue": {
+        "topic": "Anime-style friendship quote",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, let's go!",
+            "japanese": "マグ、いきましょう！",
+            "romaji": "Magu, ikimashou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Cupcake!",
+            "japanese": "はい、カップケーキ！",
+            "romaji": "Hai, kappukeeki!"
+          },
+          {
+            "speaker": "A",
+            "english": "We can do it!",
+            "japanese": "できます！",
+            "romaji": "Dekimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "We are friends!",
+            "japanese": "ぼくたちは ともだちです！",
+            "romaji": "Bokutachi wa tomodachi desu!"
+          }
+        ]
+      }
     }
   ]
 }
