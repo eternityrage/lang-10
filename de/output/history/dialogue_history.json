@@ -1655,6 +1655,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T01:56:40.459889",
+      "dialogue": {
+        "topic": "Directions to the U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the subway?",
+            "target_text": "Wo ist die U-Bahn?",
+            "japanese": "Wo ist die U-Bahn?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right over there!",
+            "target_text": "Gleich da vorne!",
+            "japanese": "Gleich da vorne!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far?",
+            "target_text": "Ist es weit?",
+            "japanese": "Ist es weit?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, only two minutes.",
+            "target_text": "Nein, nur zwei Minuten.",
+            "japanese": "Nein, nur zwei Minuten.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
