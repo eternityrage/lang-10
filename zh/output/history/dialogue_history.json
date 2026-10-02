@@ -1959,6 +1959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T10:48:50.094512",
+      "dialogue": {
+        "topic": "Night Market Skewers",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "chinese": "这个多少钱？",
+            "pinyin": "Zhège duōshǎo qián?",
+            "japanese": "这个多少钱？",
+            "romaji": "Zhège duōshǎo qián?"
+          },
+          {
+            "speaker": "B",
+            "english": "Five yuan, very tasty!",
+            "chinese": "五块，很香！",
+            "pinyin": "Wǔ kuài, hěn xiāng!",
+            "japanese": "五块，很香！",
+            "romaji": "Wǔ kuài, hěn xiāng!"
+          },
+          {
+            "speaker": "A",
+            "english": "I want two.",
+            "chinese": "我要两个。",
+            "pinyin": "Wǒ yào liǎng ge.",
+            "japanese": "我要两个。",
+            "romaji": "Wǒ yào liǎng ge."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, coming now!",
+            "chinese": "好，马上来！",
+            "pinyin": "Hǎo, mǎshàng lái!",
+            "japanese": "好，马上来！",
+            "romaji": "Hǎo, mǎshàng lái!"
+          }
+        ]
+      }
     }
   ]
 }
