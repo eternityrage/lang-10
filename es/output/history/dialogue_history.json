@@ -1763,6 +1763,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T21:14:44.044518",
+      "dialogue": {
+        "topic": "Finding the metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the metro?",
+            "target_text": "¿Dónde está el metro?",
+            "japanese": "¿Dónde está el metro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's very close!",
+            "target_text": "¡Está muy cerca!",
+            "japanese": "¡Está muy cerca!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do I walk?",
+            "target_text": "¿Voy a pie?",
+            "japanese": "¿Voy a pie?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, two minutes.",
+            "target_text": "Sí, dos minutos.",
+            "japanese": "Sí, dos minutos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
