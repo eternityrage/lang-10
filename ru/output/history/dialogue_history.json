@@ -1999,6 +1999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T16:30:36.010558",
+      "dialogue": {
+        "topic": "Moscow Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is taxi available?",
+            "russian": "Здравствуйте, такси свободно?",
+            "translit": "Zdravstvuyte, taksi svobodno?",
+            "japanese": "Здравствуйте, такси свободно?",
+            "romaji": "Zdravstvuyte, taksi svobodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please get in!",
+            "russian": "Да, садитесь, пожалуйста!",
+            "translit": "Da, sadites', pozhaluysta!",
+            "japanese": "Да, садитесь, пожалуйста!",
+            "romaji": "Da, sadites', pozhaluysta!"
+          },
+          {
+            "speaker": "A",
+            "english": "To the metro, please.",
+            "russian": "До метро, пожалуйста.",
+            "translit": "Do metro, pozhaluysta.",
+            "japanese": "До метро, пожалуйста.",
+            "romaji": "Do metro, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, we go now!",
+            "russian": "Хорошо, едем сейчас!",
+            "translit": "Khorosho, edem seychas!",
+            "japanese": "Хорошо, едем сейчас!",
+            "romaji": "Khorosho, edem seychas!"
+          }
+        ]
+      }
     }
   ]
 }
