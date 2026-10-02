@@ -1959,6 +1959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T10:49:00.314504",
+      "dialogue": {
+        "topic": "Street greeting between friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "russian": "Привет, как ты?",
+            "translit": "Privet, kak ty?",
+            "japanese": "Привет, как ты?",
+            "romaji": "Privet, kak ty?"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi, all is great!",
+            "russian": "Привет, всё отлично!",
+            "translit": "Privet, vsyo otlichno!",
+            "japanese": "Привет, всё отлично!",
+            "romaji": "Privet, vsyo otlichno!"
+          },
+          {
+            "speaker": "A",
+            "english": "Glad to see you!",
+            "russian": "Рад тебя видеть!",
+            "translit": "Rad tebya videt!",
+            "japanese": "Рад тебя видеть!",
+            "romaji": "Rad tebya videt!"
+          },
+          {
+            "speaker": "B",
+            "english": "Me too, friend!",
+            "russian": "Я тоже, друг!",
+            "translit": "Ya tozhe, drug!",
+            "japanese": "Я тоже, друг!",
+            "romaji": "Ya tozhe, drug!"
+          }
+        ]
+      }
     }
   ]
 }
