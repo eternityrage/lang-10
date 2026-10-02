@@ -1535,6 +1535,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T21:22:38.177700",
+      "dialogue": {
+        "topic": "Buying a snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "japanese": "これは いくらですか？",
+            "romaji": "Kore wa ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is 300 yen.",
+            "japanese": "これは さんびゃくえんです。",
+            "romaji": "Kore wa sanbyaku en desu."
+          },
+          {
+            "speaker": "A",
+            "english": "One of these, please.",
+            "japanese": "これを ひとつ ください。",
+            "romaji": "Kore o hitotsu kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          }
+        ]
+      }
     }
   ]
 }
