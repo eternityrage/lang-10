@@ -1727,6 +1727,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T16:30:59.911564",
+      "dialogue": {
+        "topic": "The “come here” gesture and “dai”",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What does this gesture mean?",
+            "target_text": "Che significa questo gesto?",
+            "japanese": "Che significa questo gesto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: come here!",
+            "target_text": "Significa: vieni qui!",
+            "japanese": "Significa: vieni qui!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it mean “come on”?",
+            "target_text": "Vuol dire “dai”?",
+            "japanese": "Vuol dire “dai”?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, exactly!",
+            "target_text": "Sì, proprio così!",
+            "japanese": "Sì, proprio così!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
