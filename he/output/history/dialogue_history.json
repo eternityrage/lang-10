@@ -1839,6 +1839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T01:56:53.745958",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there hummus?",
+            "target_text": "שלום, יש חומוס?",
+            "transliteration": "Shalom, yesh hummus?",
+            "japanese": "שלום, יש חומוס?",
+            "romaji": "Shalom, yesh hummus?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is warm hummus!",
+            "target_text": "כן, יש חומוס חם!",
+            "transliteration": "Ken, yesh hummus cham!",
+            "japanese": "כן, יש חומוס חם!",
+            "romaji": "Ken, yesh hummus cham!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have one pita?",
+            "target_text": "אפשר פיתה אחת?",
+            "transliteration": "Efshar pita achat?",
+            "japanese": "אפשר פיתה אחת?",
+            "romaji": "Efshar pita achat?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, one pita, enjoy!",
+            "target_text": "בטח, פיתה אחת, בתיאבון!",
+            "transliteration": "Betach, pita achat, bete'avon!",
+            "japanese": "בטח, פיתה אחת, בתיאבון!",
+            "romaji": "Betach, pita achat, bete'avon!"
+          }
+        ]
+      }
     }
   ]
 }
