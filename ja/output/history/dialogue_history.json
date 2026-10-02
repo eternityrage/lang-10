@@ -1503,6 +1503,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T16:30:37.651661",
+      "dialogue": {
+        "topic": "Anime Quotes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, let's go!",
+            "japanese": "マグさん、行きましょう！",
+            "romaji": "Magu-san, ikimashou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, together!",
+            "japanese": "はい、いっしょに！",
+            "romaji": "Hai, issho ni!"
+          },
+          {
+            "speaker": "A",
+            "english": "I will do my best!",
+            "japanese": "わたし、がんばります！",
+            "romaji": "Watashi, ganbarimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "You are strong!",
+            "japanese": "つよいですね！",
+            "romaji": "Tsuyoi desu ne!"
+          }
+        ]
+      }
     }
   ]
 }
