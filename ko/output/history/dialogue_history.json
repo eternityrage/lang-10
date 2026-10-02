@@ -1839,6 +1839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T01:56:28.537086",
+      "dialogue": {
+        "topic": "Hongdae cafe cake",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this a Hongdae cafe?",
+            "korean": "여기 홍대 카페야?",
+            "romaja": "Yeogi Hongdae kapeya?",
+            "japanese": "여기 홍대 카페야?",
+            "romaji": "Yeogi Hongdae kapeya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very famous.",
+            "korean": "응, 아주 유명해.",
+            "romaja": "Eung, aju yumyeonghae.",
+            "japanese": "응, 아주 유명해.",
+            "romaji": "Eung, aju yumyeonghae."
+          },
+          {
+            "speaker": "A",
+            "english": "Is there cake here too?",
+            "korean": "여기 케이크도 있어?",
+            "romaja": "Yeogi keikeudo isseo?",
+            "japanese": "여기 케이크도 있어?",
+            "romaji": "Yeogi keikeudo isseo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's eat together!",
+            "korean": "응, 같이 먹자!",
+            "romaja": "Eung, gachi meokja!",
+            "japanese": "응, 같이 먹자!",
+            "romaji": "Eung, gachi meokja!"
+          }
+        ]
+      }
     }
   ]
 }
