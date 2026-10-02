@@ -1691,6 +1691,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T10:48:36.101201",
+      "dialogue": {
+        "topic": "Sunny street hello",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you okay?",
+            "target_text": "Salut, ça va ?",
+            "japanese": "Salut, ça va ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very well!",
+            "target_text": "Oui, très bien !",
+            "japanese": "Oui, très bien !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice day, right?",
+            "target_text": "Belle journée, non ?",
+            "japanese": "Belle journée, non ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you soon!",
+            "target_text": "Oui, à bientôt !",
+            "japanese": "Oui, à bientôt !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
