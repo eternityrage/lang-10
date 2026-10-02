@@ -1691,6 +1691,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T10:48:46.353187",
+      "dialogue": {
+        "topic": "Chat in the park",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want to chat?",
+            "target_text": "Oi, quer conversar?",
+            "japanese": "Oi, quer conversar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Sim, claro, adoro!",
+            "japanese": "Sim, claro, adoro!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "On the park bench?",
+            "target_text": "No banco da praça?",
+            "japanese": "No banco da praça?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go now!",
+            "target_text": "Sim, vamos agora!",
+            "japanese": "Sim, vamos agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
