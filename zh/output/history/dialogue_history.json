@@ -1999,6 +1999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T16:30:33.655600",
+      "dialogue": {
+        "topic": "Night Market Street Food",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want buns?",
+            "chinese": "要包子吗？",
+            "pinyin": "Yào bāozi ma?",
+            "japanese": "要包子吗？",
+            "romaji": "Yào bāozi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, two please.",
+            "chinese": "好，要两个。",
+            "pinyin": "Hǎo, yào liǎng ge.",
+            "japanese": "好，要两个。",
+            "romaji": "Hǎo, yào liǎng ge."
+          },
+          {
+            "speaker": "A",
+            "english": "Want it spicy?",
+            "chinese": "要辣吗？",
+            "pinyin": "Yào là ma?",
+            "japanese": "要辣吗？",
+            "romaji": "Yào là ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not spicy.",
+            "chinese": "不要辣。",
+            "pinyin": "Bù yào là.",
+            "japanese": "不要辣。",
+            "romaji": "Bù yào là."
+          }
+        ]
+      }
     }
   ]
 }
