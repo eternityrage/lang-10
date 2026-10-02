@@ -1727,6 +1727,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T16:30:21.901853",
+      "dialogue": {
+        "topic": "Travel & Uber in São Paulo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we go to Paulista?",
+            "target_text": "Oi, vamos para a Paulista?",
+            "japanese": "Oi, vamos para a Paulista?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, by Uber!",
+            "target_text": "Sim, de Uber!",
+            "japanese": "Sim, de Uber!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is traffic bad?",
+            "target_text": "O trânsito está ruim?",
+            "japanese": "O trânsito está ruim?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "A little, but let's go.",
+            "target_text": "Um pouco, mas vamos.",
+            "japanese": "Um pouco, mas vamos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
