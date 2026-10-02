@@ -1655,6 +1655,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T01:56:39.930027",
+      "dialogue": {
+        "topic": "Buying a bag",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how much is it?",
+            "target_text": "Bonjour, c'est combien ?",
+            "japanese": "Bonjour, c'est combien ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's ten euros!",
+            "target_text": "C'est dix euros !",
+            "japanese": "C'est dix euros !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I'll take this bag.",
+            "target_text": "Je prends ce sac.",
+            "japanese": "Je prends ce sac.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, thank you very much!",
+            "target_text": "Parfait, merci beaucoup !",
+            "japanese": "Parfait, merci beaucoup !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
