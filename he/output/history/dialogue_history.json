@@ -1959,6 +1959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T21:14:32.518071",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the beach close?",
+            "target_text": "היי, החוף קרוב?",
+            "transliteration": "Hi, ha-khof karov?",
+            "japanese": "היי, החוף קרוב?",
+            "romaji": "Hi, ha-khof karov?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very close!",
+            "target_text": "כן, קרוב מאוד!",
+            "transliteration": "Ken, karov me'od!",
+            "japanese": "כן, קרוב מאוד!",
+            "romaji": "Ken, karov me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have sunscreen?",
+            "target_text": "יש לך קרם הגנה?",
+            "transliteration": "Yesh lekha krem hagana?",
+            "japanese": "יש לך קרם הגנה?",
+            "romaji": "Yesh lekha krem hagana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go now!",
+            "target_text": "כן, נלך לים עכשיו!",
+            "transliteration": "Ken, nelekh la-yam akhshav!",
+            "japanese": "כן, נלך לים עכשיו!",
+            "romaji": "Ken, nelekh la-yam akhshav!"
+          }
+        ]
+      }
     }
   ]
 }
