@@ -1763,6 +1763,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T21:14:24.562982",
+      "dialogue": {
+        "topic": "Please close the window",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, is the window open?",
+            "target_text": "Entschuldigung, ist das Fenster offen?",
+            "japanese": "Entschuldigung, ist das Fenster offen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is open!",
+            "target_text": "Ja, es ist offen!",
+            "japanese": "Ja, es ist offen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Please close it.",
+            "target_text": "Mach es bitte zu.",
+            "japanese": "Mach es bitte zu.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, no problem!",
+            "target_text": "Gern, kein Problem!",
+            "japanese": "Gern, kein Problem!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
