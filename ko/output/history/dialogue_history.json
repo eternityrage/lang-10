@@ -1919,6 +1919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T16:30:40.010451",
+      "dialogue": {
+        "topic": "Today is day one",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like me?",
+            "korean": "나 좋아해?",
+            "romaja": "Na joahae?",
+            "japanese": "나 좋아해?",
+            "romaji": "Na joahae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really do!",
+            "korean": "응, 완전 좋아해!",
+            "romaja": "Eung, wanjeon joahae!",
+            "japanese": "응, 완전 좋아해!",
+            "romaji": "Eung, wanjeon joahae!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? I like you too!",
+            "korean": "진짜? 나도 좋아해!",
+            "romaja": "Jinjja? Nado joahae!",
+            "japanese": "진짜? 나도 좋아해!",
+            "romaji": "Jinjja? Nado joahae!"
+          },
+          {
+            "speaker": "B",
+            "english": "Then today is day one!",
+            "korean": "그럼 오늘부터 1일!",
+            "romaja": "Geureom oneulbuteo iril!",
+            "japanese": "그럼 오늘부터 1일!",
+            "romaji": "Geureom oneulbuteo iril!"
+          }
+        ]
+      }
     }
   ]
 }
