@@ -1879,6 +1879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T10:48:42.686156",
+      "dialogue": {
+        "topic": "Buying a Hat in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this hat?",
+            "korean": "이 모자 얼마예요?",
+            "romaja": "I moja eolmayeyo?",
+            "japanese": "이 모자 얼마예요?",
+            "romaji": "I moja eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's just 10,000 won!",
+            "korean": "딱 만 원이에요!",
+            "romaja": "Ttak man won-ieyo!",
+            "japanese": "딱 만 원이에요!",
+            "romaji": "Ttak man won-ieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Please give me this one.",
+            "korean": "이거 하나 주세요.",
+            "romaja": "Igeo hana juseyo.",
+            "japanese": "이거 하나 주세요.",
+            "romaji": "Igeo hana juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thank you very much!",
+            "korean": "네, 정말 감사합니다!",
+            "romaja": "Ne, jeongmal gamsahamnida!",
+            "japanese": "네, 정말 감사합니다!",
+            "romaji": "Ne, jeongmal gamsahamnida!"
+          }
+        ]
+      }
     }
   ]
 }
