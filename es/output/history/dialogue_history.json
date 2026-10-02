@@ -1691,6 +1691,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T10:48:47.700029",
+      "dialogue": {
+        "topic": "Ordering a tortilla tapa",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there tapas today?",
+            "target_text": "Hola, ¿hay tapas hoy?",
+            "japanese": "Hola, ¿hay tapas hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there are tasty tapas!",
+            "target_text": "¡Sí, hay tapas ricas!",
+            "japanese": "¡Sí, hay tapas ricas!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One tortilla, please.",
+            "target_text": "Una tortilla, por favor.",
+            "japanese": "Una tortilla, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, right now.",
+            "target_text": "Claro, ahora mismo.",
+            "japanese": "Claro, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
