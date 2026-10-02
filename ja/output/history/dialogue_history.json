@@ -1439,6 +1439,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T01:56:44.314079",
+      "dialogue": {
+        "topic": "Anime-style friendship power",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, let's go!",
+            "japanese": "マグさん、いきましょう！",
+            "romaji": "Magu-san, ikimashou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I won't lose!",
+            "japanese": "はい！まけません！",
+            "romaji": "Hai! Makemasen!"
+          },
+          {
+            "speaker": "A",
+            "english": "We are friends.",
+            "japanese": "わたしたちは ともだちです。",
+            "romaji": "Watashitachi wa tomodachi desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Friends are strong!",
+            "japanese": "ともだちは つよいです！",
+            "romaji": "Tomodachi wa tsuyoi desu!"
+          }
+        ]
+      }
     }
   ]
 }
