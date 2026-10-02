@@ -1471,6 +1471,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T10:49:12.751736",
+      "dialogue": {
+        "topic": "Cute Blush",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, your face is red.",
+            "japanese": "マグさん、かおが あかいです。",
+            "romaji": "Magu-san, kao ga akai desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Oh! I am shy.",
+            "japanese": "えっ！とても はずかしいです。",
+            "romaji": "Eh! Totemo hazukashii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "But you are cute.",
+            "japanese": "でも、とても かわいいです。",
+            "romaji": "Demo, totemo kawaii desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you. I am happy.",
+            "japanese": "ありがとう。うれしいです。",
+            "romaji": "Arigatou. Ureshii desu."
+          }
+        ]
+      }
     }
   ]
 }
