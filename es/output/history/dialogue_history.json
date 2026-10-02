@@ -1727,6 +1727,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T16:30:20.851018",
+      "dialogue": {
+        "topic": "Buying fresh bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have fresh bread?",
+            "target_text": "Hola, ¿tiene pan fresco?",
+            "japanese": "Hola, ¿tiene pan fresco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very good!",
+            "target_text": "¡Sí, está muy rico!",
+            "japanese": "¡Sí, está muy rico!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want two, please.",
+            "target_text": "Quiero dos, por favor.",
+            "japanese": "Quiero dos, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go.",
+            "target_text": "Claro, aquí tiene.",
+            "japanese": "Claro, aquí tiene.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
