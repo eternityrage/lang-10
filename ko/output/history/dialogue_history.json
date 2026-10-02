@@ -1959,6 +1959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T21:14:08.137959",
+      "dialogue": {
+        "topic": "Can I hold your hand?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can I hold your hand?",
+            "korean": "손 잡아도 돼?",
+            "romaja": "Son jabado dwae?",
+            "japanese": "손 잡아도 돼?",
+            "romaji": "Son jabado dwae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like it!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "My heart is fluttering.",
+            "korean": "나 지금 설레.",
+            "romaja": "Na jigeum seolle.",
+            "japanese": "나 지금 설레.",
+            "romaji": "Na jigeum seolle."
+          },
+          {
+            "speaker": "B",
+            "english": "Me too, a lot.",
+            "korean": "나도 많이 설레.",
+            "romaja": "Nado mani seolle.",
+            "japanese": "나도 많이 설레.",
+            "romaji": "Nado mani seolle."
+          }
+        ]
+      }
     }
   ]
 }
