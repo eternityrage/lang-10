@@ -1763,6 +1763,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-02T21:14:12.743203",
+      "dialogue": {
+        "topic": "Duomo in Florence",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Go to the Duomo?",
+            "target_text": "Andiamo al Duomo?",
+            "japanese": "Andiamo al Duomo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, how beautiful!",
+            "target_text": "Sì, che bello!",
+            "japanese": "Sì, che bello!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far?",
+            "target_text": "È lontano da qui?",
+            "japanese": "È lontano da qui?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, we are close.",
+            "target_text": "No, siamo vicini.",
+            "japanese": "No, siamo vicini.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
