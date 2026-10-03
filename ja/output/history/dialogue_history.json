@@ -1663,6 +1663,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T19:44:03.738481",
+      "dialogue": {
+        "topic": "Sweet Blush",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, am I sweet?",
+            "japanese": "マグさん、わたし あまいですか？",
+            "romaji": "Magu-san, watashi amai desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Very sweet.",
+            "japanese": "はい！とても あまいです。",
+            "romaji": "Hai! Totemo amai desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Hehe, I’m shy.",
+            "japanese": "えへへ、すこし はずかしいです。",
+            "romaji": "Ehehe, sukoshi hazukashii desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Your cheeks are red!",
+            "japanese": "ほっぺが あかいです！",
+            "romaji": "Hoppe ga akai desu!"
+          }
+        ]
+      }
     }
   ]
 }
