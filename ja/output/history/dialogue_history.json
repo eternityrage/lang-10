@@ -1567,6 +1567,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T01:38:42.995462",
+      "dialogue": {
+        "topic": "Bus Ride",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, the bus came!",
+            "japanese": "マグ、バスが きました！",
+            "romaji": "Magu, basu ga kimashita!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's get on.",
+            "japanese": "はい、のりましょう。",
+            "romaji": "Hai, norimashou."
+          },
+          {
+            "speaker": "A",
+            "english": "Is this seat OK?",
+            "japanese": "この せき、いいですか？",
+            "romaji": "Kono seki, ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please sit.",
+            "japanese": "はい、すわってください。",
+            "romaji": "Hai, suwatte kudasai."
+          }
+        ]
+      }
     }
   ]
 }
