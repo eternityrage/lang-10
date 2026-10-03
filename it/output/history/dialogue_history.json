@@ -1871,6 +1871,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T15:04:32.267528",
+      "dialogue": {
+        "topic": "Florence walk to Ponte Vecchio",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is Ponte Vecchio?",
+            "target_text": "Ciao, dov'è Ponte Vecchio?",
+            "japanese": "Ciao, dov'è Ponte Vecchio?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's close, how beautiful!",
+            "target_text": "È vicino, che bello!",
+            "japanese": "È vicino, che bello!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go on foot?",
+            "target_text": "Andiamo a piedi?",
+            "japanese": "Andiamo a piedi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Florence is magical!",
+            "target_text": "Sì, Firenze è magica!",
+            "japanese": "Sì, Firenze è magica!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
