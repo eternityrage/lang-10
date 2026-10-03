@@ -2159,6 +2159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T15:04:01.574615",
+      "dialogue": {
+        "topic": "Compliment: You're awesome",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, hello!",
+            "chinese": "嗨，你好！",
+            "pinyin": "Hāi, nǐ hǎo!",
+            "japanese": "嗨，你好！",
+            "romaji": "Hāi, nǐ hǎo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi there!",
+            "chinese": "你好呀！",
+            "pinyin": "Nǐ hǎo ya!",
+            "japanese": "你好呀！",
+            "romaji": "Nǐ hǎo ya!"
+          },
+          {
+            "speaker": "A",
+            "english": "You're awesome!",
+            "chinese": "你真棒！",
+            "pinyin": "Nǐ zhēn bàng!",
+            "japanese": "你真棒！",
+            "romaji": "Nǐ zhēn bàng!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you!",
+            "chinese": "谢谢你！",
+            "pinyin": "Xièxie nǐ!",
+            "japanese": "谢谢你！",
+            "romaji": "Xièxie nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
