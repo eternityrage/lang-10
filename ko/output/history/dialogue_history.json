@@ -2119,6 +2119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T19:43:51.000332",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Pocha tonight, okay?",
+            "korean": "오늘 밤 포차 갈래?",
+            "romaja": "Oneul bam pocha gallae?",
+            "japanese": "오늘 밤 포차 갈래?",
+            "romaji": "Oneul bam pocha gallae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am hungry!",
+            "korean": "좋아, 나 배고파!",
+            "romaja": "Joa, na baegopa!",
+            "japanese": "좋아, 나 배고파!",
+            "romaji": "Joa, na baegopa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want some hot eomuk?",
+            "korean": "뜨거운 어묵 먹을래?",
+            "romaja": "Tteugeoun eomuk meogeullae?",
+            "japanese": "뜨거운 어묵 먹을래?",
+            "romaji": "Tteugeoun eomuk meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sit here!",
+            "korean": "응, 여기 앉자!",
+            "romaja": "Eung, yeogi anja!",
+            "japanese": "응, 여기 앉자!",
+            "romaji": "Eung, yeogi anja!"
+          }
+        ]
+      }
     }
   ]
 }
