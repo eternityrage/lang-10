@@ -1871,6 +1871,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T15:04:06.415767",
+      "dialogue": {
+        "topic": "Movie tonight",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, movie today?",
+            "target_text": "Oi, filme hoje?",
+            "japanese": "Oi, filme hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, I love movies!",
+            "target_text": "Claro, adoro filme!",
+            "japanese": "Claro, adoro filme!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "At eight, okay?",
+            "target_text": "Às oito, pode?",
+            "japanese": "Às oito, pode?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, see you then!",
+            "target_text": "Pode, até lá!",
+            "japanese": "Pode, até lá!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
