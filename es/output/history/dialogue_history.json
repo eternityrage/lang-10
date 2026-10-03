@@ -1835,6 +1835,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T10:08:35.873718",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we go to Madrid?",
+            "target_text": "¿Vamos a Madrid?",
+            "japanese": "¿Vamos a Madrid?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "target_text": "¡Sí, me encanta!",
+            "japanese": "¡Sí, me encanta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And Barcelona tomorrow?",
+            "target_text": "¿Y Barcelona mañana?",
+            "japanese": "¿Y Barcelona mañana?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, let's go together.",
+            "target_text": "Perfecto, vamos juntos.",
+            "japanese": "Perfecto, vamos juntos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
