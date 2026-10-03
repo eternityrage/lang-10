@@ -1835,6 +1835,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T10:08:21.381890",
+      "dialogue": {
+        "topic": "Street Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how are you?",
+            "target_text": "Bonjour, ça va ?",
+            "japanese": "Bonjour, ça va ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very well!",
+            "target_text": "Oui, très bien !",
+            "japanese": "Oui, très bien !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Beautiful day, right?",
+            "target_text": "Belle journée, non ?",
+            "japanese": "Belle journée, non ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good day!",
+            "target_text": "Oui, bonne journée !",
+            "japanese": "Oui, bonne journée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
