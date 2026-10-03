@@ -1907,6 +1907,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T19:43:59.658652",
+      "dialogue": {
+        "topic": "Ordering water politely",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, a water, please?",
+            "target_text": "Entschuldigung, ein Wasser, bitte?",
+            "japanese": "Entschuldigung, ein Wasser, bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With ice, please.",
+            "target_text": "Mit Eis, bitte.",
+            "japanese": "Mit Eis, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Coming right away, here you go.",
+            "target_text": "Kommt sofort, bitte schön.",
+            "japanese": "Kommt sofort, bitte schön.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
