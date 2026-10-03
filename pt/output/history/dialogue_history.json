@@ -1907,6 +1907,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T19:43:57.678320",
+      "dialogue": {
+        "topic": "Street slang greeting: de boa",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, all good?",
+            "target_text": "E aí, de boa?",
+            "japanese": "E aí, de boa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’m good, thanks!",
+            "target_text": "Tô de boa, valeu!",
+            "japanese": "Tô de boa, valeu!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a walk?",
+            "target_text": "Bora dar uma volta?",
+            "japanese": "Bora dar uma volta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go, right now!",
+            "target_text": "Bora, partiu agora!",
+            "japanese": "Bora, partiu agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
