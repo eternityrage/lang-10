@@ -1907,6 +1907,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T19:44:04.555489",
+      "dialogue": {
+        "topic": "Greetings & Compliments - Nice Coat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what a nice coat.",
+            "target_text": "Hola, qué abrigo tan bonito.",
+            "japanese": "Hola, qué abrigo tan bonito.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, I am very happy.",
+            "target_text": "Gracias, estoy muy feliz.",
+            "japanese": "Gracias, estoy muy feliz.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "It looks very good on you.",
+            "target_text": "Te queda muy bien.",
+            "japanese": "Te queda muy bien.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are very kind.",
+            "target_text": "Gracias, eres muy amable.",
+            "japanese": "Gracias, eres muy amable.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
