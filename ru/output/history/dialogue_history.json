@@ -2079,6 +2079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T01:38:49.708020",
+      "dialogue": {
+        "topic": "Cute compliment: A cozy scarf",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is this your scarf?",
+            "russian": "Привет, это твой шарф?",
+            "translit": "Privet, eto tvoy sharf?",
+            "japanese": "Привет, это твой шарф?",
+            "romaji": "Privet, eto tvoy sharf?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "russian": "Да, я люблю его!",
+            "translit": "Da, ya lyublyu ego!",
+            "japanese": "Да, я люблю его!",
+            "romaji": "Da, ya lyublyu ego!"
+          },
+          {
+            "speaker": "A",
+            "english": "It really suits you!",
+            "russian": "Он тебе очень идёт!",
+            "translit": "On tebe ochen' idyot!",
+            "japanese": "Он тебе очень идёт!",
+            "romaji": "On tebe ochen' idyot!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, that's very nice!",
+            "russian": "Спасибо, очень приятно!",
+            "translit": "Spasibo, ochen' priyatno!",
+            "japanese": "Спасибо, очень приятно!",
+            "romaji": "Spasibo, ochen' priyatno!"
+          }
+        ]
+      }
     }
   ]
 }
