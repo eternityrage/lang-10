@@ -1907,6 +1907,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T19:44:03.778855",
+      "dialogue": {
+        "topic": "Buying a train ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, a ticket to Turin?",
+            "target_text": "Buongiorno, un biglietto per Torino?",
+            "japanese": "Buongiorno, un biglietto per Torino?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, one way?",
+            "target_text": "Certo, solo andata?",
+            "japanese": "Certo, solo andata?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, how much is it?",
+            "target_text": "Sì, quanto costa?",
+            "japanese": "Sì, quanto costa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It costs ten euros.",
+            "target_text": "Costa dieci euro.",
+            "japanese": "Costa dieci euro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
