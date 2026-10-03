@@ -1835,6 +1835,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T10:08:32.915967",
+      "dialogue": {
+        "topic": "Florence walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the Duomo?",
+            "target_text": "Ciao, dov'è il Duomo?",
+            "japanese": "Ciao, dov'è il Duomo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's nearby, let's go!",
+            "target_text": "È vicino, andiamo!",
+            "japanese": "È vicino, andiamo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do we pass by the bridge?",
+            "target_text": "Passiamo dal ponte?",
+            "japanese": "Passiamo dal ponte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, then a gelato!",
+            "target_text": "Sì, poi un gelato!",
+            "japanese": "Sì, poi un gelato!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
