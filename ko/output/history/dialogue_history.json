@@ -2039,6 +2039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T10:08:23.691060",
+      "dialogue": {
+        "topic": "Walk together, heart flutter",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have time today?",
+            "korean": "오늘 시간 있어요?",
+            "romaja": "Oneul sigan isseoyo?",
+            "japanese": "오늘 시간 있어요?",
+            "romaji": "Oneul sigan isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I have time!",
+            "korean": "네, 시간 있어요!",
+            "romaja": "Ne, sigan isseoyo!",
+            "japanese": "네, 시간 있어요!",
+            "romaji": "Ne, sigan isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk together?",
+            "korean": "저랑 같이 걸을까요?",
+            "romaja": "Jeorang gachi georeulkkayo?",
+            "japanese": "저랑 같이 걸을까요?",
+            "romaji": "Jeorang gachi georeulkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I'm fluttering too!",
+            "korean": "좋아요, 저도 설레요!",
+            "romaja": "Joayo, jeodo seolleoyo!",
+            "japanese": "좋아요, 저도 설레요!",
+            "romaji": "Joayo, jeodo seolleoyo!"
+          }
+        ]
+      }
     }
   ]
 }
