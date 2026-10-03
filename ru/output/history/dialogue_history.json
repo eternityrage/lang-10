@@ -2159,6 +2159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T15:04:09.721552",
+      "dialogue": {
+        "topic": "Cute Russian Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you have cute eyes!",
+            "russian": "Привет, у тебя милые глаза!",
+            "translit": "Privet, u tebya milye glaza!",
+            "japanese": "Привет, у тебя милые глаза!",
+            "romaji": "Privet, u tebya milye glaza!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you, very nice!",
+            "russian": "Спасибо, очень приятно!",
+            "translit": "Spasibo, ochen priyatno!",
+            "japanese": "Спасибо, очень приятно!",
+            "romaji": "Spasibo, ochen priyatno!"
+          },
+          {
+            "speaker": "A",
+            "english": "You are very pretty today.",
+            "russian": "Ты сегодня очень красивая.",
+            "translit": "Ty segodnya ochen krasivaya.",
+            "japanese": "Ты сегодня очень красивая.",
+            "romaji": "Ty segodnya ochen krasivaya."
+          },
+          {
+            "speaker": "B",
+            "english": "Oh, you are cute too!",
+            "russian": "Ой, ты тоже милый!",
+            "translit": "Oy, ty tozhe milyy!",
+            "japanese": "Ой, ты тоже милый!",
+            "romaji": "Oy, ty tozhe milyy!"
+          }
+        ]
+      }
     }
   ]
 }
