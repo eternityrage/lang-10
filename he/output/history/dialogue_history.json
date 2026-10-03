@@ -2039,6 +2039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T10:08:27.581094",
+      "dialogue": {
+        "topic": "Buying tomatoes at Shuk Carmel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much are the tomatoes?",
+            "target_text": "שלום, כמה עולות העגבניות?",
+            "transliteration": "Shalom, kama olot ha-agvaniyot?",
+            "japanese": "שלום, כמה עולות העגבניות?",
+            "romaji": "Shalom, kama olot ha-agvaniyot?"
+          },
+          {
+            "speaker": "B",
+            "english": "They are very cheap today!",
+            "target_text": "הן זולות מאוד היום!",
+            "transliteration": "Hen zolot me'od hayom!",
+            "japanese": "הן זולות מאוד היום!",
+            "romaji": "Hen zolot me'od hayom!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, I want one kilo.",
+            "target_text": "יופי, אני רוצה קילו.",
+            "transliteration": "Yofi, ani rotze kilo.",
+            "japanese": "יופי, אני רוצה קילו.",
+            "romaji": "Yofi, ani rotze kilo."
+          },
+          {
+            "speaker": "B",
+            "english": "With pleasure, here is a kilo.",
+            "target_text": "בשמחה, הנה קילו.",
+            "transliteration": "Be-simcha, hine kilo.",
+            "japanese": "בשמחה, הנה קילו.",
+            "romaji": "Be-simcha, hine kilo."
+          }
+        ]
+      }
     }
   ]
 }
