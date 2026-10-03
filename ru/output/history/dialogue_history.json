@@ -2199,6 +2199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T19:43:50.798517",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we walk?",
+            "russian": "Привет, пойдём гулять?",
+            "translit": "Privet, poydyom gulyat'?",
+            "japanese": "Привет, пойдём гулять?",
+            "romaji": "Privet, poydyom gulyat'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the weather is wonderful!",
+            "russian": "Да, погода чудесная!",
+            "translit": "Da, pogoda chudesnaya!",
+            "japanese": "Да, погода чудесная!",
+            "romaji": "Da, pogoda chudesnaya!"
+          },
+          {
+            "speaker": "A",
+            "english": "Put on a warm hat.",
+            "russian": "Надень тёплую шапку.",
+            "translit": "Naden' tyopluyu shapku.",
+            "japanese": "Надень тёплую шапку.",
+            "romaji": "Naden' tyopluyu shapku."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, let's go to the park!",
+            "russian": "Хорошо, идём в парк!",
+            "translit": "Khorosho, idyom v park!",
+            "japanese": "Хорошо, идём в парк!",
+            "romaji": "Khorosho, idyom v park!"
+          }
+        ]
+      }
     }
   ]
 }
