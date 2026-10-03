@@ -1999,6 +1999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T01:39:17.096169",
+      "dialogue": {
+        "topic": "Spicy Tteokbokki",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want spicy tteokbokki?",
+            "korean": "매운 떡볶이 먹을래?",
+            "romaja": "Maeun tteokbokki meogeullae?",
+            "japanese": "매운 떡볶이 먹을래?",
+            "romaji": "Maeun tteokbokki meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Drink water too?",
+            "korean": "물도 같이 마실까?",
+            "romaja": "Muldo gachi masilkka?",
+            "japanese": "물도 같이 마실까?",
+            "romaji": "Muldo gachi masilkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's eat together!",
+            "korean": "좋아, 같이 먹자!",
+            "romaja": "Joa, gachi meokja!",
+            "japanese": "좋아, 같이 먹자!",
+            "romaji": "Joa, gachi meokja!"
+          }
+        ]
+      }
     }
   ]
 }
