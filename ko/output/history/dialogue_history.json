@@ -2079,6 +2079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T15:04:03.436551",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want pocha tonight?",
+            "korean": "오늘 밤 포차 갈래?",
+            "romaja": "Oneul bam pocha gallae?",
+            "japanese": "오늘 밤 포차 갈래?",
+            "romaji": "Oneul bam pocha gallae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "응, 완전 좋아!",
+            "romaja": "Eung, wanjeon joa!",
+            "japanese": "응, 완전 좋아!",
+            "romaji": "Eung, wanjeon joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want hot odeng too?",
+            "korean": "뜨거운 오뎅도 먹을래?",
+            "romaja": "Tteugeoun odengdo meogeullae?",
+            "japanese": "뜨거운 오뎅도 먹을래?",
+            "romaji": "Tteugeoun odengdo meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's eat together!",
+            "korean": "좋아, 같이 먹자!",
+            "romaja": "Joa, gachi meokja!",
+            "japanese": "좋아, 같이 먹자!",
+            "romaji": "Joa, gachi meokja!"
+          }
+        ]
+      }
     }
   ]
 }
