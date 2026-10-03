@@ -1871,6 +1871,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T15:04:06.203249",
+      "dialogue": {
+        "topic": "Ordering patatas bravas at a café",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there patatas bravas?",
+            "target_text": "Hola, ¿hay patatas bravas?",
+            "japanese": "Hola, ¿hay patatas bravas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very tasty!",
+            "target_text": "¡Sí, están muy ricas!",
+            "japanese": "¡Sí, están muy ricas!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One tapa, please.",
+            "target_text": "Una tapa, por favor.",
+            "japanese": "Una tapa, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, right away.",
+            "target_text": "Perfecto, ahora mismo.",
+            "japanese": "Perfecto, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
