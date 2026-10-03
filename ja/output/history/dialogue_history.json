@@ -1631,6 +1631,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T15:04:06.660527",
+      "dialogue": {
+        "topic": "Warming food at the convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "This, please.",
+            "japanese": "これ、ください。",
+            "romaji": "Kore, kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Heat it?",
+            "japanese": "あたためますか？",
+            "romaji": "Atatamemasu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, please.",
+            "japanese": "はい、おねがいします。",
+            "romaji": "Hai, onegai shimasu."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          }
+        ]
+      }
     }
   ]
 }
