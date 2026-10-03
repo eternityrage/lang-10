@@ -1907,6 +1907,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T19:43:50.489578",
+      "dialogue": {
+        "topic": "A warm croissant at a Paris bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, a croissant?",
+            "target_text": "Bonjour, un croissant ?",
+            "japanese": "Bonjour, un croissant ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "It is nice and warm.",
+            "target_text": "Il est tout chaud.",
+            "japanese": "Il est tout chaud.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, thank you very much!",
+            "target_text": "Parfait, merci beaucoup !",
+            "japanese": "Parfait, merci beaucoup !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
