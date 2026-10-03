@@ -1599,6 +1599,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T10:08:50.618065",
+      "dialogue": {
+        "topic": "Convenience Store: Buying a Rice Ball",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this rice ball?",
+            "japanese": "この おにぎり、いくらですか？",
+            "romaji": "Kono onigiri, ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's 100 yen.",
+            "japanese": "100えんです。",
+            "romaji": "Hyaku-en desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, this please.",
+            "japanese": "じゃあ、これ ください。",
+            "romaji": "Jaa, kore kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
