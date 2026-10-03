@@ -1871,6 +1871,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-03T15:04:06.751263",
+      "dialogue": {
+        "topic": "Cafe table and coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this table free?",
+            "target_text": "Hallo, ist der Tisch frei?",
+            "japanese": "Hallo, ist der Tisch frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, please sit down!",
+            "target_text": "Ja, klar, setzen Sie sich!",
+            "japanese": "Ja, klar, setzen Sie sich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, I’ll have a coffee.",
+            "target_text": "Danke, ich nehme einen Kaffee.",
+            "japanese": "Danke, ich nehme einen Kaffee.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, coming right away!",
+            "target_text": "Gern, kommt sofort!",
+            "japanese": "Gern, kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
