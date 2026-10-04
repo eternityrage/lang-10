@@ -2359,6 +2359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T19:57:59.229007",
+      "dialogue": {
+        "topic": "Convenience Store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have gum?",
+            "russian": "Здравствуйте, есть жвачка?",
+            "translit": "Zdravstvuyte, yest' zhvachka?",
+            "japanese": "Здравствуйте, есть жвачка?",
+            "romaji": "Zdravstvuyte, yest' zhvachka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here it is!",
+            "russian": "Да, вот она!",
+            "translit": "Da, vot ona!",
+            "japanese": "Да, вот она!",
+            "romaji": "Da, vot ona!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one?",
+            "russian": "Сколько стоит одна?",
+            "translit": "Skol'ko stoit odna?",
+            "japanese": "Сколько стоит одна?",
+            "romaji": "Skol'ko stoit odna?"
+          },
+          {
+            "speaker": "B",
+            "english": "Fifty rubles, please.",
+            "russian": "Пятьдесят рублей, пожалуйста.",
+            "translit": "Pyat'desyat rubley, pozhaluysta.",
+            "japanese": "Пятьдесят рублей, пожалуйста.",
+            "romaji": "Pyat'desyat rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
