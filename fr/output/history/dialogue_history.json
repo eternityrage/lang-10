@@ -2015,6 +2015,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T15:41:51.641082",
+      "dialogue": {
+        "topic": "Romantic walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you free?",
+            "target_text": "Salut, tu es libre ?",
+            "japanese": "Salut, tu es libre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, for you.",
+            "target_text": "Oui, pour toi.",
+            "japanese": "Oui, pour toi.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you want to walk?",
+            "target_text": "Tu veux marcher ?",
+            "japanese": "Tu veux marcher ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With you, always.",
+            "target_text": "Avec toi, toujours.",
+            "japanese": "Avec toi, toujours.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
