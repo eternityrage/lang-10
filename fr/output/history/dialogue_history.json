@@ -2051,6 +2051,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T19:58:19.095182",
+      "dialogue": {
+        "topic": "A quick snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you hungry?",
+            "target_text": "Salut, tu as faim ?",
+            "japanese": "Salut, tu as faim ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hungry!",
+            "target_text": "Oui, très faim !",
+            "japanese": "Oui, très faim !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we eat an apple?",
+            "target_text": "On mange une pomme ?",
+            "japanese": "On mange une pomme ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, good idea!",
+            "target_text": "Oui, bonne idée !",
+            "japanese": "Oui, bonne idée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
