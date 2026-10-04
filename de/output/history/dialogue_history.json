@@ -1943,6 +1943,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T02:20:23.155404",
+      "dialogue": {
+        "topic": "Cafe & Biergarten: Sitzplatz und Getränk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this seat free?",
+            "target_text": "Hallo, ist hier frei?",
+            "japanese": "Hallo, ist hier frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, this seat is free!",
+            "target_text": "Ja, hier ist frei!",
+            "japanese": "Ja, hier ist frei!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What are you drinking today?",
+            "target_text": "Was trinkst du heute?",
+            "japanese": "Was trinkst du heute?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’ll have an apple spritzer.",
+            "target_text": "Ich nehme eine Apfelschorle.",
+            "japanese": "Ich nehme eine Apfelschorle.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
