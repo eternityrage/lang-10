@@ -2199,6 +2199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T10:49:31.527798",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, want some shade?",
+            "target_text": "היי, רוצה קצת צל?",
+            "transliteration": "Hey, rotze ktzat tzel?",
+            "japanese": "היי, רוצה קצת צל?",
+            "romaji": "Hey, rotze ktzat tzel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's very nice!",
+            "target_text": "כן, זה ממש נעים!",
+            "transliteration": "Ken, ze mamash na'im!",
+            "japanese": "כן, זה ממש נעים!",
+            "romaji": "Ken, ze mamash na'im!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do we have water?",
+            "target_text": "יש לנו מים?",
+            "transliteration": "Yesh lanu mayim?",
+            "japanese": "יש לנו מים?",
+            "romaji": "Yesh lanu mayim?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's drink now!",
+            "target_text": "כן, נשתה עכשיו!",
+            "transliteration": "Ken, nishte achshav!",
+            "japanese": "כן, נשתה עכשיו!",
+            "romaji": "Ken, nishte achshav!"
+          }
+        ]
+      }
     }
   ]
 }
