@@ -2239,6 +2239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T15:40:30.079045",
+      "dialogue": {
+        "topic": "Sweet hotteok snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want sweet hotteok?",
+            "korean": "달콤한 호떡 먹을래?",
+            "romaja": "Dalkomhan hotteok meogeullae?",
+            "japanese": "달콤한 호떡 먹을래?",
+            "romaji": "Dalkomhan hotteok meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we buy one?",
+            "korean": "우리 하나 살까?",
+            "romaja": "Uri hana salkka?",
+            "japanese": "우리 하나 살까?",
+            "romaji": "Uri hana salkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let’s share!",
+            "korean": "좋아요, 나눠 먹어요!",
+            "romaja": "Joayo, nanwo meogeoyo!",
+            "japanese": "좋아요, 나눠 먹어요!",
+            "romaji": "Joayo, nanwo meogeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
