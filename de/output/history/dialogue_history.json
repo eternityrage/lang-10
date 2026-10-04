@@ -2051,6 +2051,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T19:58:10.682105",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, one pretzel, please.",
+            "target_text": "Guten Morgen, eine Brezel, bitte.",
+            "japanese": "Guten Morgen, eine Brezel, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, with butter?",
+            "target_text": "Sehr gern, mit Butter?",
+            "japanese": "Sehr gern, mit Butter?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, please with butter.",
+            "target_text": "Ja, bitte mit Butter.",
+            "japanese": "Ja, bitte mit Butter.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, that is two euros.",
+            "target_text": "Super, das macht zwei Euro.",
+            "japanese": "Super, das macht zwei Euro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
