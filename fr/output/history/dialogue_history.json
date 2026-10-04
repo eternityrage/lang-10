@@ -1979,6 +1979,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T10:49:26.836009",
+      "dialogue": {
+        "topic": "Street Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you okay?",
+            "target_text": "Salut, tu vas bien ?",
+            "japanese": "Salut, tu vas bien ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very well, thanks!",
+            "target_text": "Oui, très bien, merci !",
+            "japanese": "Oui, très bien, merci !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you walking around?",
+            "target_text": "Tu te promènes ?",
+            "japanese": "Tu te promènes ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you later!",
+            "target_text": "Oui, à plus tard !",
+            "japanese": "Oui, à plus tard !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
