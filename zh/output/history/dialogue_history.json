@@ -2279,6 +2279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T10:51:29.803342",
+      "dialogue": {
+        "topic": "You’re awesome!",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi there!",
+            "chinese": "你好呀！",
+            "pinyin": "Nǐ hǎo ya!",
+            "japanese": "你好呀！",
+            "romaji": "Nǐ hǎo ya!"
+          },
+          {
+            "speaker": "B",
+            "english": "I’m great!",
+            "chinese": "我很好！",
+            "pinyin": "Wǒ hěn hǎo!",
+            "japanese": "我很好！",
+            "romaji": "Wǒ hěn hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "You’re awesome!",
+            "chinese": "你真棒！",
+            "pinyin": "Nǐ zhēn bàng!",
+            "japanese": "你真棒！",
+            "romaji": "Nǐ zhēn bàng!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you!",
+            "chinese": "谢谢你！",
+            "pinyin": "Xièxie nǐ!",
+            "japanese": "谢谢你！",
+            "romaji": "Xièxie nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
