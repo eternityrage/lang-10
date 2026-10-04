@@ -2159,6 +2159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T02:20:20.895496",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what's up today?",
+            "target_text": "היי, מה נשמע היום?",
+            "transliteration": "Hey, ma nishma hayom?",
+            "japanese": "היי, מה נשמע היום?",
+            "romaji": "Hey, ma nishma hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Totally great, thanks!",
+            "target_text": "סבבה לגמרי, תודה!",
+            "transliteration": "Sababa legamrei, toda!",
+            "japanese": "סבבה לגמרי, תודה!",
+            "romaji": "Sababa legamrei, toda!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, want to stroll?",
+            "target_text": "יופי, בא לך לטייל?",
+            "transliteration": "Yofi, ba lecha letayel?",
+            "japanese": "יופי, בא לך לטייל?",
+            "romaji": "Yofi, ba lecha letayel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "כן, יאללה, בוא נלך!",
+            "transliteration": "Ken, yalla, bo nelech!",
+            "japanese": "כן, יאללה, בוא נלך!",
+            "romaji": "Ken, yalla, bo nelech!"
+          }
+        ]
+      }
     }
   ]
 }
