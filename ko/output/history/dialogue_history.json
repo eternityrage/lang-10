@@ -2159,6 +2159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T02:20:12.000573",
+      "dialogue": {
+        "topic": "Gangnam cafe iced latte",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Go to a Gangnam cafe?",
+            "korean": "강남 카페 갈래요?",
+            "romaja": "Gangnam kape gallaeyo?",
+            "japanese": "강남 카페 갈래요?",
+            "romaji": "Gangnam kape gallaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds really good!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want an iced latte?",
+            "korean": "아이스 라테 마실래요?",
+            "romaja": "Aiseu rate masillaeyo?",
+            "japanese": "아이스 라테 마실래요?",
+            "romaji": "Aiseu rate masillaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's drink together!",
+            "korean": "좋아요, 같이 마셔요!",
+            "romaja": "Joayo, gachi masyeoyo!",
+            "japanese": "좋아요, 같이 마셔요!",
+            "romaji": "Joayo, gachi masyeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
