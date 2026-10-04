@@ -2279,6 +2279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T19:58:05.363007",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you like hummus?",
+            "target_text": "שלום, אתה אוהב חומוס?",
+            "transliteration": "Shalom, ata ohev hummus?",
+            "japanese": "שלום, אתה אוהב חומוס?",
+            "romaji": "Shalom, ata ohev hummus?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, hummus is very tasty!",
+            "target_text": "כן, חומוס טעים מאוד!",
+            "transliteration": "Ken, hummus ta'im me'od!",
+            "japanese": "כן, חומוס טעים מאוד!",
+            "romaji": "Ken, hummus ta'im me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "With warm pita?",
+            "target_text": "עם פיתה חמה?",
+            "transliteration": "Im pita hama?",
+            "japanese": "עם פיתה חמה?",
+            "romaji": "Im pita hama?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, enjoy, my friend!",
+            "target_text": "כן, בתיאבון, חבר שלי!",
+            "transliteration": "Ken, bete'avon, haver sheli!",
+            "japanese": "כן, בתיאבון, חבר שלי!",
+            "romaji": "Ken, bete'avon, haver sheli!"
+          }
+        ]
+      }
     }
   ]
 }
