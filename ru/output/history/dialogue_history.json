@@ -2319,6 +2319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T15:40:25.687061",
+      "dialogue": {
+        "topic": "Cute Russian Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you look cute today.",
+            "russian": "Привет, ты сегодня мило выглядишь.",
+            "translit": "Privet, ty segodnya milo vyglyadish.",
+            "japanese": "Привет, ты сегодня мило выглядишь.",
+            "romaji": "Privet, ty segodnya milo vyglyadish."
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, I feel happy!",
+            "russian": "Спасибо, мне очень приятно!",
+            "translit": "Spasibo, mne ochen priyatno!",
+            "japanese": "Спасибо, мне очень приятно!",
+            "romaji": "Spasibo, mne ochen priyatno!"
+          },
+          {
+            "speaker": "A",
+            "english": "Your eyes are kind.",
+            "russian": "У тебя добрые глаза.",
+            "translit": "U tebya dobrye glaza.",
+            "japanese": "У тебя добрые глаза.",
+            "romaji": "U tebya dobrye glaza."
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are super!",
+            "russian": "Спасибо, ты тоже супер!",
+            "translit": "Spasibo, ty tozhe super!",
+            "japanese": "Спасибо, ты тоже супер!",
+            "romaji": "Spasibo, ty tozhe super!"
+          }
+        ]
+      }
     }
   ]
 }
