@@ -1791,6 +1791,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T19:58:25.596573",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is work hard?",
+            "japanese": "マグさん、しごとは たいへんですか？",
+            "romaji": "Magu-san, shigoto wa taihen desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little hard.",
+            "japanese": "はい、すこし たいへんです。",
+            "romaji": "Hai, sukoshi taihen desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, let's rest a little.",
+            "japanese": "じゃあ、すこし やすみましょう。",
+            "romaji": "Jaa, sukoshi yasumimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's snack time.",
+            "japanese": "はい、おやつの じかんです。",
+            "romaji": "Hai, oyatsu no jikan desu."
+          }
+        ]
+      }
     }
   ]
 }
