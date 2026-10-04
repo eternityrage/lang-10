@@ -1979,6 +1979,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T10:49:23.202970",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have margherita pizza?",
+            "target_text": "Ciao, avete pizza margherita?",
+            "japanese": "Ciao, avete pizza margherita?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very good!",
+            "target_text": "Sì, è molto buona!",
+            "japanese": "Sì, è molto buona!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One pizza, please.",
+            "target_text": "Una pizza, per favore.",
+            "japanese": "Una pizza, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Coming right away, enjoy!",
+            "target_text": "Arriva subito, buon appetito!",
+            "japanese": "Arriva subito, buon appetito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
