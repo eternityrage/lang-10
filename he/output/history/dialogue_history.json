@@ -2239,6 +2239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T15:40:25.035795",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there fresh cake?",
+            "target_text": "שלום, יש עוגה טרייה?",
+            "transliteration": "Shalom, yesh uga triya?",
+            "japanese": "שלום, יש עוגה טרייה?",
+            "romaji": "Shalom, yesh uga triya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is fresh cake!",
+            "target_text": "כן, יש עוגה טרייה!",
+            "transliteration": "Ken, yesh uga triya!",
+            "japanese": "כן, יש עוגה טרייה!",
+            "romaji": "Ken, yesh uga triya!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have a small piece?",
+            "target_text": "אפשר חתיכה קטנה?",
+            "transliteration": "Efshar chaticha ktana?",
+            "japanese": "אפשר חתיכה קטנה?",
+            "romaji": "Efshar chaticha ktana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here is a small piece!",
+            "target_text": "בטח, הנה חתיכה קטנה!",
+            "transliteration": "Betach, hine chaticha ktana!",
+            "japanese": "בטח, הנה חתיכה קטנה!",
+            "romaji": "Betach, hine chaticha ktana!"
+          }
+        ]
+      }
     }
   ]
 }
