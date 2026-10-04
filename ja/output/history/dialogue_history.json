@@ -1759,6 +1759,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T15:40:19.470762",
+      "dialogue": {
+        "topic": "Sleepy chill time",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, I'm sleepy.",
+            "japanese": "マグ、ねむいよ。",
+            "romaji": "Magu, nemui yo."
+          },
+          {
+            "speaker": "B",
+            "english": "For real? Me too.",
+            "japanese": "マジ？ぼくも。",
+            "romaji": "Maji? Boku mo."
+          },
+          {
+            "speaker": "A",
+            "english": "Can we rest here?",
+            "japanese": "ここで やすむ？",
+            "romaji": "Koko de yasumu?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, sounds good!",
+            "japanese": "うん、いいね！",
+            "romaji": "Un, ii ne!"
+          }
+        ]
+      }
     }
   ]
 }
