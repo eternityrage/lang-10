@@ -2015,6 +2015,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T15:42:17.555567",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, a small cup, please?",
+            "target_text": "Ciao, una coppetta, per favore?",
+            "japanese": "Ciao, una coppetta, per favore?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Which flavor do you want?",
+            "target_text": "Certo! Quale gusto vuoi?",
+            "japanese": "Certo! Quale gusto vuoi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Strawberry and lemon, thanks.",
+            "target_text": "Fragola e limone, grazie.",
+            "japanese": "Fragola e limone, grazie.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, here it is!",
+            "target_text": "Perfetto, eccola qui!",
+            "japanese": "Perfetto, eccola qui!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
