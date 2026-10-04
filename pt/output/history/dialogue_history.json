@@ -1943,6 +1943,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T02:20:28.767721",
+      "dialogue": {
+        "topic": "Dançar samba na festa",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want to dance?",
+            "target_text": "Oi, quer dançar?",
+            "japanese": "Oi, quer dançar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love samba!",
+            "target_text": "Quero, adoro samba!",
+            "japanese": "Quero, adoro samba!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you know samba?",
+            "target_text": "Você sabe samba?",
+            "japanese": "Você sabe samba?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come on!",
+            "target_text": "Sei sim, vem!",
+            "japanese": "Sei sim, vem!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
