@@ -1727,6 +1727,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T10:49:45.696191",
+      "dialogue": {
+        "topic": "Buying a Shirt",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this shirt?",
+            "japanese": "このシャツ、いくらですか？",
+            "romaji": "Kono shatsu, ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is 500 yen.",
+            "japanese": "500えんです。",
+            "romaji": "Go-hyaku en desu."
+          },
+          {
+            "speaker": "A",
+            "english": "I'll take this.",
+            "japanese": "これ、ください。",
+            "romaji": "Kore, kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
