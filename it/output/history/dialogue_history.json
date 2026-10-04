@@ -1943,6 +1943,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T02:20:19.170968",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you look elegant!",
+            "target_text": "Ciao, come sei elegante!",
+            "japanese": "Ciao, come sei elegante!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are kind!",
+            "target_text": "Grazie, sei gentile!",
+            "japanese": "Grazie, sei gentile!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You have a nice smile.",
+            "target_text": "Hai un bel sorriso.",
+            "japanese": "Hai un bel sorriso.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, how sweet!",
+            "target_text": "Grazie, che dolce!",
+            "japanese": "Grazie, che dolce!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
