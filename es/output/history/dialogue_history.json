@@ -1943,6 +1943,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T02:20:30.859158",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Madrid or Barcelona today?",
+            "target_text": "¿Madrid o Barcelona hoy?",
+            "japanese": "¿Madrid o Barcelona hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Barcelona, so beautiful!",
+            "target_text": "¡Barcelona, qué bonita!",
+            "japanese": "¡Barcelona, qué bonita!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the beach?",
+            "target_text": "¿Vamos a la playa?",
+            "japanese": "¿Vamos a la playa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go now.",
+            "target_text": "Sí, vamos ahora.",
+            "japanese": "Sí, vamos ahora.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
