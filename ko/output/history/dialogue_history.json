@@ -2199,6 +2199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T10:49:25.484185",
+      "dialogue": {
+        "topic": "Tteokbokki spice check",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we eat tteokbokki?",
+            "korean": "우리 떡볶이 먹을까요?",
+            "romaja": "Uri tteokbokki meogeulkkayo?",
+            "japanese": "우리 떡볶이 먹을까요?",
+            "romaji": "Uri tteokbokki meogeulkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is this very spicy?",
+            "korean": "이거 많이 매워요?",
+            "romaja": "Igeo mani maewoyo?",
+            "japanese": "이거 많이 매워요?",
+            "romaji": "Igeo mani maewoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little spicy, delicious!",
+            "korean": "조금 매워요, 맛있어요!",
+            "romaja": "Jogeum maewoyo, masisseoyo!",
+            "japanese": "조금 매워요, 맛있어요!",
+            "romaji": "Jogeum maewoyo, masisseoyo!"
+          }
+        ]
+      }
     }
   ]
 }
