@@ -2015,6 +2015,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T15:40:27.585866",
+      "dialogue": {
+        "topic": "Polite Requests",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, got a moment?",
+            "target_text": "Entschuldigung, haben Sie kurz Zeit?",
+            "japanese": "Entschuldigung, haben Sie kurz Zeit?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sure, gladly.",
+            "target_text": "Ja, klar, sehr gern.",
+            "japanese": "Ja, klar, sehr gern.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Please close the door.",
+            "target_text": "Schließen Sie bitte die Tür.",
+            "japanese": "Schließen Sie bitte die Tür.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, right away.",
+            "target_text": "Ja, natürlich, sofort.",
+            "japanese": "Ja, natürlich, sofort.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
