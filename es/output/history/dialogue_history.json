@@ -2015,6 +2015,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T15:40:16.319931",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you prefer Madrid or Barcelona?",
+            "target_text": "¿Prefieres Madrid o Barcelona?",
+            "japanese": "¿Prefieres Madrid o Barcelona?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Barcelona, I love it!",
+            "target_text": "¡Barcelona, me encanta!",
+            "japanese": "¡Barcelona, me encanta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And Madrid too?",
+            "target_text": "¿Y Madrid también?",
+            "japanese": "¿Y Madrid también?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Madrid is beautiful.",
+            "target_text": "Sí, Madrid es preciosa.",
+            "japanese": "Sí, Madrid es preciosa.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
