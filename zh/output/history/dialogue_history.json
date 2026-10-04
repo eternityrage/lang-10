@@ -2239,6 +2239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T02:20:20.403729",
+      "dialogue": {
+        "topic": "Bargaining at a shop",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, boss!",
+            "chinese": "老板好！",
+            "pinyin": "Lǎobǎn hǎo!",
+            "japanese": "老板好！",
+            "romaji": "Lǎobǎn hǎo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi, have a look!",
+            "chinese": "你好，看看！",
+            "pinyin": "Nǐ hǎo, kànkan!",
+            "japanese": "你好，看看！",
+            "romaji": "Nǐ hǎo, kànkan!"
+          },
+          {
+            "speaker": "A",
+            "english": "Cheaper, okay?",
+            "chinese": "便宜点吗？",
+            "pinyin": "Piányi diǎn ma?",
+            "japanese": "便宜点吗？",
+            "romaji": "Piányi diǎn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, eight yuan.",
+            "chinese": "好，八块。",
+            "pinyin": "Hǎo, bā kuài.",
+            "japanese": "好，八块。",
+            "romaji": "Hǎo, bā kuài."
+          }
+        ]
+      }
     }
   ]
 }
