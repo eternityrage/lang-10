@@ -2015,6 +2015,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T15:40:15.646643",
+      "dialogue": {
+        "topic": "Party & Samba Vibes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we samba?",
+            "target_text": "Oi, vamos sambar?",
+            "japanese": "Oi, vamos sambar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "target_text": "Vamos, eu adoro!",
+            "japanese": "Vamos, eu adoro!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the music good?",
+            "target_text": "A música está boa?",
+            "japanese": "A música está boa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's great, come!",
+            "target_text": "Está ótima, vem!",
+            "japanese": "Está ótima, vem!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
