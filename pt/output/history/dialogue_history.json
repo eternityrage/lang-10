@@ -2051,6 +2051,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-04T19:58:02.788779",
+      "dialogue": {
+        "topic": "Casual street greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, long time!",
+            "target_text": "E aí, sumido?",
+            "japanese": "E aí, sumido?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’m great, and you?",
+            "target_text": "Tô ótimo, e você?",
+            "japanese": "Tô ótimo, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a walk?",
+            "target_text": "Bora dar uma volta?",
+            "japanese": "Bora dar uma volta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Deal, it will be fun!",
+            "target_text": "Fechou, vai ser legal!",
+            "japanese": "Fechou, vai ser legal!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
