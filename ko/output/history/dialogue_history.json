@@ -2319,6 +2319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T01:29:40.573464",
+      "dialogue": {
+        "topic": "Holding Hands",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can we hold hands?",
+            "korean": "우리 손잡아도 돼요?",
+            "romaja": "Uri sonjabado dwaeyo?",
+            "japanese": "우리 손잡아도 돼요?",
+            "romaji": "Uri sonjabado dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "I feel a little nervous.",
+            "korean": "저 조금 떨려요.",
+            "romaja": "Jeo jogeum tteollyeoyo.",
+            "japanese": "저 조금 떨려요.",
+            "romaji": "Jeo jogeum tteollyeoyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Me too, so happy.",
+            "korean": "저도요, 너무 좋아요.",
+            "romaja": "Jeodoyo, neomu joayo.",
+            "japanese": "저도요, 너무 좋아요.",
+            "romaji": "Jeodoyo, neomu joayo."
+          }
+        ]
+      }
     }
   ]
 }
