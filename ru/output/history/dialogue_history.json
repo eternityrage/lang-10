@@ -2399,6 +2399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T01:30:06.076203",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how is the weather?",
+            "russian": "Привет, как погода?",
+            "translit": "Privet, kak pogoda?",
+            "japanese": "Привет, как погода?",
+            "romaji": "Privet, kak pogoda?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, the snow is soft!",
+            "russian": "Отлично, снег мягкий!",
+            "translit": "Otlichno, sneg myagkiy!",
+            "japanese": "Отлично, снег мягкий!",
+            "romaji": "Otlichno, sneg myagkiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "To the park?",
+            "russian": "Идём в парк?",
+            "translit": "Idyom v park?",
+            "japanese": "Идём в парк?",
+            "romaji": "Idyom v park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, put on a hat!",
+            "russian": "Да, надевай шапку!",
+            "translit": "Da, nadevay shapku!",
+            "japanese": "Да, надевай шапку!",
+            "romaji": "Da, nadevay shapku!"
+          }
+        ]
+      }
     }
   ]
 }
