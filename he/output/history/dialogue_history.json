@@ -2399,6 +2399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T23:05:51.386498",
+      "dialogue": {
+        "topic": "Tel Aviv scooter on the street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the scooter?",
+            "target_text": "שלום, איפה הקורקינט?",
+            "transliteration": "Shalom, eifo ha-korkinet?",
+            "japanese": "שלום, איפה הקורקינט?",
+            "romaji": "Shalom, eifo ha-korkinet?"
+          },
+          {
+            "speaker": "B",
+            "english": "Here, near the tree!",
+            "target_text": "הנה, ליד העץ!",
+            "transliteration": "Hine, leyad ha-etz!",
+            "japanese": "הנה, ליד העץ!",
+            "romaji": "Hine, leyad ha-etz!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it free now?",
+            "target_text": "הוא פנוי עכשיו?",
+            "transliteration": "Hu panui achshav?",
+            "japanese": "הוא פנוי עכשיו?",
+            "romaji": "Hu panui achshav?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, ride carefully!",
+            "target_text": "כן, סע בזהירות!",
+            "transliteration": "Ken, sa be-zehirut!",
+            "japanese": "כן, סע בזהירות!",
+            "romaji": "Ken, sa be-zehirut!"
+          }
+        ]
+      }
     }
   ]
 }
