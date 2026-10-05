@@ -2359,6 +2359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T11:56:39.627684",
+      "dialogue": {
+        "topic": "Walking Together",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want to walk together?",
+            "korean": "같이 걸을래요?",
+            "romaja": "Gachi georeullaeyo?",
+            "japanese": "같이 걸을래요?",
+            "romaji": "Gachi georeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’d love to!",
+            "korean": "네, 좋아요!",
+            "romaja": "Ne, joayo!",
+            "japanese": "네, 좋아요!",
+            "romaji": "Ne, joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I hold your hand?",
+            "korean": "손 잡아도 돼요?",
+            "romaja": "Son jabado dwaeyo?",
+            "japanese": "손 잡아도 돼요?",
+            "romaji": "Son jabado dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, my heart flutters.",
+            "korean": "네, 설레요.",
+            "romaja": "Ne, seolleyo.",
+            "japanese": "네, 설레요.",
+            "romaji": "Ne, seolleyo."
+          }
+        ]
+      }
     }
   ]
 }
