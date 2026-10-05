@@ -2123,6 +2123,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T11:56:37.780711",
+      "dialogue": {
+        "topic": "Party & Samba Vibes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we samba today?",
+            "target_text": "Oi, vamos sambar hoje?",
+            "japanese": "Oi, vamos sambar hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love samba!",
+            "target_text": "Sim, adoro samba!",
+            "japanese": "Sim, adoro samba!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does the party start now?",
+            "target_text": "A festa começa agora?",
+            "japanese": "A festa começa agora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come dance with me!",
+            "target_text": "Sim, vem dançar comigo!",
+            "japanese": "Sim, vem dançar comigo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
