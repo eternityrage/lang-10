@@ -1855,6 +1855,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T11:57:22.106438",
+      "dialogue": {
+        "topic": "Asking where the station is",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, where is the station?",
+            "japanese": "マグさん、えきはどこですか？",
+            "romaji": "Magu-san, eki wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Over there.",
+            "japanese": "あそこです。",
+            "romaji": "Asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Is it near?",
+            "japanese": "ちかいですか？",
+            "romaji": "Chikai desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very near.",
+            "japanese": "はい、とても ちかいです。",
+            "romaji": "Hai, totemo chikai desu."
+          }
+        ]
+      }
     }
   ]
 }
