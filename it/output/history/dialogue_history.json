@@ -2087,6 +2087,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T01:29:53.663756",
+      "dialogue": {
+        "topic": "Florence walk to the Duomo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we go to the Duomo?",
+            "target_text": "Ciao, andiamo al Duomo?",
+            "japanese": "Ciao, andiamo al Duomo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, how beautiful!",
+            "target_text": "Sì, che bello!",
+            "japanese": "Sì, che bello!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far from here?",
+            "target_text": "È lontano da qui?",
+            "japanese": "È lontano da qui?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, let's walk together!",
+            "target_text": "No, camminiamo insieme!",
+            "japanese": "No, camminiamo insieme!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
