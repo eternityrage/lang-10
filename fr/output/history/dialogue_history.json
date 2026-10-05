@@ -2123,6 +2123,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T11:56:47.535981",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you have a beautiful smile!",
+            "target_text": "Salut, tu as un beau sourire !",
+            "japanese": "Salut, tu as un beau sourire !",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, that’s very kind!",
+            "target_text": "Merci, c’est très gentil !",
+            "japanese": "Merci, c’est très gentil !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we have a drink?",
+            "target_text": "On prend un verre ?",
+            "japanese": "On prend un verre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
