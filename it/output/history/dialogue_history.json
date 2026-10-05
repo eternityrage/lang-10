@@ -2123,6 +2123,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T11:56:46.066387",
+      "dialogue": {
+        "topic": "Train Station & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have the ticket?",
+            "target_text": "Ciao, hai il biglietto?",
+            "japanese": "Ciao, hai il biglietto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here it is!",
+            "target_text": "Sì, eccolo qui!",
+            "japanese": "Sì, eccolo qui!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Perfect, which train do we take?",
+            "target_text": "Perfetto, quale treno prendiamo?",
+            "japanese": "Perfetto, quale treno prendiamo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "We take the regional train.",
+            "target_text": "Prendiamo il treno regionale.",
+            "japanese": "Prendiamo il treno regionale.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
