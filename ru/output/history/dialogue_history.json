@@ -2479,6 +2479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T23:05:58.849855",
+      "dialogue": {
+        "topic": "Street friends meet and go to the park",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where are you going?",
+            "russian": "Привет, куда ты идёшь?",
+            "translit": "Privet, kuda ty idyosh?",
+            "japanese": "Привет, куда ты идёшь?",
+            "romaji": "Privet, kuda ty idyosh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi, I'm going to the park!",
+            "russian": "Привет, иду в парк!",
+            "translit": "Privet, idu v park!",
+            "japanese": "Привет, иду в парк!",
+            "romaji": "Privet, idu v park!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I go with you?",
+            "russian": "Можно мне с тобой?",
+            "translit": "Mozhno mne s toboy?",
+            "japanese": "Можно мне с тобой?",
+            "romaji": "Mozhno mne s toboy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, let's go!",
+            "russian": "Да, конечно, пойдём вместе!",
+            "translit": "Da, konechno, poydyom vmeste!",
+            "japanese": "Да, конечно, пойдём вместе!",
+            "romaji": "Da, konechno, poydyom vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
