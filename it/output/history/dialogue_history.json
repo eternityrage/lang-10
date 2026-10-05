@@ -2159,6 +2159,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T23:05:54.386727",
+      "dialogue": {
+        "topic": "Espresso Bar & Cornetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have cornettos?",
+            "target_text": "Ciao, hai un cornetto?",
+            "japanese": "Ciao, hai un cornetto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is warm!",
+            "target_text": "Sì, è caldo!",
+            "japanese": "Sì, è caldo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Perfect, also a coffee?",
+            "target_text": "Perfetto, anche un caffè?",
+            "japanese": "Perfetto, anche un caffè?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, right away!",
+            "target_text": "Certo, arriva subito!",
+            "japanese": "Certo, arriva subito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
