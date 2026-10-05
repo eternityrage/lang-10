@@ -1887,6 +1887,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T23:05:59.234926",
+      "dialogue": {
+        "topic": "Travel & Transit - Bus Ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the bus?",
+            "japanese": "バスは どこですか？",
+            "romaji": "Basu wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's over there.",
+            "japanese": "あそこです。",
+            "romaji": "Asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "How much is a ticket?",
+            "japanese": "きっぷは いくらですか？",
+            "romaji": "Kippu wa ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is 100 yen.",
+            "japanese": "ひゃくえんです。",
+            "romaji": "Hyaku en desu."
+          }
+        ]
+      }
     }
   ]
 }
