@@ -2399,6 +2399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T01:30:08.016169",
+      "dialogue": {
+        "topic": "Night Market Grilled Skewers",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want skewers?",
+            "chinese": "吃烤串吗？",
+            "pinyin": "Chī kǎo chuàn ma?",
+            "japanese": "吃烤串吗？",
+            "romaji": "Chī kǎo chuàn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's eat!",
+            "chinese": "好呀，吃！",
+            "pinyin": "Hǎo ya, chī!",
+            "japanese": "好呀，吃！",
+            "romaji": "Hǎo ya, chī!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it spicy?",
+            "chinese": "辣不辣？",
+            "pinyin": "Là bu là?",
+            "japanese": "辣不辣？",
+            "romaji": "Là bu là?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not spicy, tasty!",
+            "chinese": "不辣，好吃！",
+            "pinyin": "Bù là, hǎo chī!",
+            "japanese": "不辣，好吃！",
+            "romaji": "Bù là, hǎo chī!"
+          }
+        ]
+      }
     }
   ]
 }
