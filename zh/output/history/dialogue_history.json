@@ -2439,6 +2439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T11:56:52.255197",
+      "dialogue": {
+        "topic": "Simple compliment: You look great",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi!",
+            "chinese": "你好呀！",
+            "pinyin": "Nǐ hǎo ya!",
+            "japanese": "你好呀！",
+            "romaji": "Nǐ hǎo ya!"
+          },
+          {
+            "speaker": "B",
+            "english": "You look great!",
+            "chinese": "你真好看！",
+            "pinyin": "Nǐ zhēn hǎokàn!",
+            "japanese": "你真好看！",
+            "romaji": "Nǐ zhēn hǎokàn!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really?",
+            "chinese": "真的吗？",
+            "pinyin": "Zhēn de ma?",
+            "japanese": "真的吗？",
+            "romaji": "Zhēn de ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Really, so pretty!",
+            "chinese": "真的，太美了！",
+            "pinyin": "Zhēn de, tài měi le!",
+            "japanese": "真的，太美了！",
+            "romaji": "Zhēn de, tài měi le!"
+          }
+        ]
+      }
     }
   ]
 }
