@@ -2439,6 +2439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T11:56:50.140621",
+      "dialogue": {
+        "topic": "Friends meet on the street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "russian": "Привет, как дела?",
+            "translit": "Privet, kak dela?",
+            "japanese": "Привет, как дела?",
+            "romaji": "Privet, kak dela?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, happy to see you!",
+            "russian": "Отлично, рад тебя видеть!",
+            "translit": "Otlichno, rad tebya videt'!",
+            "japanese": "Отлично, рад тебя видеть!",
+            "romaji": "Otlichno, rad tebya videt'!"
+          },
+          {
+            "speaker": "A",
+            "english": "I am happy too!",
+            "russian": "Я тоже рад!",
+            "translit": "Ya tozhe rad!",
+            "japanese": "Я тоже рад!",
+            "romaji": "Ya tozhe rad!"
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go to the park!",
+            "russian": "Пойдём в парк!",
+            "translit": "Poydyom v park!",
+            "japanese": "Пойдём в парк!",
+            "romaji": "Poydyom v park!"
+          }
+        ]
+      }
     }
   ]
 }
