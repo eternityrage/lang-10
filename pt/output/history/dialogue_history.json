@@ -2159,6 +2159,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T23:06:00.051170",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, all chill?",
+            "target_text": "Salve, tudo tranquilo?",
+            "japanese": "Salve, tudo tranquilo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Chill, I'm good!",
+            "target_text": "Tranquilo, tô de boa!",
+            "japanese": "Tranquilo, tô de boa!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we hang out?",
+            "target_text": "Bora dar um rolê?",
+            "japanese": "Bora dar um rolê?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go, right now!",
+            "target_text": "Partiu, vamos agora!",
+            "japanese": "Partiu, vamos agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
