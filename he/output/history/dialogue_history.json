@@ -2319,6 +2319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T01:30:01.897485",
+      "dialogue": {
+        "topic": "Friendly slang check-in",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, all good?",
+            "target_text": "היי, הכול טוב?",
+            "transliteration": "Hi, hakol tov?",
+            "japanese": "היי, הכול טוב?",
+            "romaji": "Hi, hakol tov?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, totally great!",
+            "target_text": "כן, סבבה לגמרי!",
+            "transliteration": "Ken, sababa legamrei!",
+            "japanese": "כן, סבבה לגמרי!",
+            "romaji": "Ken, sababa legamrei!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, want coffee?",
+            "target_text": "יופי, בא לך קפה?",
+            "transliteration": "Yofi, ba lecha kafe?",
+            "japanese": "יופי, בא לך קפה?",
+            "romaji": "Yofi, ba lecha kafe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, let’s go!",
+            "target_text": "בטח, יאללה נלך!",
+            "transliteration": "Betach, yalla nelech!",
+            "japanese": "בטח, יאללה נלך!",
+            "romaji": "Betach, yalla nelech!"
+          }
+        ]
+      }
     }
   ]
 }
