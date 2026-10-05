@@ -2159,6 +2159,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T23:05:53.770769",
+      "dialogue": {
+        "topic": "Música y baile",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like the music?",
+            "target_text": "¿Te gusta la música?",
+            "japanese": "¿Te gusta la música?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "target_text": "¡Sí, me encanta!",
+            "japanese": "¡Sí, me encanta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we dance a little?",
+            "target_text": "¿Bailamos un poco?",
+            "japanese": "¿Bailamos un poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, how fun!",
+            "target_text": "¡Claro, qué divertido!",
+            "japanese": "¡Claro, qué divertido!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
