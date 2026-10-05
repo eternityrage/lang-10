@@ -2087,6 +2087,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T01:29:53.007966",
+      "dialogue": {
+        "topic": "Strawberry tartlet at a Paris bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, what is it?",
+            "target_text": "Bonjour, c'est quoi ?",
+            "japanese": "Bonjour, c'est quoi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's a tartlet!",
+            "target_text": "C'est une tartelette !",
+            "japanese": "C'est une tartelette !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it strawberry?",
+            "target_text": "Elle est aux fraises ?",
+            "japanese": "Elle est aux fraises ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very good!",
+            "target_text": "Oui, très bonne !",
+            "japanese": "Oui, très bonne !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
