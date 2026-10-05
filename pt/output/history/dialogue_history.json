@@ -2087,6 +2087,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T01:29:48.270062",
+      "dialogue": {
+        "topic": "Ordering Coxinha & Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, one coxinha, please?",
+            "target_text": "Oi, uma coxinha, por favor?",
+            "japanese": "Oi, uma coxinha, por favor?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Coffee too?",
+            "target_text": "Claro! Café também?",
+            "japanese": "Claro! Café também?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, coffee with milk.",
+            "target_text": "Sim, café com leite.",
+            "japanese": "Sim, café com leite.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, coming right up.",
+            "target_text": "Perfeito, já sai.",
+            "japanese": "Perfeito, já sai.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
