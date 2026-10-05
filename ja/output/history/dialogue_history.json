@@ -1823,6 +1823,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-05T01:30:10.166339",
+      "dialogue": {
+        "topic": "Tokyo street taiyaki",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "That taiyaki is cute.",
+            "japanese": "あの たいやき、かわいいです。",
+            "romaji": "Ano taiyaki, kawaii desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Shall we buy one?",
+            "japanese": "ひとつ かいますか？",
+            "romaji": "Hitotsu kaimasu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, please!",
+            "japanese": "はい、おねがいします！",
+            "romaji": "Hai, onegai shimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s eat together!",
+            "japanese": "いっしょに たべましょう！",
+            "romaji": "Issho ni tabemashou!"
+          }
+        ]
+      }
     }
   ]
 }
