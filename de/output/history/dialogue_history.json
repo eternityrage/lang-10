@@ -2231,6 +2231,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T11:36:55.476138",
+      "dialogue": {
+        "topic": "Ordering Water Politely",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one water, please.",
+            "target_text": "Hallo, ein Wasser, bitte.",
+            "japanese": "Hallo, ein Wasser, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, still or sparkling?",
+            "target_text": "Gerne, still oder sprudelnd?",
+            "japanese": "Gerne, still oder sprudelnd?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Still, thank you.",
+            "target_text": "Still, danke schön.",
+            "japanese": "Still, danke schön.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Coming right away.",
+            "target_text": "Kommt sofort, bitte schön.",
+            "japanese": "Kommt sofort, bitte schön.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
