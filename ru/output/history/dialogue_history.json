@@ -2639,6 +2639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T21:30:20.039847",
+      "dialogue": {
+        "topic": "Moscow Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the metro here?",
+            "russian": "Где здесь метро?",
+            "translit": "Gde zdes' metro?",
+            "japanese": "Где здесь метро?",
+            "romaji": "Gde zdes' metro?"
+          },
+          {
+            "speaker": "B",
+            "english": "The metro is very close!",
+            "russian": "Метро совсем рядом!",
+            "translit": "Metro sovsem ryadom!",
+            "japanese": "Метро совсем рядом!",
+            "romaji": "Metro sovsem ryadom!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go there now?",
+            "russian": "Идём туда сейчас?",
+            "translit": "Idyom tuda seychas?",
+            "japanese": "Идём туда сейчас?",
+            "romaji": "Idyom tuda seychas?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, five minutes!",
+            "russian": "Да, пять минут!",
+            "translit": "Da, pyat' minut!",
+            "japanese": "Да, пять минут!",
+            "romaji": "Da, pyat' minut!"
+          }
+        ]
+      }
     }
   ]
 }
