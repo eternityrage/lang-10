@@ -2559,6 +2559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T21:30:28.958270",
+      "dialogue": {
+        "topic": "Greetings & Slang: All Good?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, all good?",
+            "target_text": "היי, הכול טוב?",
+            "transliteration": "Hey, hakol tov?",
+            "japanese": "היי, הכול טוב?",
+            "romaji": "Hey, hakol tov?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, totally great!",
+            "target_text": "כן, סבבה לגמרי!",
+            "transliteration": "Ken, sababa legamrei!",
+            "japanese": "כן, סבבה לגמרי!",
+            "romaji": "Ken, sababa legamrei!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, meet tonight?",
+            "target_text": "יופי, ניפגש בערב?",
+            "transliteration": "Yofi, nifgash ba'erev?",
+            "japanese": "יופי, ניפגש בערב?",
+            "romaji": "Yofi, nifgash ba'erev?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you, bye!",
+            "target_text": "כן, נתראה, ביי!",
+            "transliteration": "Ken, nitra'eh, bye!",
+            "japanese": "כן, נתראה, ביי!",
+            "romaji": "Ken, nitra'eh, bye!"
+          }
+        ]
+      }
     }
   ]
 }
