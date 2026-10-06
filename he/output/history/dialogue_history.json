@@ -2519,6 +2519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T17:03:33.596807",
+      "dialogue": {
+        "topic": "Buying fresh oranges at Shuk Carmel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there fresh oranges?",
+            "target_text": "שלום, יש תפוזים טריים?",
+            "transliteration": "Shalom, yesh tapuzim tri'im?",
+            "japanese": "שלום, יש תפוזים טריים?",
+            "romaji": "Shalom, yesh tapuzim tri'im?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very sweet!",
+            "target_text": "כן, מאוד מתוקים!",
+            "transliteration": "Ken, me'od metukim!",
+            "japanese": "כן, מאוד מתוקים!",
+            "romaji": "Ken, me'od metukim!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is a kilo?",
+            "target_text": "כמה עולה קילו?",
+            "transliteration": "Kama oleh kilo?",
+            "japanese": "כמה עולה קילו?",
+            "romaji": "Kama oleh kilo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, please.",
+            "target_text": "עשרה שקלים, בבקשה.",
+            "transliteration": "Asara shkalim, bevakasha.",
+            "japanese": "עשרה שקלים, בבקשה.",
+            "romaji": "Asara shkalim, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
