@@ -1951,6 +1951,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T11:36:52.678842",
+      "dialogue": {
+        "topic": "Tokyo rain walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is it raining?",
+            "japanese": "あめですか？",
+            "romaji": "Ame desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little.",
+            "japanese": "はい、すこしです。",
+            "romaji": "Hai, sukoshi desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have umbrellas?",
+            "japanese": "かさ、ありますか？",
+            "romaji": "Kasa, arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          }
+        ]
+      }
     }
   ]
 }
