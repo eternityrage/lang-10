@@ -2195,6 +2195,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T02:39:10.031510",
+      "dialogue": {
+        "topic": "Dinner at home",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you hungry?",
+            "target_text": "Tu as faim ?",
+            "japanese": "Tu as faim ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hungry!",
+            "target_text": "Oui, très faim !",
+            "japanese": "Oui, très faim !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we eat pasta?",
+            "target_text": "On mange des pâtes ?",
+            "japanese": "On mange des pâtes ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I love that!",
+            "target_text": "Super, j’adore ça !",
+            "japanese": "Super, j’adore ça !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
