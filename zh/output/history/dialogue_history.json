@@ -2679,6 +2679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T21:30:38.619173",
+      "dialogue": {
+        "topic": "Ordering Milk Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what order?",
+            "chinese": "你好，点什么？",
+            "pinyin": "Nǐ hǎo, diǎn shénme?",
+            "japanese": "你好，点什么？",
+            "romaji": "Nǐ hǎo, diǎn shénme?"
+          },
+          {
+            "speaker": "B",
+            "english": "One milk tea!",
+            "chinese": "一杯奶茶！",
+            "pinyin": "Yì bēi nǎichá!",
+            "japanese": "一杯奶茶！",
+            "romaji": "Yì bēi nǎichá!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want it iced?",
+            "chinese": "要冰吗？",
+            "pinyin": "Yào bīng ma?",
+            "japanese": "要冰吗？",
+            "romaji": "Yào bīng ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Iced, thanks.",
+            "chinese": "要冰，谢谢。",
+            "pinyin": "Yào bīng, xièxie.",
+            "japanese": "要冰，谢谢。",
+            "romaji": "Yào bīng, xièxie."
+          }
+        ]
+      }
     }
   ]
 }
