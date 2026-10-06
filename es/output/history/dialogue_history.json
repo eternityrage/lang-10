@@ -2267,6 +2267,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T17:03:39.259434",
+      "dialogue": {
+        "topic": "Mesa en el café",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there a free table?",
+            "target_text": "Hola, ¿hay mesa libre?",
+            "japanese": "Hola, ¿hay mesa libre?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sure, right here.",
+            "target_text": "Sí, claro, aquí mismo.",
+            "japanese": "Sí, claro, aquí mismo.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Near the window?",
+            "target_text": "¿Cerca de la ventana?",
+            "japanese": "¿Cerca de la ventana?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come this way.",
+            "target_text": "Sí, ven por aquí.",
+            "japanese": "Sí, ven por aquí.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
