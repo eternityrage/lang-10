@@ -2195,6 +2195,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T02:39:14.339253",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is the subway?",
+            "target_text": "Entschuldigung, wo ist die U-Bahn?",
+            "japanese": "Entschuldigung, wo ist die U-Bahn?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, right up ahead!",
+            "target_text": "Klar, gleich da vorne!",
+            "japanese": "Klar, gleich da vorne!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Which line goes to the zoo?",
+            "target_text": "Welche Linie fährt zum Zoo?",
+            "japanese": "Welche Linie fährt zum Zoo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Take the U2.",
+            "target_text": "Nimm die U2.",
+            "japanese": "Nimm die U2.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
