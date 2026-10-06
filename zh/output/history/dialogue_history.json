@@ -2599,6 +2599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T11:36:43.120637",
+      "dialogue": {
+        "topic": "Night Market Baozi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Eat baozi?",
+            "chinese": "吃包子吗？",
+            "pinyin": "Chī bāozi ma?",
+            "japanese": "吃包子吗？",
+            "romaji": "Chī bāozi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’ll eat!",
+            "chinese": "好啊，我吃！",
+            "pinyin": "Hǎo a, wǒ chī!",
+            "japanese": "好啊，我吃！",
+            "romaji": "Hǎo a, wǒ chī!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it hot?",
+            "chinese": "热不热？",
+            "pinyin": "Rè bu rè?",
+            "japanese": "热不热？",
+            "romaji": "Rè bu rè?"
+          },
+          {
+            "speaker": "B",
+            "english": "Very hot, very fragrant!",
+            "chinese": "很热，很香！",
+            "pinyin": "Hěn rè, hěn xiāng!",
+            "japanese": "很热，很香！",
+            "romaji": "Hěn rè, hěn xiāng!"
+          }
+        ]
+      }
     }
   ]
 }
