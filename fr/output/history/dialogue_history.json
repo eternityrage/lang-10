@@ -2231,6 +2231,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T11:36:56.118276",
+      "dialogue": {
+        "topic": "Buying a fresh baguette",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one baguette, please?",
+            "target_text": "Bonjour, une baguette, s’il vous plaît ?",
+            "japanese": "Bonjour, une baguette, s’il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here it is!",
+            "target_text": "Bien sûr, la voici !",
+            "japanese": "Bien sûr, la voici !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it very fresh?",
+            "target_text": "Elle est bien fraîche ?",
+            "japanese": "Elle est bien fraîche ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "target_text": "Oui, très fraîche !",
+            "japanese": "Oui, très fraîche !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
