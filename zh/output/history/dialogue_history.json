@@ -2639,6 +2639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T17:03:40.631351",
+      "dialogue": {
+        "topic": "Small Discount",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi there!",
+            "chinese": "你好呀！",
+            "pinyin": "Nǐ hǎo ya!",
+            "japanese": "你好呀！",
+            "romaji": "Nǐ hǎo ya!"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi, welcome!",
+            "chinese": "你好，来！",
+            "pinyin": "Nǐ hǎo, lái!",
+            "japanese": "你好，来！",
+            "romaji": "Nǐ hǎo, lái!"
+          },
+          {
+            "speaker": "A",
+            "english": "Cheaper, okay?",
+            "chinese": "便宜点吗？",
+            "pinyin": "Piányi diǎn ma?",
+            "japanese": "便宜点吗？",
+            "romaji": "Piányi diǎn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, five yuan.",
+            "chinese": "好，五元。",
+            "pinyin": "Hǎo, wǔ yuán.",
+            "japanese": "好，五元。",
+            "romaji": "Hǎo, wǔ yuán."
+          }
+        ]
+      }
     }
   ]
 }
