@@ -2195,6 +2195,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T02:39:03.111136",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, a cup, please?",
+            "target_text": "Buongiorno, una coppetta, per favore?",
+            "japanese": "Buongiorno, una coppetta, per favore?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course! Small or large?",
+            "target_text": "Certo! Piccola o grande?",
+            "japanese": "Certo! Piccola o grande?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Small, with chocolate.",
+            "target_text": "Piccola, con cioccolato.",
+            "japanese": "Piccola, con cioccolato.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, here is the cup!",
+            "target_text": "Perfetto, ecco la coppetta!",
+            "japanese": "Perfetto, ecco la coppetta!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
