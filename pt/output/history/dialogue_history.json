@@ -2195,6 +2195,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T02:39:08.902079",
+      "dialogue": {
+        "topic": "Açaí Bowl & Smoothies",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have açaí today?",
+            "target_text": "Oi, tem açaí hoje?",
+            "japanese": "Oi, tem açaí hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold!",
+            "target_text": "Tem sim, bem gelado!",
+            "japanese": "Tem sim, bem gelado!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With banana and granola?",
+            "target_text": "Com banana e granola?",
+            "japanese": "Com banana e granola?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, it's delicious!",
+            "target_text": "Claro, fica uma delícia!",
+            "japanese": "Claro, fica uma delícia!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
