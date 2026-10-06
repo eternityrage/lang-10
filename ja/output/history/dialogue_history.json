@@ -1919,6 +1919,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T02:39:24.293445",
+      "dialogue": {
+        "topic": "Bus stop",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the bus?",
+            "japanese": "バスは どこですか？",
+            "romaji": "Basu wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is over there.",
+            "japanese": "あそこです。",
+            "romaji": "Asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Will it come soon?",
+            "japanese": "すぐ きますか？",
+            "romaji": "Sugu kimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it comes soon.",
+            "japanese": "はい、すぐ きます。",
+            "romaji": "Hai, sugu kimasu."
+          }
+        ]
+      }
     }
   ]
 }
