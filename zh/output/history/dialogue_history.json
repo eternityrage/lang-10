@@ -2559,6 +2559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T02:39:11.298613",
+      "dialogue": {
+        "topic": "Bargaining for a Small Item",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this good?",
+            "chinese": "这个好吗？",
+            "pinyin": "Zhège hǎo ma?",
+            "japanese": "这个好吗？",
+            "romaji": "Zhège hǎo ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very good!",
+            "chinese": "对，很好！",
+            "pinyin": "Duì, hěn hǎo!",
+            "japanese": "对，很好！",
+            "romaji": "Duì, hěn hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "A little less?",
+            "chinese": "少一点吧？",
+            "pinyin": "Shǎo yìdiǎn ba?",
+            "japanese": "少一点吧？",
+            "romaji": "Shǎo yìdiǎn ba?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, eight yuan!",
+            "chinese": "好，八块！",
+            "pinyin": "Hǎo, bā kuài!",
+            "japanese": "好，八块！",
+            "romaji": "Hǎo, bā kuài!"
+          }
+        ]
+      }
     }
   ]
 }
