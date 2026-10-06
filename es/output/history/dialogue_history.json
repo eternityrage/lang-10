@@ -2231,6 +2231,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T11:36:35.632836",
+      "dialogue": {
+        "topic": "Bailar en la fiesta",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you dancing tonight?",
+            "target_text": "¿Bailas esta noche?",
+            "japanese": "¿Bailas esta noche?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "target_text": "¡Sí, me encanta!",
+            "japanese": "¡Sí, me encanta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With this music?",
+            "target_text": "¿Con esta música?",
+            "japanese": "¿Con esta música?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, let's go now!",
+            "target_text": "¡Claro, vamos ya!",
+            "japanese": "¡Claro, vamos ya!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
