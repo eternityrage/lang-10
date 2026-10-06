@@ -2303,6 +2303,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T21:30:23.963425",
+      "dialogue": {
+        "topic": "Italian slang: “figo”",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what does “figo” mean?",
+            "target_text": "Ciao, che vuol dire “figo”?",
+            "japanese": "Ciao, che vuol dire “figo”?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means very cool!",
+            "target_text": "Vuol dire molto bello!",
+            "japanese": "Vuol dire molto bello!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I say it like this?",
+            "target_text": "Posso dirlo così?",
+            "japanese": "Posso dirlo così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's very natural!",
+            "target_text": "Sì, è molto naturale!",
+            "japanese": "Sì, è molto naturale!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
