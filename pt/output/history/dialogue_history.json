@@ -2303,6 +2303,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T21:30:49.030043",
+      "dialogue": {
+        "topic": "Street slang greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, feeling chill today?",
+            "target_text": "E aí, suave hoje?",
+            "japanese": "E aí, suave hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Super chill, thanks!",
+            "target_text": "Suave demais, valeu!",
+            "japanese": "Suave demais, valeu!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a walk?",
+            "target_text": "Bora dar um rolê?",
+            "japanese": "Bora dar um rolê?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Deal, let's go now!",
+            "target_text": "Fechou, partiu agora!",
+            "japanese": "Fechou, partiu agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
