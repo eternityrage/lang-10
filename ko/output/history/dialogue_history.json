@@ -2479,6 +2479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T11:36:45.198992",
+      "dialogue": {
+        "topic": "A Little Crush",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like me a little?",
+            "korean": "저를 조금 좋아해요?",
+            "romaja": "Jeoreul jogeum joahaeyo?",
+            "japanese": "저를 조금 좋아해요?",
+            "romaji": "Jeoreul jogeum joahaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I like you a lot!",
+            "korean": "네, 많이 좋아해요!",
+            "romaja": "Ne, mani joahaeyo!",
+            "japanese": "네, 많이 좋아해요!",
+            "romaji": "Ne, mani joahaeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, let's go on a date?",
+            "korean": "그럼, 우리 데이트해요?",
+            "romaja": "Geureom, uri deiteuhaeyo?",
+            "japanese": "그럼, 우리 데이트해요?",
+            "romaji": "Geureom, uri deiteuhaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, my heart flutters!",
+            "korean": "좋아요, 정말 설레요!",
+            "romaja": "Joayo, jeongmal seolleyo!",
+            "japanese": "좋아요, 정말 설레요!",
+            "romaji": "Joayo, jeongmal seolleyo!"
+          }
+        ]
+      }
     }
   ]
 }
