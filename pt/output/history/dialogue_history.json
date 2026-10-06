@@ -2231,6 +2231,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T11:36:42.987723",
+      "dialogue": {
+        "topic": "Planos para hoje",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, are you going out today?",
+            "target_text": "E aí, vai sair hoje?",
+            "japanese": "E aí, vai sair hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with friends!",
+            "target_text": "Vou sim, com amigos!",
+            "japanese": "Vou sim, com amigos!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I go too?",
+            "target_text": "Posso ir também?",
+            "japanese": "Posso ir também?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, it will be fun!",
+            "target_text": "Claro, vai ser legal!",
+            "japanese": "Claro, vai ser legal!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
