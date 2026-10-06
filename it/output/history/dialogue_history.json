@@ -2231,6 +2231,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T11:36:43.619100",
+      "dialogue": {
+        "topic": "Italian gesture: buonissimo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you do this?",
+            "target_text": "Ciao, fai così?",
+            "japanese": "Ciao, fai così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it means delicious!",
+            "target_text": "Sì, vuol dire buonissimo!",
+            "japanese": "Sì, vuol dire buonissimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With pizza?",
+            "target_text": "Con la pizza?",
+            "japanese": "Con la pizza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, it’s delicious!",
+            "target_text": "Certo, è buonissima!",
+            "japanese": "Certo, è buonissima!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
