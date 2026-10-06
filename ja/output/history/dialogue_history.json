@@ -1983,6 +1983,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T17:03:37.125269",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Work is hard, right?",
+            "japanese": "しごと、たいへんですね。",
+            "romaji": "Shigoto, taihen desu ne."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but I'm okay.",
+            "japanese": "はい、でも だいじょうぶです。",
+            "romaji": "Hai, demo daijoubu desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we rest a little?",
+            "japanese": "すこし やすみますか？",
+            "romaji": "Sukoshi yasumimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's rest together.",
+            "japanese": "はい、いっしょに やすみましょう。",
+            "romaji": "Hai, issho ni yasumimashou."
+          }
+        ]
+      }
     }
   ]
 }
