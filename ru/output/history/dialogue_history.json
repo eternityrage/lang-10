@@ -2519,6 +2519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T02:39:07.109043",
+      "dialogue": {
+        "topic": "Street Greetings & Friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where are you going?",
+            "russian": "Привет, куда идёшь?",
+            "translit": "Privet, kuda idyosh?",
+            "japanese": "Привет, куда идёшь?",
+            "romaji": "Privet, kuda idyosh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi! I’m going to the park.",
+            "russian": "Привет! Я в парк.",
+            "translit": "Privet! Ya v park.",
+            "japanese": "Привет! Я в парк.",
+            "romaji": "Privet! Ya v park."
+          },
+          {
+            "speaker": "A",
+            "english": "Can I come with you?",
+            "russian": "Можно с тобой?",
+            "translit": "Mozhno s toboy?",
+            "japanese": "Можно с тобой?",
+            "romaji": "Mozhno s toboy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go together!",
+            "russian": "Да, идём вместе!",
+            "translit": "Da, idyom vmeste!",
+            "japanese": "Да, идём вместе!",
+            "romaji": "Da, idyom vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
