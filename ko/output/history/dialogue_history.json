@@ -2439,6 +2439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T02:39:12.069603",
+      "dialogue": {
+        "topic": "Late-night pocha fish cake broth",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want fish cake broth?",
+            "korean": "어묵 국물 마실래?",
+            "romaja": "Eomuk gungmul masillae?",
+            "japanese": "어묵 국물 마실래?",
+            "romaji": "Eomuk gungmul masillae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds great!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then let’s order one bowl.",
+            "korean": "그럼 한 그릇 시키자.",
+            "romaja": "Geureom han geureut sikija.",
+            "japanese": "그럼 한 그릇 시키자.",
+            "romaji": "Geureom han geureut sikija."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, perfect for tonight!",
+            "korean": "좋아, 오늘 딱 좋다!",
+            "romaja": "Joa, oneul ttak jota!",
+            "japanese": "좋아, 오늘 딱 좋다!",
+            "romaji": "Joa, oneul ttak jota!"
+          }
+        ]
+      }
     }
   ]
 }
