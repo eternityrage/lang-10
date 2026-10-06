@@ -2559,6 +2559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T21:30:32.482783",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How about this pocha?",
+            "korean": "이 포차 어때요?",
+            "romaja": "I pocha eottaeyo?",
+            "japanese": "이 포차 어때요?",
+            "romaji": "I pocha eottaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, the vibe is nice!",
+            "korean": "좋아요, 분위기 좋아요!",
+            "romaja": "Joayo, bunwigi joayo!",
+            "japanese": "좋아요, 분위기 좋아요!",
+            "romaji": "Joayo, bunwigi joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we get fish cake?",
+            "korean": "어묵 하나 먹을까요?",
+            "romaja": "Eomuk hana meogeulkkayo?",
+            "japanese": "어묵 하나 먹을까요?",
+            "romaji": "Eomuk hana meogeulkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is warm!",
+            "korean": "네, 뜨끈해서 좋아요!",
+            "romaja": "Ne, tteukkeunhaeseo joayo!",
+            "japanese": "네, 뜨끈해서 좋아요!",
+            "romaji": "Ne, tteukkeunhaeseo joayo!"
+          }
+        ]
+      }
     }
   ]
 }
