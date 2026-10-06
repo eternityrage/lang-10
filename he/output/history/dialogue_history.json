@@ -2439,6 +2439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T02:39:03.768292",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, taxi to the hotel?",
+            "target_text": "שלום, מונית למלון?",
+            "transliteration": "Shalom, monit la-malon?",
+            "japanese": "שלום, מונית למלון?",
+            "romaji": "Shalom, monit la-malon?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come, please!",
+            "target_text": "כן, בוא בבקשה!",
+            "transliteration": "Ken, bo bevakasha!",
+            "japanese": "כן, בוא בבקשה!",
+            "romaji": "Ken, bo bevakasha!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it there?",
+            "target_text": "כמה זה לשם?",
+            "transliteration": "Kama ze le-sham?",
+            "japanese": "כמה זה לשם?",
+            "romaji": "Kama ze le-sham?"
+          },
+          {
+            "speaker": "B",
+            "english": "Thirty shekels, okay?",
+            "target_text": "שלושים שקלים, בסדר?",
+            "transliteration": "Shloshim shkalim, beseder?",
+            "japanese": "שלושים שקלים, בסדר?",
+            "romaji": "Shloshim shkalim, beseder?"
+          }
+        ]
+      }
     }
   ]
 }
