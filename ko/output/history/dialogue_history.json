@@ -2519,6 +2519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-06T17:03:57.148032",
+      "dialogue": {
+        "topic": "Finding the subway station and convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the subway station?",
+            "korean": "지하철역이 어디에 있어요?",
+            "romaja": "Jihacheol-yeogi eodie isseoyo?",
+            "japanese": "지하철역이 어디에 있어요?",
+            "romaji": "Jihacheol-yeogi eodie isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's right over there!",
+            "korean": "저기 앞에 있어요!",
+            "romaja": "Jeogi ape isseoyo!",
+            "japanese": "저기 앞에 있어요!",
+            "romaji": "Jeogi ape isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the convenience store?",
+            "korean": "편의점은 어디에 있어요?",
+            "romaja": "Pyeonuijeomeun eodie isseoyo?",
+            "japanese": "편의점은 어디에 있어요?",
+            "romaji": "Pyeonuijeomeun eodie isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's inside the station!",
+            "korean": "역 안에 있어요!",
+            "romaja": "Yeok ane isseoyo!",
+            "japanese": "역 안에 있어요!",
+            "romaji": "Yeok ane isseoyo!"
+          }
+        ]
+      }
     }
   ]
 }
