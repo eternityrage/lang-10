@@ -2639,6 +2639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T11:26:53.856426",
+      "dialogue": {
+        "topic": "Choosing a color in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like Myeongdong shopping?",
+            "korean": "명동 쇼핑 좋아요?",
+            "romaja": "Myeongdong syoping joayo?",
+            "japanese": "명동 쇼핑 좋아요?",
+            "romaji": "Myeongdong syoping joayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "How is this color?",
+            "korean": "이 색 어때요?",
+            "romaja": "I saek eottaeyo?",
+            "japanese": "이 색 어때요?",
+            "romaji": "I saek eottaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It suits you well!",
+            "korean": "정말 잘 어울려요!",
+            "romaja": "Jeongmal jal eoullyeoyo!",
+            "japanese": "정말 잘 어울려요!",
+            "romaji": "Jeongmal jal eoullyeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
