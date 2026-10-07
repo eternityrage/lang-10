@@ -2339,6 +2339,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T01:58:43.419153",
+      "dialogue": {
+        "topic": "Cafe & Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, what are you drinking?",
+            "target_text": "Hallo, was trinkst du?",
+            "japanese": "Hallo, was trinkst du?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm drinking a Radler, tasty!",
+            "target_text": "Ich trinke Radler, lecker!",
+            "japanese": "Ich trinke Radler, lecker!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I'll have one too.",
+            "target_text": "Ich nehme auch eins.",
+            "japanese": "Ich nehme auch eins.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I'll order now.",
+            "target_text": "Super, ich bestelle gleich.",
+            "japanese": "Super, ich bestelle gleich.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
