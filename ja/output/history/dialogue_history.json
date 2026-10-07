@@ -2143,6 +2143,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T21:50:23.805896",
+      "dialogue": {
+        "topic": "Sweet Confession",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, I like you.",
+            "japanese": "マグさん、すきです。",
+            "romaji": "Magu-san, suki desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Really? Me too.",
+            "japanese": "ほんとう？わたしもです。",
+            "romaji": "Hontou? Watashi mo desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Tomorrow, a date?",
+            "japanese": "あした、デートですか？",
+            "romaji": "Ashita, deeto desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, at the cafe.",
+            "japanese": "はい、カフェで。",
+            "romaji": "Hai, kafe de."
+          }
+        ]
+      }
     }
   ]
 }
