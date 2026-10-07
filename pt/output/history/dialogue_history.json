@@ -2375,6 +2375,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T11:26:23.494104",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, my buddy?",
+            "target_text": "E aí, meu chapa?",
+            "japanese": "E aí, meu chapa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’m chill, thanks!",
+            "target_text": "Tô de boa, valeu!",
+            "japanese": "Tô de boa, valeu!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a walk?",
+            "target_text": "Bora dar uma volta?",
+            "japanese": "Bora dar uma volta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go, it’ll be awesome!",
+            "target_text": "Bora, vai ser massa!",
+            "japanese": "Bora, vai ser massa!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
