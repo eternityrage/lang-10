@@ -2375,6 +2375,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T11:26:24.323050",
+      "dialogue": {
+        "topic": "Going for a walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you going out now?",
+            "target_text": "Tu sors maintenant ?",
+            "japanese": "Tu sors maintenant ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am walking!",
+            "target_text": "Oui, je vais marcher !",
+            "japanese": "Oui, je vais marcher !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I come with you?",
+            "target_text": "Je viens avec toi ?",
+            "japanese": "Je viens avec toi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go to the park!",
+            "target_text": "Oui, allons au parc !",
+            "japanese": "Oui, allons au parc !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
