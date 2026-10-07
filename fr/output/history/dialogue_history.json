@@ -2339,6 +2339,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T01:58:39.732211",
+      "dialogue": {
+        "topic": "Buying a baguette at a Parisian bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one baguette, please?",
+            "target_text": "Bonjour, une baguette, s'il vous plaît ?",
+            "japanese": "Bonjour, une baguette, s'il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it fresh?",
+            "target_text": "Elle est fraîche ?",
+            "japanese": "Elle est fraîche ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very fresh, have a nice day!",
+            "target_text": "Très fraîche, bonne journée !",
+            "japanese": "Très fraîche, bonne journée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
