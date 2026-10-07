@@ -2339,6 +2339,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T01:58:24.708684",
+      "dialogue": {
+        "topic": "Mesa en el café",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "A table for two?",
+            "target_text": "¿Una mesa para dos?",
+            "japanese": "¿Una mesa para dos?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, come in!",
+            "target_text": "¡Sí, claro, adelante!",
+            "japanese": "¡Sí, claro, adelante!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Near the window?",
+            "target_text": "¿Cerca de la ventana?",
+            "japanese": "¿Cerca de la ventana?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, this way, please.",
+            "target_text": "Sí, por aquí, por favor.",
+            "japanese": "Sí, por aquí, por favor.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
