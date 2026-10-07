@@ -2447,6 +2447,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T21:49:59.992808",
+      "dialogue": {
+        "topic": "Rio Beach & Coconut Water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What a beautiful beach, right?",
+            "target_text": "Que praia linda, né?",
+            "japanese": "Que praia linda, né?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Rio is beautiful!",
+            "target_text": "Sim, o Rio é lindo!",
+            "japanese": "Sim, o Rio é lindo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Coconut water now?",
+            "target_text": "Água de coco agora?",
+            "japanese": "Água de coco agora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, very cold!",
+            "target_text": "Claro, bem gelada!",
+            "japanese": "Claro, bem gelada!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
