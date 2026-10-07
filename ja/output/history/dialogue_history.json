@@ -2047,6 +2047,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T01:58:24.613485",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is work hard?",
+            "japanese": "しごと、たいへんですか？",
+            "romaji": "Shigoto, taihen desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little hard.",
+            "japanese": "はい、すこし たいへんです。",
+            "romaji": "Hai, sukoshi taihen desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, let’s rest.",
+            "japanese": "じゃあ、やすみましょう。",
+            "romaji": "Jaa, yasumimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, coffee time!",
+            "japanese": "はい、コーヒーの じかんです！",
+            "romaji": "Hai, koohii no jikan desu!"
+          }
+        ]
+      }
     }
   ]
 }
