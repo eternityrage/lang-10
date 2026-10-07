@@ -2679,6 +2679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T17:40:58.429551",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Pocha now with me?",
+            "korean": "우리 지금 포차 갈래?",
+            "romaja": "Uri jigeum pocha gallae?",
+            "japanese": "우리 지금 포차 갈래?",
+            "romaji": "Uri jigeum pocha gallae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I'm hungry now!",
+            "korean": "응, 나 지금 배고파!",
+            "romaja": "Eung, na jigeum baegopa!",
+            "japanese": "응, 나 지금 배고파!",
+            "romaji": "Eung, na jigeum baegopa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, want fish cake soup?",
+            "korean": "그럼 어묵탕 먹을래?",
+            "romaja": "Geureom eomuktang meogeullae?",
+            "japanese": "그럼 어묵탕 먹을래?",
+            "romaji": "Geureom eomuktang meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, hot soup is perfect!",
+            "korean": "좋아, 뜨거운 국물 딱 좋아!",
+            "romaja": "Joa, tteugeoun gungmul ttak joa!",
+            "japanese": "좋아, 뜨거운 국물 딱 좋아!",
+            "romaji": "Joa, tteugeoun gungmul ttak joa!"
+          }
+        ]
+      }
     }
   ]
 }
