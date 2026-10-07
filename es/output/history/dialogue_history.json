@@ -2375,6 +2375,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T11:26:15.077205",
+      "dialogue": {
+        "topic": "Metro to downtown",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Does this metro go downtown?",
+            "target_text": "¿Este metro va al centro?",
+            "japanese": "¿Este metro va al centro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it goes downtown!",
+            "target_text": "¡Sí, va al centro!",
+            "japanese": "¡Sí, va al centro!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How many stops are there?",
+            "target_text": "¿Cuántas paradas son?",
+            "japanese": "¿Cuántas paradas son?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only two stops.",
+            "target_text": "Solo dos paradas.",
+            "japanese": "Solo dos paradas.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
