@@ -2339,6 +2339,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T01:58:33.654931",
+      "dialogue": {
+        "topic": "Florence walk to Ponte Vecchio",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is Ponte Vecchio?",
+            "target_text": "Ciao, dov'è Ponte Vecchio?",
+            "japanese": "Ciao, dov'è Ponte Vecchio?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is there, nearby!",
+            "target_text": "È lì, vicino!",
+            "japanese": "È lì, vicino!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk?",
+            "target_text": "Andiamo a piedi?",
+            "japanese": "Andiamo a piedi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what a beautiful walk!",
+            "target_text": "Sì, che bella passeggiata!",
+            "japanese": "Sì, che bella passeggiata!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
