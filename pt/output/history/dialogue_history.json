@@ -2411,6 +2411,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T17:40:59.515388",
+      "dialogue": {
+        "topic": "Funny meme between friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, did you see my meme?",
+            "target_text": "Oi, viu meu meme?",
+            "japanese": "Oi, viu meu meme?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very funny!",
+            "target_text": "Vi sim, muito engraçado!",
+            "japanese": "Vi sim, muito engraçado!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Send another one, please?",
+            "target_text": "Manda outro, por favor?",
+            "japanese": "Manda outro, por favor?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, I’m sending it now!",
+            "target_text": "Claro, já mando agora!",
+            "japanese": "Claro, já mando agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
