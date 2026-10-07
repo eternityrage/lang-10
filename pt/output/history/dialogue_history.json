@@ -2339,6 +2339,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T01:58:41.518110",
+      "dialogue": {
+        "topic": "Uber para o aeroporto em São Paulo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is this my Uber?",
+            "target_text": "Oi, é meu Uber?",
+            "japanese": "Oi, é meu Uber?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come in!",
+            "target_text": "Sim, pode entrar!",
+            "japanese": "Sim, pode entrar!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "To the airport?",
+            "target_text": "Vai para o aeroporto?",
+            "japanese": "Vai para o aeroporto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, let's go!",
+            "target_text": "Claro, vamos agora!",
+            "japanese": "Claro, vamos agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
