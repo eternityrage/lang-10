@@ -2599,6 +2599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T01:58:26.735476",
+      "dialogue": {
+        "topic": "A sweet compliment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, you look pretty today.",
+            "korean": "안녕하세요, 오늘 예뻐요.",
+            "romaja": "Annyeonghaseyo, oneul yeppeoyo.",
+            "japanese": "안녕하세요, 오늘 예뻐요.",
+            "romaji": "Annyeonghaseyo, oneul yeppeoyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Really? Thank you so much!",
+            "korean": "정말요? 너무 고마워요!",
+            "romaja": "Jeongmallyo? Neomu gomawoyo!",
+            "japanese": "정말요? 너무 고마워요!",
+            "romaji": "Jeongmallyo? Neomu gomawoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk together?",
+            "korean": "우리 같이 걸을래요?",
+            "romaja": "Uri gachi georeullaeyo?",
+            "japanese": "우리 같이 걸을래요?",
+            "romaji": "Uri gachi georeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, my heart flutters.",
+            "korean": "좋아요, 마음이 설레요.",
+            "romaja": "Joayo, maeumi seolleyo.",
+            "japanese": "좋아요, 마음이 설레요.",
+            "romaji": "Joayo, maeumi seolleyo."
+          }
+        ]
+      }
     }
   ]
 }
