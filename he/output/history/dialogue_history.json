@@ -2599,6 +2599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T01:58:48.264138",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is it sunny today?",
+            "target_text": "היי, יש שמש היום?",
+            "transliteration": "Hai, yesh shemesh hayom?",
+            "japanese": "היי, יש שמש היום?",
+            "romaji": "Hai, yesh shemesh hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, nice sunshine!",
+            "target_text": "כן, יש שמש יפה!",
+            "transliteration": "Ken, yesh shemesh yafa!",
+            "japanese": "כן, יש שמש יפה!",
+            "romaji": "Ken, yesh shemesh yafa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want to sit on the beach?",
+            "target_text": "רוצה לשבת על החוף?",
+            "transliteration": "Rotze lashevet al ha-chof?",
+            "japanese": "רוצה לשבת על החוף?",
+            "romaji": "Rotze lashevet al ha-chof?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we'll rest in the shade.",
+            "target_text": "כן, ננוח בצל.",
+            "transliteration": "Ken, nanuach ba-tzel.",
+            "japanese": "כן, ננוח בצל.",
+            "romaji": "Ken, nanuach ba-tzel."
+          }
+        ]
+      }
     }
   ]
 }
