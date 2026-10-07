@@ -2799,6 +2799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T17:41:53.138118",
+      "dialogue": {
+        "topic": "Hotpot Dinner",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What to eat?",
+            "chinese": "吃什么？",
+            "pinyin": "Chī shénme?",
+            "japanese": "吃什么？",
+            "romaji": "Chī shénme?"
+          },
+          {
+            "speaker": "B",
+            "english": "Hotpot!",
+            "chinese": "吃火锅！",
+            "pinyin": "Chī huǒguō!",
+            "japanese": "吃火锅！",
+            "romaji": "Chī huǒguō!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want meat?",
+            "chinese": "你要肉吗？",
+            "pinyin": "Nǐ yào ròu ma?",
+            "japanese": "你要肉吗？",
+            "romaji": "Nǐ yào ròu ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, so good!",
+            "chinese": "要，真香！",
+            "pinyin": "Yào, zhēn xiāng!",
+            "japanese": "要，真香！",
+            "romaji": "Yào, zhēn xiāng!"
+          }
+        ]
+      }
     }
   ]
 }
