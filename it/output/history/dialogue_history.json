@@ -2447,6 +2447,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T21:53:25.532274",
+      "dialogue": {
+        "topic": "Slang: “boh” with a shoulder shrug",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what does “boh” mean?",
+            "target_text": "Ciao, che vuol dire “boh”?",
+            "japanese": "Ciao, che vuol dire “boh”?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means “I don’t know”!",
+            "target_text": "Vuol dire “non lo so”!",
+            "japanese": "Vuol dire “non lo so”!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And you do this?",
+            "target_text": "E fai così?",
+            "japanese": "E fai così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, shoulders up!",
+            "target_text": "Sì, spalle su!",
+            "japanese": "Sì, spalle su!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
