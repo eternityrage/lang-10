@@ -2719,6 +2719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T01:58:30.908834",
+      "dialogue": {
+        "topic": "Compliment: You’re Cool",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How are you?",
+            "chinese": "你好吗？",
+            "pinyin": "Nǐ hǎo ma?",
+            "japanese": "你好吗？",
+            "romaji": "Nǐ hǎo ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "I’m great!",
+            "chinese": "我很好！",
+            "pinyin": "Wǒ hěn hǎo!",
+            "japanese": "我很好！",
+            "romaji": "Wǒ hěn hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "You’re so cool!",
+            "chinese": "你真酷！",
+            "pinyin": "Nǐ zhēn kù!",
+            "japanese": "你真酷！",
+            "romaji": "Nǐ zhēn kù!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you!",
+            "chinese": "谢谢你！",
+            "pinyin": "Xièxie nǐ!",
+            "japanese": "谢谢你！",
+            "romaji": "Xièxie nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
