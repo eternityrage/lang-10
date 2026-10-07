@@ -2679,6 +2679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T17:41:10.980349",
+      "dialogue": {
+        "topic": "Shopping for shoes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are there black shoes?",
+            "target_text": "שלום, יש נעליים שחורות?",
+            "transliteration": "Shalom, yesh na'alayim shkhorot?",
+            "japanese": "שלום, יש נעליים שחורות?",
+            "romaji": "Shalom, yesh na'alayim shkhorot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there are here!",
+            "target_text": "כן, יש כאן!",
+            "transliteration": "Ken, yesh kan!",
+            "japanese": "כן, יש כאן!",
+            "romaji": "Ken, yesh kan!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only fifty shekels.",
+            "target_text": "רק חמישים שקל.",
+            "transliteration": "Rak khamishim shekel.",
+            "japanese": "רק חמישים שקל.",
+            "romaji": "Rak khamishim shekel."
+          }
+        ]
+      }
     }
   ]
 }
