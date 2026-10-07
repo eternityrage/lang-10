@@ -2111,6 +2111,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T17:41:11.595843",
+      "dialogue": {
+        "topic": "Anime Quotes: I Am Here",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you scared?",
+            "japanese": "マグさん、こわいですか？",
+            "romaji": "Magu-san, kowai desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I'm okay!",
+            "japanese": "いいえ、だいじょうぶです！",
+            "romaji": "Iie, daijoubu desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "I am here!",
+            "japanese": "わたしが います！",
+            "romaji": "Watashi ga imasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Let's do our best!",
+            "japanese": "いっしょに がんばりましょう！",
+            "romaji": "Issho ni ganbarimashou!"
+          }
+        ]
+      }
     }
   ]
 }
