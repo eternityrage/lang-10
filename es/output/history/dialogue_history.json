@@ -2447,6 +2447,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T21:50:02.966929",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Madrid or Barcelona today?",
+            "target_text": "¿Madrid o Barcelona hoy?",
+            "japanese": "¿Madrid o Barcelona hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Barcelona, it is sunny!",
+            "target_text": "¡Barcelona, hace sol!",
+            "japanese": "¡Barcelona, hace sol!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go by train?",
+            "target_text": "¿Vamos en tren?",
+            "japanese": "¿Vamos en tren?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go together!",
+            "target_text": "¡Sí, vamos juntos!",
+            "japanese": "¡Sí, vamos juntos!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
