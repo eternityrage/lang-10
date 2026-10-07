@@ -2839,6 +2839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T21:50:19.794961",
+      "dialogue": {
+        "topic": "Take the Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Take the metro?",
+            "chinese": "坐地铁吗？",
+            "pinyin": "Zuò dìtiě ma?",
+            "japanese": "坐地铁吗？",
+            "romaji": "Zuò dìtiě ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great!",
+            "chinese": "好啊！",
+            "pinyin": "Hǎo a!",
+            "japanese": "好啊！",
+            "romaji": "Hǎo a!"
+          },
+          {
+            "speaker": "A",
+            "english": "Go together.",
+            "chinese": "一起走。",
+            "pinyin": "Yìqǐ zǒu.",
+            "japanese": "一起走。",
+            "romaji": "Yìqǐ zǒu."
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go!",
+            "chinese": "走吧！",
+            "pinyin": "Zǒu ba!",
+            "japanese": "走吧！",
+            "romaji": "Zǒu ba!"
+          }
+        ]
+      }
     }
   ]
 }
