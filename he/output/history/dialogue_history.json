@@ -2719,6 +2719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T21:50:06.857250",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have chocolate cake?",
+            "target_text": "שלום, יש עוגת שוקולד?",
+            "transliteration": "Shalom, yesh ugat shokolad?",
+            "japanese": "שלום, יש עוגת שוקולד?",
+            "romaji": "Shalom, yesh ugat shokolad?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very tasty!",
+            "target_text": "כן, היא מאוד טעימה!",
+            "transliteration": "Ken, hi me'od te'ima!",
+            "japanese": "כן, היא מאוד טעימה!",
+            "romaji": "Ken, hi me'od te'ima!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, one slice please.",
+            "target_text": "נהדר, פרוסה אחת בבקשה.",
+            "transliteration": "Nehedar, prusa achat bevakasha.",
+            "japanese": "נהדר, פרוסה אחת בבקשה.",
+            "romaji": "Nehedar, prusa achat bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go.",
+            "target_text": "בטח, הנה בבקשה.",
+            "transliteration": "Betach, hine bevakasha.",
+            "japanese": "בטח, הנה בבקשה.",
+            "romaji": "Betach, hine bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
