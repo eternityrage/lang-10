@@ -2447,6 +2447,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T21:50:00.730425",
+      "dialogue": {
+        "topic": "Berlin bus stop",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the bus late?",
+            "target_text": "Hallo, ist der Bus spät?",
+            "japanese": "Hallo, ist der Bus spät?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, only five minutes!",
+            "target_text": "Ja, nur fünf Minuten!",
+            "japanese": "Ja, nur fünf Minuten!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, I’ll wait here.",
+            "target_text": "Super, ich warte hier.",
+            "japanese": "Super, ich warte hier.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Good, the bus is coming!",
+            "target_text": "Gut, der Bus kommt!",
+            "japanese": "Gut, der Bus kommt!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
