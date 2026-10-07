@@ -2079,6 +2079,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T11:26:36.598930",
+      "dialogue": {
+        "topic": "コーヒーとケーキ",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like coffee?",
+            "japanese": "コーヒー、すきですか？",
+            "romaji": "Koohii, suki desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "japanese": "はい、だいすきです！",
+            "romaji": "Hai, daisuki desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "How about cake?",
+            "japanese": "ケーキは どうですか？",
+            "romaji": "Keeki wa dou desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sounds good! Let’s eat!",
+            "japanese": "いいですね！たべましょう！",
+            "romaji": "Ii desu ne! Tabemashou!"
+          }
+        ]
+      }
     }
   ]
 }
