@@ -2639,6 +2639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-07T11:26:22.810331",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, taxi to the airport?",
+            "target_text": "שלום, מונית לשדה התעופה?",
+            "transliteration": "Shalom, monit le-sde ha-te'ufa?",
+            "japanese": "שלום, מונית לשדה התעופה?",
+            "romaji": "Shalom, monit le-sde ha-te'ufa?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, happily, come.",
+            "target_text": "כן, בשמחה, בוא.",
+            "transliteration": "Ken, be-simcha, bo.",
+            "japanese": "כן, בשמחה, בוא.",
+            "romaji": "Ken, be-simcha, bo."
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Fifty shekels, please.",
+            "target_text": "חמישים שקל, בבקשה.",
+            "transliteration": "Chamishim shekel, bevakasha.",
+            "japanese": "חמישים שקל, בבקשה.",
+            "romaji": "Chamishim shekel, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
