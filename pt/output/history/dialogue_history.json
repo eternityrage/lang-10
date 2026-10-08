@@ -2483,6 +2483,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T02:24:09.300055",
+      "dialogue": {
+        "topic": "Travel & Uber in São Paulo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is this the Uber?",
+            "target_text": "Oi, é o Uber?",
+            "japanese": "Oi, é o Uber?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, good morning!",
+            "target_text": "Sim, bom dia!",
+            "japanese": "Sim, bom dia!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are we going to Pinheiros?",
+            "target_text": "Vai para Pinheiros?",
+            "japanese": "Vai para Pinheiros?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come in!",
+            "target_text": "Sim, pode entrar!",
+            "japanese": "Sim, pode entrar!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
