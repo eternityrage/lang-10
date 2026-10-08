@@ -2483,6 +2483,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T02:24:12.032703",
+      "dialogue": {
+        "topic": "Espresso Bar & Cornetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, do you have croissants?",
+            "target_text": "Buongiorno, avete cornetti?",
+            "japanese": "Buongiorno, avete cornetti?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are freshly made!",
+            "target_text": "Sì, sono appena fatti!",
+            "japanese": "Sì, sono appena fatti!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One with cream, thanks.",
+            "target_text": "Uno alla crema, grazie.",
+            "japanese": "Uno alla crema, grazie.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here is the croissant.",
+            "target_text": "Certo, ecco il cornetto.",
+            "japanese": "Certo, ecco il cornetto.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
