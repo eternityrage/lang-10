@@ -2591,6 +2591,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T21:53:39.270403",
+      "dialogue": {
+        "topic": "Viaje de Madrid a Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we go to Barcelona from Madrid?",
+            "target_text": "¿Vamos a Barcelona desde Madrid?",
+            "japanese": "¿Vamos a Barcelona desde Madrid?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what a good idea!",
+            "target_text": "¡Sí, qué buena idea!",
+            "japanese": "¡Sí, qué buena idea!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do we take the fast train?",
+            "target_text": "¿Tomamos el tren rápido?",
+            "japanese": "¿Tomamos el tren rápido?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we arrive soon.",
+            "target_text": "Sí, llegamos pronto.",
+            "japanese": "Sí, llegamos pronto.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
