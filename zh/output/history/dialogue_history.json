@@ -2999,6 +2999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T21:54:12.097017",
+      "dialogue": {
+        "topic": "Good Morning",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning!",
+            "chinese": "早上好！",
+            "pinyin": "Zǎoshang hǎo!",
+            "japanese": "早上好！",
+            "romaji": "Zǎoshang hǎo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Good morning!",
+            "chinese": "早上好！",
+            "pinyin": "Zǎoshang hǎo!",
+            "japanese": "早上好！",
+            "romaji": "Zǎoshang hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Nice weather today.",
+            "chinese": "今天天气好。",
+            "pinyin": "Jīntiān tiānqì hǎo.",
+            "japanese": "今天天气好。",
+            "romaji": "Jīntiān tiānqì hǎo."
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go together!",
+            "chinese": "一起走吧！",
+            "pinyin": "Yìqǐ zǒu ba!",
+            "japanese": "一起走吧！",
+            "romaji": "Yìqǐ zǒu ba!"
+          }
+        ]
+      }
     }
   ]
 }
