@@ -2759,6 +2759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T02:24:23.721951",
+      "dialogue": {
+        "topic": "Speaking casually",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi. What's your name?",
+            "korean": "안녕하세요? 이름이 뭐예요?",
+            "romaja": "Annyeonghaseyo? Ireumi mwoyeyo?",
+            "japanese": "안녕하세요? 이름이 뭐예요?",
+            "romaji": "Annyeonghaseyo? Ireumi mwoyeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "I'm Jimin! Nice to meet you!",
+            "korean": "저는 지민이에요! 반가워요!",
+            "romaja": "Jeoneun Jimin-ieyo! Bangawoyo!",
+            "japanese": "저는 지민이에요! 반가워요!",
+            "romaji": "Jeoneun Jimin-ieyo! Bangawoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can we speak casually?",
+            "korean": "말 놓아도 돼요?",
+            "romaja": "Mal noado dwaeyo?",
+            "japanese": "말 놓아도 돼요?",
+            "romaji": "Mal noado dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great! We're friends.",
+            "korean": "좋아! 우리 친구야.",
+            "romaja": "Joa! Uri chinguya.",
+            "japanese": "좋아! 우리 친구야.",
+            "romaji": "Joa! Uri chinguya."
+          }
+        ]
+      }
     }
   ]
 }
