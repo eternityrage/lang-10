@@ -2555,6 +2555,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T17:44:09.171431",
+      "dialogue": {
+        "topic": "Fiesta y música",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there music tonight?",
+            "target_text": "¿Hay música esta noche?",
+            "japanese": "¿Hay música esta noche?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is music!",
+            "target_text": "¡Sí, hay música!",
+            "japanese": "¡Sí, hay música!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we dance a little?",
+            "target_text": "¿Bailamos un poco?",
+            "japanese": "¿Bailamos un poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, let's go!",
+            "target_text": "¡Claro, vamos!",
+            "japanese": "¡Claro, vamos!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
