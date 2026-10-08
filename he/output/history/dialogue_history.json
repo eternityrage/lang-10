@@ -2879,6 +2879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T21:54:00.392933",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there a cookie?",
+            "target_text": "שלום, יש עוגייה?",
+            "transliteration": "Shalom, yesh ugiyah?",
+            "japanese": "שלום, יש עוגייה?",
+            "romaji": "Shalom, yesh ugiyah?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a very fresh cookie!",
+            "target_text": "כן, עוגייה טרייה מאוד!",
+            "transliteration": "Ken, ugiyah triyah me'od!",
+            "japanese": "כן, עוגייה טרייה מאוד!",
+            "romaji": "Ken, ugiyah triyah me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only five shekels.",
+            "target_text": "רק חמישה שקלים.",
+            "transliteration": "Rak chamisha shkalim.",
+            "japanese": "רק חמישה שקלים.",
+            "romaji": "Rak chamisha shkalim."
+          }
+        ]
+      }
     }
   ]
 }
