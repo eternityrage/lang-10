@@ -2879,6 +2879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T21:53:52.749818",
+      "dialogue": {
+        "topic": "Late-night fish cake",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Still a little hungry?",
+            "korean": "아직 조금 배고파요?",
+            "romaja": "Ajik jogeum baegopayo?",
+            "japanese": "아직 조금 배고파요?",
+            "romaji": "Ajik jogeum baegopayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little hungry!",
+            "korean": "네, 조금 배고파요!",
+            "romaja": "Ne, jogeum baegopayo!",
+            "japanese": "네, 조금 배고파요!",
+            "romaji": "Ne, jogeum baegopayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then eat fish cake?",
+            "korean": "그럼 어묵 먹어요?",
+            "romaja": "Geureom eomuk meogeoyo?",
+            "japanese": "그럼 어묵 먹어요?",
+            "romaji": "Geureom eomuk meogeoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, one more!",
+            "korean": "좋아요, 하나 더요!",
+            "romaja": "Joayo, hana deoyo!",
+            "japanese": "좋아요, 하나 더요!",
+            "romaji": "Joayo, hana deoyo!"
+          }
+        ]
+      }
     }
   ]
 }
