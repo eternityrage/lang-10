@@ -2207,6 +2207,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T11:42:09.852367",
+      "dialogue": {
+        "topic": "Finding the Train",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, where is the train?",
+            "japanese": "マグ、でんしゃは どこですか？",
+            "romaji": "Magu, densha wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Over there. It is fast.",
+            "japanese": "あそこです。はやいです。",
+            "romaji": "Asoko desu. Hayai desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Do we have tickets?",
+            "japanese": "きっぷは ありますか？",
+            "romaji": "Kippu wa arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we have tickets!",
+            "japanese": "はい、あります！",
+            "romaji": "Hai, arimasu!"
+          }
+        ]
+      }
     }
   ]
 }
