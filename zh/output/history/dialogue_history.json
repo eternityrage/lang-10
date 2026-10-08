@@ -2879,6 +2879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T02:24:49.919198",
+      "dialogue": {
+        "topic": "Hotpot Dinner",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you hungry?",
+            "chinese": "你饿吗？",
+            "pinyin": "Nǐ è ma?",
+            "japanese": "你饿吗？",
+            "romaji": "Nǐ è ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Very hungry! Smells good!",
+            "chinese": "很饿！真香！",
+            "pinyin": "Hěn è! Zhēn xiāng!",
+            "japanese": "很饿！真香！",
+            "romaji": "Hěn è! Zhēn xiāng!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it spicy?",
+            "chinese": "辣不辣？",
+            "pinyin": "Là bu là?",
+            "japanese": "辣不辣？",
+            "romaji": "Là bu là?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little. Let's eat!",
+            "chinese": "一点。开吃吧！",
+            "pinyin": "Yì diǎn. Kāi chī ba!",
+            "japanese": "一点。开吃吧！",
+            "romaji": "Yì diǎn. Kāi chī ba!"
+          }
+        ]
+      }
     }
   ]
 }
