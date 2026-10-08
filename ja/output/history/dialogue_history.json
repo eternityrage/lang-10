@@ -2271,6 +2271,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T21:53:55.580271",
+      "dialogue": {
+        "topic": "First confession",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, I like you.",
+            "japanese": "マグさん、すきです。",
+            "romaji": "Magu-san, suki desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Really? I'm happy.",
+            "japanese": "ほんとう？うれしいです。",
+            "romaji": "Hontou? Ureshii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Is a date okay?",
+            "japanese": "デート、いいですか？",
+            "romaji": "Deeto, ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, that's okay!",
+            "japanese": "はい、いいですよ！",
+            "romaji": "Hai, ii desu yo!"
+          }
+        ]
+      }
     }
   ]
 }
