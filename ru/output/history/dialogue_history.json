@@ -2919,6 +2919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T21:54:01.558404",
+      "dialogue": {
+        "topic": "Convenience Store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have bread?",
+            "russian": "Здравствуйте, есть хлеб?",
+            "translit": "Zdravstvuyte, yest' khleb?",
+            "japanese": "Здравствуйте, есть хлеб?",
+            "romaji": "Zdravstvuyte, yest' khleb?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, bread is right here!",
+            "russian": "Да, хлеб вот здесь!",
+            "translit": "Da, khleb vot zdes'!",
+            "japanese": "Да, хлеб вот здесь!",
+            "romaji": "Da, khleb vot zdes'!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is bread?",
+            "russian": "Сколько стоит хлеб?",
+            "translit": "Skol'ko stoit khleb?",
+            "japanese": "Сколько стоит хлеб?",
+            "romaji": "Skol'ko stoit khleb?"
+          },
+          {
+            "speaker": "B",
+            "english": "Fifty rubles, please.",
+            "russian": "Пятьдесят рублей, пожалуйста.",
+            "translit": "Pyat'desyat rubley, pozhaluysta.",
+            "japanese": "Пятьдесят рублей, пожалуйста.",
+            "romaji": "Pyat'desyat rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
