@@ -2519,6 +2519,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T11:41:55.886603",
+      "dialogue": {
+        "topic": "Going to the park",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you going to the park?",
+            "target_text": "Tu vas au parc ?",
+            "japanese": "Tu vas au parc ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are we leaving now?",
+            "target_text": "On part maintenant ?",
+            "japanese": "On part maintenant ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "Oui, on y va !",
+            "japanese": "Oui, on y va !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
