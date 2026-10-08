@@ -2239,6 +2239,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T17:44:45.875313",
+      "dialogue": {
+        "topic": "Buying a train ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, where are tickets?",
+            "japanese": "マグさん、きっぷは どこですか？",
+            "romaji": "Magu-san, kippu wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Over there. Near the train.",
+            "japanese": "あそこです。でんしゃの ちかくです。",
+            "romaji": "Asoko desu. Densha no chikaku desu."
+          },
+          {
+            "speaker": "A",
+            "english": "One ticket, please.",
+            "japanese": "きっぷを ひとつ ください。",
+            "romaji": "Kippu o hitotsu kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
