@@ -2483,6 +2483,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T02:24:20.393319",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is Barcelona pretty?",
+            "target_text": "¿Barcelona es bonita?",
+            "japanese": "¿Barcelona es bonita?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very pretty!",
+            "target_text": "¡Sí, es muy bonita!",
+            "japanese": "¡Sí, es muy bonita!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And Madrid too?",
+            "target_text": "¿Y Madrid también?",
+            "japanese": "¿Y Madrid también?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Madrid is great too.",
+            "target_text": "Madrid también es genial.",
+            "japanese": "Madrid también es genial.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
