@@ -2555,6 +2555,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T17:44:31.121398",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you free tonight?",
+            "target_text": "Tu es libre ce soir ?",
+            "japanese": "Tu es libre ce soir ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Dinner with me?",
+            "target_text": "Un dîner avec moi ?",
+            "japanese": "Un dîner avec moi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, you are charming.",
+            "target_text": "Oui, tu es charmant.",
+            "japanese": "Oui, tu es charmant.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
