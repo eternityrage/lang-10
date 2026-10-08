@@ -2919,6 +2919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T11:42:21.972188",
+      "dialogue": {
+        "topic": "Night Market Street Food",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want fried chicken?",
+            "chinese": "吃炸鸡吗？",
+            "pinyin": "Chī zhá jī ma?",
+            "japanese": "吃炸鸡吗？",
+            "romaji": "Chī zhá jī ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, smells great!",
+            "chinese": "好啊，很香！",
+            "pinyin": "Hǎo a, hěn xiāng!",
+            "japanese": "好啊，很香！",
+            "romaji": "Hǎo a, hěn xiāng!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want it spicy?",
+            "chinese": "要辣吗？",
+            "pinyin": "Yào là ma?",
+            "japanese": "要辣吗？",
+            "romaji": "Yào là ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little. Let’s eat!",
+            "chinese": "一点点，开吃！",
+            "pinyin": "Yì diǎn diǎn, kāi chī!",
+            "japanese": "一点点，开吃！",
+            "romaji": "Yì diǎn diǎn, kāi chī!"
+          }
+        ]
+      }
     }
   ]
 }
