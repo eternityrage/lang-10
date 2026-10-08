@@ -2175,6 +2175,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T02:24:08.214090",
+      "dialogue": {
+        "topic": "Coffee and milk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have coffee?",
+            "japanese": "コーヒーは ありますか？",
+            "romaji": "Koohii wa arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I do.",
+            "japanese": "はい、あります。",
+            "romaji": "Hai, arimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "Milk too, please.",
+            "japanese": "ミルクも ください。",
+            "romaji": "Miruku mo kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
