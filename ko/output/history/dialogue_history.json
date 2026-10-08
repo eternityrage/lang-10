@@ -2839,6 +2839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T17:44:21.471047",
+      "dialogue": {
+        "topic": "Cute K-Drama Expressions",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where are you going?",
+            "korean": "어디 가요?",
+            "romaja": "Eodi gayo?",
+            "japanese": "어디 가요?",
+            "romaji": "Eodi gayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "To see you.",
+            "korean": "너 보러 가요.",
+            "romaja": "Neo boreo gayo.",
+            "japanese": "너 보러 가요.",
+            "romaji": "Neo boreo gayo."
+          },
+          {
+            "speaker": "A",
+            "english": "Really, me?",
+            "korean": "정말 나요?",
+            "romaja": "Jeongmal nayo?",
+            "japanese": "정말 나요?",
+            "romaji": "Jeongmal nayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I missed you.",
+            "korean": "네, 보고 싶었어요.",
+            "romaja": "Ne, bogo sipeosseoyo.",
+            "japanese": "네, 보고 싶었어요.",
+            "romaji": "Ne, bogo sipeosseoyo."
+          }
+        ]
+      }
     }
   ]
 }
