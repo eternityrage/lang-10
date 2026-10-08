@@ -2555,6 +2555,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T17:44:18.770905",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the pretzel fresh?",
+            "target_text": "Ist die Brezel frisch?",
+            "japanese": "Ist die Brezel frisch?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "target_text": "Ja, ganz frisch!",
+            "japanese": "Ja, ganz frisch!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then I’ll take one.",
+            "target_text": "Dann nehme ich eine.",
+            "japanese": "Dann nehme ich eine.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With pleasure, here you go!",
+            "target_text": "Sehr gern, bitte schön!",
+            "japanese": "Sehr gern, bitte schön!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
