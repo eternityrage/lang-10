@@ -2591,6 +2591,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T21:53:57.828985",
+      "dialogue": {
+        "topic": "Berlin Tram",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, does the tram stop here?",
+            "target_text": "Entschuldigung, fährt die Tram hier?",
+            "japanese": "Entschuldigung, fährt die Tram hier?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right around the corner!",
+            "target_text": "Ja, gleich um die Ecke!",
+            "japanese": "Ja, gleich um die Ecke!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, which line?",
+            "target_text": "Super, welche Linie?",
+            "japanese": "Super, welche Linie?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "The M10, very easy!",
+            "target_text": "Die M10, ganz einfach!",
+            "japanese": "Die M10, ganz einfach!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
