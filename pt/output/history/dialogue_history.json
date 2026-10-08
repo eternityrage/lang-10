@@ -2519,6 +2519,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T11:42:15.066460",
+      "dialogue": {
+        "topic": "Beach plans",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, beach today?",
+            "target_text": "Oi, praia hoje?",
+            "japanese": "Oi, praia hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love the beach!",
+            "target_text": "Sim, adoro praia!",
+            "japanese": "Sim, adoro praia!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go at ten?",
+            "target_text": "Vamos às dez?",
+            "japanese": "Vamos às dez?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Deal, see you soon!",
+            "target_text": "Fechado, até já!",
+            "japanese": "Fechado, até já!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
