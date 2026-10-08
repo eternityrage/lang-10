@@ -2555,6 +2555,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T18:51:18.852483",
+      "dialogue": {
+        "topic": "Açaí Bowl & Smoothies",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want a smoothie?",
+            "target_text": "Oi, quer um smoothie?",
+            "japanese": "Oi, quer um smoothie?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold!",
+            "target_text": "Quero, bem gelado!",
+            "japanese": "Quero, bem gelado!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Strawberry or mango?",
+            "target_text": "De morango ou manga?",
+            "japanese": "De morango ou manga?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Mango, please!",
+            "target_text": "Manga, por favor!",
+            "japanese": "Manga, por favor!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
