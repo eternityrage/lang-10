@@ -2519,6 +2519,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-08T11:42:00.569122",
+      "dialogue": {
+        "topic": "Kaffee und Kuchen",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one coffee, please.",
+            "target_text": "Hallo, einen Kaffee, bitte.",
+            "japanese": "Hallo, einen Kaffee, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is there cake?",
+            "target_text": "Gibt es Kuchen?",
+            "japanese": "Gibt es Kuchen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, apple cake is here.",
+            "target_text": "Ja, Apfelkuchen ist da.",
+            "japanese": "Ja, Apfelkuchen ist da.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
