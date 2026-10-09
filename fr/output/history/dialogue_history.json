@@ -2735,6 +2735,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T21:31:29.198155",
+      "dialogue": {
+        "topic": "Trying a size in a boutique",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have this size?",
+            "target_text": "Bonjour, vous avez cette taille ?",
+            "japanese": "Bonjour, vous avez cette taille ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try it on?",
+            "target_text": "Je peux l'essayer ?",
+            "japanese": "Je peux l'essayer ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the fitting room is there.",
+            "target_text": "Oui, la cabine est là.",
+            "japanese": "Oui, la cabine est là.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
