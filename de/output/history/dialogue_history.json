@@ -2735,6 +2735,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T21:31:27.739605",
+      "dialogue": {
+        "topic": "Berlin street food",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the currywurst tasty?",
+            "target_text": "Hallo, schmeckt die Currywurst?",
+            "japanese": "Hallo, schmeckt die Currywurst?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very tasty!",
+            "target_text": "Ja, sehr lecker!",
+            "japanese": "Ja, sehr lecker!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then I’ll take one.",
+            "target_text": "Dann nehme ich eine.",
+            "japanese": "Dann nehme ich eine.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, coming right up!",
+            "target_text": "Super, kommt sofort!",
+            "japanese": "Super, kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
