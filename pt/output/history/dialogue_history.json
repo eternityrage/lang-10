@@ -2699,6 +2699,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T17:20:40.104911",
+      "dialogue": {
+        "topic": "Party & Samba Vibes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the music good?",
+            "target_text": "Oi, a música tá boa?",
+            "japanese": "Oi, a música tá boa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's great, come enjoy!",
+            "target_text": "Tá ótima, vem curtir!",
+            "japanese": "Tá ótima, vem curtir!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the bloco now?",
+            "target_text": "Cadê o bloco agora?",
+            "japanese": "Cadê o bloco agora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "There, let's go together!",
+            "target_text": "Ali, vamos juntos!",
+            "japanese": "Ali, vamos juntos!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
