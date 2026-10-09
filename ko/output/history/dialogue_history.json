@@ -3039,6 +3039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T21:31:29.396209",
+      "dialogue": {
+        "topic": "Warm eomuk at a street stall",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this fish cake?",
+            "korean": "이거 어묵이에요?",
+            "romaja": "Igeo eomugieyo?",
+            "japanese": "이거 어묵이에요?",
+            "romaji": "Igeo eomugieyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s warm!",
+            "korean": "네, 따뜻해요!",
+            "romaja": "Ne, ttatteutaeyo!",
+            "japanese": "네, 따뜻해요!",
+            "romaji": "Ne, ttatteutaeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "One skewer, please.",
+            "korean": "하나 주세요.",
+            "romaja": "Hana juseyo.",
+            "japanese": "하나 주세요.",
+            "romaji": "Hana juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, enjoy it!",
+            "korean": "네, 맛있게 드세요!",
+            "romaja": "Ne, masitge deuseyo!",
+            "japanese": "네, 맛있게 드세요!",
+            "romaji": "Ne, masitge deuseyo!"
+          }
+        ]
+      }
     }
   ]
 }
