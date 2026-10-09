@@ -2999,6 +2999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T17:20:28.778351",
+      "dialogue": {
+        "topic": "Buying sweet grapes at Shuk Carmel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there sweet grapes?",
+            "target_text": "שלום, יש ענבים מתוקים?",
+            "transliteration": "Shalom, yesh anavim metukim?",
+            "japanese": "שלום, יש ענבים מתוקים?",
+            "romaji": "Shalom, yesh anavim metukim?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very sweet!",
+            "target_text": "כן, מאוד מתוקים!",
+            "transliteration": "Ken, me'od metukim!",
+            "japanese": "כן, מאוד מתוקים!",
+            "romaji": "Ken, me'od metukim!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is a kilo?",
+            "target_text": "כמה עולה קילו?",
+            "transliteration": "Kama oleh kilo?",
+            "japanese": "כמה עולה קילו?",
+            "romaji": "Kama oleh kilo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Twenty shekels, please.",
+            "target_text": "עשרים שקל, בבקשה.",
+            "transliteration": "Esrim shekel, bevakasha.",
+            "japanese": "עשרים שקל, בבקשה.",
+            "romaji": "Esrim shekel, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
