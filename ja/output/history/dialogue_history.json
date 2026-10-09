@@ -2303,6 +2303,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T02:41:56.665103",
+      "dialogue": {
+        "topic": "Hot Coffee at the Convenience Store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the coffee hot?",
+            "japanese": "コーヒーは あついですか？",
+            "romaji": "Koohii wa atsui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is hot.",
+            "japanese": "はい、あついです。",
+            "romaji": "Hai, atsui desu."
+          },
+          {
+            "speaker": "A",
+            "english": "A lid, please.",
+            "japanese": "ふたを ください。",
+            "romaji": "Futa o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          }
+        ]
+      }
     }
   ]
 }
