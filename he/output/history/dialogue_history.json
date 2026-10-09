@@ -3039,6 +3039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T21:31:23.537928",
+      "dialogue": {
+        "topic": "Shopping for black shoes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there black shoes?",
+            "target_text": "שלום, יש נעליים שחורות?",
+            "transliteration": "Shalom, yesh na'alayim shkhorot?",
+            "japanese": "שלום, יש נעליים שחורות?",
+            "romaji": "Shalom, yesh na'alayim shkhorot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there are pretty shoes!",
+            "target_text": "כן, יש נעליים יפות!",
+            "transliteration": "Ken, yesh na'alayim yafot!",
+            "japanese": "כן, יש נעליים יפות!",
+            "romaji": "Ken, yesh na'alayim yafot!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much do they cost?",
+            "target_text": "כמה הן עולות?",
+            "transliteration": "Kama hen olot?",
+            "japanese": "כמה הן עולות?",
+            "romaji": "Kama hen olot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only one hundred shekels.",
+            "target_text": "רק מאה שקל.",
+            "transliteration": "Rak me'a shekel.",
+            "japanese": "רק מאה שקל.",
+            "romaji": "Rak me'a shekel."
+          }
+        ]
+      }
     }
   ]
 }
