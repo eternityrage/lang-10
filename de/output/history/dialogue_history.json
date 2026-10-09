@@ -2699,6 +2699,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T17:20:32.820596",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are you here?",
+            "target_text": "Hallo, bist du da?",
+            "japanese": "Hallo, bist du da?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am here!",
+            "target_text": "Ja, ich bin da!",
+            "japanese": "Ja, ich bin da!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice to see you!",
+            "target_text": "Schön, dich zu sehen!",
+            "japanese": "Schön, dich zu sehen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "See you later, friend!",
+            "target_text": "Bis später, mein Freund!",
+            "japanese": "Bis später, mein Freund!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
