@@ -2959,6 +2959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T11:35:21.352754",
+      "dialogue": {
+        "topic": "Good morning slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, friend!",
+            "target_text": "בוקר טוב, חבר!",
+            "transliteration": "Boker tov, chaver!",
+            "japanese": "בוקר טוב, חבר!",
+            "romaji": "Boker tov, chaver!"
+          },
+          {
+            "speaker": "B",
+            "english": "Morning, bro!",
+            "target_text": "בוקר אור, אחי!",
+            "transliteration": "Boker or, achi!",
+            "japanese": "בוקר אור, אחי!",
+            "romaji": "Boker or, achi!"
+          },
+          {
+            "speaker": "A",
+            "english": "How is your day?",
+            "target_text": "איך היום שלך?",
+            "transliteration": "Eich ha-yom shelcha?",
+            "japanese": "איך היום שלך?",
+            "romaji": "Eich ha-yom shelcha?"
+          },
+          {
+            "speaker": "B",
+            "english": "Totally cool, thanks!",
+            "target_text": "סבבה לגמרי, תודה!",
+            "transliteration": "Sababa legamrei, toda!",
+            "japanese": "סבבה לגמרי, תודה!",
+            "romaji": "Sababa legamrei, toda!"
+          }
+        ]
+      }
     }
   ]
 }
