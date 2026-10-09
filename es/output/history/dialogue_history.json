@@ -2627,6 +2627,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T02:42:09.628491",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you coming to the party?",
+            "target_text": "¿Vienes a la fiesta?",
+            "japanese": "¿Vienes a la fiesta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m going with you!",
+            "target_text": "¡Sí, voy contigo!",
+            "japanese": "¡Sí, voy contigo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we dance a little?",
+            "target_text": "¿Bailamos un poco?",
+            "japanese": "¿Bailamos un poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, it will be fun!",
+            "target_text": "¡Claro, será divertido!",
+            "japanese": "¡Claro, será divertido!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
