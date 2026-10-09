@@ -2959,6 +2959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T02:42:18.418073",
+      "dialogue": {
+        "topic": "Finding the metro line",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, where is the metro?",
+            "russian": "Здравствуйте, где метро?",
+            "translit": "Zdravstvuyte, gde metro?",
+            "japanese": "Здравствуйте, где метро?",
+            "romaji": "Zdravstvuyte, gde metro?"
+          },
+          {
+            "speaker": "B",
+            "english": "Here is the metro, very close!",
+            "russian": "Вот метро, совсем рядом!",
+            "translit": "Vot metro, sovsem ryadom!",
+            "japanese": "Вот метро, совсем рядом!",
+            "romaji": "Vot metro, sovsem ryadom!"
+          },
+          {
+            "speaker": "A",
+            "english": "Which line is this?",
+            "russian": "Какая это линия?",
+            "translit": "Kakaya eto liniya?",
+            "japanese": "Какая это линия?",
+            "romaji": "Kakaya eto liniya?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is the red line.",
+            "russian": "Это красная линия.",
+            "translit": "Eto krasnaya liniya.",
+            "japanese": "Это красная линия.",
+            "romaji": "Eto krasnaya liniya."
+          }
+        ]
+      }
     }
   ]
 }
