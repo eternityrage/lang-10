@@ -2959,6 +2959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T11:35:28.989957",
+      "dialogue": {
+        "topic": "Warm eomuk on the street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want eomuk together?",
+            "korean": "어묵 같이 먹을래?",
+            "romaja": "Eomuk gachi meogeullae?",
+            "japanese": "어묵 같이 먹을래?",
+            "romaji": "Eomuk gachi meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds great!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Drink warm soup too?",
+            "korean": "따뜻한 국물도 마실까?",
+            "romaja": "Ttatteuthan gungmuldo masilkka?",
+            "japanese": "따뜻한 국물도 마실까?",
+            "romaji": "Ttatteuthan gungmuldo masilkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, really warm!",
+            "korean": "좋아, 진짜 따뜻해!",
+            "romaja": "Joa, jinjja ttatteuthae!",
+            "japanese": "좋아, 진짜 따뜻해!",
+            "romaji": "Joa, jinjja ttatteuthae!"
+          }
+        ]
+      }
     }
   ]
 }
