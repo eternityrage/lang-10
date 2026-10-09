@@ -2663,6 +2663,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T12:30:03.583429",
+      "dialogue": {
+        "topic": "Coffee with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, coffee now?",
+            "target_text": "Oi, café agora?",
+            "japanese": "Oi, café agora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, I'm in!",
+            "target_text": "Claro, eu topo!",
+            "japanese": "Claro, eu topo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "At the corner café?",
+            "target_text": "No bar da esquina?",
+            "japanese": "No bar da esquina?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "Sim, vamos lá!",
+            "japanese": "Sim, vamos lá!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
