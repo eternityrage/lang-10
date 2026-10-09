@@ -2399,6 +2399,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T21:31:23.614928",
+      "dialogue": {
+        "topic": "A tiny date confession",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, I like you.",
+            "japanese": "マグさん、すきです。",
+            "romaji": "Magu-san, suki desu."
+          },
+          {
+            "speaker": "B",
+            "english": "I like you too.",
+            "japanese": "わたしも すきです。",
+            "romaji": "Watashi mo suki desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Date today?",
+            "japanese": "きょう、デート しませんか？",
+            "romaji": "Kyou, deeto shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am happy!",
+            "japanese": "はい、とても うれしいです！",
+            "romaji": "Hai, totemo ureshii desu!"
+          }
+        ]
+      }
     }
   ]
 }
