@@ -2919,6 +2919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T02:42:12.924483",
+      "dialogue": {
+        "topic": "Speaking Casually",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, first time here?",
+            "korean": "안녕하세요, 처음이에요?",
+            "romaja": "Annyeonghaseyo, cheoeum-ieyo?",
+            "japanese": "안녕하세요, 처음이에요?",
+            "romaji": "Annyeonghaseyo, cheoeum-ieyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, nice to meet you!",
+            "korean": "네, 반가워요!",
+            "romaja": "Ne, bangawoyo!",
+            "japanese": "네, 반가워요!",
+            "romaji": "Ne, bangawoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I speak casually?",
+            "korean": "말 편하게 해도 돼요?",
+            "romaja": "Mal pyeonhage haedo dwaeyo?",
+            "japanese": "말 편하게 해도 돼요?",
+            "romaji": "Mal pyeonhage haedo dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, speak casually!",
+            "korean": "응, 편하게 해!",
+            "romaja": "Eung, pyeonhage hae!",
+            "japanese": "응, 편하게 해!",
+            "romaji": "Eung, pyeonhage hae!"
+          }
+        ]
+      }
     }
   ]
 }
