@@ -3119,6 +3119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T17:20:29.376989",
+      "dialogue": {
+        "topic": "Morning Greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning!",
+            "chinese": "早上好呀！",
+            "pinyin": "Zǎoshang hǎo ya!",
+            "japanese": "早上好呀！",
+            "romaji": "Zǎoshang hǎo ya!"
+          },
+          {
+            "speaker": "B",
+            "english": "Good morning!",
+            "chinese": "早上好！",
+            "pinyin": "Zǎoshang hǎo!",
+            "japanese": "早上好！",
+            "romaji": "Zǎoshang hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Busy today?",
+            "chinese": "今天忙吗？",
+            "pinyin": "Jīntiān máng ma?",
+            "japanese": "今天忙吗？",
+            "romaji": "Jīntiān máng ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not busy, great!",
+            "chinese": "不忙，很好！",
+            "pinyin": "Bù máng, hěn hǎo!",
+            "japanese": "不忙，很好！",
+            "romaji": "Bù máng, hěn hǎo!"
+          }
+        ]
+      }
     }
   ]
 }
