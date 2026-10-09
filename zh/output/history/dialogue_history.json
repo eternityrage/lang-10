@@ -3039,6 +3039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T02:42:09.271651",
+      "dialogue": {
+        "topic": "Morning Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Morning! Coffee?",
+            "chinese": "早！喝咖啡吗？",
+            "pinyin": "Zǎo! Hē kāfēi ma?",
+            "japanese": "早！喝咖啡吗？",
+            "romaji": "Zǎo! Hē kāfēi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I want some.",
+            "chinese": "好！我想喝。",
+            "pinyin": "Hǎo! Wǒ xiǎng hē.",
+            "japanese": "好！我想喝。",
+            "romaji": "Hǎo! Wǒ xiǎng hē."
+          },
+          {
+            "speaker": "A",
+            "english": "Is hot okay?",
+            "chinese": "热的好吗？",
+            "pinyin": "Rè de hǎo ma?",
+            "japanese": "热的好吗？",
+            "romaji": "Rè de hǎo ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go!",
+            "chinese": "好，走吧！",
+            "pinyin": "Hǎo, zǒu ba!",
+            "japanese": "好，走吧！",
+            "romaji": "Hǎo, zǒu ba!"
+          }
+        ]
+      }
     }
   ]
 }
