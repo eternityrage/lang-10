@@ -2627,6 +2627,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T02:41:58.168128",
+      "dialogue": {
+        "topic": "Party & Samba Vibes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there samba here?",
+            "target_text": "Oi, tem samba aqui?",
+            "japanese": "Oi, tem samba aqui?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very good!",
+            "target_text": "Tem sim, muito bom!",
+            "japanese": "Tem sim, muito bom!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the music loud?",
+            "target_text": "A música está alta?",
+            "japanese": "A música está alta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s enjoy it!",
+            "target_text": "Está, vamos curtir!",
+            "japanese": "Está, vamos curtir!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
