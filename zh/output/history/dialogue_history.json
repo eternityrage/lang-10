@@ -3159,6 +3159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T21:31:30.366817",
+      "dialogue": {
+        "topic": "Bargaining for a lower price",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Cheaper, please?",
+            "chinese": "便宜点吗？",
+            "pinyin": "Piányi diǎn ma?",
+            "japanese": "便宜点吗？",
+            "romaji": "Piányi diǎn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure!",
+            "chinese": "可以呀！",
+            "pinyin": "Kěyǐ ya!",
+            "japanese": "可以呀！",
+            "romaji": "Kěyǐ ya!"
+          },
+          {
+            "speaker": "A",
+            "english": "Ten yuan, okay?",
+            "chinese": "十块好吗？",
+            "pinyin": "Shí kuài hǎo ma?",
+            "japanese": "十块好吗？",
+            "romaji": "Shí kuài hǎo ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, for you.",
+            "chinese": "好，给你。",
+            "pinyin": "Hǎo, gěi nǐ.",
+            "japanese": "好，给你。",
+            "romaji": "Hǎo, gěi nǐ."
+          }
+        ]
+      }
     }
   ]
 }
