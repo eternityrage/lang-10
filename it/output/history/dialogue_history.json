@@ -2627,6 +2627,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T02:42:03.104210",
+      "dialogue": {
+        "topic": "Rome & Florence Walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we go to the Colosseum?",
+            "target_text": "Ciao, andiamo al Colosseo?",
+            "japanese": "Ciao, andiamo al Colosseo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what a nice idea!",
+            "target_text": "Sì, che bella idea!",
+            "japanese": "Sì, che bella idea!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far from here?",
+            "target_text": "È lontano da qui?",
+            "japanese": "È lontano da qui?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, five minutes on foot.",
+            "target_text": "No, cinque minuti a piedi.",
+            "japanese": "No, cinque minuti a piedi.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
