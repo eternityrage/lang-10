@@ -2367,6 +2367,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T17:20:52.942135",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you busy?",
+            "japanese": "マグさん、いそがしいですか？",
+            "romaji": "Magu-san, isogashii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I'm okay.",
+            "japanese": "いいえ、だいじょうぶです。",
+            "romaji": "Iie, daijoubu desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, let's rest.",
+            "japanese": "じゃあ、休みましょう。",
+            "romaji": "Jaa, yasumimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, coffee, please.",
+            "japanese": "はい、コーヒーを どうぞ。",
+            "romaji": "Hai, koohii o douzo."
+          }
+        ]
+      }
     }
   ]
 }
