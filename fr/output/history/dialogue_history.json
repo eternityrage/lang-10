@@ -2627,6 +2627,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T02:42:11.475864",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you dance?",
+            "target_text": "Salut, tu danses ?",
+            "japanese": "Salut, tu danses ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You have a beautiful smile.",
+            "target_text": "Tu as un beau sourire.",
+            "japanese": "Tu as un beau sourire.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you too!",
+            "target_text": "Merci, toi aussi !",
+            "japanese": "Merci, toi aussi !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
