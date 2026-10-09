@@ -2699,6 +2699,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T17:20:33.847811",
+      "dialogue": {
+        "topic": "Ordering tortilla at a tapas café",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what tapas do you recommend?",
+            "target_text": "Hola, ¿qué tapas recomienda?",
+            "japanese": "Hola, ¿qué tapas recomienda?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "The tortilla is tasty.",
+            "target_text": "La tortilla está rica.",
+            "japanese": "La tortilla está rica.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Perfect, one portion, please.",
+            "target_text": "Perfecto, una porción, por favor.",
+            "japanese": "Perfecto, una porción, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, right now.",
+            "target_text": "Claro, ahora mismo.",
+            "japanese": "Claro, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
