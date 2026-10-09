@@ -2999,6 +2999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T17:20:37.720563",
+      "dialogue": {
+        "topic": "You Make Me Smile",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Why are you smiling?",
+            "korean": "왜 이렇게 웃어요?",
+            "romaja": "Wae ireoke useoyo?",
+            "japanese": "왜 이렇게 웃어요?",
+            "romaji": "Wae ireoke useoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Because of you!",
+            "korean": "너 때문에 웃어요!",
+            "romaja": "Neo ttaemune useoyo!",
+            "japanese": "너 때문에 웃어요!",
+            "romaji": "Neo ttaemune useoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "I feel fluttery too.",
+            "korean": "나도 조금 설레요.",
+            "romaja": "Nado jogeum seolleyo.",
+            "japanese": "나도 조금 설레요.",
+            "romaji": "Nado jogeum seolleyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s date today.",
+            "korean": "오늘 우리 데이트해요.",
+            "romaja": "Oneul uri deiteuhaeyo.",
+            "japanese": "오늘 우리 데이트해요.",
+            "romaji": "Oneul uri deiteuhaeyo."
+          }
+        ]
+      }
     }
   ]
 }
