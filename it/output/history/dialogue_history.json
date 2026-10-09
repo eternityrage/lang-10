@@ -2735,6 +2735,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T21:31:41.413015",
+      "dialogue": {
+        "topic": "Espresso Bar & Cornetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, a cappuccino, please?",
+            "target_text": "Buongiorno, un cappuccino, per favore?",
+            "japanese": "Buongiorno, un cappuccino, per favore?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, and a cornetto?",
+            "target_text": "Certo, e un cornetto?",
+            "japanese": "Certo, e un cornetto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, with cream, thanks.",
+            "target_text": "Sì, alla crema, grazie.",
+            "japanese": "Sì, alla crema, grazie.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right away, it’s three euros.",
+            "target_text": "Subito, sono tre euro.",
+            "japanese": "Subito, sono tre euro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
