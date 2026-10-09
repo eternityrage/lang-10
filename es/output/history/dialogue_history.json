@@ -2735,6 +2735,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T21:31:30.060342",
+      "dialogue": {
+        "topic": "Un refresco en la fiesta",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want a soda?",
+            "target_text": "¿Quieres un refresco?",
+            "japanese": "¿Quieres un refresco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thank you very much.",
+            "target_text": "Sí, muchas gracias.",
+            "japanese": "Sí, muchas gracias.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the balcony?",
+            "target_text": "¿Vamos al balcón?",
+            "japanese": "¿Vamos al balcón?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what a good idea.",
+            "target_text": "Sí, qué buena idea.",
+            "japanese": "Sí, qué buena idea.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
