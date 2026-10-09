@@ -2335,6 +2335,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T11:35:19.439037",
+      "dialogue": {
+        "topic": "Hot Coffee and Milk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the coffee hot?",
+            "japanese": "コーヒーは あついですか？",
+            "romaji": "Koohii wa atsui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little hot.",
+            "japanese": "はい、すこし あついです。",
+            "romaji": "Hai, sukoshi atsui desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall I add milk?",
+            "japanese": "ミルクを いれますか？",
+            "romaji": "Miruku o iremasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please!",
+            "japanese": "はい、おねがいします！",
+            "romaji": "Hai, onegai shimasu!"
+          }
+        ]
+      }
     }
   ]
 }
