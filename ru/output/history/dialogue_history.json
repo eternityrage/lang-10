@@ -3039,6 +3039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T17:20:40.856039",
+      "dialogue": {
+        "topic": "Meeting a friend: going to a café",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where are you going?",
+            "russian": "Привет, куда ты идёшь?",
+            "translit": "Privet, kuda ty idyosh?",
+            "japanese": "Привет, куда ты идёшь?",
+            "romaji": "Privet, kuda ty idyosh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi, to the café!",
+            "russian": "Привет, я в кафе!",
+            "translit": "Privet, ya v kafe!",
+            "japanese": "Привет, я в кафе!",
+            "romaji": "Privet, ya v kafe!"
+          },
+          {
+            "speaker": "A",
+            "english": "May I join you?",
+            "russian": "Можно я с тобой?",
+            "translit": "Mozhno ya s toboy?",
+            "japanese": "Можно я с тобой?",
+            "romaji": "Mozhno ya s toboy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, my friend!",
+            "russian": "Конечно, мой друг!",
+            "translit": "Konechno, moy drug!",
+            "japanese": "Конечно, мой друг!",
+            "romaji": "Konechno, moy drug!"
+          }
+        ]
+      }
     }
   ]
 }
