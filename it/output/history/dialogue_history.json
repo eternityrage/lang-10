@@ -2699,6 +2699,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T17:20:41.778430",
+      "dialogue": {
+        "topic": "Italian slang: “dai!”",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Why say “dai”?",
+            "target_text": "Perché dici “dai”?",
+            "japanese": "Perché dici “dai”?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means “come on”!",
+            "target_text": "Vuol dire “forza”!",
+            "japanese": "Vuol dire “forza”!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you gesture too?",
+            "target_text": "Fai anche il gesto?",
+            "japanese": "Fai anche il gesto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, like this: dai!",
+            "target_text": "Sì, così: dai!",
+            "japanese": "Sì, così: dai!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
