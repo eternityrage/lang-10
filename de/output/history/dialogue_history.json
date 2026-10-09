@@ -2663,6 +2663,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-09T11:35:16.601546",
+      "dialogue": {
+        "topic": "Currywurst am Imbiss",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the currywurst spicy?",
+            "target_text": "Hallo, ist die Currywurst scharf?",
+            "japanese": "Hallo, ist die Currywurst scharf?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little bit!",
+            "target_text": "Ja, ein bisschen!",
+            "japanese": "Ja, ein bisschen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then I’ll take fries.",
+            "target_text": "Dann nehme ich Pommes.",
+            "japanese": "Dann nehme ich Pommes.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, coming right up!",
+            "target_text": "Super, kommt sofort!",
+            "japanese": "Super, kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
