@@ -3159,6 +3159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T16:07:17.458612",
+      "dialogue": {
+        "topic": "Switching to casual speech",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can I speak casually?",
+            "korean": "말 편하게 해도 돼요?",
+            "romaja": "Mal pyeonhage haedo dwaeyo?",
+            "japanese": "말 편하게 해도 돼요?",
+            "romaji": "Mal pyeonhage haedo dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I like it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then I'll use banmal.",
+            "korean": "그럼 이제 반말할게요.",
+            "romaja": "Geureom ije banmalhalgeyo.",
+            "japanese": "그럼 이제 반말할게요.",
+            "romaji": "Geureom ije banmalhalgeyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Good, speak comfortably!",
+            "korean": "좋아, 편하게 말해!",
+            "romaja": "Joa, pyeonhage malhae!",
+            "japanese": "좋아, 편하게 말해!",
+            "romaji": "Joa, pyeonhage malhae!"
+          }
+        ]
+      }
     }
   ]
 }
