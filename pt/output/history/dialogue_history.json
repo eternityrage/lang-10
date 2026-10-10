@@ -2771,6 +2771,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T02:02:16.105268",
+      "dialogue": {
+        "topic": "Açaí Bowl & Smoothies",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, which smoothie is good?",
+            "target_text": "Oi, qual smoothie é bom?",
+            "japanese": "Oi, qual smoothie é bom?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "The mango one is great!",
+            "target_text": "O de manga é ótimo!",
+            "japanese": "O de manga é ótimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And açaí with banana?",
+            "target_text": "E açaí com banana?",
+            "japanese": "E açaí com banana?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is delicious!",
+            "target_text": "Sim, fica uma delícia!",
+            "japanese": "Sim, fica uma delícia!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
