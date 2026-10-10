@@ -3279,6 +3279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T16:07:22.102128",
+      "dialogue": {
+        "topic": "Hotpot Dinner",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is hotpot tasty?",
+            "chinese": "火锅好吃吗？",
+            "pinyin": "Huǒguō hǎochī ma?",
+            "japanese": "火锅好吃吗？",
+            "romaji": "Huǒguō hǎochī ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! So good!",
+            "chinese": "好吃！很好！",
+            "pinyin": "Hǎochī! Hěn hǎo!",
+            "japanese": "好吃！很好！",
+            "romaji": "Hǎochī! Hěn hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "I want meat.",
+            "chinese": "我要肉。",
+            "pinyin": "Wǒ yào ròu.",
+            "japanese": "我要肉。",
+            "romaji": "Wǒ yào ròu."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, eat!",
+            "chinese": "好，吃吧！",
+            "pinyin": "Hǎo, chī ba!",
+            "japanese": "好，吃吧！",
+            "romaji": "Hǎo, chī ba!"
+          }
+        ]
+      }
     }
   ]
 }
