@@ -3119,6 +3119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T02:02:11.754461",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is it snowing?",
+            "russian": "Привет, идёт снег?",
+            "translit": "Privet, idyot sneg?",
+            "japanese": "Привет, идёт снег?",
+            "romaji": "Privet, idyot sneg?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, so beautiful!",
+            "russian": "Да, так красиво!",
+            "translit": "Da, tak krasivo!",
+            "japanese": "Да, так красиво!",
+            "romaji": "Da, tak krasivo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Are you cold now?",
+            "russian": "Тебе сейчас холодно?",
+            "translit": "Tebe seychas kholodno?",
+            "japanese": "Тебе сейчас холодно?",
+            "romaji": "Tebe seychas kholodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, let's walk on!",
+            "russian": "Нет, гуляем дальше!",
+            "translit": "Net, gulyaem dalshe!",
+            "japanese": "Нет, гуляем дальше!",
+            "romaji": "Net, gulyaem dalshe!"
+          }
+        ]
+      }
     }
   ]
 }
