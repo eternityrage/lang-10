@@ -3119,6 +3119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T10:52:56.147347",
+      "dialogue": {
+        "topic": "Iced coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Want coffee?",
+            "korean": "안녕! 커피 마실래?",
+            "romaja": "Annyeong! Keopi masillae?",
+            "japanese": "안녕! 커피 마실래?",
+            "romaji": "Annyeong! Keopi masillae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds good!",
+            "korean": "네, 좋아요!",
+            "romaja": "Ne, joayo!",
+            "japanese": "네, 좋아요!",
+            "romaji": "Ne, joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is iced okay?",
+            "korean": "아이스 괜찮아?",
+            "romaja": "Aiseu gwaenchana?",
+            "japanese": "아이스 괜찮아?",
+            "romaji": "Aiseu gwaenchana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          }
+        ]
+      }
     }
   ]
 }
