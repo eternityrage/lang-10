@@ -2807,6 +2807,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T10:53:03.309386",
+      "dialogue": {
+        "topic": "Metro & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, which line is this?",
+            "target_text": "Bonjour, c’est quelle ligne ?",
+            "japanese": "Bonjour, c’est quelle ligne ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It’s line two!",
+            "target_text": "C’est la ligne 2 !",
+            "japanese": "C’est la ligne 2 !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go to Paris?",
+            "target_text": "Elle va à Paris ?",
+            "japanese": "Elle va à Paris ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Oui, bon voyage !",
+            "japanese": "Oui, bon voyage !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
