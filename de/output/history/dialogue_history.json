@@ -2843,6 +2843,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T16:07:08.253625",
+      "dialogue": {
+        "topic": "Cold beer in the beer garden",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the beer cold?",
+            "target_text": "Hallo, ist das Bier kalt?",
+            "japanese": "Hallo, ist das Bier kalt?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold and fresh!",
+            "target_text": "Ja, sehr kalt und frisch!",
+            "japanese": "Ja, sehr kalt und frisch!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then one beer, please.",
+            "target_text": "Dann ein Bier, bitte.",
+            "japanese": "Dann ein Bier, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, coming right away!",
+            "target_text": "Gern, kommt sofort!",
+            "japanese": "Gern, kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
