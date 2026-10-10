@@ -2843,6 +2843,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T16:07:14.292566",
+      "dialogue": {
+        "topic": "Buying a metro ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much is the ticket?",
+            "target_text": "Hola, ¿cuánto cuesta el billete?",
+            "japanese": "Hola, ¿cuánto cuesta el billete?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only two euros!",
+            "target_text": "¡Solo dos euros!",
+            "japanese": "¡Solo dos euros!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I pay by card?",
+            "target_text": "¿Puedo pagar con tarjeta?",
+            "japanese": "¿Puedo pagar con tarjeta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Sí, ¡buen viaje!",
+            "japanese": "Sí, ¡buen viaje!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
