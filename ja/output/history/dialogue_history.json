@@ -2463,6 +2463,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T10:52:58.073032",
+      "dialogue": {
+        "topic": "Cute cafe photo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, this place is cute!",
+            "japanese": "マグ、ここ かわいいね！",
+            "romaji": "Magu, koko kawaii ne!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, super cute!",
+            "japanese": "うん、めっちゃ かわいい！",
+            "romaji": "Un, meccha kawaii!"
+          },
+          {
+            "speaker": "A",
+            "english": "Take a photo?",
+            "japanese": "しゃしん、とる？",
+            "romaji": "Shashin, toru?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Say cheese!",
+            "japanese": "いいよ！はい、チーズ！",
+            "romaji": "Ii yo! Hai, chiizu!"
+          }
+        ]
+      }
     }
   ]
 }
