@@ -3199,6 +3199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T20:32:11.103422",
+      "dialogue": {
+        "topic": "Buying bread at a convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is there bread?",
+            "russian": "Здравствуйте, есть хлеб?",
+            "translit": "Zdravstvuyte, yest khleb?",
+            "japanese": "Здравствуйте, есть хлеб?",
+            "romaji": "Zdravstvuyte, yest khleb?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the bread is fresh!",
+            "russian": "Да, хлеб свежий!",
+            "translit": "Da, khleb svezhiy!",
+            "japanese": "Да, хлеб свежий!",
+            "romaji": "Da, khleb svezhiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "russian": "Сколько он стоит?",
+            "translit": "Skolko on stoit?",
+            "japanese": "Сколько он стоит?",
+            "romaji": "Skolko on stoit?"
+          },
+          {
+            "speaker": "B",
+            "english": "Forty rubles, please.",
+            "russian": "Сорок рублей, пожалуйста.",
+            "translit": "Sorok rubley, pozhaluysta.",
+            "japanese": "Сорок рублей, пожалуйста.",
+            "romaji": "Sorok rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
