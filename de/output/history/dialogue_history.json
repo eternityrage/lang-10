@@ -2879,6 +2879,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T20:32:29.286662",
+      "dialogue": {
+        "topic": "Morning greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, Lisa!",
+            "target_text": "Guten Morgen, Lisa!",
+            "japanese": "Guten Morgen, Lisa!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Hello, nice to see you!",
+            "target_text": "Hallo, schön dich zu sehen!",
+            "japanese": "Hallo, schön dich zu sehen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice day today, right?",
+            "target_text": "Schöner Tag heute, oder?",
+            "japanese": "Schöner Tag heute, oder?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you later!",
+            "target_text": "Ja, bis später!",
+            "japanese": "Ja, bis später!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
