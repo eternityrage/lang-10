@@ -3079,6 +3079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T02:02:06.173142",
+      "dialogue": {
+        "topic": "Shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like Myeongdong shopping?",
+            "korean": "명동 쇼핑 좋아요?",
+            "romaja": "Myeongdong syoping joayo?",
+            "japanese": "명동 쇼핑 좋아요?",
+            "romaji": "Myeongdong syoping joayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "How are these socks?",
+            "korean": "이 양말 어때요?",
+            "romaja": "I yangmal eottaeyo?",
+            "japanese": "이 양말 어때요?",
+            "romaji": "I yangmal eottaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Cute. Let’s buy them!",
+            "korean": "귀여워요, 같이 사요!",
+            "romaja": "Gwiyeowoyo, gachi sayo!",
+            "japanese": "귀여워요, 같이 사요!",
+            "romaji": "Gwiyeowoyo, gachi sayo!"
+          }
+        ]
+      }
     }
   ]
 }
