@@ -2879,6 +2879,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T20:32:19.720060",
+      "dialogue": {
+        "topic": "Leaving home",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you looking for your keys?",
+            "target_text": "Tu cherches tes clés ?",
+            "japanese": "Tu cherches tes clés ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are here!",
+            "target_text": "Oui, elles sont ici !",
+            "japanese": "Oui, elles sont ici !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, shall we go?",
+            "target_text": "Super, on part ?",
+            "japanese": "Super, on part ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "Oui, on y va !",
+            "japanese": "Oui, on y va !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
