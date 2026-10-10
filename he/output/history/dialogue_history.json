@@ -3159,6 +3159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T16:07:21.332253",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you hot?",
+            "target_text": "היי, חם לך?",
+            "transliteration": "Hey, cham lach?",
+            "japanese": "היי, חם לך?",
+            "romaji": "Hey, cham lach?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but it's fun!",
+            "target_text": "כן, אבל כיף!",
+            "transliteration": "Ken, aval kef!",
+            "japanese": "כן, אבל כיף!",
+            "romaji": "Ken, aval kef!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the water now?",
+            "target_text": "נלך למים עכשיו?",
+            "transliteration": "Nelech la-mayim achshav?",
+            "japanese": "נלך למים עכשיו?",
+            "romaji": "Nelech la-mayim achshav?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the water is nice.",
+            "target_text": "כן, המים נעימים.",
+            "transliteration": "Ken, ha-mayim ne'imim.",
+            "japanese": "כן, המים נעימים.",
+            "romaji": "Ken, ha-mayim ne'imim."
+          }
+        ]
+      }
     }
   ]
 }
