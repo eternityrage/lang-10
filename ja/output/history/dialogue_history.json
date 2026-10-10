@@ -2495,6 +2495,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T16:07:23.507473",
+      "dialogue": {
+        "topic": "Hot Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the coffee hot?",
+            "japanese": "コーヒーは あついですか？",
+            "romaji": "Koohii wa atsui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is hot!",
+            "japanese": "はい、あついです！",
+            "romaji": "Hai, atsui desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Please drink slowly.",
+            "japanese": "ゆっくり のんでください。",
+            "romaji": "Yukkuri nonde kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay. Thank you!",
+            "japanese": "はい。ありがとう！",
+            "romaji": "Hai. Arigatou!"
+          }
+        ]
+      }
     }
   ]
 }
