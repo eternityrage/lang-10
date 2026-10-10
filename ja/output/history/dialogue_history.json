@@ -2431,6 +2431,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T02:02:00.176948",
+      "dialogue": {
+        "topic": "A tiny heart sprinkle",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, please look!",
+            "japanese": "マグさん、見てください！",
+            "romaji": "Magu-san, mite kudasai!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow! It's a heart!",
+            "japanese": "わあ！ハートです！",
+            "romaji": "Waa! Haato desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it cute?",
+            "japanese": "かわいいですか？",
+            "romaji": "Kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cute!",
+            "japanese": "はい、とても かわいいです！",
+            "romaji": "Hai, totemo kawaii desu!"
+          }
+        ]
+      }
     }
   ]
 }
