@@ -2807,6 +2807,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T10:52:53.954262",
+      "dialogue": {
+        "topic": "Buying apples at the market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much are the apples?",
+            "target_text": "Hola, ¿cuánto cuestan las manzanas?",
+            "japanese": "Hola, ¿cuánto cuestan las manzanas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Two euros, very good!",
+            "target_text": "¡Dos euros, muy buenas!",
+            "japanese": "¡Dos euros, muy buenas!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want three, please.",
+            "target_text": "Quiero tres, por favor.",
+            "japanese": "Quiero tres, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, here you go!",
+            "target_text": "¡Perfecto, aquí tienes!",
+            "japanese": "¡Perfecto, aquí tienes!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
