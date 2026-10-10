@@ -3199,6 +3199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T20:32:13.444218",
+      "dialogue": {
+        "topic": "Shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this hat?",
+            "korean": "이 모자 얼마예요?",
+            "romaja": "I moja eolmayeyo?",
+            "japanese": "이 모자 얼마예요?",
+            "romaji": "I moja eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten thousand won, very pretty!",
+            "korean": "만원이에요, 정말 예뻐요!",
+            "romaja": "Man wonieyo, jeongmal yeppeoyo!",
+            "japanese": "만원이에요, 정말 예뻐요!",
+            "romaji": "Man wonieyo, jeongmal yeppeoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I pay by card?",
+            "korean": "카드 결제 돼요?",
+            "romaja": "Kadeu gyeolje dwaeyo?",
+            "japanese": "카드 결제 돼요?",
+            "romaji": "Kadeu gyeolje dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, card is okay!",
+            "korean": "네, 카드 돼요!",
+            "romaja": "Ne, kadeu dwaeyo!",
+            "japanese": "네, 카드 돼요!",
+            "romaji": "Ne, kadeu dwaeyo!"
+          }
+        ]
+      }
     }
   ]
 }
