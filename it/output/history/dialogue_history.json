@@ -2843,6 +2843,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T16:07:23.401668",
+      "dialogue": {
+        "topic": "At the train station: platform for Rome",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, which platform for Rome?",
+            "target_text": "Buongiorno, quale binario per Roma?",
+            "japanese": "Buongiorno, quale binario per Roma?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Platform three, it is close!",
+            "target_text": "Binario tre, è vicino!",
+            "japanese": "Binario tre, è vicino!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does the train leave now?",
+            "target_text": "Il treno parte ora?",
+            "japanese": "Il treno parte ora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a nice day!",
+            "target_text": "Sì, buona giornata!",
+            "japanese": "Sì, buona giornata!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
