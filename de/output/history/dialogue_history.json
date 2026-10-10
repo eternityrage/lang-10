@@ -2771,6 +2771,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T02:01:47.833790",
+      "dialogue": {
+        "topic": "Street Music in Berlin",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are you playing here?",
+            "target_text": "Hallo, spielst du hier?",
+            "japanese": "Hallo, spielst du hier?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I play soon!",
+            "target_text": "Ja, ich spiele gleich!",
+            "japanese": "Ja, ich spiele gleich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the music loud?",
+            "target_text": "Ist die Musik laut?",
+            "japanese": "Ist die Musik laut?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, everything is relaxed.",
+            "target_text": "Nein, alles ist entspannt.",
+            "japanese": "Nein, alles ist entspannt.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
