@@ -2771,6 +2771,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T02:02:00.280233",
+      "dialogue": {
+        "topic": "Street Greetings: Going to the Park",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where are you going?",
+            "target_text": "Salut, tu vas où ?",
+            "japanese": "Salut, tu vas où ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’m going to the park!",
+            "target_text": "Je vais au parc !",
+            "japanese": "Je vais au parc !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I come?",
+            "target_text": "Je peux venir ?",
+            "japanese": "Je peux venir ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
