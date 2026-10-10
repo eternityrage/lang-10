@@ -2527,6 +2527,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T20:32:39.038850",
+      "dialogue": {
+        "topic": "Tokyo vending machine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, a vending machine!",
+            "japanese": "マグ、じはんきです！",
+            "romaji": "Magu, jihanki desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Is it cold tea?",
+            "japanese": "つめたい おちゃですか？",
+            "romaji": "Tsumetai ocha desu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, it's cold.",
+            "japanese": "はい、つめたいです。",
+            "romaji": "Hai, tsumetai desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Then, let's drink!",
+            "japanese": "じゃあ、のみましょう！",
+            "romaji": "Jaa, nomimashou!"
+          }
+        ]
+      }
     }
   ]
 }
