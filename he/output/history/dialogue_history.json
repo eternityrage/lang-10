@@ -3119,6 +3119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T10:53:01.890194",
+      "dialogue": {
+        "topic": "Buying olives at Shuk Carmel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are the olives good?",
+            "target_text": "היי, הזיתים טובים?",
+            "transliteration": "Hi, ha-zeitim tovim?",
+            "japanese": "היי, הזיתים טובים?",
+            "romaji": "Hi, ha-zeitim tovim?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very tasty!",
+            "target_text": "כן, מאוד טעימים!",
+            "transliteration": "Ken, me'od te'imim!",
+            "japanese": "כן, מאוד טעימים!",
+            "romaji": "Ken, me'od te'imim!"
+          },
+          {
+            "speaker": "A",
+            "english": "I want a little.",
+            "target_text": "אני רוצה קצת.",
+            "transliteration": "Ani rotzeh ktzat.",
+            "japanese": "אני רוצה קצת.",
+            "romaji": "Ani rotzeh ktzat."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, here you go!",
+            "target_text": "מעולה, הנה בבקשה!",
+            "transliteration": "Me'uleh, hineh bevakasha!",
+            "japanese": "מעולה, הנה בבקשה!",
+            "romaji": "Me'uleh, hineh bevakasha!"
+          }
+        ]
+      }
     }
   ]
 }
