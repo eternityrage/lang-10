@@ -2771,6 +2771,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T02:01:58.570855",
+      "dialogue": {
+        "topic": "Greetings & Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what a pretty smile!",
+            "target_text": "Hola, ¡qué bonita sonrisa!",
+            "japanese": "Hola, ¡qué bonita sonrisa!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you! I am very happy.",
+            "target_text": "¡Gracias! Estoy muy feliz.",
+            "japanese": "¡Gracias! Estoy muy feliz.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Your joy is contagious.",
+            "target_text": "Tu alegría es contagiosa.",
+            "japanese": "Tu alegría es contagiosa.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How kind! Thank you.",
+            "target_text": "¡Qué amable! Gracias.",
+            "japanese": "¡Qué amable! Gracias.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
