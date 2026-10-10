@@ -3159,6 +3159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-10T10:53:10.501625",
+      "dialogue": {
+        "topic": "Winter walk and snow",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Look, is it snowing?",
+            "russian": "Смотри, идёт снег?",
+            "translit": "Smotri, idyot sneg?",
+            "japanese": "Смотри, идёт снег?",
+            "romaji": "Smotri, idyot sneg?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very beautiful!",
+            "russian": "Да, очень красиво!",
+            "translit": "Da, ochen krasivo!",
+            "japanese": "Да, очень красиво!",
+            "romaji": "Da, ochen krasivo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Are you not cold?",
+            "russian": "Тебе не холодно?",
+            "translit": "Tebe ne holodno?",
+            "japanese": "Тебе не холодно?",
+            "romaji": "Tebe ne holodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, let's go on!",
+            "russian": "Нет, пошли дальше!",
+            "translit": "Net, poshli dalshe!",
+            "japanese": "Нет, пошли дальше!",
+            "romaji": "Net, poshli dalshe!"
+          }
+        ]
+      }
     }
   ]
 }
