@@ -2987,6 +2987,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T16:34:31.343008",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what flavors do you have?",
+            "target_text": "Ciao, che gusti avete?",
+            "japanese": "Ciao, che gusti avete?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "We have strawberry and lemon!",
+            "target_text": "Abbiamo fragola e limone!",
+            "japanese": "Abbiamo fragola e limone!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A small cup with lemon.",
+            "target_text": "Una coppetta al limone.",
+            "japanese": "Una coppetta al limone.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go!",
+            "target_text": "Certo, ecco a te!",
+            "japanese": "Certo, ecco a te!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
