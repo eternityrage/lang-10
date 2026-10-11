@@ -3439,6 +3439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T16:34:26.604722",
+      "dialogue": {
+        "topic": "Compliments & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Am I cool?",
+            "chinese": "我酷吗？",
+            "pinyin": "Wǒ kù ma?",
+            "japanese": "我酷吗？",
+            "romaji": "Wǒ kù ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cool!",
+            "chinese": "对，很酷！",
+            "pinyin": "Duì, hěn kù!",
+            "japanese": "对，很酷！",
+            "romaji": "Duì, hěn kù!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really?",
+            "chinese": "真的吗？",
+            "pinyin": "Zhēn de ma?",
+            "japanese": "真的吗？",
+            "romaji": "Zhēn de ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "You’re awesome!",
+            "chinese": "你真棒！",
+            "pinyin": "Nǐ zhēn bàng!",
+            "japanese": "你真棒！",
+            "romaji": "Nǐ zhēn bàng!"
+          }
+        ]
+      }
     }
   ]
 }
