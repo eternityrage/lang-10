@@ -3239,6 +3239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T01:28:51.696935",
+      "dialogue": {
+        "topic": "Movie Date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want to see a movie tomorrow?",
+            "korean": "내일 영화 볼래요?",
+            "romaja": "Naeil yeonghwa bollaeyo?",
+            "japanese": "내일 영화 볼래요?",
+            "romaji": "Naeil yeonghwa bollaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then I’ll book the tickets.",
+            "korean": "그럼 제가 예매할게요.",
+            "romaja": "Geureom jega yemaehalgeyo.",
+            "japanese": "그럼 제가 예매할게요.",
+            "romaji": "Geureom jega yemaehalgeyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, I’m so excited.",
+            "korean": "고마워요, 너무 설레요.",
+            "romaja": "Gomawoyo, neomu seolleyo.",
+            "japanese": "고마워요, 너무 설레요.",
+            "romaji": "Gomawoyo, neomu seolleyo."
+          }
+        ]
+      }
     }
   ]
 }
