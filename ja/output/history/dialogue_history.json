@@ -2559,6 +2559,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T01:29:02.773458",
+      "dialogue": {
+        "topic": "Anime Quotes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you ready?",
+            "japanese": "マグ、じゅんびは いいですか？",
+            "romaji": "Magu, junbi wa ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "japanese": "はい、いきましょう！",
+            "romaji": "Hai, ikimashou!"
+          },
+          {
+            "speaker": "A",
+            "english": "I will do my best!",
+            "japanese": "がんばります！",
+            "romaji": "Ganbarimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "You are strong!",
+            "japanese": "あなたは つよいです！",
+            "romaji": "Anata wa tsuyoi desu!"
+          }
+        ]
+      }
     }
   ]
 }
