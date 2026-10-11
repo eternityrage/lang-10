@@ -2623,6 +2623,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T16:34:27.673514",
+      "dialogue": {
+        "topic": "Hot coffee and milk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is it hot?",
+            "japanese": "マグさん、あついですか？",
+            "romaji": "Magu-san, atsui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little hot.",
+            "japanese": "はい、すこし あついです。",
+            "romaji": "Hai, sukoshi atsui desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Please give me milk.",
+            "japanese": "ミルクを ください。",
+            "romaji": "Miruku o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go.",
+            "japanese": "どうぞ。",
+            "romaji": "Douzo."
+          }
+        ]
+      }
     }
   ]
 }
