@@ -3359,6 +3359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T20:51:48.430781",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where's the taxi stand?",
+            "target_text": "שלום, איפה תחנת מוניות?",
+            "transliteration": "Shalom, eifo takhanat moniyot?",
+            "japanese": "שלום, איפה תחנת מוניות?",
+            "romaji": "Shalom, eifo takhanat moniyot?"
+          },
+          {
+            "speaker": "B",
+            "english": "There, near the mall!",
+            "target_text": "שם, ליד הקניון!",
+            "transliteration": "Sham, leyad ha-kenyon!",
+            "japanese": "שם, ליד הקניון!",
+            "romaji": "Sham, leyad ha-kenyon!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I walk?",
+            "target_text": "אפשר ללכת ברגל?",
+            "transliteration": "Efshar lalekhet baregel?",
+            "japanese": "אפשר ללכת ברגל?",
+            "romaji": "Efshar lalekhet baregel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, two minutes from here.",
+            "target_text": "כן, שתי דקות מכאן.",
+            "transliteration": "Ken, shtey dakot mikan.",
+            "japanese": "כן, שתי דקות מכאן.",
+            "romaji": "Ken, shtey dakot mikan."
+          }
+        ]
+      }
     }
   ]
 }
