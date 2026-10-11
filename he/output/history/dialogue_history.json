@@ -3279,6 +3279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T11:06:08.756710",
+      "dialogue": {
+        "topic": "Greetings & Slang - Coffee Invite",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, how’s it going, bro?",
+            "target_text": "היי, מה נשמע, אחי?",
+            "transliteration": "Hey, ma nishma, achi?",
+            "japanese": "היי, מה נשמע, אחי?",
+            "romaji": "Hey, ma nishma, achi?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks! And you?",
+            "target_text": "מעולה, תודה! ואתה?",
+            "transliteration": "Me'uleh, toda! Ve'ata?",
+            "japanese": "מעולה, תודה! ואתה?",
+            "romaji": "Me'uleh, toda! Ve'ata?"
+          },
+          {
+            "speaker": "A",
+            "english": "Cool, want coffee?",
+            "target_text": "סבבה, בא לך קפה?",
+            "transliteration": "Sababa, ba lecha kafe?",
+            "japanese": "סבבה, בא לך קפה?",
+            "romaji": "Sababa, ba lecha kafe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go!",
+            "target_text": "כן, יאללה, הולכים!",
+            "transliteration": "Ken, yalla, holchim!",
+            "japanese": "כן, יאללה, הולכים!",
+            "romaji": "Ken, yalla, holchim!"
+          }
+        ]
+      }
     }
   ]
 }
