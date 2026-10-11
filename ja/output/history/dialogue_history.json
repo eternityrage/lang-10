@@ -2591,6 +2591,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T11:06:10.836407",
+      "dialogue": {
+        "topic": "Break Time at Work",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is it break time?",
+            "japanese": "マグさん、やすみですか？",
+            "romaji": "Magu-san, yasumi desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, only five minutes.",
+            "japanese": "はい、５ふんだけです。",
+            "romaji": "Hai, go-fun dake desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Let's drink together.",
+            "japanese": "いっしょに のみましょう。",
+            "romaji": "Issho ni nomimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Sounds good. Let's relax.",
+            "japanese": "いいですね。ゆっくりしましょう。",
+            "romaji": "Ii desu ne. Yukkuri shimashou."
+          }
+        ]
+      }
     }
   ]
 }
