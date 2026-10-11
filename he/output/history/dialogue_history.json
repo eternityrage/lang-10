@@ -3239,6 +3239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T01:28:55.535685",
+      "dialogue": {
+        "topic": "Tel Aviv Street Life",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the beach?",
+            "target_text": "היי, איפה הים?",
+            "transliteration": "Hey, eifo hayam?",
+            "japanese": "היי, איפה הים?",
+            "romaji": "Hey, eifo hayam?"
+          },
+          {
+            "speaker": "B",
+            "english": "Here, straight and close!",
+            "target_text": "כאן, ישר וקרוב!",
+            "transliteration": "Kan, yashar vekarov!",
+            "japanese": "כאן, ישר וקרוב!",
+            "romaji": "Kan, yashar vekarov!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can we walk there?",
+            "target_text": "אפשר ללכת לשם?",
+            "transliteration": "Efshar lalekhet lesham?",
+            "japanese": "אפשר ללכת לשם?",
+            "romaji": "Efshar lalekhet lesham?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, only five minutes!",
+            "target_text": "כן, רק חמש דקות!",
+            "transliteration": "Ken, rak khamesh dakot!",
+            "japanese": "כן, רק חמש דקות!",
+            "romaji": "Ken, rak khamesh dakot!"
+          }
+        ]
+      }
     }
   ]
 }
