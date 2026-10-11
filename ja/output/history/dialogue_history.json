@@ -2655,6 +2655,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T20:51:34.233794",
+      "dialogue": {
+        "topic": "Trying on a cute hat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this hat cute?",
+            "japanese": "この ぼうし、かわいいですか？",
+            "romaji": "Kono boushi, kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cute!",
+            "japanese": "はい、とても かわいいです！",
+            "romaji": "Hai, totemo kawaii desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try it on?",
+            "japanese": "かぶっても いいですか？",
+            "romaji": "Kabutte mo ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, please try it on!",
+            "japanese": "はい、どうぞ かぶってください！",
+            "romaji": "Hai, douzo kabutte kudasai!"
+          }
+        ]
+      }
     }
   ]
 }
