@@ -2915,6 +2915,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T01:28:54.261990",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, do you have chocolate?",
+            "target_text": "Buongiorno, avete cioccolato?",
+            "japanese": "Buongiorno, avete cioccolato?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, it’s delicious!",
+            "target_text": "Certo, è buonissimo!",
+            "japanese": "Certo, è buonissimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One scoop, please.",
+            "target_text": "Una pallina, per favore.",
+            "japanese": "Una pallina, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right away, here you go!",
+            "target_text": "Subito, ecco a lei!",
+            "japanese": "Subito, ecco a lei!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
