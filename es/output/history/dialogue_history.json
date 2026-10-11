@@ -2951,6 +2951,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T11:06:12.102835",
+      "dialogue": {
+        "topic": "Prado and Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we go to the Prado?",
+            "target_text": "Hola, ¿vamos al Prado?",
+            "japanese": "Hola, ¿vamos al Prado?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Madrid is great!",
+            "target_text": "¡Sí, Madrid es genial!",
+            "japanese": "¡Sí, Madrid es genial!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Tomorrow, shall we go to Barcelona?",
+            "target_text": "¿Mañana vamos a Barcelona?",
+            "japanese": "¿Mañana vamos a Barcelona?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, let's go together!",
+            "target_text": "¡Perfecto, vamos juntos!",
+            "japanese": "¡Perfecto, vamos juntos!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
