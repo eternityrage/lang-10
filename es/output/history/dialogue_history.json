@@ -3023,6 +3023,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T20:51:32.131886",
+      "dialogue": {
+        "topic": "Park Güell and the Prado",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we go to Park Güell?",
+            "target_text": "¿Vamos al Parque Güell?",
+            "japanese": "¿Vamos al Parque Güell?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "target_text": "¡Sí, me encanta!",
+            "japanese": "¡Sí, me encanta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And tomorrow, the Prado?",
+            "target_text": "¿Y mañana, el Prado?",
+            "japanese": "¿Y mañana, el Prado?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, two beautiful cities.",
+            "target_text": "Perfecto, dos ciudades bonitas.",
+            "japanese": "Perfecto, dos ciudades bonitas.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
