@@ -2951,6 +2951,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T11:05:53.885237",
+      "dialogue": {
+        "topic": "Parisian Cafe & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, a café crème?",
+            "target_text": "Bonjour, un café crème ?",
+            "japanese": "Bonjour, un café crème ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And one macaron, thanks.",
+            "target_text": "Et un macaron, merci.",
+            "japanese": "Et un macaron, merci.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here, enjoy it!",
+            "target_text": "Voilà, bonne dégustation !",
+            "japanese": "Voilà, bonne dégustation !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
