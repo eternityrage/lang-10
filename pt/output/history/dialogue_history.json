@@ -3023,6 +3023,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T20:51:51.497630",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, all good?",
+            "target_text": "E aí, beleza?",
+            "japanese": "E aí, beleza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All good, everything fine!",
+            "target_text": "Beleza, tudo certo!",
+            "japanese": "Beleza, tudo certo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we grab coffee?",
+            "target_text": "Bora tomar café?",
+            "japanese": "Bora tomar café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go, I’m in!",
+            "target_text": "Bora, tô dentro!",
+            "japanese": "Bora, tô dentro!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
