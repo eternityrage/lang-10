@@ -2951,6 +2951,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T11:06:23.152843",
+      "dialogue": {
+        "topic": "Please open the door",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, can you help?",
+            "target_text": "Entschuldigung, können Sie mir helfen?",
+            "japanese": "Entschuldigung, können Sie mir helfen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Please open the door.",
+            "target_text": "Bitte öffnen Sie die Tür.",
+            "japanese": "Bitte öffnen Sie die Tür.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, one moment.",
+            "target_text": "Natürlich, einen Moment.",
+            "japanese": "Natürlich, einen Moment.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
