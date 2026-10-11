@@ -3319,6 +3319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T16:34:07.899734",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, what's up, bro?",
+            "target_text": "היי, מה נשמע אחי?",
+            "transliteration": "Hey, ma nishma achi?",
+            "japanese": "היי, מה נשמע אחי?",
+            "romaji": "Hey, ma nishma achi?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, everything is cool!",
+            "target_text": "מעולה, הכל סבבה!",
+            "transliteration": "Me'uleh, hakol sababa!",
+            "japanese": "מעולה, הכל סבבה!",
+            "romaji": "Me'uleh, hakol sababa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Nice, want coffee?",
+            "target_text": "יופי, בא לך קפה?",
+            "transliteration": "Yofi, ba lecha kafe?",
+            "japanese": "יופי, בא לך קפה?",
+            "romaji": "Yofi, ba lecha kafe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "כן, יאללה, בוא נלך!",
+            "transliteration": "Ken, yalla, bo nelekh!",
+            "japanese": "כן, יאללה, בוא נלך!",
+            "romaji": "Ken, yalla, bo nelekh!"
+          }
+        ]
+      }
     }
   ]
 }
