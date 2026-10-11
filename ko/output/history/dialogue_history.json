@@ -3359,6 +3359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T20:51:39.129331",
+      "dialogue": {
+        "topic": "Your smile makes my heart flutter",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you happy today?",
+            "korean": "오늘 기분 좋아요?",
+            "romaja": "Oneul gibun joayo?",
+            "japanese": "오늘 기분 좋아요?",
+            "romaji": "Oneul gibun joayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very happy!",
+            "korean": "네, 아주 좋아요!",
+            "romaja": "Ne, aju joayo!",
+            "japanese": "네, 아주 좋아요!",
+            "romaji": "Ne, aju joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Why are you smiling?",
+            "korean": "왜 이렇게 웃어요?",
+            "romaja": "Wae ireoke useoyo?",
+            "japanese": "왜 이렇게 웃어요?",
+            "romaji": "Wae ireoke useoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "I smile seeing you.",
+            "korean": "너 보면 웃어요.",
+            "romaja": "Neo bomyeon useoyo.",
+            "japanese": "너 보면 웃어요.",
+            "romaji": "Neo bomyeon useoyo."
+          }
+        ]
+      }
     }
   ]
 }
