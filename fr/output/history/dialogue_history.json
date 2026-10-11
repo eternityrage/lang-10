@@ -2987,6 +2987,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T16:34:38.107704",
+      "dialogue": {
+        "topic": "Trying a dress on sale",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this dress expensive?",
+            "target_text": "Bonjour, cette robe est chère ?",
+            "japanese": "Bonjour, cette robe est chère ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, it is on sale!",
+            "target_text": "Non, elle est en solde !",
+            "japanese": "Non, elle est en solde !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try it on?",
+            "target_text": "Je peux l’essayer ?",
+            "japanese": "Je peux l’essayer ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the fitting room is there.",
+            "target_text": "Oui, la cabine est là.",
+            "japanese": "Oui, la cabine est là.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
