@@ -3279,6 +3279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T16:37:19.699244",
+      "dialogue": {
+        "topic": "Sweet Smile Compliment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, your smile is sweet!",
+            "russian": "Привет, у тебя милая улыбка!",
+            "translit": "Privet, u tebya milaya ulybka!",
+            "japanese": "Привет, у тебя милая улыбка!",
+            "romaji": "Privet, u tebya milaya ulybka!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, that is very nice!",
+            "russian": "Спасибо, мне очень приятно!",
+            "translit": "Spasibo, mne ochen priyatno!",
+            "japanese": "Спасибо, мне очень приятно!",
+            "romaji": "Spasibo, mne ochen priyatno!"
+          },
+          {
+            "speaker": "A",
+            "english": "You are like sunshine today.",
+            "russian": "Ты как солнышко сегодня.",
+            "translit": "Ty kak solnyshko segodnya.",
+            "japanese": "Ты как солнышко сегодня.",
+            "romaji": "Ty kak solnyshko segodnya."
+          },
+          {
+            "speaker": "B",
+            "english": "Oh, you are cute too!",
+            "russian": "Ой, ты тоже милый!",
+            "translit": "Oy, ty tozhe milyy!",
+            "japanese": "Ой, ты тоже милый!",
+            "romaji": "Oy, ty tozhe milyy!"
+          }
+        ]
+      }
     }
   ]
 }
