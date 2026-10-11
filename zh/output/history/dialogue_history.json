@@ -3479,6 +3479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T20:51:28.350672",
+      "dialogue": {
+        "topic": "Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where to?",
+            "chinese": "去哪儿？",
+            "pinyin": "Qù nǎr?",
+            "japanese": "去哪儿？",
+            "romaji": "Qù nǎr?"
+          },
+          {
+            "speaker": "B",
+            "english": "To the metro station!",
+            "chinese": "去地铁站！",
+            "pinyin": "Qù dìtiě zhàn!",
+            "japanese": "去地铁站！",
+            "romaji": "Qù dìtiě zhàn!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far?",
+            "chinese": "很远吗？",
+            "pinyin": "Hěn yuǎn ma?",
+            "japanese": "很远吗？",
+            "romaji": "Hěn yuǎn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not far. Let’s go!",
+            "chinese": "不远，走吧！",
+            "pinyin": "Bù yuǎn, zǒu ba!",
+            "japanese": "不远，走吧！",
+            "romaji": "Bù yuǎn, zǒu ba!"
+          }
+        ]
+      }
     }
   ]
 }
