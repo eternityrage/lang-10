@@ -2951,6 +2951,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T11:05:53.581714",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, a table for two?",
+            "target_text": "Buonasera, un tavolo per due?",
+            "japanese": "Buonasera, un tavolo per due?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, come with me!",
+            "target_text": "Certo, venite con me!",
+            "japanese": "Certo, venite con me!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have mushroom pizza?",
+            "target_text": "Avete pizza ai funghi?",
+            "japanese": "Avete pizza ai funghi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very good!",
+            "target_text": "Sì, è molto buona!",
+            "japanese": "Sì, è molto buona!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
