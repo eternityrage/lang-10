@@ -2915,6 +2915,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T01:28:49.514944",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, does the U2 stop here?",
+            "target_text": "Hallo, fährt die U2 hier?",
+            "japanese": "Hallo, fährt die U2 hier?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right downstairs on the left!",
+            "target_text": "Ja, gleich unten links!",
+            "japanese": "Ja, gleich unten links!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Which direction to the zoo?",
+            "target_text": "Welche Richtung zum Zoo?",
+            "japanese": "Welche Richtung zum Zoo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Take direction Ruhleben, platform two.",
+            "target_text": "Nimm Richtung Ruhleben, Gleis zwei.",
+            "japanese": "Nimm Richtung Ruhleben, Gleis zwei.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
