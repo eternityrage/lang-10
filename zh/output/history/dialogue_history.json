@@ -3399,6 +3399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T11:06:05.321127",
+      "dialogue": {
+        "topic": "Cool Hat Compliment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this hat cool?",
+            "chinese": "这帽子酷吗？",
+            "pinyin": "Zhè màozi kù ma?",
+            "japanese": "这帽子酷吗？",
+            "romaji": "Zhè màozi kù ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Super cool! So handsome!",
+            "chinese": "超酷！很帅！",
+            "pinyin": "Chāo kù! Hěn shuài!",
+            "japanese": "超酷！很帅！",
+            "romaji": "Chāo kù! Hěn shuài!"
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks! You’re cool too!",
+            "chinese": "谢谢！你也酷！",
+            "pinyin": "Xièxie! Nǐ yě kù!",
+            "japanese": "谢谢！你也酷！",
+            "romaji": "Xièxie! Nǐ yě kù!"
+          },
+          {
+            "speaker": "B",
+            "english": "Haha, of course!",
+            "chinese": "哈哈，必须的！",
+            "pinyin": "Hāhā, bìxū de!",
+            "japanese": "哈哈，必须的！",
+            "romaji": "Hāhā, bìxū de!"
+          }
+        ]
+      }
     }
   ]
 }
