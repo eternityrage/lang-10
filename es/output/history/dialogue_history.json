@@ -2987,6 +2987,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T16:34:09.491755",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have coffee with milk?",
+            "target_text": "Hola, ¿tienes café con leche?",
+            "japanese": "Hola, ¿tienes café con leche?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s very tasty!",
+            "target_text": "¡Sí, está muy rico!",
+            "japanese": "¡Sí, está muy rico!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And a small tapa?",
+            "target_text": "¿Y una tapa pequeña?",
+            "japanese": "¿Y una tapa pequeña?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, right now.",
+            "target_text": "Claro, ahora mismo.",
+            "japanese": "Claro, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
