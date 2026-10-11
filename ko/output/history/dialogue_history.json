@@ -3279,6 +3279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T11:06:20.884246",
+      "dialogue": {
+        "topic": "Bungeoppang street snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want bungeoppang together?",
+            "korean": "붕어빵 같이 먹을래?",
+            "romaja": "Bungeoppang gachi meogeullae?",
+            "japanese": "붕어빵 같이 먹을래?",
+            "romaji": "Bungeoppang gachi meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like it!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is red bean okay?",
+            "korean": "팥 맛 괜찮아?",
+            "romaja": "Pat mat gwaenchana?",
+            "japanese": "팥 맛 괜찮아?",
+            "romaji": "Pat mat gwaenchana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's buy one!",
+            "korean": "응, 하나 사자!",
+            "romaja": "Eung, hana saja!",
+            "japanese": "응, 하나 사자!",
+            "romaji": "Eung, hana saja!"
+          }
+        ]
+      }
     }
   ]
 }
