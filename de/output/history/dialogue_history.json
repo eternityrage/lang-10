@@ -2987,6 +2987,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T16:34:10.344292",
+      "dialogue": {
+        "topic": "Asking for a photo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can you take a photo?",
+            "target_text": "Können Sie ein Foto machen?",
+            "japanese": "Können Sie ein Foto machen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Please press here.",
+            "target_text": "Bitte hier drücken.",
+            "japanese": "Bitte hier drücken.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Done, here it is.",
+            "target_text": "Fertig, hier ist es.",
+            "japanese": "Fertig, hier ist es.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
