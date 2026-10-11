@@ -2915,6 +2915,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T01:28:57.276290",
+      "dialogue": {
+        "topic": "Metro & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the metro far?",
+            "target_text": "Le métro est loin ?",
+            "japanese": "Le métro est loin ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, it is very close!",
+            "target_text": "Non, il est tout près !",
+            "japanese": "Non, il est tout près !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Which line for Paris?",
+            "target_text": "Quelle ligne pour Paris ?",
+            "japanese": "Quelle ligne pour Paris ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Line two is here.",
+            "target_text": "La ligne deux est ici.",
+            "japanese": "La ligne deux est ici.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
