@@ -3023,6 +3023,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-11T20:52:04.037153",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Which line to the main station?",
+            "target_text": "Welche Linie zum Hauptbahnhof?",
+            "japanese": "Welche Linie zum Hauptbahnhof?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Take the U4, very easy.",
+            "target_text": "Nimm die U4, ganz einfach.",
+            "japanese": "Nimm die U4, ganz einfach.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do I need to change?",
+            "target_text": "Muss ich umsteigen?",
+            "japanese": "Muss ich umsteigen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, only two stops.",
+            "target_text": "Nein, nur zwei Stationen.",
+            "japanese": "Nein, nur zwei Stationen.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
