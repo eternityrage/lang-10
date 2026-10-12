@@ -3359,6 +3359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-12T01:59:54.295755",
+      "dialogue": {
+        "topic": "Street Friends: Surprise Meeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, long time no see!",
+            "russian": "Привет, давно не виделись!",
+            "translit": "Privet, davno ne videlis!",
+            "japanese": "Привет, давно не виделись!",
+            "romaji": "Privet, davno ne videlis!"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi! What a surprise!",
+            "russian": "Привет! Вот это встреча!",
+            "translit": "Privet! Vot eto vstrecha!",
+            "japanese": "Привет! Вот это встреча!",
+            "romaji": "Privet! Vot eto vstrecha!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we get coffee?",
+            "russian": "Пойдём за кофе?",
+            "translit": "Poydyom za kofe?",
+            "japanese": "Пойдём за кофе?",
+            "romaji": "Poydyom za kofe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "russian": "Да, с радостью!",
+            "translit": "Da, s radostyu!",
+            "japanese": "Да, с радостью!",
+            "romaji": "Da, s radostyu!"
+          }
+        ]
+      }
     }
   ]
 }
