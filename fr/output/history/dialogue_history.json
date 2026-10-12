@@ -3059,6 +3059,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-12T01:59:56.320842",
+      "dialogue": {
+        "topic": "Street Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you taking a walk?",
+            "target_text": "Salut, tu te promènes ?",
+            "japanese": "Salut, tu te promènes ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s great!",
+            "target_text": "Oui, c’est super !",
+            "japanese": "Oui, c’est super !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk together?",
+            "target_text": "On marche ensemble ?",
+            "japanese": "On marche ensemble ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go together!",
+            "target_text": "Oui, allons-y ensemble !",
+            "japanese": "Oui, allons-y ensemble !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
