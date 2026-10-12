@@ -3399,6 +3399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-12T02:00:06.962583",
+      "dialogue": {
+        "topic": "Your Smile Is Because of Me",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Why are you smiling like that?",
+            "korean": "왜 이렇게 웃어?",
+            "romaja": "Wae ireoke useo?",
+            "japanese": "왜 이렇게 웃어?",
+            "romaji": "Wae ireoke useo?"
+          },
+          {
+            "speaker": "B",
+            "english": "I just feel happy!",
+            "korean": "그냥 기분 좋아!",
+            "romaja": "Geunyang gibun joa!",
+            "japanese": "그냥 기분 좋아!",
+            "romaji": "Geunyang gibun joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Maybe because of me?",
+            "korean": "혹시 나 때문이야?",
+            "romaja": "Hoksi na ttaemuniya?",
+            "japanese": "혹시 나 때문이야?",
+            "romaji": "Hoksi na ttaemuniya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, because of you.",
+            "korean": "응, 너 때문이야.",
+            "romaja": "Eung, neo ttaemuniya.",
+            "japanese": "응, 너 때문이야.",
+            "romaji": "Eung, neo ttaemuniya."
+          }
+        ]
+      }
     }
   ]
 }
