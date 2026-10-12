@@ -3059,6 +3059,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-12T01:59:59.966950",
+      "dialogue": {
+        "topic": "Polite request for help",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can you please help me?",
+            "target_text": "Kannst du mir bitte helfen?",
+            "japanese": "Kannst du mir bitte helfen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Please carry this bag.",
+            "target_text": "Trag bitte diese Tasche.",
+            "japanese": "Trag bitte diese Tasche.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, I will.",
+            "target_text": "Klar, mache ich.",
+            "japanese": "Klar, mache ich.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
