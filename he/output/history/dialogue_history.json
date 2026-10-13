@@ -3439,6 +3439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-13T17:57:18.805206",
+      "dialogue": {
+        "topic": "Buying olives at Shuk Carmel Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there olives?",
+            "target_text": "שלום, יש זיתים?",
+            "transliteration": "Shalom, yesh zetim?",
+            "japanese": "שלום, יש זיתים?",
+            "romaji": "Shalom, yesh zetim?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very tasty olives!",
+            "target_text": "כן, זיתים טעימים מאוד!",
+            "transliteration": "Ken, zetim te'imim me'od!",
+            "japanese": "כן, זיתים טעימים מאוד!",
+            "romaji": "Ken, zetim te'imim me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is a box?",
+            "target_text": "כמה עולה קופסה?",
+            "transliteration": "Kama ola kufsa?",
+            "japanese": "כמה עולה קופסה?",
+            "romaji": "Kama ola kufsa?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, please.",
+            "target_text": "עשרה שקלים, בבקשה.",
+            "transliteration": "Asara shkalim, bevakasha.",
+            "japanese": "עשרה שקלים, בבקשה.",
+            "romaji": "Asara shkalim, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
