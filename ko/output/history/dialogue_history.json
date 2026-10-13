@@ -3439,6 +3439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-13T17:57:22.592203",
+      "dialogue": {
+        "topic": "Cute K-Drama Expressions",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Did you come to see me?",
+            "korean": "나 보러 왔어요?",
+            "romaja": "na boreo wasseoyo?",
+            "japanese": "나 보러 왔어요?",
+            "romaji": "na boreo wasseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I missed you!",
+            "korean": "네, 보고 싶었어요!",
+            "romaja": "ne, bogo sipeosseoyo!",
+            "japanese": "네, 보고 싶었어요!",
+            "romaji": "ne, bogo sipeosseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? Me too!",
+            "korean": "진짜요? 나도요!",
+            "romaja": "jinjjayo? nadoyo!",
+            "japanese": "진짜요? 나도요!",
+            "romaji": "jinjjayo? nadoyo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Then let’s smile together.",
+            "korean": "그럼 같이 웃어요.",
+            "romaja": "geureom gachi useoyo.",
+            "japanese": "그럼 같이 웃어요.",
+            "romaji": "geureom gachi useoyo."
+          }
+        ]
+      }
     }
   ]
 }
