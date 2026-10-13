@@ -16,6 +16,24 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from font_loader import get_platform_font
 import edge_tts
 
+def configure_edge_tts():
+    """Ensure edge_tts connects to Microsoft's active endpoint to avoid 403 on cloud runners."""
+    try:
+        import edge_tts.constants
+        import edge_tts.communicate
+        token = getattr(edge_tts.constants, "TRUSTED_CLIENT_TOKEN", "6A5AA1D4EAFF4E9FB37E23D68491D6F4")
+        new_url = (
+            "wss://api.msedgeservices.com/tts/cognitiveservices/websocket/v1"
+            f"?Ocp-Apim-Subscription-Key={token}"
+        )
+        edge_tts.constants.WSS_URL = new_url
+        edge_tts.communicate.WSS_URL = new_url
+    except Exception:
+        pass
+
+configure_edge_tts()
+
+
 from bidi.algorithm import get_display
 
 if sys.platform == 'win32':
@@ -266,8 +284,25 @@ async def generate_single_reel():
         pitch = "+8Hz" if line['speaker'] == 'A' else "+4Hz"
         clean_jp = line['japanese'].replace('\n', ' ')
         # Slower, clearer pronunciation for beginners (-10% rate, custom pitch per mascot)
-        comm = edge_tts.Communicate(clean_jp, voice, rate='-10%', pitch=pitch)
-        await comm.save(str(aud_path))
+        for _att in range(3):
+
+            try:
+
+                configure_edge_tts()
+
+                comm = edge_tts.Communicate(clean_jp, voice, rate='-10%', pitch=pitch)
+
+                await comm.save(str(aud_path))
+
+                if aud_path.exists() and aud_path.stat().st_size > 200:
+
+                    break
+
+            except Exception as _e:
+
+                print(f'[he_engine] TTS attempt {_att+1} error: {_e}')
+
+                await asyncio.sleep(1)
 
         # Pad audio with 0.8s of silence at the end so learners have time to process and read
         padded_aud_path = AUDIO_DIR / f'{reel_id}_aud_{i}_pad.mp3'
