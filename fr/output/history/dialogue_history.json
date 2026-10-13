@@ -3095,6 +3095,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-13T17:57:11.192922",
+      "dialogue": {
+        "topic": "Street Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you today?",
+            "target_text": "Salut, ça va aujourd'hui ?",
+            "japanese": "Salut, ça va aujourd'hui ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very well, thank you!",
+            "target_text": "Très bien, merci !",
+            "japanese": "Très bien, merci !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you in a hurry?",
+            "target_text": "Tu es pressé ?",
+            "japanese": "Tu es pressé ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, see you soon!",
+            "target_text": "Non, à bientôt !",
+            "japanese": "Non, à bientôt !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
