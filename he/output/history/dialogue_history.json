@@ -3479,6 +3479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-13T21:47:12.293301",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, taxi to the train station?",
+            "target_text": "היי, מונית לתחנת הרכבת?",
+            "transliteration": "Hai, monit le-tachanat ha-rakevet?",
+            "japanese": "היי, מונית לתחנת הרכבת?",
+            "romaji": "Hai, monit le-tachanat ha-rakevet?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sure, happily!",
+            "target_text": "כן, בטח, בשמחה!",
+            "transliteration": "Ken, betach, besimcha!",
+            "japanese": "כן, בטח, בשמחה!",
+            "romaji": "Ken, betach, besimcha!"
+          },
+          {
+            "speaker": "A",
+            "english": "How long is the ride?",
+            "target_text": "כמה זמן הנסיעה?",
+            "transliteration": "Kama zman ha-nesia?",
+            "japanese": "כמה זמן הנסיעה?",
+            "romaji": "Kama zman ha-nesia?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten minutes, let's go!",
+            "target_text": "עשר דקות, נוסעים!",
+            "transliteration": "Eser dakot, nos'im!",
+            "japanese": "עשר דקות, נוסעים!",
+            "romaji": "Eser dakot, nos'im!"
+          }
+        ]
+      }
     }
   ]
 }
