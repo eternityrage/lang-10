@@ -3131,6 +3131,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-13T21:47:13.366572",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, will you dance with me?",
+            "target_text": "Bonsoir, tu danses avec moi ?",
+            "japanese": "Bonsoir, tu danses avec moi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You have beautiful eyes.",
+            "target_text": "Tu as de beaux yeux.",
+            "japanese": "Tu as de beaux yeux.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you, that's kind.",
+            "target_text": "Merci, c'est gentil.",
+            "japanese": "Merci, c'est gentil.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
