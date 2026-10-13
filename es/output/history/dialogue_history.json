@@ -3095,6 +3095,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-13T17:57:20.320003",
+      "dialogue": {
+        "topic": "Un plan en Madrid y Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we go to Retiro?",
+            "target_text": "Hola, ¿vamos al Retiro?",
+            "japanese": "Hola, ¿vamos al Retiro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s very sunny!",
+            "target_text": "¡Sí, hace mucho sol!",
+            "japanese": "¡Sí, hace mucho sol!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And tomorrow, Barcelona?",
+            "target_text": "¿Y mañana, Barcelona?",
+            "japanese": "¿Y mañana, Barcelona?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, let’s go to the beach.",
+            "target_text": "Perfecto, vamos a la playa.",
+            "japanese": "Perfecto, vamos a la playa.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
