@@ -2719,6 +2719,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-13T17:57:09.654337",
+      "dialogue": {
+        "topic": "Work break",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, break time?",
+            "japanese": "マグさん、やすみですか？",
+            "romaji": "Magu-san, yasumi desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, break time.",
+            "japanese": "はい、やすみです。",
+            "romaji": "Hai, yasumi desu."
+          },
+          {
+            "speaker": "A",
+            "english": "May I sit here?",
+            "japanese": "ここに すわっていいですか？",
+            "romaji": "Koko ni suwatte ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure. Please relax.",
+            "japanese": "どうぞ。ゆっくりしてね。",
+            "romaji": "Douzo. Yukkuri shite ne."
+          }
+        ]
+      }
     }
   ]
 }
