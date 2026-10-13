@@ -2751,6 +2751,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-13T21:47:12.384876",
+      "dialogue": {
+        "topic": "Tokyo street crepe stand",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this crepe?",
+            "japanese": "このクレープ、いくらですか？",
+            "romaji": "Kono kureepu, ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's 500 yen.",
+            "japanese": "ごひゃくえんです。",
+            "romaji": "Gohyaku en desu."
+          },
+          {
+            "speaker": "A",
+            "english": "One, please.",
+            "japanese": "ひとつください。",
+            "romaji": "Hitotsu kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
