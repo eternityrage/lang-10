@@ -3131,6 +3131,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-13T21:47:03.133040",
+      "dialogue": {
+        "topic": "Asking for the menu",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, the menu, please.",
+            "target_text": "Hallo, die Karte, bitte.",
+            "japanese": "Hallo, die Karte, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, with pleasure.",
+            "target_text": "Natürlich, sehr gern.",
+            "japanese": "Natürlich, sehr gern.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have soup today?",
+            "target_text": "Haben Sie heute Suppe?",
+            "japanese": "Haben Sie heute Suppe?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very tasty!",
+            "target_text": "Ja, sehr lecker!",
+            "japanese": "Ja, sehr lecker!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
