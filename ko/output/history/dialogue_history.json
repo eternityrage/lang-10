@@ -3479,6 +3479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-13T21:47:23.313204",
+      "dialogue": {
+        "topic": "Hongdae & Gangnam Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hongdae cafe, wanna go?",
+            "korean": "홍대 카페 갈래?",
+            "romaja": "Hongdae kape gallae?",
+            "japanese": "홍대 카페 갈래?",
+            "romaji": "Hongdae kape gallae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, let's eat cake!",
+            "korean": "좋아, 케이크 먹자!",
+            "romaja": "Joa, keikeu meokja!",
+            "japanese": "좋아, 케이크 먹자!",
+            "romaji": "Joa, keikeu meokja!"
+          },
+          {
+            "speaker": "A",
+            "english": "Gangnam cafe too?",
+            "korean": "강남 카페도 좋아?",
+            "romaja": "Gangnam kapedo joa?",
+            "japanese": "강남 카페도 좋아?",
+            "romaji": "Gangnam kapedo joa?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go there!",
+            "korean": "응, 거기 가자!",
+            "romaja": "Eung, geogi gaja!",
+            "japanese": "응, 거기 가자!",
+            "romaji": "Eung, geogi gaja!"
+          }
+        ]
+      }
     }
   ]
 }
