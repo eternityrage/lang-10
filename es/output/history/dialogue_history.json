@@ -3203,6 +3203,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T09:51:19.085772",
+      "dialogue": {
+        "topic": "Finding the metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the metro?",
+            "target_text": "Hola, ¿dónde está el metro?",
+            "japanese": "Hola, ¿dónde está el metro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "There, very close!",
+            "target_text": "¡Allí, muy cerca!",
+            "japanese": "¡Allí, muy cerca!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do I need a ticket?",
+            "target_text": "¿Necesito un boleto?",
+            "japanese": "¿Necesito un boleto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, at the machine.",
+            "target_text": "Sí, en la máquina.",
+            "japanese": "Sí, en la máquina.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
