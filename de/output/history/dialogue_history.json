@@ -3203,6 +3203,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T09:51:15.813884",
+      "dialogue": {
+        "topic": "Cafe & Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this free?",
+            "target_text": "Hallo, ist hier frei?",
+            "japanese": "Hallo, ist hier frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sure, sit down!",
+            "target_text": "Ja, klar, setz dich!",
+            "japanese": "Ja, klar, setz dich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, I’ll take juice.",
+            "target_text": "Danke, ich nehme Saft.",
+            "japanese": "Danke, ich nehme Saft.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I’ll take beer.",
+            "target_text": "Super, ich nehme Bier.",
+            "japanese": "Super, ich nehme Bier.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
