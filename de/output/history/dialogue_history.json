@@ -3167,6 +3167,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T01:32:28.471471",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Which subway goes downtown?",
+            "target_text": "Welche U-Bahn fährt ins Zentrum?",
+            "japanese": "Welche U-Bahn fährt ins Zentrum?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "The U3 goes there!",
+            "target_text": "Die U3 fährt dorthin!",
+            "japanese": "Die U3 fährt dorthin!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the platform?",
+            "target_text": "Wo ist der Bahnsteig?",
+            "japanese": "Wo ist der Bahnsteig?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Straight ahead, have a good trip!",
+            "target_text": "Geradeaus, gute Fahrt!",
+            "japanese": "Geradeaus, gute Fahrt!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
