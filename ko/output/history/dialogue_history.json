@@ -3519,6 +3519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T01:32:33.858618",
+      "dialogue": {
+        "topic": "Heart-Fluttering Smile",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Why are you smiling like that?",
+            "korean": "왜 그렇게 웃어요?",
+            "romaja": "Wae geureoke useoyo?",
+            "japanese": "왜 그렇게 웃어요?",
+            "romaji": "Wae geureoke useoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "I smile because of you.",
+            "korean": "너 때문에 웃어요.",
+            "romaja": "Neo ttaemune useoyo.",
+            "japanese": "너 때문에 웃어요.",
+            "romaji": "Neo ttaemune useoyo."
+          },
+          {
+            "speaker": "A",
+            "english": "My heart flutters too.",
+            "korean": "나도 마음이 설레요.",
+            "romaja": "Nado maeumi seolleyo.",
+            "japanese": "나도 마음이 설레요.",
+            "romaji": "Nado maeumi seolleyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Then, day one for us.",
+            "korean": "그럼 우리 오늘부터 1일이에요.",
+            "romaja": "Geureom uri oneulbuteo iririeyo.",
+            "japanese": "그럼 우리 오늘부터 1일이에요.",
+            "romaji": "Geureom uri oneulbuteo iririeyo."
+          }
+        ]
+      }
     }
   ]
 }
