@@ -2815,6 +2815,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T09:51:25.318109",
+      "dialogue": {
+        "topic": "Dating & Romance - Park Date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, date with me?",
+            "japanese": "マグさん、デート しませんか？",
+            "romaji": "Magu-san, deeto shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds good!",
+            "japanese": "はい、いいですよ！",
+            "romaji": "Hai, ii desu yo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Where shall we go?",
+            "japanese": "どこへ いきますか？",
+            "romaji": "Doko e ikimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "To the park!",
+            "japanese": "こうえんへ いきましょう！",
+            "romaji": "Kouen e ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
