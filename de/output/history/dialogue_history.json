@@ -3275,6 +3275,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T20:31:58.296535",
+      "dialogue": {
+        "topic": "Free table at the Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this free?",
+            "target_text": "Hallo, ist hier frei?",
+            "japanese": "Hallo, ist hier frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Ja, natürlich, sehr gern!",
+            "japanese": "Ja, natürlich, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, I will sit.",
+            "target_text": "Super, ich setze mich.",
+            "japanese": "Super, ich setze mich.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Good, I’ll come soon.",
+            "target_text": "Gut, ich komme gleich.",
+            "japanese": "Gut, ich komme gleich.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
