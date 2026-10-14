@@ -3203,6 +3203,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T09:51:27.119257",
+      "dialogue": {
+        "topic": "Convite para jogar",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want to play today?",
+            "target_text": "Oi, quer jogar hoje?",
+            "japanese": "Oi, quer jogar hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it will be fun!",
+            "target_text": "Quero sim, vai ser legal!",
+            "japanese": "Quero sim, vai ser legal!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "At my house?",
+            "target_text": "Na minha casa?",
+            "japanese": "Na minha casa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, I arrive at seven.",
+            "target_text": "Perfeito, chego às sete.",
+            "japanese": "Perfeito, chego às sete.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
