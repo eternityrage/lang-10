@@ -3519,6 +3519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T09:51:22.495881",
+      "dialogue": {
+        "topic": "Moscow Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Taxi to Red Square?",
+            "russian": "Такси до Красной площади?",
+            "translit": "Taksi do Krasnoy ploshchadi?",
+            "japanese": "Такси до Красной площади?",
+            "romaji": "Taksi do Krasnoy ploshchadi?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, let's go!",
+            "russian": "Да, конечно, поехали!",
+            "translit": "Da, konechno, poekhali!",
+            "japanese": "Да, конечно, поехали!",
+            "romaji": "Da, konechno, poekhali!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "russian": "Сколько это стоит?",
+            "translit": "Skol'ko eto stoit?",
+            "japanese": "Сколько это стоит?",
+            "romaji": "Skol'ko eto stoit?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is five hundred rubles.",
+            "russian": "Это пятьсот рублей.",
+            "translit": "Eto pyat'sot rubley.",
+            "japanese": "Это пятьсот рублей.",
+            "romaji": "Eto pyat'sot rubley."
+          }
+        ]
+      }
     }
   ]
 }
