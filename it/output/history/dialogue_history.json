@@ -3275,6 +3275,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T20:32:15.559251",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you from here?",
+            "target_text": "Ciao, sei di qui?",
+            "japanese": "Ciao, sei di qui?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, welcome!",
+            "target_text": "Sì, benvenuto!",
+            "japanese": "Sì, benvenuto!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is this square lively?",
+            "target_text": "Questa piazza è viva?",
+            "japanese": "Questa piazza è viva?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very lively!",
+            "target_text": "Sì, molto viva!",
+            "japanese": "Sì, molto viva!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
