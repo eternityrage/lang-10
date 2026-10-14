@@ -3719,6 +3719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T15:43:28.381722",
+      "dialogue": {
+        "topic": "Night Market Stinky Tofu",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Stinky tofu?",
+            "chinese": "臭豆腐吗？",
+            "pinyin": "Chòu dòufu ma?",
+            "japanese": "臭豆腐吗？",
+            "romaji": "Chòu dòufu ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "So fragrant!",
+            "chinese": "好香啊！",
+            "pinyin": "Hǎo xiāng a!",
+            "japanese": "好香啊！",
+            "romaji": "Hǎo xiāng a!"
+          },
+          {
+            "speaker": "A",
+            "english": "Get one?",
+            "chinese": "来一份？",
+            "pinyin": "Lái yí fèn?",
+            "japanese": "来一份？",
+            "romaji": "Lái yí fèn?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, buy it!",
+            "chinese": "好，买吧！",
+            "pinyin": "Hǎo, mǎi ba!",
+            "japanese": "好，买吧！",
+            "romaji": "Hǎo, mǎi ba!"
+          }
+        ]
+      }
     }
   ]
 }
