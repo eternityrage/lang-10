@@ -3167,6 +3167,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T01:32:34.848025",
+      "dialogue": {
+        "topic": "Coffee with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, coffee now?",
+            "target_text": "Oi, café agora?",
+            "japanese": "Oi, café agora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, I'm in!",
+            "target_text": "Claro, eu topo!",
+            "japanese": "Claro, eu topo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go there?",
+            "target_text": "Vamos naquele lugar?",
+            "japanese": "Vamos naquele lugar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "Sim, bora lá!",
+            "japanese": "Sim, bora lá!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
