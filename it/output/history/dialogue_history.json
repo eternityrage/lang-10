@@ -3167,6 +3167,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T01:32:17.799756",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, two gelatos, please?",
+            "target_text": "Buongiorno, due gelati, per favore?",
+            "japanese": "Buongiorno, due gelati, per favore?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Which flavors?",
+            "target_text": "Certo! Quali gusti?",
+            "japanese": "Certo! Quali gusti?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Pistachio and strawberry.",
+            "target_text": "Pistacchio e fragola.",
+            "japanese": "Pistacchio e fragola.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, here are the gelatos.",
+            "target_text": "Perfetto, ecco i gelati.",
+            "japanese": "Perfetto, ecco i gelati.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
