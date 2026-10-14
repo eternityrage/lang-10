@@ -3599,6 +3599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T15:43:26.806182",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, going to the beach?",
+            "target_text": "שלום, הולכים לים?",
+            "transliteration": "Shalom, holkhim la-yam?",
+            "japanese": "שלום, הולכים לים?",
+            "romaji": "Shalom, holkhim la-yam?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, so fun!",
+            "target_text": "כן, איזה כיף!",
+            "transliteration": "Ken, eize kef!",
+            "japanese": "כן, איזה כיף!",
+            "romaji": "Ken, eize kef!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do we have sunscreen?",
+            "target_text": "יש קרם הגנה?",
+            "transliteration": "Yesh krem hagana?",
+            "japanese": "יש קרם הגנה?",
+            "romaji": "Yesh krem hagana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "כן, בוא נלך!",
+            "transliteration": "Ken, bo nelekh!",
+            "japanese": "כן, בוא נלך!",
+            "romaji": "Ken, bo nelekh!"
+          }
+        ]
+      }
     }
   ]
 }
