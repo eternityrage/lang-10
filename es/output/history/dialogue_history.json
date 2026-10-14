@@ -3275,6 +3275,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T20:32:02.386635",
+      "dialogue": {
+        "topic": "Greetings & Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you look elegant.",
+            "target_text": "Hola, qué elegante estás.",
+            "japanese": "Hola, qué elegante estás.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! You too.",
+            "target_text": "¡Gracias! Tú también.",
+            "japanese": "¡Gracias! Tú también.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Ready for the day?",
+            "target_text": "¿Listo para el día?",
+            "japanese": "¿Listo para el día?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go together.",
+            "target_text": "Sí, vamos juntos.",
+            "japanese": "Sí, vamos juntos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
