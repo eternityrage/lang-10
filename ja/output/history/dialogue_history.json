@@ -2847,6 +2847,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T15:43:28.720643",
+      "dialogue": {
+        "topic": "Cute compliment reaction",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, you are cute!",
+            "japanese": "マグさん、かわいいです！",
+            "romaji": "Magu-san, kawaii desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Huh, really?",
+            "japanese": "えっ、ほんとうですか？",
+            "romaji": "Eh, hontou desu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, very cute!",
+            "japanese": "はい、とても かわいいです！",
+            "romaji": "Hai, totemo kawaii desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "I am happy! Thanks!",
+            "japanese": "うれしいです！ありがとう！",
+            "romaji": "Ureshii desu! Arigatou!"
+          }
+        ]
+      }
     }
   ]
 }
