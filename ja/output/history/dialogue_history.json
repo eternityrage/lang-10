@@ -2783,6 +2783,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T01:32:42.365878",
+      "dialogue": {
+        "topic": "Going to the Airport by Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you going to the airport?",
+            "japanese": "くうこうへ 行きますか？",
+            "romaji": "Kuukou e ikimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, by taxi.",
+            "japanese": "はい、タクシーで 行きます。",
+            "romaji": "Hai, takushii de ikimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "What time do we leave?",
+            "japanese": "なんじに でますか？",
+            "romaji": "Nanji ni demasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "We leave at nine.",
+            "japanese": "九じに でます。",
+            "romaji": "Ku-ji ni demasu."
+          }
+        ]
+      }
     }
   ]
 }
