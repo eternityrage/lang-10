@@ -3167,6 +3167,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T01:32:13.006742",
+      "dialogue": {
+        "topic": "Metro ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "One ticket, please?",
+            "target_text": "Un ticket, s'il vous plaît ?",
+            "japanese": "Un ticket, s'il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much, please?",
+            "target_text": "C'est combien, s'il vous plaît ?",
+            "japanese": "C'est combien, s'il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Two euros, thank you!",
+            "target_text": "Deux euros, merci !",
+            "japanese": "Deux euros, merci !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
