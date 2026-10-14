@@ -3275,6 +3275,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T20:32:19.434602",
+      "dialogue": {
+        "topic": "Having coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want a coffee?",
+            "target_text": "Tu prends un café ?",
+            "japanese": "Tu prends un café ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "At my place or outside?",
+            "target_text": "Chez moi ou dehors ?",
+            "japanese": "Chez moi ou dehors ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "At your place, thanks!",
+            "target_text": "Chez toi, merci !",
+            "japanese": "Chez toi, merci !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
