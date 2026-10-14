@@ -3203,6 +3203,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T09:51:00.175349",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how much is it?",
+            "target_text": "Bonjour, c'est combien ?",
+            "japanese": "Bonjour, c'est combien ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's five euros!",
+            "target_text": "C'est cinq euros !",
+            "japanese": "C'est cinq euros !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I'll take this T-shirt.",
+            "target_text": "Je prends ce t-shirt.",
+            "japanese": "Je prends ce t-shirt.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very good, thank you!",
+            "target_text": "Très bien, merci !",
+            "japanese": "Très bien, merci !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
