@@ -3559,6 +3559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T09:51:40.023046",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what's up?",
+            "target_text": "היי, מה נשמע?",
+            "transliteration": "Hi, ma nishma?",
+            "japanese": "היי, מה נשמע?",
+            "romaji": "Hi, ma nishma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thank you very much!",
+            "target_text": "סבבה, תודה רבה!",
+            "transliteration": "Sababa, toda raba!",
+            "japanese": "סבבה, תודה רבה!",
+            "romaji": "Sababa, toda raba!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, see you later.",
+            "target_text": "נהדר, נתראה אחר כך.",
+            "transliteration": "Nehedar, nit'ra'e achar kach.",
+            "japanese": "נהדר, נתראה אחר כך.",
+            "romaji": "Nehedar, nit'ra'e achar kach."
+          },
+          {
+            "speaker": "B",
+            "english": "Awesome, have a good day!",
+            "target_text": "אחלה, יום טוב!",
+            "transliteration": "Achla, yom tov!",
+            "japanese": "אחלה, יום טוב!",
+            "romaji": "Achla, yom tov!"
+          }
+        ]
+      }
     }
   ]
 }
