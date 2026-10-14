@@ -3167,6 +3167,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T01:32:28.251595",
+      "dialogue": {
+        "topic": "Fiesta chill con amigos",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you coming to the party?",
+            "target_text": "¿Vienes a la fiesta?",
+            "japanese": "¿Vienes a la fiesta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I'm going now!",
+            "target_text": "¡Sí, voy ahora!",
+            "japanese": "¡Sí, voy ahora!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we meet there?",
+            "target_text": "¿Nos vemos allí?",
+            "japanese": "¿Nos vemos allí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, see you later!",
+            "target_text": "¡Claro, hasta luego!",
+            "japanese": "¡Claro, hasta luego!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
