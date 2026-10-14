@@ -3599,6 +3599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-14T20:32:11.733155",
+      "dialogue": {
+        "topic": "Street greeting: meet a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Long time no see!",
+            "russian": "Привет! Давно не виделись!",
+            "translit": "Privet! Davno ne videlis'!",
+            "japanese": "Привет! Давно не виделись!",
+            "romaji": "Privet! Davno ne videlis'!"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi! Glad to see you!",
+            "russian": "Привет! Рад тебя видеть!",
+            "translit": "Privet! Rad tebya videt'!",
+            "japanese": "Привет! Рад тебя видеть!",
+            "romaji": "Privet! Rad tebya videt'!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we get coffee?",
+            "russian": "Пойдём на кофе?",
+            "translit": "Poydyom na kofe?",
+            "japanese": "Пойдём на кофе?",
+            "romaji": "Poydyom na kofe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go together!",
+            "russian": "Да, пойдём вместе!",
+            "translit": "Da, poydyom vmeste!",
+            "japanese": "Да, пойдём вместе!",
+            "romaji": "Da, poydyom vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
