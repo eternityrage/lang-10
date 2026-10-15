@@ -2911,6 +2911,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T01:10:39.891380",
+      "dialogue": {
+        "topic": "Work & Chill: Finished Work",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is work finished?",
+            "japanese": "マグさん、しごとは おわりましたか？",
+            "romaji": "Magu-san, shigoto wa owarimashita ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's finished.",
+            "japanese": "はい、おわりましたよ。",
+            "romaji": "Hai, owarimashita yo."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we rest together?",
+            "japanese": "いっしょに やすみますか？",
+            "romaji": "Issho ni yasumimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's rest!",
+            "japanese": "はい、やすみましょう！",
+            "romaji": "Hai, yasumimashou!"
+          }
+        ]
+      }
     }
   ]
 }
