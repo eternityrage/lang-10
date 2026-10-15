@@ -3383,6 +3383,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T15:30:31.420805",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, one gelato, please?",
+            "target_text": "Buongiorno, un gelato, per favore?",
+            "japanese": "Buongiorno, un gelato, per favore?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! What flavor would you like?",
+            "target_text": "Certo! Che gusto vuole?",
+            "japanese": "Certo! Che gusto vuole?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Chocolate and pistachio, thank you.",
+            "target_text": "Cioccolato e pistacchio, grazie.",
+            "japanese": "Cioccolato e pistacchio, grazie.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, here is the gelato!",
+            "target_text": "Perfetto, ecco il gelato!",
+            "japanese": "Perfetto, ecco il gelato!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
