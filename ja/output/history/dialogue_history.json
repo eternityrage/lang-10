@@ -2943,6 +2943,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T09:31:32.098300",
+      "dialogue": {
+        "topic": "Shopping for a cute hat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this hat cute?",
+            "japanese": "このぼうし、かわいいですか？",
+            "romaji": "Kono boushi, kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Very cute.",
+            "japanese": "はい！とても かわいいです。",
+            "romaji": "Hai! Totemo kawaii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "japanese": "いくらですか？",
+            "romaji": "Ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is 500 yen.",
+            "japanese": "ごひゃくえんです。",
+            "romaji": "Gohyaku en desu."
+          }
+        ]
+      }
     }
   ]
 }
