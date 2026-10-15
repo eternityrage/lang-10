@@ -2975,6 +2975,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T15:30:48.491178",
+      "dialogue": {
+        "topic": "anime-style encouragement",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, do your best!",
+            "japanese": "マグさん、がんばって！",
+            "romaji": "Magu-san, ganbatte!"
+          },
+          {
+            "speaker": "B",
+            "english": "I can do it!",
+            "japanese": "わたしは できます！",
+            "romaji": "Watashi wa dekimasu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Let's go together!",
+            "japanese": "いっしょに いきましょう！",
+            "romaji": "Issho ni ikimashou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! We are friends!",
+            "japanese": "はい！ともだちです！",
+            "romaji": "Hai! Tomodachi desu!"
+          }
+        ]
+      }
     }
   ]
 }
