@@ -3311,6 +3311,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T01:10:38.975243",
+      "dialogue": {
+        "topic": "Street art in Berlin",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is that art?",
+            "target_text": "Hallo, ist das Kunst?",
+            "japanese": "Hallo, ist das Kunst?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very beautiful!",
+            "target_text": "Ja, sehr schön!",
+            "japanese": "Ja, sehr schön!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Who paints here?",
+            "target_text": "Wer malt hier?",
+            "japanese": "Wer malt hier?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Many Berliners paint here.",
+            "target_text": "Viele Berliner malen hier.",
+            "japanese": "Viele Berliner malen hier.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
