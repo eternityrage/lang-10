@@ -3799,6 +3799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T01:10:33.336793",
+      "dialogue": {
+        "topic": "Night market sweet snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this sweet?",
+            "chinese": "这个甜吗？",
+            "pinyin": "Zhège tián ma?",
+            "japanese": "这个甜吗？",
+            "romaji": "Zhège tián ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "It’s very sweet!",
+            "chinese": "很甜啊！",
+            "pinyin": "Hěn tián a!",
+            "japanese": "很甜啊！",
+            "romaji": "Hěn tián a!"
+          },
+          {
+            "speaker": "A",
+            "english": "I want one.",
+            "chinese": "我要一个。",
+            "pinyin": "Wǒ yào yí ge.",
+            "japanese": "我要一个。",
+            "romaji": "Wǒ yào yí ge."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here you go!",
+            "chinese": "好，给你！",
+            "pinyin": "Hǎo, gěi nǐ!",
+            "japanese": "好，给你！",
+            "romaji": "Hǎo, gěi nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
