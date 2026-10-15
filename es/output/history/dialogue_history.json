@@ -3383,6 +3383,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T15:30:40.692869",
+      "dialogue": {
+        "topic": "Buying bread at the market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much is the bread?",
+            "target_text": "Hola, ¿cuánto cuesta el pan?",
+            "japanese": "Hola, ¿cuánto cuesta el pan?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only two euros!",
+            "target_text": "¡Solo dos euros!",
+            "japanese": "¡Solo dos euros!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want one, please.",
+            "target_text": "Quiero uno, por favor.",
+            "japanese": "Quiero uno, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go.",
+            "target_text": "Claro, aquí tiene.",
+            "japanese": "Claro, aquí tiene.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
