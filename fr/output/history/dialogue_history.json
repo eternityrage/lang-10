@@ -3383,6 +3383,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T15:30:30.435447",
+      "dialogue": {
+        "topic": "Coffee at home",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want coffee?",
+            "target_text": "Tu veux un café ?",
+            "japanese": "Tu veux un café ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thank you!",
+            "target_text": "Oui, merci beaucoup !",
+            "japanese": "Oui, merci beaucoup !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With some milk?",
+            "target_text": "Avec du lait ?",
+            "japanese": "Avec du lait ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's perfect!",
+            "target_text": "Oui, c'est parfait !",
+            "japanese": "Oui, c'est parfait !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
