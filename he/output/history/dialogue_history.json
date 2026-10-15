@@ -3719,6 +3719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T09:31:59.110820",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what's up?",
+            "target_text": "היי, מה נשמע?",
+            "transliteration": "Hai, ma nishma?",
+            "japanese": "היי, מה נשמע?",
+            "romaji": "Hai, ma nishma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks, and you?",
+            "target_text": "סבבה, תודה, ואתה?",
+            "transliteration": "Sababa, toda, ve-ata?",
+            "japanese": "סבבה, תודה, ואתה?",
+            "romaji": "Sababa, toda, ve-ata?"
+          },
+          {
+            "speaker": "A",
+            "english": "Want to walk?",
+            "target_text": "רוצה ללכת קצת?",
+            "transliteration": "Rotze lalekhet ktzat?",
+            "japanese": "רוצה ללכת קצת?",
+            "romaji": "Rotze lalekhet ktzat?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "כן, יאללה, בכיף!",
+            "transliteration": "Ken, yalla, bekef!",
+            "japanese": "כן, יאללה, בכיף!",
+            "romaji": "Ken, yalla, bekef!"
+          }
+        ]
+      }
     }
   ]
 }
