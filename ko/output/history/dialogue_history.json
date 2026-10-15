@@ -3799,6 +3799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T20:13:49.268333",
+      "dialogue": {
+        "topic": "Buying water before the subway",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have water?",
+            "korean": "물 하나 있어요?",
+            "romaja": "Mul hana isseoyo?",
+            "japanese": "물 하나 있어요?",
+            "romaji": "Mul hana isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here it is!",
+            "korean": "네, 여기 있어요!",
+            "romaja": "Ne, yeogi isseoyo!",
+            "japanese": "네, 여기 있어요!",
+            "romaji": "Ne, yeogi isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Okay on the subway?",
+            "korean": "지하철에서 괜찮아요?",
+            "romaja": "Jihacheoreseo gwaenchanayo?",
+            "japanese": "지하철에서 괜찮아요?",
+            "romaji": "Jihacheoreseo gwaenchanayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, go safely!",
+            "korean": "네, 조심히 가요!",
+            "romaja": "Ne, josimhi gayo!",
+            "japanese": "네, 조심히 가요!",
+            "romaji": "Ne, josimhi gayo!"
+          }
+        ]
+      }
     }
   ]
 }
