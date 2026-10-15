@@ -3679,6 +3679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T01:11:32.081937",
+      "dialogue": {
+        "topic": "Tel Aviv Street Life - Walking to the Beach",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the sea?",
+            "target_text": "היי, איפה הים?",
+            "transliteration": "Hai, eifo hayam?",
+            "japanese": "היי, איפה הים?",
+            "romaji": "Hai, eifo hayam?"
+          },
+          {
+            "speaker": "B",
+            "english": "Close, straight ahead!",
+            "target_text": "קרוב, ישר קדימה!",
+            "transliteration": "Karov, yashar kadima!",
+            "japanese": "קרוב, ישר קדימה!",
+            "romaji": "Karov, yashar kadima!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, walk on foot?",
+            "target_text": "יופי, ללכת ברגל?",
+            "transliteration": "Yofi, lalekhet baregel?",
+            "japanese": "יופי, ללכת ברגל?",
+            "romaji": "Yofi, lalekhet baregel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, five minutes.",
+            "target_text": "כן, חמש דקות.",
+            "transliteration": "Ken, khamesh dakot.",
+            "japanese": "כן, חמש דקות.",
+            "romaji": "Ken, khamesh dakot."
+          }
+        ]
+      }
     }
   ]
 }
