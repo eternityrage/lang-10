@@ -3311,6 +3311,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T01:10:28.031855",
+      "dialogue": {
+        "topic": "Train Station & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, is the train here?",
+            "target_text": "Scusi, il treno è qui?",
+            "japanese": "Scusi, il treno è qui?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it arrives now!",
+            "target_text": "Sì, arriva adesso!",
+            "japanese": "Sì, arriva adesso!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go to Rome?",
+            "target_text": "Va a Roma?",
+            "japanese": "Va a Roma?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's get on now!",
+            "target_text": "Sì, saliamo ora!",
+            "japanese": "Sì, saliamo ora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
