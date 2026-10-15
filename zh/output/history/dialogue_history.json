@@ -3839,6 +3839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T09:31:49.732855",
+      "dialogue": {
+        "topic": "Good Afternoon",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good afternoon!",
+            "chinese": "下午好！",
+            "pinyin": "Xiàwǔ hǎo!",
+            "japanese": "下午好！",
+            "romaji": "Xiàwǔ hǎo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Good afternoon!",
+            "chinese": "下午好呀！",
+            "pinyin": "Xiàwǔ hǎo ya!",
+            "japanese": "下午好呀！",
+            "romaji": "Xiàwǔ hǎo ya!"
+          },
+          {
+            "speaker": "A",
+            "english": "Where are you going?",
+            "chinese": "你去哪儿？",
+            "pinyin": "Nǐ qù nǎr?",
+            "japanese": "你去哪儿？",
+            "romaji": "Nǐ qù nǎr?"
+          },
+          {
+            "speaker": "B",
+            "english": "I’m going home.",
+            "chinese": "我回家啦！",
+            "pinyin": "Wǒ huí jiā la!",
+            "japanese": "我回家啦！",
+            "romaji": "Wǒ huí jiā la!"
+          }
+        ]
+      }
     }
   ]
 }
