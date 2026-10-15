@@ -3347,6 +3347,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T09:31:44.538912",
+      "dialogue": {
+        "topic": "Morning coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want a coffee?",
+            "target_text": "Tu veux un café ?",
+            "japanese": "Tu veux un café ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thanks, gladly!",
+            "target_text": "Oui, merci, avec plaisir !",
+            "japanese": "Oui, merci, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With sugar?",
+            "target_text": "Avec du sucre ?",
+            "japanese": "Avec du sucre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, thanks, it's perfect.",
+            "target_text": "Non, merci, c'est parfait.",
+            "japanese": "Non, merci, c'est parfait.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
