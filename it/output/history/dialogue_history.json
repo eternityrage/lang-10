@@ -3347,6 +3347,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T09:31:44.193091",
+      "dialogue": {
+        "topic": "Walk to the fountain in Rome",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we go to the fountain?",
+            "target_text": "Ciao, andiamo alla fontana?",
+            "japanese": "Ciao, andiamo alla fontana?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very close!",
+            "target_text": "Sì, è molto vicina!",
+            "japanese": "Sì, è molto vicina!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then shall we get gelato?",
+            "target_text": "Poi prendiamo un gelato?",
+            "japanese": "Poi prendiamo un gelato?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, what a lovely walk!",
+            "target_text": "Certo, che bella passeggiata!",
+            "japanese": "Certo, che bella passeggiata!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
