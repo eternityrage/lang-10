@@ -3347,6 +3347,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T09:31:40.370952",
+      "dialogue": {
+        "topic": "Polite request for help",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, can you help me?",
+            "target_text": "Entschuldigung, können Sie mir helfen?",
+            "japanese": "Entschuldigung, können Sie mir helfen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the station?",
+            "target_text": "Wo ist der Bahnhof?",
+            "japanese": "Wo ist der Bahnhof?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "There, straight ahead.",
+            "target_text": "Dort vorne geradeaus.",
+            "japanese": "Dort vorne geradeaus.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
