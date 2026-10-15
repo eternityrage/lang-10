@@ -3719,6 +3719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T09:31:47.834100",
+      "dialogue": {
+        "topic": "Speaking casually",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can we speak casually?",
+            "korean": "말 편하게 해요?",
+            "romaja": "Mal pyeonhage haeyo?",
+            "japanese": "말 편하게 해요?",
+            "romaji": "Mal pyeonhage haeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds really good!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, are we friends?",
+            "korean": "그럼 우리 친구야?",
+            "romaja": "Geureom uri chinguya?",
+            "japanese": "그럼 우리 친구야?",
+            "romaji": "Geureom uri chinguya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yep, we are friends!",
+            "korean": "응, 우리 친구야!",
+            "romaja": "Eung, uri chinguya!",
+            "japanese": "응, 우리 친구야!",
+            "romaji": "Eung, uri chinguya!"
+          }
+        ]
+      }
     }
   ]
 }
