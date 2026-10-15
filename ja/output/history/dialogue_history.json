@@ -3007,6 +3007,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T20:14:20.055828",
+      "dialogue": {
+        "topic": "Asking for Milk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there milk?",
+            "japanese": "ミルクは ありますか？",
+            "romaji": "Miruku wa arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is.",
+            "japanese": "はい、あります。",
+            "romaji": "Hai, arimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "A little, please.",
+            "japanese": "すこし ください。",
+            "romaji": "Sukoshi kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          }
+        ]
+      }
     }
   ]
 }
