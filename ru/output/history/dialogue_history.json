@@ -3719,6 +3719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T15:30:38.166025",
+      "dialogue": {
+        "topic": "Meeting an old friend on the street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Long time no see?",
+            "russian": "Привет! Давно не виделись?",
+            "translit": "Privet! Davno ne videlis?",
+            "japanese": "Привет! Давно не виделись?",
+            "romaji": "Privet! Davno ne videlis?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I am so happy!",
+            "russian": "Да! Я очень рад!",
+            "translit": "Da! Ya ochen rad!",
+            "japanese": "Да! Я очень рад!",
+            "romaji": "Da! Ya ochen rad!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the park?",
+            "russian": "Пойдём в парк?",
+            "translit": "Poydyom v park?",
+            "japanese": "Пойдём в парк?",
+            "romaji": "Poydyom v park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Let's go together.",
+            "russian": "Конечно! Идём вместе.",
+            "translit": "Konechno! Idyom vmeste.",
+            "japanese": "Конечно! Идём вместе.",
+            "romaji": "Konechno! Idyom vmeste."
+          }
+        ]
+      }
     }
   ]
 }
