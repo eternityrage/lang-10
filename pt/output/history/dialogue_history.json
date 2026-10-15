@@ -3347,6 +3347,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T09:31:47.106751",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, all good?",
+            "target_text": "E aí, tudo certo?",
+            "japanese": "E aí, tudo certo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All great, and you?",
+            "target_text": "Tudo ótimo, e você?",
+            "japanese": "Tudo ótimo, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I'm good, shall we walk?",
+            "target_text": "Tô bem, bora andar?",
+            "japanese": "Tô bem, bora andar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Nice, let's go now!",
+            "target_text": "Boa, partiu agora!",
+            "japanese": "Boa, partiu agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
