@@ -3879,6 +3879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-15T15:30:54.077897",
+      "dialogue": {
+        "topic": "Night Market Street Food",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! Is this milk tea sweet?",
+            "chinese": "你好！这杯奶茶甜吗？",
+            "pinyin": "Nǐ hǎo! Zhè bēi nǎichá tián ma?",
+            "japanese": "你好！这杯奶茶甜吗？",
+            "romaji": "Nǐ hǎo! Zhè bēi nǎichá tián ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not too sweet, just right!",
+            "chinese": "不太甜，刚刚好！",
+            "pinyin": "Bú tài tián, gānggāng hǎo!",
+            "japanese": "不太甜，刚刚好！",
+            "romaji": "Bú tài tián, gānggāng hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "One cup with boba please.",
+            "chinese": "来一杯珍珠奶茶。",
+            "pinyin": "Lái yì bēi zhēnzhū nǎichá.",
+            "japanese": "来一杯珍珠奶茶。",
+            "romaji": "Lái yì bēi zhēnzhū nǎichá."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here you go!",
+            "chinese": "好的，给您！",
+            "pinyin": "Hǎo de, gěi nín!",
+            "japanese": "好的，给您！",
+            "romaji": "Hǎo de, gěi nín!"
+          }
+        ]
+      }
     }
   ]
 }
