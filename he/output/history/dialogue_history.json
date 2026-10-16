@@ -3879,6 +3879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T19:51:01.719172",
+      "dialogue": {
+        "topic": "Shopping for a dress",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have a red dress?",
+            "target_text": "היי, יש שמלה אדומה?",
+            "transliteration": "Hai, yesh simla aduma?",
+            "japanese": "היי, יש שמלה אדומה?",
+            "romaji": "Hai, yesh simla aduma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a very pretty dress!",
+            "target_text": "כן, שמלה מאוד יפה!",
+            "transliteration": "Ken, simla me'od yafa!",
+            "japanese": "כן, שמלה מאוד יפה!",
+            "romaji": "Ken, simla me'od yafa!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "It costs eighty shekels.",
+            "target_text": "זה עולה שמונים שקל.",
+            "transliteration": "Ze oleh shmonim shekel.",
+            "japanese": "זה עולה שמונים שקל.",
+            "romaji": "Ze oleh shmonim shekel."
+          }
+        ]
+      }
     }
   ]
 }
