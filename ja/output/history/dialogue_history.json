@@ -3135,6 +3135,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T19:51:09.622901",
+      "dialogue": {
+        "topic": "A tiny flower surprise",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, a little flower!",
+            "japanese": "マグ、ちいさい はなです！",
+            "romaji": "Magu, chiisai hana desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow! It is cute.",
+            "japanese": "わあ！かわいいです。",
+            "romaji": "Waa! Kawaii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "It smells very nice.",
+            "japanese": "とても いい においです。",
+            "romaji": "Totemo ii nioi desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Yay! I am happy.",
+            "japanese": "やった！うれしいです。",
+            "romaji": "Yatta! Ureshii desu."
+          }
+        ]
+      }
     }
   ]
 }
