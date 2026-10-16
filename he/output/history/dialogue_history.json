@@ -3759,6 +3759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T00:57:26.997195",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the sea close?",
+            "target_text": "שלום, הים קרוב?",
+            "transliteration": "Shalom, ha-yam karov?",
+            "japanese": "שלום, הים קרוב?",
+            "romaji": "Shalom, ha-yam karov?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the sea is here!",
+            "target_text": "כן, הים פה!",
+            "transliteration": "Ken, ha-yam po!",
+            "japanese": "כן, הים פה!",
+            "romaji": "Ken, ha-yam po!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is the sun strong?",
+            "target_text": "יש שמש חזקה?",
+            "transliteration": "Yesh shemesh chazaka?",
+            "japanese": "יש שמש חזקה?",
+            "romaji": "Yesh shemesh chazaka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come to the beach!",
+            "target_text": "כן, בוא לחוף!",
+            "transliteration": "Ken, bo la-chof!",
+            "japanese": "כן, בוא לחוף!",
+            "romaji": "Ken, bo la-chof!"
+          }
+        ]
+      }
     }
   ]
 }
