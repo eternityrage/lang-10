@@ -3491,6 +3491,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T15:14:19.477655",
+      "dialogue": {
+        "topic": "Party & Samba Vibes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want to samba with me?",
+            "target_text": "Oi, quer sambar comigo?",
+            "japanese": "Oi, quer sambar comigo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love samba!",
+            "target_text": "Sim, eu adoro samba!",
+            "japanese": "Sim, eu adoro samba!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the circle?",
+            "target_text": "Vamos para a roda?",
+            "japanese": "Vamos para a roda?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go, the party started!",
+            "target_text": "Vamos, a festa começou!",
+            "japanese": "Vamos, a festa começou!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
