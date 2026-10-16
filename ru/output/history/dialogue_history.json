@@ -3879,6 +3879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T15:13:53.697037",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning! Fresh buns?",
+            "russian": "Доброе утро! Булочки свежие?",
+            "translit": "Dobroye utro! Bulochki svezhiye?",
+            "japanese": "Доброе утро! Булочки свежие?",
+            "romaji": "Dobroye utro! Bulochki svezhiye?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "russian": "Да, очень свежие!",
+            "translit": "Da, ochen' svezhiye!",
+            "japanese": "Да, очень свежие!",
+            "romaji": "Da, ochen' svezhiye!"
+          },
+          {
+            "speaker": "A",
+            "english": "Two buns, please.",
+            "russian": "Две булочки, пожалуйста.",
+            "translit": "Dve bulochki, pozhaluysta.",
+            "japanese": "Две булочки, пожалуйста.",
+            "romaji": "Dve bulochki, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Here. Have a nice day!",
+            "russian": "Вот. Хорошего дня!",
+            "translit": "Vot. Khoroshego dnya!",
+            "japanese": "Вот. Хорошего дня!",
+            "romaji": "Vot. Khoroshego dnya!"
+          }
+        ]
+      }
     }
   ]
 }
