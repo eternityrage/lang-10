@@ -3839,6 +3839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T09:24:35.583156",
+      "dialogue": {
+        "topic": "Buying cute socks in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are these socks cute?",
+            "korean": "이 양말 귀여워요?",
+            "romaja": "I yangmal gwiyeowoyo?",
+            "japanese": "이 양말 귀여워요?",
+            "romaji": "I yangmal gwiyeowoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cute!",
+            "korean": "네, 정말 귀여워요!",
+            "romaja": "Ne, jeongmal gwiyeowoyo!",
+            "japanese": "네, 정말 귀여워요!",
+            "romaji": "Ne, jeongmal gwiyeowoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Should I buy two?",
+            "korean": "두 개 살까요?",
+            "romaja": "Du gae salkkayo?",
+            "japanese": "두 개 살까요?",
+            "romaji": "Du gae salkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's buy together!",
+            "korean": "좋아요, 같이 사요!",
+            "romaja": "Joayo, gachi sayo!",
+            "japanese": "좋아요, 같이 사요!",
+            "romaji": "Joayo, gachi sayo!"
+          }
+        ]
+      }
     }
   ]
 }
