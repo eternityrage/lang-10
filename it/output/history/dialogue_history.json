@@ -3563,6 +3563,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T19:50:57.704097",
+      "dialogue": {
+        "topic": "Il gesto “boh”",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What does this mean?",
+            "target_text": "Che significa così?",
+            "japanese": "Che significa così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's the “boh” gesture!",
+            "target_text": "È il gesto “boh”!",
+            "japanese": "È il gesto “boh”!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it mean “I don't know”?",
+            "target_text": "Vuol dire “non so”?",
+            "japanese": "Vuol dire “non so”?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, exactly: “boh”!",
+            "target_text": "Sì, esatto: “boh”!",
+            "japanese": "Sì, esatto: “boh”!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
