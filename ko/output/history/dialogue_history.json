@@ -3879,6 +3879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T19:51:23.903106",
+      "dialogue": {
+        "topic": "Quick chat: polite to casual",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you busy now?",
+            "korean": "지금 바빠요?",
+            "romaja": "Jigeum bappayo?",
+            "japanese": "지금 바빠요?",
+            "romaji": "Jigeum bappayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I am okay!",
+            "korean": "아니요, 괜찮아요!",
+            "romaja": "Aniyo, gwaenchanayo!",
+            "japanese": "아니요, 괜찮아요!",
+            "romaji": "Aniyo, gwaenchanayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, talk for a bit?",
+            "korean": "그럼 잠깐 얘기할래?",
+            "romaja": "Geureom jamkkan yaegihallae?",
+            "japanese": "그럼 잠깐 얘기할래?",
+            "romaji": "Geureom jamkkan yaegihallae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, speak casually!",
+            "korean": "좋아, 편하게 말해!",
+            "romaja": "Joa, pyeonhage malhae!",
+            "japanese": "좋아, 편하게 말해!",
+            "romaji": "Joa, pyeonhage malhae!"
+          }
+        ]
+      }
     }
   ]
 }
