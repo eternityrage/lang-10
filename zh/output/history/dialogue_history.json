@@ -3999,6 +3999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T09:24:46.173218",
+      "dialogue": {
+        "topic": "Hotpot Dinner",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Any seats?",
+            "chinese": "有座吗？",
+            "pinyin": "Yǒu zuò ma?",
+            "japanese": "有座吗？",
+            "romaji": "Yǒu zuò ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come in!",
+            "chinese": "有，来吧！",
+            "pinyin": "Yǒu, lái ba!",
+            "japanese": "有，来吧！",
+            "romaji": "Yǒu, lái ba!"
+          },
+          {
+            "speaker": "A",
+            "english": "Hotpot now?",
+            "chinese": "现在火锅？",
+            "pinyin": "Xiànzài huǒguō?",
+            "japanese": "现在火锅？",
+            "romaji": "Xiànzài huǒguō?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s eat!",
+            "chinese": "好，吃吧！",
+            "pinyin": "Hǎo, chī ba!",
+            "japanese": "好，吃吧！",
+            "romaji": "Hǎo, chī ba!"
+          }
+        ]
+      }
     }
   ]
 }
