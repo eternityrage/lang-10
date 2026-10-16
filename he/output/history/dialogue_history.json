@@ -3799,6 +3799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T09:25:09.391627",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, what's up?",
+            "target_text": "היי, מה קורה?",
+            "transliteration": "Hai, ma kore?",
+            "japanese": "היי, מה קורה?",
+            "romaji": "Hai, ma kore?"
+          },
+          {
+            "speaker": "B",
+            "english": "Everything's great, thanks!",
+            "target_text": "הכול סבבה, תודה!",
+            "transliteration": "Hakol sababa, toda!",
+            "japanese": "הכול סבבה, תודה!",
+            "romaji": "Hakol sababa, toda!"
+          },
+          {
+            "speaker": "A",
+            "english": "See you later?",
+            "target_text": "נתראה אחר כך?",
+            "transliteration": "Nitra'eh achar kach?",
+            "japanese": "נתראה אחר כך?",
+            "romaji": "Nitra'eh achar kach?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, bye for now!",
+            "target_text": "כן, יאללה ביי!",
+            "transliteration": "Ken, yalla bye!",
+            "japanese": "כן, יאללה ביי!",
+            "romaji": "Ken, yalla bye!"
+          }
+        ]
+      }
     }
   ]
 }
