@@ -3455,6 +3455,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T00:57:29.437082",
+      "dialogue": {
+        "topic": "Buying a metro ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one ticket, please?",
+            "target_text": "Bonjour, un ticket, s’il vous plaît ?",
+            "japanese": "Bonjour, un ticket, s’il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "For the center, yes?",
+            "target_text": "Pour le centre, oui ?",
+            "japanese": "Pour le centre, oui ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, have a good trip!",
+            "target_text": "Parfait, bon voyage !",
+            "japanese": "Parfait, bon voyage !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
