@@ -3455,6 +3455,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T09:24:33.329497",
+      "dialogue": {
+        "topic": "Cafe & Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have apple spritzer?",
+            "target_text": "Hallo, haben Sie Apfelschorle?",
+            "japanese": "Hallo, haben Sie Apfelschorle?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One glass, please.",
+            "target_text": "Ein Glas, bitte.",
+            "japanese": "Ein Glas, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All right, coming right away!",
+            "target_text": "Alles klar, kommt sofort!",
+            "japanese": "Alles klar, kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
