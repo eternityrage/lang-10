@@ -3071,6 +3071,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T09:24:45.083806",
+      "dialogue": {
+        "topic": "At the Bus Stop",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is this the bus stop?",
+            "japanese": "マグさん、ここは バスていですか？",
+            "romaji": "Magu-san, koko wa basutei desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is.",
+            "japanese": "はい、そうです。",
+            "romaji": "Hai, sou desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Will the bus come?",
+            "japanese": "バスは きますか？",
+            "romaji": "Basu wa kimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it comes soon.",
+            "japanese": "はい、すぐ きます。",
+            "romaji": "Hai, sugu kimasu."
+          }
+        ]
+      }
     }
   ]
 }
