@@ -3103,6 +3103,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T15:13:54.538629",
+      "dialogue": {
+        "topic": "A tiny hat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, look!",
+            "japanese": "マグさん、みて！",
+            "romaji": "Magu-san, mite!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what?",
+            "japanese": "はい、なに？",
+            "romaji": "Hai, nani?"
+          },
+          {
+            "speaker": "A",
+            "english": "A tiny hat!",
+            "japanese": "ちいさい ぼうしです！",
+            "romaji": "Chiisai boushi desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow, so cute!",
+            "japanese": "わあ、とても かわいい！",
+            "romaji": "Waa, totemo kawaii!"
+          }
+        ]
+      }
     }
   ]
 }
