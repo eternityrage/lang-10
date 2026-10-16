@@ -3919,6 +3919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T19:51:00.739338",
+      "dialogue": {
+        "topic": "Ordering Borsch & Pelmeni",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, what is tasty today?",
+            "russian": "Здравствуйте, что сегодня вкусное?",
+            "translit": "Zdravstvuyte, chto segodnya vkusnoye?",
+            "japanese": "Здравствуйте, что сегодня вкусное?",
+            "romaji": "Zdravstvuyte, chto segodnya vkusnoye?"
+          },
+          {
+            "speaker": "B",
+            "english": "Borsch and pelmeni are excellent!",
+            "russian": "Борщ и пельмени отличные!",
+            "translit": "Borshch i pelmeni otlichnye!",
+            "japanese": "Борщ и пельмени отличные!",
+            "romaji": "Borshch i pelmeni otlichnye!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then everything, please.",
+            "russian": "Тогда всё, пожалуйста.",
+            "translit": "Togda vsyo, pozhaluysta.",
+            "japanese": "Тогда всё, пожалуйста.",
+            "romaji": "Togda vsyo, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Super, I will bring it now!",
+            "russian": "Супер, сейчас принесу!",
+            "translit": "Super, seychas prinesu!",
+            "japanese": "Супер, сейчас принесу!",
+            "romaji": "Super, seychas prinesu!"
+          }
+        ]
+      }
     }
   ]
 }
