@@ -3527,6 +3527,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T19:51:05.348674",
+      "dialogue": {
+        "topic": "Polite request for water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have water?",
+            "target_text": "Hallo, haben Sie Wasser?",
+            "japanese": "Hallo, haben Sie Wasser?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, gladly!",
+            "target_text": "Ja, natürlich, sehr gern!",
+            "japanese": "Ja, natürlich, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One glass, please.",
+            "target_text": "Ein Glas, bitte.",
+            "japanese": "Ein Glas, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go.",
+            "target_text": "Hier, bitte schön.",
+            "japanese": "Hier, bitte schön.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
