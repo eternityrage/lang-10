@@ -3799,6 +3799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T00:57:30.505607",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are the buns fresh today?",
+            "russian": "Здравствуйте, булочки сегодня свежие?",
+            "translit": "Zdravstvuyte, bulochki segodnya svezhiye?",
+            "japanese": "Здравствуйте, булочки сегодня свежие?",
+            "romaji": "Zdravstvuyte, bulochki segodnya svezhiye?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh and warm!",
+            "russian": "Да, очень свежие и тёплые!",
+            "translit": "Da, ochen' svezhiye i tyoplyye!",
+            "japanese": "Да, очень свежие и тёплые!",
+            "romaji": "Da, ochen' svezhiye i tyoplyye!"
+          },
+          {
+            "speaker": "A",
+            "english": "Give me two buns, please.",
+            "russian": "Дайте две булочки, пожалуйста.",
+            "translit": "Dayte dve bulochki, pozhaluysta.",
+            "japanese": "Дайте две булочки, пожалуйста.",
+            "romaji": "Dayte dve bulochki, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, enjoy your meal!",
+            "russian": "Конечно, приятного аппетита!",
+            "translit": "Konechno, priyatnogo appetita!",
+            "japanese": "Конечно, приятного аппетита!",
+            "romaji": "Konechno, priyatnogo appetita!"
+          }
+        ]
+      }
     }
   ]
 }
