@@ -3419,6 +3419,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T00:57:16.112988",
+      "dialogue": {
+        "topic": "Cafe & Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this table free?",
+            "target_text": "Hallo, ist der Tisch frei?",
+            "japanese": "Hallo, ist der Tisch frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please, sit down!",
+            "target_text": "Ja, bitte, setz dich!",
+            "japanese": "Ja, bitte, setz dich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have the menu?",
+            "target_text": "Hast du die Karte?",
+            "japanese": "Hast du die Karte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here it is.",
+            "target_text": "Ja, hier ist sie.",
+            "japanese": "Ja, hier ist sie.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
