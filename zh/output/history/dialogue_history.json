@@ -4039,6 +4039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T15:14:03.722206",
+      "dialogue": {
+        "topic": "Morning Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the coffee hot?",
+            "chinese": "咖啡热吗？",
+            "pinyin": "Kāfēi rè ma?",
+            "japanese": "咖啡热吗？",
+            "romaji": "Kāfēi rè ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Hot and tasty!",
+            "chinese": "热，好喝！",
+            "pinyin": "Rè, hǎo hē!",
+            "japanese": "热，好喝！",
+            "romaji": "Rè, hǎo hē!"
+          },
+          {
+            "speaker": "A",
+            "english": "Add sugar?",
+            "chinese": "加糖吗？",
+            "pinyin": "Jiā táng ma?",
+            "japanese": "加糖吗？",
+            "romaji": "Jiā táng ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, thanks.",
+            "chinese": "不加，谢谢。",
+            "pinyin": "Bù jiā, xièxie.",
+            "japanese": "不加，谢谢。",
+            "romaji": "Bù jiā, xièxie."
+          }
+        ]
+      }
     }
   ]
 }
