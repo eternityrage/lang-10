@@ -3839,6 +3839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T15:13:51.814828",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, taxi to the museum?",
+            "target_text": "היי, מונית למוזיאון?",
+            "transliteration": "Hai, monit la-muze'on?",
+            "japanese": "היי, מונית למוזיאון?",
+            "romaji": "Hai, monit la-muze'on?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sure, please!",
+            "target_text": "כן, בטח, בבקשה!",
+            "transliteration": "Ken, betach, bevakasha!",
+            "japanese": "כן, בטח, בבקשה!",
+            "romaji": "Ken, betach, bevakasha!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Twenty shekels, thank you.",
+            "target_text": "עשרים שקלים, תודה.",
+            "transliteration": "Esrim shkalim, toda.",
+            "japanese": "עשרים שקלים, תודה.",
+            "romaji": "Esrim shkalim, toda."
+          }
+        ]
+      }
     }
   ]
 }
