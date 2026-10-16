@@ -3455,6 +3455,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T00:57:34.437926",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, meet in the square?",
+            "target_text": "Ciao, ci vediamo in piazza?",
+            "japanese": "Ciao, ci vediamo in piazza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Sì, con piacere!",
+            "japanese": "Sì, con piacere!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is six okay?",
+            "target_text": "Alle sei va bene?",
+            "japanese": "Alle sei va bene?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, see you later!",
+            "target_text": "Perfetto, a dopo!",
+            "japanese": "Perfetto, a dopo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
