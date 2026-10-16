@@ -3491,6 +3491,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T09:24:33.938384",
+      "dialogue": {
+        "topic": "Train delay",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, is the train late?",
+            "target_text": "Scusa, il treno è in ritardo?",
+            "japanese": "Scusa, il treno è in ritardo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, only five minutes!",
+            "target_text": "Sì, solo cinque minuti!",
+            "japanese": "Sì, solo cinque minuti!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "So, do I wait here?",
+            "target_text": "Allora aspetto qui?",
+            "japanese": "Allora aspetto qui?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, relax, it arrives soon!",
+            "target_text": "Sì, tranquillo, arriva presto!",
+            "japanese": "Sì, tranquillo, arriva presto!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
