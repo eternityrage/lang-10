@@ -3491,6 +3491,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T09:24:52.545100",
+      "dialogue": {
+        "topic": "Buying a hat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have this hat?",
+            "target_text": "Bonjour, vous avez ce chapeau ?",
+            "japanese": "Bonjour, vous avez ce chapeau ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very pretty!",
+            "target_text": "Oui, il est très joli !",
+            "japanese": "Oui, il est très joli !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "Il coûte combien ?",
+            "japanese": "Il coûte combien ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only ten euros!",
+            "target_text": "Seulement dix euros !",
+            "japanese": "Seulement dix euros !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
