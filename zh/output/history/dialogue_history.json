@@ -4079,6 +4079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-16T19:50:56.272509",
+      "dialogue": {
+        "topic": "Morning Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What are you drinking?",
+            "chinese": "你喝什么？",
+            "pinyin": "Nǐ hē shénme?",
+            "japanese": "你喝什么？",
+            "romaji": "Nǐ hē shénme?"
+          },
+          {
+            "speaker": "B",
+            "english": "Hot coffee!",
+            "chinese": "热咖啡！",
+            "pinyin": "Rè kāfēi!",
+            "japanese": "热咖啡！",
+            "romaji": "Rè kāfēi!"
+          },
+          {
+            "speaker": "A",
+            "english": "Add milk?",
+            "chinese": "加奶吗？",
+            "pinyin": "Jiā nǎi ma?",
+            "japanese": "加奶吗？",
+            "romaji": "Jiā nǎi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little.",
+            "chinese": "一点点。",
+            "pinyin": "Yì diǎn diǎn.",
+            "japanese": "一点点。",
+            "romaji": "Yì diǎn diǎn."
+          }
+        ]
+      }
     }
   ]
 }
