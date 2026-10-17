@@ -3635,6 +3635,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T14:04:54.790878",
+      "dialogue": {
+        "topic": "Rio Beach & Coconut Water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this coconut water cold?",
+            "target_text": "Essa água de coco é gelada?",
+            "japanese": "Essa água de coco é gelada?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold!",
+            "target_text": "É sim, bem gelada!",
+            "japanese": "É sim, bem gelada!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want one on the beach.",
+            "target_text": "Quero uma na praia.",
+            "japanese": "Quero uma na praia.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect! Long live Rio!",
+            "target_text": "Perfeito! Viva o Rio!",
+            "japanese": "Perfeito! Viva o Rio!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
