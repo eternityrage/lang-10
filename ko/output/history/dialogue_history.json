@@ -3919,6 +3919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T00:58:06.457672",
+      "dialogue": {
+        "topic": "Lipstick shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this lipstick pretty?",
+            "korean": "이 립스틱 예뻐요?",
+            "romaja": "I lipseutik yeppeoyo?",
+            "japanese": "이 립스틱 예뻐요?",
+            "romaji": "I lipseutik yeppeoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very pretty!",
+            "korean": "네, 정말 예뻐요!",
+            "romaja": "Ne, jeongmal yeppeoyo!",
+            "japanese": "네, 정말 예뻐요!",
+            "romaji": "Ne, jeongmal yeppeoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then I’ll buy this.",
+            "korean": "그럼 이거 살게요.",
+            "romaja": "Geureom igeo salgeyo.",
+            "japanese": "그럼 이거 살게요.",
+            "romaji": "Geureom igeo salgeyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, it suits you.",
+            "korean": "좋아요, 잘 어울려요.",
+            "romaja": "Joayo, jal eoullyeoyo.",
+            "japanese": "좋아요, 잘 어울려요.",
+            "romaji": "Joayo, jal eoullyeoyo."
+          }
+        ]
+      }
     }
   ]
 }
