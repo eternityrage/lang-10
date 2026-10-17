@@ -3599,6 +3599,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T08:56:31.865718",
+      "dialogue": {
+        "topic": "Train Station & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the train here?",
+            "target_text": "Ciao, il treno è qui?",
+            "japanese": "Ciao, il treno è qui?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it leaves soon!",
+            "target_text": "Sì, parte tra poco!",
+            "japanese": "Sì, parte tra poco!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I have the ticket.",
+            "target_text": "Ho il biglietto.",
+            "japanese": "Ho il biglietto.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, let’s get on now!",
+            "target_text": "Perfetto, saliamo adesso!",
+            "japanese": "Perfetto, saliamo adesso!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
