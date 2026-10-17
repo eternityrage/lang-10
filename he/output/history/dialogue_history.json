@@ -3999,6 +3999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T19:07:33.632838",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you today?",
+            "target_text": "שלום, מה נשמע היום?",
+            "transliteration": "Shalom, ma nishma hayom?",
+            "japanese": "שלום, מה נשמע היום?",
+            "romaji": "Shalom, ma nishma hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks! All good.",
+            "target_text": "מעולה, תודה! הכל טוב.",
+            "transliteration": "Me'ule, toda! Hakol tov.",
+            "japanese": "מעולה, תודה! הכל טוב.",
+            "romaji": "Me'ule, toda! Hakol tov."
+          },
+          {
+            "speaker": "A",
+            "english": "Nice, is there time for coffee?",
+            "target_text": "יופי, יש זמן לקפה?",
+            "transliteration": "Yofi, yesh zman le-kafe?",
+            "japanese": "יופי, יש זמן לקפה?",
+            "romaji": "Yofi, yesh zman le-kafe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly. Let's go!",
+            "target_text": "כן, בכיף. בוא נלך!",
+            "transliteration": "Ken, bekef. Bo nelekh!",
+            "japanese": "כן, בכיף. בוא נלך!",
+            "romaji": "Ken, bekef. Bo nelekh!"
+          }
+        ]
+      }
     }
   ]
 }
