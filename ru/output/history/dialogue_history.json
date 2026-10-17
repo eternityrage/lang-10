@@ -3959,6 +3959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T08:56:40.109851",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are there warm buns?",
+            "russian": "Здравствуйте, есть тёплые булочки?",
+            "translit": "Zdravstvuyte, yest' tyoplyye bulochki?",
+            "japanese": "Здравствуйте, есть тёплые булочки?",
+            "romaji": "Zdravstvuyte, yest' tyoplyye bulochki?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, straight from the oven!",
+            "russian": "Да, прямо из печи!",
+            "translit": "Da, pryamo iz pechi!",
+            "japanese": "Да, прямо из печи!",
+            "romaji": "Da, pryamo iz pechi!"
+          },
+          {
+            "speaker": "A",
+            "english": "May I have two buns, please?",
+            "russian": "Можно две булочки, пожалуйста?",
+            "translit": "Mozhno dve bulochki, pozhaluysta?",
+            "japanese": "Можно две булочки, пожалуйста?",
+            "romaji": "Mozhno dve bulochki, pozhaluysta?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here are your buns!",
+            "russian": "Конечно, вот ваши булочки!",
+            "translit": "Konechno, vot vashi bulochki!",
+            "japanese": "Конечно, вот ваши булочки!",
+            "romaji": "Konechno, vot vashi bulochki!"
+          }
+        ]
+      }
     }
   ]
 }
