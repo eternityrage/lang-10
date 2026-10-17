@@ -3635,6 +3635,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T14:04:56.723747",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want a pizza?",
+            "target_text": "Ciao, vuoi una pizza?",
+            "japanese": "Ciao, vuoi una pizza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Sì, con piacere!",
+            "japanese": "Sì, con piacere!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Margherita or mushrooms?",
+            "target_text": "Margherita o funghi?",
+            "japanese": "Margherita o funghi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "A Margherita, please.",
+            "target_text": "Una margherita, per favore.",
+            "japanese": "Una margherita, per favore.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
