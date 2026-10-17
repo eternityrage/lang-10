@@ -3263,6 +3263,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T19:07:33.585919",
+      "dialogue": {
+        "topic": "Buying rice balls at the convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have rice balls?",
+            "japanese": "おにぎりは ありますか？",
+            "romaji": "Onigiri wa arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, over there.",
+            "japanese": "はい、あそこです。",
+            "romaji": "Hai, asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "This one, please.",
+            "japanese": "これを ください。",
+            "romaji": "Kore o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
