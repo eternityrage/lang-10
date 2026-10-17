@@ -3959,6 +3959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T08:56:49.500290",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is this seat free?",
+            "korean": "안녕하세요, 여기 자리 있어요?",
+            "romaja": "Annyeonghaseyo, yeogi jari isseoyo?",
+            "japanese": "안녕하세요, 여기 자리 있어요?",
+            "romaji": "Annyeonghaseyo, yeogi jari isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sit with me!",
+            "korean": "네, 같이 앉아요!",
+            "romaja": "Ne, gachi anjayo!",
+            "japanese": "네, 같이 앉아요!",
+            "romaji": "Ne, gachi anjayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we drink makgeolli?",
+            "korean": "우리 막걸리 마실래요?",
+            "romaja": "Uri makgeolli masillaeyo?",
+            "japanese": "우리 막걸리 마실래요?",
+            "romaji": "Uri makgeolli masillaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, tonight is the best!",
+            "korean": "좋아요, 오늘 밤 최고예요!",
+            "romaja": "Joayo, oneul bam choegoyeyo!",
+            "japanese": "좋아요, 오늘 밤 최고예요!",
+            "romaji": "Joayo, oneul bam choegoyeyo!"
+          }
+        ]
+      }
     }
   ]
 }
