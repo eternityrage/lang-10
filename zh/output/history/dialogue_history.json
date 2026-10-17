@@ -4119,6 +4119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T00:58:19.887282",
+      "dialogue": {
+        "topic": "Hotpot Dinner",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Eat hotpot?",
+            "chinese": "吃火锅吗？",
+            "pinyin": "Chī huǒguō ma?",
+            "japanese": "吃火锅吗？",
+            "romaji": "Chī huǒguō ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I'm hungry.",
+            "chinese": "好呀！我饿了。",
+            "pinyin": "Hǎo ya! Wǒ è le.",
+            "japanese": "好呀！我饿了。",
+            "romaji": "Hǎo ya! Wǒ è le."
+          },
+          {
+            "speaker": "A",
+            "english": "Want beef?",
+            "chinese": "要牛肉吗？",
+            "pinyin": "Yào niúròu ma?",
+            "japanese": "要牛肉吗？",
+            "romaji": "Yào niúròu ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Let's eat!",
+            "chinese": "要！开吃吧！",
+            "pinyin": "Yào! Kāi chī ba!",
+            "japanese": "要！开吃吧！",
+            "romaji": "Yào! Kāi chī ba!"
+          }
+        ]
+      }
     }
   ]
 }
