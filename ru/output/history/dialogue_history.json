@@ -4039,6 +4039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T19:07:35.977780",
+      "dialogue": {
+        "topic": "Cafe & Hot Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the tea hot?",
+            "russian": "Здравствуйте, чай горячий?",
+            "translit": "Zdravstvuyte, chai goryachiy?",
+            "japanese": "Здравствуйте, чай горячий?",
+            "romaji": "Zdravstvuyte, chai goryachiy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hot!",
+            "russian": "Да, очень горячий!",
+            "translit": "Da, ochen' goryachiy!",
+            "japanese": "Да, очень горячий!",
+            "romaji": "Da, ochen' goryachiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have lemon?",
+            "russian": "Можно с лимоном?",
+            "translit": "Mozhno s limonom?",
+            "japanese": "Можно с лимоном?",
+            "romaji": "Mozhno s limonom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, enjoy your tea!",
+            "russian": "Конечно, приятного чаепития!",
+            "translit": "Konechno, priyatnogo chaepitiya!",
+            "japanese": "Конечно, приятного чаепития!",
+            "romaji": "Konechno, priyatnogo chaepitiya!"
+          }
+        ]
+      }
     }
   ]
 }
