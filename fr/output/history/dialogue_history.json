@@ -3671,6 +3671,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T14:04:45.119152",
+      "dialogue": {
+        "topic": "Train station",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, does this train go to Lyon?",
+            "target_text": "Bonjour, ce train va à Lyon ?",
+            "japanese": "Bonjour, ce train va à Lyon ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it leaves soon!",
+            "target_text": "Oui, il part bientôt !",
+            "japanese": "Oui, il part bientôt !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, which platform?",
+            "target_text": "Super, quelle voie ?",
+            "japanese": "Super, quelle voie ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Platform two, have a good trip!",
+            "target_text": "Voie deux, bon voyage !",
+            "japanese": "Voie deux, bon voyage !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
