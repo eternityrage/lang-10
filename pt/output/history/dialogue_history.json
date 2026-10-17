@@ -3599,6 +3599,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T08:56:25.524997",
+      "dialogue": {
+        "topic": "Street greeting and hanging out",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What's up, bro?",
+            "target_text": "E aí, mano?",
+            "japanese": "E aí, mano?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All good, and you?",
+            "target_text": "Suave, e você?",
+            "japanese": "Suave, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we hang out?",
+            "target_text": "Bora dar um rolê?",
+            "japanese": "Bora dar um rolê?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go, right now!",
+            "target_text": "Bora, partiu agora!",
+            "japanese": "Bora, partiu agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
