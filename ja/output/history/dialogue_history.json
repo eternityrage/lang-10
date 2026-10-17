@@ -3231,6 +3231,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T14:04:50.148166",
+      "dialogue": {
+        "topic": "Sweet smell reaction",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, nice smell!",
+            "japanese": "マグさん、いい においです！",
+            "romaji": "Magu-san, ii nioi desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow, really?",
+            "japanese": "わあ、ほんとうですか？",
+            "romaji": "Waa, hontou desu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes! It is sweet!",
+            "japanese": "はい！あまいです！",
+            "romaji": "Hai! Amai desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "I am happy. Thanks!",
+            "japanese": "うれしいです。ありがとう！",
+            "romaji": "Ureshii desu. Arigatou!"
+          }
+        ]
+      }
     }
   ]
 }
