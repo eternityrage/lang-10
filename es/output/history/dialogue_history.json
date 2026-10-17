@@ -3599,6 +3599,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T19:07:17.210665",
+      "dialogue": {
+        "topic": "Metro to the airport",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, which line to the airport?",
+            "target_text": "Hola, ¿qué línea va al aeropuerto?",
+            "japanese": "Hola, ¿qué línea va al aeropuerto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Line eight, of course!",
+            "target_text": "¡La línea ocho, claro!",
+            "japanese": "¡La línea ocho, claro!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the platform far?",
+            "target_text": "¿Está lejos el andén?",
+            "japanese": "¿Está lejos el andén?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, it is very close.",
+            "target_text": "No, está muy cerca.",
+            "japanese": "No, está muy cerca.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
