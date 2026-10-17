@@ -3199,6 +3199,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T08:56:48.840515",
+      "dialogue": {
+        "topic": "Buying a Cute Bag",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this bag cute?",
+            "japanese": "この かばん、かわいいですか？",
+            "romaji": "Kono kaban, kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cute.",
+            "japanese": "はい、とても かわいいです。",
+            "romaji": "Hai, totemo kawaii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "japanese": "これは いくら ですか？",
+            "romaji": "Kore wa ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is 500 yen.",
+            "japanese": "これは ごひゃくえん です。",
+            "romaji": "Kore wa gohyaku-en desu."
+          }
+        ]
+      }
     }
   ]
 }
