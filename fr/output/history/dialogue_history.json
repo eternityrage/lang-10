@@ -3599,6 +3599,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T00:58:18.489336",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you like roses?",
+            "target_text": "Salut, tu aimes les roses ?",
+            "japanese": "Salut, tu aimes les roses ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love roses!",
+            "target_text": "Oui, j'adore les roses !",
+            "japanese": "Oui, j'adore les roses !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "This rose is for you.",
+            "target_text": "Cette rose est pour toi.",
+            "japanese": "Cette rose est pour toi.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you, that's very kind!",
+            "target_text": "Merci, c'est très gentil !",
+            "japanese": "Merci, c'est très gentil !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
