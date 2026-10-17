@@ -3999,6 +3999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T14:04:38.725267",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is it cold outside?",
+            "russian": "Привет, на улице холодно?",
+            "translit": "Privet, na ulitse kholodno?",
+            "japanese": "Привет, на улице холодно?",
+            "romaji": "Privet, na ulitse kholodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but very beautiful!",
+            "russian": "Да, но очень красиво!",
+            "translit": "Da, no ochen krasivo!",
+            "japanese": "Да, но очень красиво!",
+            "romaji": "Da, no ochen krasivo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk in the park?",
+            "russian": "Пойдём гулять в парк?",
+            "translit": "Poydyom gulyat v park?",
+            "japanese": "Пойдём гулять в парк?",
+            "romaji": "Poydyom gulyat v park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, don't forget a hat!",
+            "russian": "Конечно, шапку не забудь!",
+            "translit": "Konechno, shapku ne zabud!",
+            "japanese": "Конечно, шапку не забудь!",
+            "romaji": "Konechno, shapku ne zabud!"
+          }
+        ]
+      }
     }
   ]
 }
