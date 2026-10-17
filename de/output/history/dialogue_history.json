@@ -3563,6 +3563,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T00:58:27.655449",
+      "dialogue": {
+        "topic": "Polite request to wait",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, can you wait?",
+            "target_text": "Entschuldigung, können Sie warten?",
+            "japanese": "Entschuldigung, können Sie warten?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Only one minute, please.",
+            "target_text": "Nur eine Minute, bitte.",
+            "japanese": "Nur eine Minute, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All right, no problem.",
+            "target_text": "Alles klar, kein Problem.",
+            "japanese": "Alles klar, kein Problem.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
