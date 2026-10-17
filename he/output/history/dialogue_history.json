@@ -3919,6 +3919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T08:56:45.304995",
+      "dialogue": {
+        "topic": "Buying fresh pita at Shuk Carmel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have fresh pitas?",
+            "target_text": "שלום, יש פיתות טריות?",
+            "transliteration": "Shalom, yesh pitot triyot?",
+            "japanese": "שלום, יש פיתות טריות?",
+            "romaji": "Shalom, yesh pitot triyot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very warm pitas!",
+            "target_text": "כן, פיתות חמות מאוד!",
+            "transliteration": "Ken, pitot chamot me'od!",
+            "japanese": "כן, פיתות חמות מאוד!",
+            "romaji": "Ken, pitot chamot me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is a bag?",
+            "target_text": "כמה עולה שקית?",
+            "transliteration": "Kama ola sakit?",
+            "japanese": "כמה עולה שקית?",
+            "romaji": "Kama ola sakit?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, please.",
+            "target_text": "עשרה שקלים, בבקשה.",
+            "transliteration": "Asara shkalim, bevakasha.",
+            "japanese": "עשרה שקלים, בבקשה.",
+            "romaji": "Asara shkalim, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
