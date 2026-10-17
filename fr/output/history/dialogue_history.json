@@ -3635,6 +3635,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T08:56:39.231103",
+      "dialogue": {
+        "topic": "Train departure",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, where does this train go?",
+            "target_text": "Bonjour, ce train va où ?",
+            "japanese": "Bonjour, ce train va où ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It goes to Lyon!",
+            "target_text": "Il va à Lyon !",
+            "japanese": "Il va à Lyon !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "When is the departure?",
+            "target_text": "Le départ est quand ?",
+            "japanese": "Le départ est quand ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "In ten minutes.",
+            "target_text": "Dans dix minutes.",
+            "japanese": "Dans dix minutes.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
