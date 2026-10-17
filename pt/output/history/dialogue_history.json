@@ -3671,6 +3671,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T19:07:28.822491",
+      "dialogue": {
+        "topic": "Ordering Coxinha & Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have coxinha?",
+            "target_text": "Oi, tem coxinha?",
+            "japanese": "Oi, tem coxinha?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, nice and hot!",
+            "target_text": "Tem sim, bem quentinha!",
+            "japanese": "Tem sim, bem quentinha!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And a small coffee?",
+            "target_text": "E um café pequeno?",
+            "japanese": "E um café pequeno?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course! I’ll bring it now.",
+            "target_text": "Claro! Já vou trazer.",
+            "japanese": "Claro! Já vou trazer.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
