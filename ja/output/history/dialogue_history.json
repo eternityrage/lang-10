@@ -3167,6 +3167,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-17T00:58:21.196343",
+      "dialogue": {
+        "topic": "Shopping & Fashion - Shoes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, how much are these shoes?",
+            "japanese": "マグ、この くつ、いくらですか？",
+            "romaji": "Magu, kono kutsu, ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, 1,000 yen.",
+            "japanese": "はい、せんえん です。",
+            "romaji": "Hai, sen en desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, this please.",
+            "japanese": "じゃあ、これを ください。",
+            "romaji": "Jaa, kore o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
