@@ -3359,6 +3359,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T14:20:34.712195",
+      "dialogue": {
+        "topic": "A cute rainbow reaction",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, a rainbow!",
+            "japanese": "マグさん、にじです！",
+            "romaji": "Magu-san, niji desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow! So pretty!",
+            "japanese": "わあ！とても きれいです！",
+            "romaji": "Waa! Totemo kirei desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is a photo okay?",
+            "japanese": "しゃしん、いいですか？",
+            "romaji": "Shashin, ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, go ahead!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
