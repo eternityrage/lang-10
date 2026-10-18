@@ -4159,6 +4159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T19:20:38.690486",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what's up?",
+            "target_text": "היי, מה המצב?",
+            "transliteration": "Hey, ma hamatzav?",
+            "japanese": "היי, מה המצב?",
+            "romaji": "Hey, ma hamatzav?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks a lot!",
+            "target_text": "סבבה, תודה רבה!",
+            "transliteration": "Sababa, toda raba!",
+            "japanese": "סבבה, תודה רבה!",
+            "romaji": "Sababa, toda raba!"
+          },
+          {
+            "speaker": "A",
+            "english": "I'm great too.",
+            "target_text": "גם אצלי סבבה.",
+            "transliteration": "Gam etzli sababa.",
+            "japanese": "גם אצלי סבבה.",
+            "romaji": "Gam etzli sababa."
+          },
+          {
+            "speaker": "B",
+            "english": "Nice, see you tonight!",
+            "target_text": "יופי, נתראה בערב!",
+            "transliteration": "Yofi, nitra'eh ba'erev!",
+            "japanese": "יופי, נתראה בערב!",
+            "romaji": "Yofi, nitra'eh ba'erev!"
+          }
+        ]
+      }
     }
   ]
 }
