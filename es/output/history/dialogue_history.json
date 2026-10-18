@@ -3779,6 +3779,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T20:23:28.115653",
+      "dialogue": {
+        "topic": "De Madrid a Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we go to Barcelona today?",
+            "target_text": "¿Vamos a Barcelona hoy?",
+            "japanese": "¿Vamos a Barcelona hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, great idea!",
+            "target_text": "¡Sí, buena idea!",
+            "japanese": "¡Sí, buena idea!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "By fast train?",
+            "target_text": "¿En tren rápido?",
+            "japanese": "¿En tren rápido?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, from Madrid.",
+            "target_text": "Sí, desde Madrid.",
+            "japanese": "Sí, desde Madrid.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
