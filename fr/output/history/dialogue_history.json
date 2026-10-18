@@ -3887,6 +3887,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T20:23:44.463114",
+      "dialogue": {
+        "topic": "Buying an éclair at a Paris bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have éclairs?",
+            "target_text": "Bonjour, vous avez des éclairs ?",
+            "japanese": "Bonjour, vous avez des éclairs ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are delicious!",
+            "target_text": "Oui, ils sont délicieux !",
+            "japanese": "Oui, ils sont délicieux !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One éclair, please.",
+            "target_text": "Un éclair, s’il vous plaît.",
+            "japanese": "Un éclair, s’il vous plaît.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, enjoy!",
+            "target_text": "Voilà, bon appétit !",
+            "japanese": "Voilà, bon appétit !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
