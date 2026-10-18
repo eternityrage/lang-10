@@ -3815,6 +3815,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T19:20:33.794423",
+      "dialogue": {
+        "topic": "Berlin Späti at night",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the Späti open?",
+            "target_text": "Hallo, ist der Späti offen?",
+            "japanese": "Hallo, ist der Späti offen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, until midnight!",
+            "target_text": "Ja, bis Mitternacht!",
+            "japanese": "Ja, bis Mitternacht!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have water?",
+            "target_text": "Haben Sie Wasser?",
+            "japanese": "Haben Sie Wasser?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right at the front.",
+            "target_text": "Ja, gleich vorne.",
+            "japanese": "Ja, gleich vorne.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
