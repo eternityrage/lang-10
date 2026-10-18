@@ -4279,6 +4279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T09:15:20.032702",
+      "dialogue": {
+        "topic": "Shopping sale",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this on sale?",
+            "chinese": "这个打折吗？",
+            "pinyin": "Zhège dǎzhé ma?",
+            "japanese": "这个打折吗？",
+            "romaji": "Zhège dǎzhé ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cheap!",
+            "chinese": "打折，很便宜！",
+            "pinyin": "Dǎzhé, hěn piányi!",
+            "japanese": "打折，很便宜！",
+            "romaji": "Dǎzhé, hěn piányi!"
+          },
+          {
+            "speaker": "A",
+            "english": "I want two.",
+            "chinese": "我要两个。",
+            "pinyin": "Wǒ yào liǎng ge.",
+            "japanese": "我要两个。",
+            "romaji": "Wǒ yào liǎng ge."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here you go!",
+            "chinese": "好，给你！",
+            "pinyin": "Hǎo, gěi nǐ!",
+            "japanese": "好，给你！",
+            "romaji": "Hǎo, gěi nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
