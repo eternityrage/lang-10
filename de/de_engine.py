@@ -182,26 +182,34 @@ def wrap_text(text, font, max_w=920):
 
 def analyze_audio_speaking_timeline(audio_mp3_path):
     wav_path = audio_mp3_path.with_suffix('.wav')
-    subprocess.run(['ffmpeg', '-y', '-i', str(audio_mp3_path), '-ar', '16000', '-ac', '1', str(wav_path)], capture_output=True)
-    with wave.open(str(wav_path), 'rb') as wf:
-        n_frames = wf.getnframes()
-        rate = wf.getframerate()
-        audio = np.frombuffer(wf.readframes(n_frames), dtype=np.int16)
-    
-    samples_per_frame = int(rate / FPS)
-    total_frames = int(len(audio) / samples_per_frame)
-    
-    energies = []
-    for i in range(total_frames):
-        chunk = audio[i*samples_per_frame : (i+1)*samples_per_frame]
-        rms = np.sqrt(np.mean(chunk.astype(np.float32)**2)) if len(chunk) > 0 else 0
-        energies.append(rms)
+    if not audio_mp3_path.exists():
+        subprocess.run(['ffmpeg', '-y', '-f', 'lavfi', '-i', 'anullsrc=r=16000:cl=mono', '-t', '2.5', str(wav_path)], capture_output=True)
+    else:
+        subprocess.run(['ffmpeg', '-y', '-i', str(audio_mp3_path), '-ar', '16000', '-ac', '1', str(wav_path)], capture_output=True)
+    if not wav_path.exists():
+        subprocess.run(['ffmpeg', '-y', '-f', 'lavfi', '-i', 'anullsrc=r=16000:cl=mono', '-t', '2.5', str(wav_path)], capture_output=True)
+    try:
+        with wave.open(str(wav_path), 'rb') as wf:
+            n_frames = wf.getnframes()
+            rate = wf.getframerate()
+            audio = np.frombuffer(wf.readframes(n_frames), dtype=np.int16)
         
-    peak = max(energies) if energies else 1
-    # Responsive threshold: 8% of peak
-    threshold = peak * 0.08
-    active_flags = [bool(e > threshold) for e in energies]
-    return active_flags
+        samples_per_frame = int(rate / FPS)
+        total_frames = int(len(audio) / samples_per_frame)
+        
+        energies = []
+        for i in range(total_frames):
+            chunk = audio[i*samples_per_frame : (i+1)*samples_per_frame]
+            rms = np.sqrt(np.mean(chunk.astype(np.float32)**2)) if len(chunk) > 0 else 0
+            energies.append(rms)
+            
+        peak = max(energies) if energies else 1
+        # Responsive threshold: 8% of peak
+        threshold = peak * 0.08
+        active_flags = [bool(e > threshold) for e in energies]
+        return active_flags if active_flags else [True] * int(FPS * 2.5)
+    except Exception:
+        return [True] * int(FPS * 2.5)
 
 def render_frame(speaker_speaking, is_talking, mouth_flap, line_data, font_en, font_jp, font_ro):
     bg = Image.new('RGB', (WIDTH, HEIGHT), color=(39, 11, 234))
@@ -291,6 +299,15 @@ async def generate_single_reel():
 
                 await asyncio.sleep(1)
 
+        if not aud_path.exists() or aud_path.stat().st_size <= 200:
+            print(f'[de_engine] Generating fallback audio for segment {i}...')
+            subprocess.run([
+                'ffmpeg', '-y', '-f', 'lavfi',
+                '-i', 'anullsrc=r=24000:cl=mono',
+                '-t', '2.5',
+                str(aud_path)
+            ], capture_output=True)
+
         # Pad audio with 0.8s of silence at the end so learners have time to process and read
         padded_aud_path = AUDIO_DIR / f'{reel_id}_aud_{i}_pad.mp3'
         subprocess.run([
@@ -299,6 +316,14 @@ async def generate_single_reel():
             '-af', 'apad=pad_dur=0.8',
             str(padded_aud_path)
         ], capture_output=True)
+
+        if not padded_aud_path.exists() or padded_aud_path.stat().st_size <= 200:
+            subprocess.run([
+                'ffmpeg', '-y', '-f', 'lavfi',
+                '-i', 'anullsrc=r=24000:cl=mono',
+                '-t', '3.3',
+                str(padded_aud_path)
+            ], capture_output=True)
 
         active_flags = analyze_audio_speaking_timeline(padded_aud_path)
         total_frames = len(active_flags)
@@ -346,7 +371,7 @@ async def generate_single_reel():
             f.write('file \'' + p + '\'\n')
 
     final_vid = VIDEO_DIR / f'{reel_id}.mp4'
-    subprocess.run(['ffmpeg', '-y', '-f', 'concat', '-safe', '0', '-i', str(concat_txt), '-c', 'copy', str(final_vid)], capture_output=True)
+    subprocess.run(['ffmpeg', '-y', '-f', 'concat', '-safe', '0', '-i', str(concat_txt), '-c', 'copy', '-movflags', '+faststart', str(final_vid)], capture_output=True)
     
     for i in range(len(dialogue['lines'])):
         f_dir = OUTPUT_DIR / f'temp_frames_{reel_id}_{i}'

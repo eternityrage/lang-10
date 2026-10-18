@@ -291,6 +291,15 @@ def upload_reel_to_facebook(video_path, title, description, brand_name):
         print(f"[{brand_name}] ❌ Video file not found: {video_path}")
         return {'status': 'failed', 'error': 'Video file not found'}
 
+    # Ensure faststart container for Meta Graph API
+    faststart_path = video_path_obj.with_name(f"{video_path_obj.stem}_faststart.mp4")
+    try:
+        subprocess.run(['ffmpeg', '-y', '-i', str(video_path_obj), '-c', 'copy', '-movflags', '+faststart', str(faststart_path)], capture_output=True, timeout=60)
+        if faststart_path.exists() and faststart_path.stat().st_size > 0:
+            video_path_obj = faststart_path
+    except Exception:
+        pass
+
     file_size = video_path_obj.stat().st_size
     api_base = "https://graph.facebook.com/v21.0"
 
@@ -410,6 +419,9 @@ def upload_to_connected_instagram(video_path_obj, caption, page_id, access_token
         c_data = c_res.json()
         container_id = c_data.get('id')
         upload_uri = c_data.get('uri')
+        if not container_id:
+            print(f"[{brand_name}] IG container creation returned no ID")
+            return
 
         with open(video_path_obj, 'rb') as f:
             v_bytes = f.read()
@@ -420,10 +432,55 @@ def upload_to_connected_instagram(video_path_obj, caption, page_id, access_token
             'file_size': str(file_size),
             'Content-Type': 'video/mp4'
         }
-        requests.post(upload_uri, headers=up_headers, data=v_bytes, timeout=120)
 
-        # Wait for Meta transcoding
-        time.sleep(35)
+        # Multi-endpoint transfer fallback (Meta v26.0 rupload vs v21.0 fallback)
+        endpoints = []
+        if upload_uri:
+            endpoints.append(upload_uri)
+            if '/v26.0/' in upload_uri:
+                endpoints.append(upload_uri.replace('/v26.0/', '/v21.0/'))
+        default_v21 = f"https://rupload.facebook.com/ig-api-upload/v21.0/{container_id}"
+        if default_v21 not in endpoints:
+            endpoints.append(default_v21)
+
+        upload_success = False
+        for ep in endpoints:
+            print(f"[{brand_name}] Transferring video bytes ({file_size / (1024*1024):.2f} MB) to {ep}...")
+            try:
+                res_up = requests.post(ep, headers=up_headers, data=v_bytes, timeout=180)
+                if res_up.status_code == 200:
+                    upload_success = True
+                    print(f"[{brand_name}] ✅ Video bytes transferred successfully!")
+                    break
+                else:
+                    print(f"[{brand_name}] ⚠️ Upload to {ep} failed: HTTP {res_up.status_code} {res_up.text[:120]}")
+            except Exception as up_err:
+                print(f"[{brand_name}] ⚠️ Upload error on {ep}: {up_err}")
+
+        if not upload_success:
+            print(f"[{brand_name}] ❌ All Instagram upload endpoints failed.")
+            return
+
+        # Poll container readiness
+        status_url = f"{api_base}/{container_id}"
+        is_ready = False
+        for attempt in range(12):
+            time.sleep(10)
+            st_res = requests.get(status_url, params={'fields': 'status_code,status', 'access_token': access_token}, timeout=20)
+            if st_res.status_code == 200:
+                st_data = st_res.json()
+                status_code = st_data.get('status_code', '')
+                print(f"[{brand_name}] Container status: {status_code} ({st_data.get('status', '')})")
+                if status_code == 'FINISHED':
+                    is_ready = True
+                    break
+                elif status_code == 'ERROR':
+                    print(f"[{brand_name}] ❌ Meta processing error: {st_data}")
+                    return
+
+        if not is_ready:
+            print(f"[{brand_name}] Container not finished after polling, attempting publish anyway...")
+
         pub_res = requests.post(
             f"{api_base}/{ig_user_id}/media_publish",
             params={'creation_id': container_id, 'access_token': access_token},
@@ -432,5 +489,7 @@ def upload_to_connected_instagram(video_path_obj, caption, page_id, access_token
         if pub_res.status_code in (200, 201):
             ig_media_id = pub_res.json().get('id', container_id)
             print(f"[{brand_name}] ✅ INSTAGRAM REEL PUBLISHED! Media ID: {ig_media_id}")
+        else:
+            print(f"[{brand_name}] ⚠️ Instagram media_publish notice: {pub_res.text}")
     except Exception as ig_err:
         print(f"[{brand_name}] ⚠️ Instagram upload notice: {ig_err}")
