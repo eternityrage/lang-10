@@ -3779,6 +3779,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T14:20:33.093181",
+      "dialogue": {
+        "topic": "Uber para Pinheiros em São Paulo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you going to Pinheiros?",
+            "target_text": "Oi, você vai para Pinheiros?",
+            "japanese": "Oi, você vai para Pinheiros?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go now!",
+            "target_text": "Sim, vamos agora!",
+            "japanese": "Sim, vamos agora!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How long until there?",
+            "target_text": "Quanto tempo até lá?",
+            "japanese": "Quanto tempo até lá?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only fifteen minutes.",
+            "target_text": "Só quinze minutos.",
+            "japanese": "Só quinze minutos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
