@@ -4199,6 +4199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T20:23:35.826992",
+      "dialogue": {
+        "topic": "Bag shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How is this bag?",
+            "korean": "이 가방 어때요?",
+            "romaja": "I gabang eottaeyo?",
+            "japanese": "이 가방 어때요?",
+            "romaji": "I gabang eottaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow, it is pretty!",
+            "korean": "와, 정말 예뻐요!",
+            "romaja": "Wa, jeongmal yeppeoyo!",
+            "japanese": "와, 정말 예뻐요!",
+            "romaji": "Wa, jeongmal yeppeoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is the price okay?",
+            "korean": "가격도 좀 괜찮아요?",
+            "romaja": "Gagyeokdo jom gwaenchanayo?",
+            "japanese": "가격도 좀 괜찮아요?",
+            "romaji": "Gagyeokdo jom gwaenchanayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I will buy this!",
+            "korean": "네, 이거 살래요!",
+            "romaja": "Ne, igeo sallaeyo!",
+            "japanese": "네, 이거 살래요!",
+            "romaji": "Ne, igeo sallaeyo!"
+          }
+        ]
+      }
     }
   ]
 }
