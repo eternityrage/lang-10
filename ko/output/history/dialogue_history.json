@@ -4159,6 +4159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T19:20:23.535501",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Pocha now, okay?",
+            "korean": "지금 포차 갈래요?",
+            "romaja": "Jigeum pocha gallaeyo?",
+            "japanese": "지금 포차 갈래요?",
+            "romaji": "Jigeum pocha gallaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m hungry!",
+            "korean": "네, 배고파요!",
+            "romaja": "Ne, baegopayo!",
+            "japanese": "네, 배고파요!",
+            "romaji": "Ne, baegopayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Ramen and soda?",
+            "korean": "라면이랑 사이다요?",
+            "romaja": "Ramyeon-irang saidayo?",
+            "japanese": "라면이랑 사이다요?",
+            "romaji": "Ramyeon-irang saidayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let’s eat!",
+            "korean": "좋아요, 먹어요!",
+            "romaja": "Joayo, meogeoyo!",
+            "japanese": "좋아요, 먹어요!",
+            "romaji": "Joayo, meogeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
