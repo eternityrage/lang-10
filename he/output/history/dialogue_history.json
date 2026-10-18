@@ -4039,6 +4039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T00:34:01.277593",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, all good?",
+            "target_text": "אהלן, הכל טוב?",
+            "transliteration": "Ahlan, hakol tov?",
+            "japanese": "אהלן, הכל טוב?",
+            "romaji": "Ahlan, hakol tov?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, really great!",
+            "target_text": "כן, ממש מעולה!",
+            "transliteration": "Ken, mamash me'ule!",
+            "japanese": "כן, ממש מעולה!",
+            "romaji": "Ken, mamash me'ule!"
+          },
+          {
+            "speaker": "A",
+            "english": "Cool, coffee later?",
+            "target_text": "סבבה, קפה אחר כך?",
+            "transliteration": "Sababa, kafe achar kach?",
+            "japanese": "סבבה, קפה אחר כך?",
+            "romaji": "Sababa, kafe achar kach?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, see you soon!",
+            "target_text": "בטח, נתראה בקרוב!",
+            "transliteration": "Betach, nitra'e bekarov!",
+            "japanese": "בטח, נתראה בקרוב!",
+            "romaji": "Betach, nitra'e bekarov!"
+          }
+        ]
+      }
     }
   ]
 }
