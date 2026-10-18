@@ -3815,6 +3815,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T14:20:15.633052",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have bags?",
+            "target_text": "Bonjour, vous avez des sacs ?",
+            "japanese": "Bonjour, vous avez des sacs ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I see this one?",
+            "target_text": "Je peux voir celui-ci ?",
+            "japanese": "Je peux voir celui-ci ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's pretty.",
+            "target_text": "Oui, il est joli.",
+            "japanese": "Oui, il est joli.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
