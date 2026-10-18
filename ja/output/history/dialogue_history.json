@@ -3391,6 +3391,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T19:20:58.376535",
+      "dialogue": {
+        "topic": "sweet hand-holding walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, shall we walk together?",
+            "japanese": "マグさん、いっしょに さんぽ しませんか？",
+            "romaji": "Magu-san, issho ni sanpo shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "japanese": "はい、いきましょう！",
+            "romaji": "Hai, ikimashou!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I hold your hand?",
+            "japanese": "てを つないで いいですか？",
+            "romaji": "Te o tsunaide ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes. I'm very happy.",
+            "japanese": "はい。とても うれしいです。",
+            "romaji": "Hai. Totemo ureshii desu."
+          }
+        ]
+      }
     }
   ]
 }
