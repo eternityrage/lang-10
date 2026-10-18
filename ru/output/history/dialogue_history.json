@@ -4239,6 +4239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T20:23:37.802670",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is it cold today?",
+            "russian": "Привет, холодно сегодня?",
+            "translit": "Privet, holodno segodnya?",
+            "japanese": "Привет, холодно сегодня?",
+            "romaji": "Privet, holodno segodnya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but very beautiful!",
+            "russian": "Да, но очень красиво!",
+            "translit": "Da, no ochen krasivo!",
+            "japanese": "Да, но очень красиво!",
+            "romaji": "Da, no ochen krasivo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the park?",
+            "russian": "Пойдём в парк?",
+            "translit": "Poydyom v park?",
+            "japanese": "Пойдём в парк?",
+            "romaji": "Poydyom v park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s walk together!",
+            "russian": "Да, гуляем вместе!",
+            "translit": "Da, gulyaem vmeste!",
+            "japanese": "Да, гуляем вместе!",
+            "romaji": "Da, gulyaem vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
