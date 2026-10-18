@@ -3707,6 +3707,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T14:20:30.143548",
+      "dialogue": {
+        "topic": "Madrid and Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Madrid or Barcelona?",
+            "target_text": "¿Madrid o Barcelona?",
+            "japanese": "¿Madrid o Barcelona?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I like both.",
+            "target_text": "Me gustan las dos.",
+            "japanese": "Me gustan las dos.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Madrid today?",
+            "target_text": "¿Madrid hoy?",
+            "japanese": "¿Madrid hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Barcelona tomorrow.",
+            "target_text": "Sí, Barcelona mañana.",
+            "japanese": "Sí, Barcelona mañana.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
