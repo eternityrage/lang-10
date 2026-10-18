@@ -4079,6 +4079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T09:14:43.418219",
+      "dialogue": {
+        "topic": "Tteokbokki",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want tteokbokki together?",
+            "korean": "떡볶이 같이 먹을래요?",
+            "romaja": "Tteokbokki gachi meogeullaeyo?",
+            "japanese": "떡볶이 같이 먹을래요?",
+            "romaji": "Tteokbokki gachi meogeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is this very spicy?",
+            "korean": "이거 많이 매운가요?",
+            "romaja": "Igeo mani maeungayo?",
+            "japanese": "이거 많이 매운가요?",
+            "romaji": "Igeo mani maeungayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little spicy, really tasty!",
+            "korean": "조금 매워요, 진짜 맛있어요!",
+            "romaja": "Jogeum maewoyo, jinjja masisseoyo!",
+            "japanese": "조금 매워요, 진짜 맛있어요!",
+            "romaji": "Jogeum maewoyo, jinjja masisseoyo!"
+          }
+        ]
+      }
     }
   ]
 }
