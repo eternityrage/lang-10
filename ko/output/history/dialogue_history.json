@@ -4119,6 +4119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T14:20:17.063537",
+      "dialogue": {
+        "topic": "Did you miss me?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Did you miss me?",
+            "korean": "나 보고 싶었어?",
+            "romaja": "Na bogo sipeosseo?",
+            "japanese": "나 보고 싶었어?",
+            "romaji": "Na bogo sipeosseo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I missed you a lot!",
+            "korean": "응, 많이 보고 싶었어!",
+            "romaja": "Eung, mani bogo sipeosseo!",
+            "japanese": "응, 많이 보고 싶었어!",
+            "romaji": "Eung, mani bogo sipeosseo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? Me too.",
+            "korean": "진짜? 나도 그래.",
+            "romaja": "Jinjja? Nado geurae.",
+            "japanese": "진짜? 나도 그래.",
+            "romaji": "Jinjja? Nado geurae."
+          },
+          {
+            "speaker": "B",
+            "english": "Then let's hold hands.",
+            "korean": "그럼 우리 손잡자.",
+            "romaja": "Geureom uri sonjapja.",
+            "japanese": "그럼 우리 손잡자.",
+            "romaji": "Geureom uri sonjapja."
+          }
+        ]
+      }
     }
   ]
 }
