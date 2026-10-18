@@ -4159,6 +4159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T14:20:27.420042",
+      "dialogue": {
+        "topic": "Buying a metro ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where can I buy a ticket?",
+            "russian": "Где купить билет?",
+            "translit": "Gde kupit' bilet?",
+            "japanese": "Где купить билет?",
+            "romaji": "Gde kupit' bilet?"
+          },
+          {
+            "speaker": "B",
+            "english": "Here, the cashier is there!",
+            "russian": "Вот касса, прямо там!",
+            "translit": "Vot kassa, pryamo tam!",
+            "japanese": "Вот касса, прямо там!",
+            "romaji": "Vot kassa, pryamo tam!"
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, is it close?",
+            "russian": "Спасибо, это близко?",
+            "translit": "Spasibo, eto blizko?",
+            "japanese": "Спасибо, это близко?",
+            "romaji": "Spasibo, eto blizko?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, two minutes on foot.",
+            "russian": "Да, две минуты пешком.",
+            "translit": "Da, dve minuty peshkom.",
+            "japanese": "Да, две минуты пешком.",
+            "romaji": "Da, dve minuty peshkom."
+          }
+        ]
+      }
     }
   ]
 }
