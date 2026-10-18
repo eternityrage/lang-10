@@ -3707,6 +3707,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T00:33:42.858131",
+      "dialogue": {
+        "topic": "Quick street greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, my friend!",
+            "target_text": "Fala, meu amigo!",
+            "japanese": "Fala, meu amigo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Hi! What joy!",
+            "target_text": "Oi! Que alegria!",
+            "japanese": "Oi! Que alegria!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I missed you!",
+            "target_text": "Saudade de você!",
+            "japanese": "Saudade de você!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s talk now!",
+            "target_text": "Bora conversar agora!",
+            "japanese": "Bora conversar agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
