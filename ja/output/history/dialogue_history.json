@@ -3327,6 +3327,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T09:14:45.994407",
+      "dialogue": {
+        "topic": "Buying Onigiri at the Convenience Store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are there rice balls?",
+            "japanese": "マグさん、おにぎり ありますか？",
+            "romaji": "Magu-san, onigiri arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are here.",
+            "japanese": "はい、ここに あります。",
+            "romaji": "Hai, koko ni arimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "One rice ball, please.",
+            "japanese": "おにぎりを ひとつ ください。",
+            "romaji": "Onigiri o hitotsu kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's 100 yen.",
+            "japanese": "はい、ひゃくえん です。",
+            "romaji": "Hai, hyaku-en desu."
+          }
+        ]
+      }
     }
   ]
 }
