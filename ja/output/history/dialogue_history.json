@@ -3295,6 +3295,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T00:34:09.187004",
+      "dialogue": {
+        "topic": "A sweet park date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, shall we date?",
+            "japanese": "マグさん、デートしませんか？",
+            "romaji": "Magu-san, deeto shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds good!",
+            "japanese": "はい、いいですよ！",
+            "romaji": "Hai, ii desu yo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Let's go to the park.",
+            "japanese": "こうえんへ いきましょう。",
+            "romaji": "Kouen e ikimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's hold hands.",
+            "japanese": "はい、てを つなぎましょう。",
+            "romaji": "Hai, te o tsunagimashou."
+          }
+        ]
+      }
     }
   ]
 }
