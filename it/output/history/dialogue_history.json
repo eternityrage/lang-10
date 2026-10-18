@@ -3815,6 +3815,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T20:23:42.404171",
+      "dialogue": {
+        "topic": "Espresso Bar & Cornetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have cornetti?",
+            "target_text": "Salve, avete cornetti?",
+            "japanese": "Salve, avete cornetti?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are warm!",
+            "target_text": "Sì, sono caldi!",
+            "japanese": "Sì, sono caldi!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take one.",
+            "target_text": "Ne prendo uno.",
+            "japanese": "Ne prendo uno.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, enjoy!",
+            "target_text": "Ecco, buon appetito!",
+            "japanese": "Ecco, buon appetito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
