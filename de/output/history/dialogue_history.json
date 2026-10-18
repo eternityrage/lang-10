@@ -3707,6 +3707,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T00:33:50.449133",
+      "dialogue": {
+        "topic": "Free seat in a Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this seat free?",
+            "target_text": "Hallo, ist der Platz frei?",
+            "japanese": "Hallo, ist der Platz frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please, sit down!",
+            "target_text": "Ja, bitte, setz dich!",
+            "japanese": "Ja, bitte, setz dich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, what are you drinking?",
+            "target_text": "Danke, was trinkst du?",
+            "japanese": "Danke, was trinkst du?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’ll have apple spritzer.",
+            "target_text": "Ich nehme Apfelschorle.",
+            "japanese": "Ich nehme Apfelschorle.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
