@@ -4199,6 +4199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T19:20:15.044836",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning! Any buns?",
+            "russian": "Доброе утро! Есть булочки?",
+            "translit": "Dobroye utro! Yest' bulochki?",
+            "japanese": "Доброе утро! Есть булочки?",
+            "romaji": "Dobroye utro! Yest' bulochki?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, warm and soft!",
+            "russian": "Да, тёплые и мягкие!",
+            "translit": "Da, tyoplyye i myagkiye!",
+            "japanese": "Да, тёплые и мягкие!",
+            "romaji": "Da, tyoplyye i myagkiye!"
+          },
+          {
+            "speaker": "A",
+            "english": "Two, please.",
+            "russian": "Дайте две, пожалуйста.",
+            "translit": "Dayte dve, pozhaluysta.",
+            "japanese": "Дайте две, пожалуйста.",
+            "romaji": "Dayte dve, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course! Enjoy!",
+            "russian": "Конечно! Приятного аппетита!",
+            "translit": "Konechno! Priyatnogo appetita!",
+            "japanese": "Конечно! Приятного аппетита!",
+            "romaji": "Konechno! Priyatnogo appetita!"
+          }
+        ]
+      }
     }
   ]
 }
