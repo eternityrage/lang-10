@@ -3423,6 +3423,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T20:23:44.094382",
+      "dialogue": {
+        "topic": "Anime courage quote",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, I'm scared.",
+            "japanese": "マグさん、こわいです。",
+            "romaji": "Magu-san, kowai desu."
+          },
+          {
+            "speaker": "B",
+            "english": "It's okay. I'm here.",
+            "japanese": "だいじょうぶ。ぼくが います。",
+            "romaji": "Daijoubu. Boku ga imasu."
+          },
+          {
+            "speaker": "A",
+            "english": "Really? Thank you!",
+            "japanese": "ほんとうですか？ありがとう！",
+            "romaji": "Hontou desu ka? Arigatou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go together!",
+            "japanese": "いっしょに 行きましょう！",
+            "romaji": "Issho ni ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
