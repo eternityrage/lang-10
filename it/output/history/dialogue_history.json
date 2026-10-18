@@ -3743,6 +3743,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T09:14:47.026266",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, a small cone?",
+            "target_text": "Buongiorno, un cono piccolo?",
+            "japanese": "Buongiorno, un cono piccolo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, which flavor?",
+            "target_text": "Certo, quale gusto?",
+            "japanese": "Certo, quale gusto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Strawberry, please.",
+            "target_text": "Fragola, per favore.",
+            "japanese": "Fragola, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, three euros.",
+            "target_text": "Ecco, sono tre euro.",
+            "japanese": "Ecco, sono tre euro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
