@@ -4359,6 +4359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T19:20:39.323068",
+      "dialogue": {
+        "topic": "Morning Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Morning, a cup?",
+            "chinese": "早安，喝一杯？",
+            "pinyin": "Zǎo ān, hē yì bēi?",
+            "japanese": "早安，喝一杯？",
+            "romaji": "Zǎo ān, hē yì bēi?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I want one!",
+            "chinese": "好啊，想喝！",
+            "pinyin": "Hǎo a, xiǎng hē!",
+            "japanese": "好啊，想喝！",
+            "romaji": "Hǎo a, xiǎng hē!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want milk?",
+            "chinese": "要牛奶吗？",
+            "pinyin": "Yào niúnǎi ma?",
+            "japanese": "要牛奶吗？",
+            "romaji": "Yào niúnǎi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thanks!",
+            "chinese": "要，谢谢！",
+            "pinyin": "Yào, xièxie!",
+            "japanese": "要，谢谢！",
+            "romaji": "Yào, xièxie!"
+          }
+        ]
+      }
     }
   ]
 }
