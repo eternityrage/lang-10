@@ -3779,6 +3779,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-18T09:14:40.321552",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have scarves?",
+            "target_text": "Bonjour, vous avez des foulards ?",
+            "japanese": "Bonjour, vous avez des foulards ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are here!",
+            "target_text": "Oui, ils sont ici !",
+            "japanese": "Oui, ils sont ici !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take the blue one.",
+            "target_text": "Je prends le bleu.",
+            "japanese": "Je prends le bleu.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, have a nice day!",
+            "target_text": "Parfait, bonne journée !",
+            "japanese": "Parfait, bonne journée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
