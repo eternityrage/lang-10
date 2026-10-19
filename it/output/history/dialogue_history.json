@@ -3923,6 +3923,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T17:27:41.702018",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, do you have pizza?",
+            "target_text": "Buonasera, avete pizza?",
+            "japanese": "Buonasera, avete pizza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, hot pizza!",
+            "target_text": "Sì, pizza calda!",
+            "japanese": "Sì, pizza calda!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One pizza, please.",
+            "target_text": "Una pizza, per favore.",
+            "japanese": "Una pizza, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, coming right away!",
+            "target_text": "Certo, arriva subito!",
+            "japanese": "Certo, arriva subito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
