@@ -4239,6 +4239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T01:10:38.354577",
+      "dialogue": {
+        "topic": "Buying a T-money card at a convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have T-money cards?",
+            "korean": "티머니 카드 있어요?",
+            "romaja": "Timeoni kadeu isseoyo?",
+            "japanese": "티머니 카드 있어요?",
+            "romaji": "Timeoni kadeu isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we have them!",
+            "korean": "네, 여기 있어요!",
+            "romaja": "Ne, yeogi isseoyo!",
+            "japanese": "네, 여기 있어요!",
+            "romaji": "Ne, yeogi isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is this card?",
+            "korean": "이 카드 얼마예요?",
+            "romaja": "I kadeu eolmayeyo?",
+            "japanese": "이 카드 얼마예요?",
+            "romaji": "I kadeu eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "This card is 3,000 won!",
+            "korean": "이 카드는 삼천 원이에요!",
+            "romaja": "I kadeuneun samcheon wonieyo!",
+            "japanese": "이 카드는 삼천 원이에요!",
+            "romaji": "I kadeuneun samcheon wonieyo!"
+          }
+        ]
+      }
     }
   ]
 }
