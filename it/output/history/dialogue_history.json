@@ -3887,6 +3887,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T10:42:49.655650",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you like the dress?",
+            "target_text": "Ciao, ti piace il vestito?",
+            "japanese": "Ciao, ti piace il vestito?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thanks, you are kind!",
+            "target_text": "Sì, grazie, sei gentile!",
+            "japanese": "Sì, grazie, sei gentile!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "The color is beautiful.",
+            "target_text": "Il colore è bellissimo.",
+            "japanese": "Il colore è bellissimo.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How sweet, thanks a lot!",
+            "target_text": "Che dolce, grazie mille!",
+            "japanese": "Che dolce, grazie mille!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
