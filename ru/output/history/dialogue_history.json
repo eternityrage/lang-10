@@ -4399,6 +4399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T21:26:59.653694",
+      "dialogue": {
+        "topic": "Cute Compliment: Kind Eyes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you have kind eyes!",
+            "russian": "Привет, у тебя добрые глаза!",
+            "translit": "Privet, u tebya dobryye glaza!",
+            "japanese": "Привет, у тебя добрые глаза!",
+            "romaji": "Privet, u tebya dobryye glaza!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are very sweet!",
+            "russian": "Спасибо, ты очень милый!",
+            "translit": "Spasibo, ty ochen' milyy!",
+            "japanese": "Спасибо, ты очень милый!",
+            "romaji": "Spasibo, ty ochen' milyy!"
+          },
+          {
+            "speaker": "A",
+            "english": "And your voice is gentle.",
+            "russian": "И твой голос нежный.",
+            "translit": "I tvoy golos nezhnyy.",
+            "japanese": "И твой голос нежный.",
+            "romaji": "I tvoy golos nezhnyy."
+          },
+          {
+            "speaker": "B",
+            "english": "Oh, I am happy now!",
+            "russian": "Ой, я счастлива сейчас!",
+            "translit": "Oy, ya schastliva seychas!",
+            "japanese": "Ой, я счастлива сейчас!",
+            "romaji": "Oy, ya schastliva seychas!"
+          }
+        ]
+      }
     }
   ]
 }
