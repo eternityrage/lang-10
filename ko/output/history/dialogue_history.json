@@ -4359,6 +4359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T21:26:39.155129",
+      "dialogue": {
+        "topic": "Shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we shop in Myeongdong?",
+            "korean": "명동 쇼핑 갈까요?",
+            "romaja": "Myeongdong syoping galkkayo?",
+            "japanese": "명동 쇼핑 갈까요?",
+            "romaji": "Myeongdong syoping galkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds great!",
+            "korean": "네, 너무 좋아요!",
+            "romaja": "Ne, neomu joayo!",
+            "japanese": "네, 너무 좋아요!",
+            "romaji": "Ne, neomu joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is that dress pretty?",
+            "korean": "저 원피스 예뻐요?",
+            "romaja": "Jeo wonpiseu yeppeoyo?",
+            "japanese": "저 원피스 예뻐요?",
+            "romaji": "Jeo wonpiseu yeppeoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, buy it!",
+            "korean": "네, 그거 사요!",
+            "romaja": "Ne, geugeo sayo!",
+            "japanese": "네, 그거 사요!",
+            "romaji": "Ne, geugeo sayo!"
+          }
+        ]
+      }
     }
   ]
 }
