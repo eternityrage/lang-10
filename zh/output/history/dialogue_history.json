@@ -4479,6 +4479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T10:42:51.570607",
+      "dialogue": {
+        "topic": "Taxi is here",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the car here?",
+            "chinese": "车来了吗？",
+            "pinyin": "Chē lái le ma?",
+            "japanese": "车来了吗？",
+            "romaji": "Chē lái le ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's here, great!",
+            "chinese": "来了，太好！",
+            "pinyin": "Lái le, tài hǎo!",
+            "japanese": "来了，太好！",
+            "romaji": "Lái le, tài hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Get in, please.",
+            "chinese": "快上车吧。",
+            "pinyin": "Kuài shàng chē ba.",
+            "japanese": "快上车吧。",
+            "romaji": "Kuài shàng chē ba."
+          },
+          {
+            "speaker": "B",
+            "english": "OK, let's go!",
+            "chinese": "好，走吧！",
+            "pinyin": "Hǎo, zǒu ba!",
+            "japanese": "好，走吧！",
+            "romaji": "Hǎo, zǒu ba!"
+          }
+        ]
+      }
     }
   ]
 }
