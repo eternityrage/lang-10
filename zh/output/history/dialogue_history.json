@@ -4559,6 +4559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T21:26:43.387006",
+      "dialogue": {
+        "topic": "Night Market Street Food",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this tasty?",
+            "chinese": "这个好吃吗？",
+            "pinyin": "Zhège hǎochī ma?",
+            "japanese": "这个好吃吗？",
+            "romaji": "Zhège hǎochī ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Tasty, very fragrant!",
+            "chinese": "好吃，很香！",
+            "pinyin": "Hǎochī, hěn xiāng!",
+            "japanese": "好吃，很香！",
+            "romaji": "Hǎochī, hěn xiāng!"
+          },
+          {
+            "speaker": "A",
+            "english": "I want one.",
+            "chinese": "我要一个。",
+            "pinyin": "Wǒ yào yí gè.",
+            "japanese": "我要一个。",
+            "romaji": "Wǒ yào yí gè."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here you go!",
+            "chinese": "好，给你！",
+            "pinyin": "Hǎo, gěi nǐ!",
+            "japanese": "好，给你！",
+            "romaji": "Hǎo, gěi nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
