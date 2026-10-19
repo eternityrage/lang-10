@@ -3487,6 +3487,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T10:42:45.460559",
+      "dialogue": {
+        "topic": "Sugar in Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the coffee sweet?",
+            "japanese": "コーヒー、あまいですか？",
+            "romaji": "Koohii, amai desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, it is bitter.",
+            "japanese": "いいえ、にがいです。",
+            "romaji": "Iie, nigai desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Do you want sugar?",
+            "japanese": "さとう、いりますか？",
+            "romaji": "Satou, irimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please!",
+            "japanese": "はい、お願いします！",
+            "romaji": "Hai, onegai shimasu!"
+          }
+        ]
+      }
     }
   ]
 }
