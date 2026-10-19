@@ -4279,6 +4279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T10:43:04.853822",
+      "dialogue": {
+        "topic": "Sharing a jacket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is it cold today?",
+            "korean": "오늘 추워요?",
+            "romaja": "Oneul chuwoyo?",
+            "japanese": "오늘 추워요?",
+            "romaji": "Oneul chuwoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little cold!",
+            "korean": "네, 조금 추워요!",
+            "romaja": "Ne, jogeum chuwoyo!",
+            "japanese": "네, 조금 추워요!",
+            "romaji": "Ne, jogeum chuwoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Wear this jacket.",
+            "korean": "이 재킷 입어요.",
+            "romaja": "I jaekit ibeoyo.",
+            "japanese": "이 재킷 입어요.",
+            "romaji": "I jaekit ibeoyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! It’s warm.",
+            "korean": "고마워요! 따뜻해요.",
+            "romaja": "Gomawoyo! Ttatteuthae-yo.",
+            "japanese": "고마워요! 따뜻해요.",
+            "romaji": "Gomawoyo! Ttatteuthae-yo."
+          }
+        ]
+      }
     }
   ]
 }
