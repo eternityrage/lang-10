@@ -3995,6 +3995,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T21:26:45.988963",
+      "dialogue": {
+        "topic": "Ice cream today",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, ice cream today?",
+            "target_text": "Oi, sorvete hoje?",
+            "japanese": "Oi, sorvete hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, how delicious!",
+            "target_text": "Sim, que delícia!",
+            "japanese": "Sim, que delícia!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Which flavor do you want?",
+            "target_text": "Qual sabor você quer?",
+            "japanese": "Qual sabor você quer?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I want chocolate, of course!",
+            "target_text": "Quero chocolate, claro!",
+            "japanese": "Quero chocolate, claro!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
