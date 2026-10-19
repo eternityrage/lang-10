@@ -4319,6 +4319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T17:27:32.253659",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want pocha tonight?",
+            "korean": "밤에 포차 갈래?",
+            "romaja": "Bame pocha gallae?",
+            "japanese": "밤에 포차 갈래?",
+            "romaji": "Bame pocha gallae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great! I'm hungry.",
+            "korean": "좋아! 나 배고파.",
+            "romaja": "Joa! Na baegopa.",
+            "japanese": "좋아! 나 배고파.",
+            "romaji": "Joa! Na baegopa."
+          },
+          {
+            "speaker": "A",
+            "english": "What will you eat?",
+            "korean": "뭐 먹을래?",
+            "romaja": "Mwo meogeullae?",
+            "japanese": "뭐 먹을래?",
+            "romaji": "Mwo meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Let's eat fish cake!",
+            "korean": "어묵 먹자!",
+            "romaja": "Eomuk meokja!",
+            "japanese": "어묵 먹자!",
+            "romaji": "Eomuk meokja!"
+          }
+        ]
+      }
     }
   ]
 }
