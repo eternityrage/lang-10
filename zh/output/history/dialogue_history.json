@@ -4439,6 +4439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T01:10:43.476638",
+      "dialogue": {
+        "topic": "Bargaining & Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "A little less?",
+            "chinese": "少一点？",
+            "pinyin": "Shǎo yì diǎn?",
+            "japanese": "少一点？",
+            "romaji": "Shǎo yì diǎn?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure!",
+            "chinese": "可以呀！",
+            "pinyin": "Kě yǐ ya!",
+            "japanese": "可以呀！",
+            "romaji": "Kě yǐ ya!"
+          },
+          {
+            "speaker": "A",
+            "english": "I'll buy this.",
+            "chinese": "我买这个。",
+            "pinyin": "Wǒ mǎi zhè ge.",
+            "japanese": "我买这个。",
+            "romaji": "Wǒ mǎi zhè ge."
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you!",
+            "chinese": "谢谢你！",
+            "pinyin": "Xiè xie nǐ!",
+            "japanese": "谢谢你！",
+            "romaji": "Xiè xie nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
