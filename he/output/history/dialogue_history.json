@@ -4279,6 +4279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T10:43:00.259399",
+      "dialogue": {
+        "topic": "Tel Aviv Street Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, is there iced coffee?",
+            "target_text": "סליחה, יש קפה קר?",
+            "transliteration": "Slicha, yesh kafe kar?",
+            "japanese": "סליחה, יש קפה קר?",
+            "romaji": "Slicha, yesh kafe kar?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, tasty iced coffee!",
+            "target_text": "כן, קפה קר טעים!",
+            "transliteration": "Ken, kafe kar ta'im!",
+            "japanese": "כן, קפה קר טעים!",
+            "romaji": "Ken, kafe kar ta'im!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Twelve shekels, please.",
+            "target_text": "שנים עשר שקלים, בבקשה.",
+            "transliteration": "Shneym asar shkalim, bevakasha.",
+            "japanese": "שנים עשר שקלים, בבקשה.",
+            "romaji": "Shneym asar shkalim, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
