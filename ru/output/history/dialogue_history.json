@@ -4319,6 +4319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T10:43:01.993052",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Is it cold outside?",
+            "russian": "Привет! На улице холодно?",
+            "translit": "Privet! Na ulitse kholodno?",
+            "japanese": "Привет! На улице холодно?",
+            "romaji": "Privet! Na ulitse kholodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but the sun is bright!",
+            "russian": "Да, но солнце яркое!",
+            "translit": "Da, no solntse yarkoye!",
+            "japanese": "Да, но солнце яркое!",
+            "romaji": "Da, no solntse yarkoye!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk in the park?",
+            "russian": "Пойдём гулять в парк?",
+            "translit": "Poydyom gulyat' v park?",
+            "japanese": "Пойдём гулять в парк?",
+            "romaji": "Poydyom gulyat' v park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it will be fun!",
+            "russian": "Да, будет весело!",
+            "translit": "Da, budet veselo!",
+            "japanese": "Да, будет весело!",
+            "romaji": "Da, budet veselo!"
+          }
+        ]
+      }
     }
   ]
 }
