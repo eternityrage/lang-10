@@ -3959,6 +3959,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T10:42:58.057824",
+      "dialogue": {
+        "topic": "Sunny street greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, it’s nice out!",
+            "target_text": "Bonjour, il fait beau !",
+            "japanese": "Bonjour, il fait beau !",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s wonderful!",
+            "target_text": "Oui, c’est magnifique !",
+            "japanese": "Oui, c’est magnifique !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you going to the park?",
+            "target_text": "Tu vas au parc ?",
+            "japanese": "Tu vas au parc ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a nice day!",
+            "target_text": "Oui, bonne journée !",
+            "japanese": "Oui, bonne journée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
