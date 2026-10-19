@@ -3851,6 +3851,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T01:11:00.039605",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, do you have a table?",
+            "target_text": "Buonasera, avete un tavolo?",
+            "japanese": "Buonasera, avete un tavolo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, come with me!",
+            "target_text": "Certo, venite con me!",
+            "japanese": "Certo, venite con me!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I would like a small pizza.",
+            "target_text": "Vorrei una pizza piccola.",
+            "japanese": "Vorrei una pizza piccola.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great choice, it’s coming soon!",
+            "target_text": "Ottima scelta, arriva subito!",
+            "japanese": "Ottima scelta, arriva subito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
