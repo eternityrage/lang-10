@@ -4359,6 +4359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T21:26:45.694866",
+      "dialogue": {
+        "topic": "Taxi to the hotel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, taxi to the hotel?",
+            "target_text": "היי, מונית למלון?",
+            "transliteration": "Hai, monit la-malon?",
+            "japanese": "היי, מונית למלון?",
+            "romaji": "Hai, monit la-malon?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly, come.",
+            "target_text": "כן, בשמחה, בוא.",
+            "transliteration": "Ken, be-simcha, bo.",
+            "japanese": "כן, בשמחה, בוא.",
+            "romaji": "Ken, be-simcha, bo."
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far from here?",
+            "target_text": "זה רחוק מפה?",
+            "transliteration": "Ze rachok mi-po?",
+            "japanese": "זה רחוק מפה?",
+            "romaji": "Ze rachok mi-po?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, five minutes.",
+            "target_text": "לא, חמש דקות.",
+            "transliteration": "Lo, chamesh dakot.",
+            "japanese": "לא, חמש דקות.",
+            "romaji": "Lo, chamesh dakot."
+          }
+        ]
+      }
     }
   ]
 }
