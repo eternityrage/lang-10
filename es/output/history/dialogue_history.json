@@ -3851,6 +3851,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T10:42:43.128729",
+      "dialogue": {
+        "topic": "Tren de Madrid a Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you going to Barcelona today?",
+            "target_text": "¿Vas a Barcelona hoy?",
+            "japanese": "¿Vas a Barcelona hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m going by train!",
+            "target_text": "¡Sí, voy en tren!",
+            "japanese": "¡Sí, voy en tren!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "From Madrid?",
+            "target_text": "¿Desde Madrid?",
+            "japanese": "¿Desde Madrid?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, to Barcelona!",
+            "target_text": "¡Sí, hasta Barcelona!",
+            "japanese": "¡Sí, hasta Barcelona!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
