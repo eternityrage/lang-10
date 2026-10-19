@@ -4279,6 +4279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T01:10:36.202914",
+      "dialogue": {
+        "topic": "Ordering Borsch & Pelmeni",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, may I have borsch?",
+            "russian": "Здравствуйте, можно борщ?",
+            "translit": "Zdravstvuyte, mozhno borshch?",
+            "japanese": "Здравствуйте, можно борщ?",
+            "romaji": "Zdravstvuyte, mozhno borshch?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, with pleasure!",
+            "russian": "Конечно, с удовольствием!",
+            "translit": "Konechno, s udovolstviyem!",
+            "japanese": "Конечно, с удовольствием!",
+            "romaji": "Konechno, s udovolstviyem!"
+          },
+          {
+            "speaker": "A",
+            "english": "And pelmeni, please.",
+            "russian": "И пельмени, пожалуйста.",
+            "translit": "I pelmeni, pozhaluysta.",
+            "japanese": "И пельмени, пожалуйста.",
+            "romaji": "I pelmeni, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, I'll bring them now.",
+            "russian": "Хорошо, сейчас принесу.",
+            "translit": "Khorosho, seychas prinesu.",
+            "japanese": "Хорошо, сейчас принесу.",
+            "romaji": "Khorosho, seychas prinesu."
+          }
+        ]
+      }
     }
   ]
 }
