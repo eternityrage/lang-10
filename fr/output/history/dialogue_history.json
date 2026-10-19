@@ -3923,6 +3923,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T01:10:48.981242",
+      "dialogue": {
+        "topic": "Making breakfast",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you hungry?",
+            "target_text": "Tu as faim ?",
+            "japanese": "Tu as faim ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hungry!",
+            "target_text": "Oui, très faim !",
+            "japanese": "Oui, très faim !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall I make an omelet?",
+            "target_text": "Je fais une omelette ?",
+            "japanese": "Je fais une omelette ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thank you!",
+            "target_text": "Super, merci beaucoup !",
+            "japanese": "Super, merci beaucoup !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
