@@ -4519,6 +4519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T17:27:31.873433",
+      "dialogue": {
+        "topic": "Bargaining for a Small Item",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this expensive?",
+            "chinese": "这个贵吗？",
+            "pinyin": "Zhège guì ma?",
+            "japanese": "这个贵吗？",
+            "romaji": "Zhège guì ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not expensive!",
+            "chinese": "不贵呀！",
+            "pinyin": "Bú guì ya!",
+            "japanese": "不贵呀！",
+            "romaji": "Bú guì ya!"
+          },
+          {
+            "speaker": "A",
+            "english": "Cheaper, please.",
+            "chinese": "便宜点吧。",
+            "pinyin": "Piányi diǎn ba.",
+            "japanese": "便宜点吧。",
+            "romaji": "Piányi diǎn ba."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, for you.",
+            "chinese": "好，给你。",
+            "pinyin": "Hǎo, gěi nǐ.",
+            "japanese": "好，给你。",
+            "romaji": "Hǎo, gěi nǐ."
+          }
+        ]
+      }
     }
   ]
 }
