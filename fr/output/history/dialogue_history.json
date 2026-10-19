@@ -4031,6 +4031,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T21:26:39.764160",
+      "dialogue": {
+        "topic": "Mealtime at home",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you hungry?",
+            "target_text": "Tu as faim ?",
+            "japanese": "Tu as faim ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hungry!",
+            "target_text": "Oui, très faim !",
+            "japanese": "Oui, très faim !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we eat now?",
+            "target_text": "On mange maintenant ?",
+            "japanese": "On mange maintenant ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, good idea!",
+            "target_text": "Oui, bonne idée !",
+            "japanese": "Oui, bonne idée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
