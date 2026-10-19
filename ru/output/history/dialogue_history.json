@@ -4359,6 +4359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T17:27:48.460068",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you cold?",
+            "russian": "Привет, тебе холодно?",
+            "translit": "Privet, tebe kholodno?",
+            "japanese": "Привет, тебе холодно?",
+            "romaji": "Privet, tebe kholodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I am warm!",
+            "russian": "Нет, мне тепло!",
+            "translit": "Net, mne teplo!",
+            "japanese": "Нет, мне тепло!",
+            "romaji": "Net, mne teplo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk more?",
+            "russian": "Гуляем ещё немного?",
+            "translit": "Gulyaem eshchyo nemnogo?",
+            "japanese": "Гуляем ещё немного?",
+            "romaji": "Gulyaem eshchyo nemnogo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, winter is beautiful!",
+            "russian": "Да, зима красивая!",
+            "translit": "Da, zima krasivaya!",
+            "japanese": "Да, зима красивая!",
+            "romaji": "Da, zima krasivaya!"
+          }
+        ]
+      }
     }
   ]
 }
