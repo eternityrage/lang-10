@@ -3551,6 +3551,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T21:26:37.140375",
+      "dialogue": {
+        "topic": "Convenience store snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, want an onigiri?",
+            "japanese": "マグ、おにぎり ほしい？",
+            "romaji": "Magu, onigiri hoshii?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, tuna please.",
+            "japanese": "はい、ツナを ください。",
+            "romaji": "Hai, tsuna o kudasai."
+          },
+          {
+            "speaker": "A",
+            "english": "Do you need a bag?",
+            "japanese": "ふくろは いりますか？",
+            "romaji": "Fukuro wa irimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, it is okay.",
+            "japanese": "いいえ、だいじょうぶです。",
+            "romaji": "Iie, daijoubu desu."
+          }
+        ]
+      }
     }
   ]
 }
