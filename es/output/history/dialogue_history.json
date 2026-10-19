@@ -3923,6 +3923,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T21:26:27.961884",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we dance a little?",
+            "target_text": "¿Bailamos un poco?",
+            "japanese": "¿Bailamos un poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "target_text": "¡Sí, me encanta!",
+            "japanese": "¡Sí, me encanta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall I play music?",
+            "target_text": "¿Pongo música?",
+            "japanese": "¿Pongo música?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's relax.",
+            "target_text": "Genial, vamos a relajarnos.",
+            "japanese": "Genial, vamos a relajarnos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
