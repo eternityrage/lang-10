@@ -4319,6 +4319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T17:27:38.625483",
+      "dialogue": {
+        "topic": "Greetings & Slang - Morning Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, what's up?",
+            "target_text": "בוקר טוב, מה נשמע?",
+            "transliteration": "Boker tov, ma nishma?",
+            "japanese": "בוקר טוב, מה נשמע?",
+            "romaji": "Boker tov, ma nishma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks! And you?",
+            "target_text": "מעולה, תודה! ואתה?",
+            "transliteration": "Me'uleh, toda! Ve'ata?",
+            "japanese": "מעולה, תודה! ואתה?",
+            "romaji": "Me'uleh, toda! Ve'ata?"
+          },
+          {
+            "speaker": "A",
+            "english": "I'm great too, coffee now?",
+            "target_text": "גם אני מעולה, קפה עכשיו?",
+            "transliteration": "Gam ani me'uleh, kafe akhshav?",
+            "japanese": "גם אני מעולה, קפה עכשיו?",
+            "romaji": "Gam ani me'uleh, kafe akhshav?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "כן, יאללה, בוא נלך!",
+            "transliteration": "Ken, yalla, bo nelekh!",
+            "japanese": "כן, יאללה, בוא נלך!",
+            "romaji": "Ken, yalla, bo nelekh!"
+          }
+        ]
+      }
     }
   ]
 }
