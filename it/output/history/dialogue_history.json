@@ -3959,6 +3959,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T21:26:40.627617",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, can I order?",
+            "target_text": "Ciao, posso ordinare?",
+            "japanese": "Ciao, posso ordinare?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, tell me!",
+            "target_text": "Certo, dimmi pure!",
+            "japanese": "Certo, dimmi pure!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A strawberry cup.",
+            "target_text": "Una coppetta alla fragola.",
+            "japanese": "Una coppetta alla fragola.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, here you go!",
+            "target_text": "Perfetto, ecco a te!",
+            "japanese": "Perfetto, ecco a te!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
