@@ -3519,6 +3519,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T17:27:41.252959",
+      "dialogue": {
+        "topic": "Cafe vibes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, this cafe is nice!",
+            "japanese": "マグ、この カフェ、いいね！",
+            "romaji": "Magu, kono kafe, ii ne!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, seriously nice!",
+            "japanese": "うん、まじで いいね！",
+            "romaji": "Un, maji de ii ne!"
+          },
+          {
+            "speaker": "A",
+            "english": "Coffee smells good!",
+            "japanese": "コーヒー、いい におい！",
+            "romaji": "Koohii, ii nioi!"
+          },
+          {
+            "speaker": "B",
+            "english": "Cupcake smells good too!",
+            "japanese": "カップケーキも、いい におい！",
+            "romaji": "Kappukeeki mo, ii nioi!"
+          }
+        ]
+      }
     }
   ]
 }
