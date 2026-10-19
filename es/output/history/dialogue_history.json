@@ -3887,6 +3887,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T17:27:29.267620",
+      "dialogue": {
+        "topic": "Madrid y Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is Barcelona big?",
+            "target_text": "¿Barcelona es grande?",
+            "japanese": "¿Barcelona es grande?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very pretty.",
+            "target_text": "Sí, es muy bonita.",
+            "japanese": "Sí, es muy bonita.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And Madrid too?",
+            "target_text": "¿Y Madrid también?",
+            "japanese": "¿Y Madrid también?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Madrid is lovely.",
+            "target_text": "Sí, Madrid es preciosa.",
+            "japanese": "Sí, Madrid es preciosa.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
