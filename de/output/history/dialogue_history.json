@@ -3923,6 +3923,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T10:42:49.459235",
+      "dialogue": {
+        "topic": "Polite request for water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one water, please.",
+            "target_text": "Hallo, ein Wasser, bitte.",
+            "japanese": "Hallo, ein Wasser, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With ice, please.",
+            "target_text": "Mit Eis, bitte.",
+            "japanese": "Mit Eis, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, coming right away!",
+            "target_text": "Ja, kommt sofort!",
+            "japanese": "Ja, kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
