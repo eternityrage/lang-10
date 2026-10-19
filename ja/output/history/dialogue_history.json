@@ -3455,6 +3455,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T01:10:42.185263",
+      "dialogue": {
+        "topic": "Finding the bus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, where is the bus?",
+            "japanese": "マグさん、バスは どこですか？",
+            "romaji": "Magu-san, basu wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "The bus is there.",
+            "japanese": "バスは あそこです。",
+            "romaji": "Basu wa asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Is the bus cheap?",
+            "japanese": "バスは やすいですか？",
+            "romaji": "Basu wa yasui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cheap!",
+            "japanese": "はい、とても やすいです！",
+            "romaji": "Hai, totemo yasui desu!"
+          }
+        ]
+      }
     }
   ]
 }
