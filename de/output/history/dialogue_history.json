@@ -3995,6 +3995,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-19T21:26:34.353729",
+      "dialogue": {
+        "topic": "Asking to borrow a pen",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, do you have a pen?",
+            "target_text": "Entschuldigung, haben Sie einen Stift?",
+            "japanese": "Entschuldigung, haben Sie einen Stift?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I have one.",
+            "target_text": "Ja, ich habe einen.",
+            "japanese": "Ja, ich habe einen.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "May I take it briefly?",
+            "target_text": "Darf ich ihn kurz nehmen?",
+            "japanese": "Darf ich ihn kurz nehmen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, that is no problem.",
+            "target_text": "Ja, das ist kein Problem.",
+            "japanese": "Ja, das ist kein Problem.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
