@@ -4439,6 +4439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T09:59:22.090211",
+      "dialogue": {
+        "topic": "Taxi to the hotel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, taxi to the hotel?",
+            "target_text": "שלום, מונית למלון?",
+            "transliteration": "Shalom, monit la-malon?",
+            "japanese": "שלום, מונית למלון?",
+            "romaji": "Shalom, monit la-malon?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly, let's go!",
+            "target_text": "כן, בשמחה, קדימה!",
+            "transliteration": "Ken, besimcha, kadima!",
+            "japanese": "כן, בשמחה, קדימה!",
+            "romaji": "Ken, besimcha, kadima!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Thirty shekels, please.",
+            "target_text": "שלושים שקלים, בבקשה.",
+            "transliteration": "Shloshim shkalim, bevakasha.",
+            "japanese": "שלושים שקלים, בבקשה.",
+            "romaji": "Shloshim shkalim, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
