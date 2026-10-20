@@ -4067,6 +4067,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T20:28:18.242618",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want calm music?",
+            "target_text": "¿Quieres música tranquila?",
+            "japanese": "¿Quieres música tranquila?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it.",
+            "target_text": "Sí, me encanta.",
+            "japanese": "Sí, me encanta.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we have something cold?",
+            "target_text": "¿Tomamos algo frío?",
+            "japanese": "¿Tomamos algo frío?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, what a plan.",
+            "target_text": "Perfecto, qué plan.",
+            "japanese": "Perfecto, qué plan.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
