@@ -4103,6 +4103,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T09:59:15.159478",
+      "dialogue": {
+        "topic": "Finding the metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is the metro?",
+            "target_text": "Pardon, où est le métro ?",
+            "japanese": "Pardon, où est le métro ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right here, on the right!",
+            "target_text": "Juste ici, à droite !",
+            "japanese": "Juste ici, à droite !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it line two?",
+            "target_text": "C’est la ligne deux ?",
+            "japanese": "C’est la ligne deux ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Oui, bon voyage !",
+            "japanese": "Oui, bon voyage !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
