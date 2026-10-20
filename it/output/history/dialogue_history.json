@@ -4103,6 +4103,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T20:28:27.302709",
+      "dialogue": {
+        "topic": "Italian gesture: perfetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what does this mean?",
+            "target_text": "Ciao, che significa questo?",
+            "japanese": "Ciao, che significa questo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means perfect!",
+            "target_text": "È il gesto perfetto!",
+            "japanese": "È il gesto perfetto!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I use it now?",
+            "target_text": "Lo uso adesso?",
+            "japanese": "Lo uso adesso?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, go for it!",
+            "target_text": "Sì, vai tranquillo!",
+            "japanese": "Sì, vai tranquillo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
