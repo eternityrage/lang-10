@@ -3583,6 +3583,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T01:46:32.978984",
+      "dialogue": {
+        "topic": "Train to Tokyo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this the train?",
+            "japanese": "これは でんしゃですか？",
+            "romaji": "Kore wa densha desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is.",
+            "japanese": "はい、そうです。",
+            "romaji": "Hai, sou desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go to Tokyo?",
+            "japanese": "とうきょうへ いきますか？",
+            "romaji": "Toukyou e ikimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes. Let’s go!",
+            "japanese": "はい。いきましょう！",
+            "romaji": "Hai. Ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
