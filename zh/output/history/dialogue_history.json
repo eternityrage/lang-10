@@ -4639,6 +4639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T09:59:30.498073",
+      "dialogue": {
+        "topic": "Quick Compliment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How are you?",
+            "chinese": "你好吗？",
+            "pinyin": "Nǐ hǎo ma?",
+            "japanese": "你好吗？",
+            "romaji": "Nǐ hǎo ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great!",
+            "chinese": "很好呀！",
+            "pinyin": "Hěn hǎo ya!",
+            "japanese": "很好呀！",
+            "romaji": "Hěn hǎo ya!"
+          },
+          {
+            "speaker": "A",
+            "english": "You're awesome!",
+            "chinese": "你真牛！",
+            "pinyin": "Nǐ zhēn niú!",
+            "japanese": "你真牛！",
+            "romaji": "Nǐ zhēn niú!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you!",
+            "chinese": "谢谢你！",
+            "pinyin": "Xièxie nǐ!",
+            "japanese": "谢谢你！",
+            "romaji": "Xièxie nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
