@@ -4175,6 +4175,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T20:28:48.725876",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you free tonight?",
+            "target_text": "Tu es libre ce soir ?",
+            "japanese": "Tu es libre ce soir ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "When shall we meet?",
+            "target_text": "On se voit quand ?",
+            "japanese": "On se voit quand ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "At eight, sweetheart.",
+            "target_text": "À huit heures, mon cœur.",
+            "japanese": "À huit heures, mon cœur.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
