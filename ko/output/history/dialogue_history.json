@@ -4519,6 +4519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T20:28:34.942830",
+      "dialogue": {
+        "topic": "Convenience store in the subway station",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the convenience store?",
+            "korean": "저기 편의점 어디예요?",
+            "romaja": "Jeogi pyeonuijeom eodiyeyo?",
+            "japanese": "저기 편의점 어디예요?",
+            "romaji": "Jeogi pyeonuijeom eodiyeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's inside the subway station.",
+            "korean": "지하철역 안에 있어요.",
+            "romaja": "Jihacheollyeok ane isseoyo.",
+            "japanese": "지하철역 안에 있어요.",
+            "romaji": "Jihacheollyeok ane isseoyo."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go together?",
+            "korean": "우리 같이 갈래요?",
+            "romaja": "Uri gachi gallaeyo?",
+            "japanese": "우리 같이 갈래요?",
+            "romaji": "Uri gachi gallaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's buy snacks!",
+            "korean": "좋아요, 과자 사요!",
+            "romaja": "Joayo, gwaja sayo!",
+            "japanese": "좋아요, 과자 사요!",
+            "romaji": "Joayo, gwaja sayo!"
+          }
+        ]
+      }
     }
   ]
 }
