@@ -3679,6 +3679,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T20:28:31.133138",
+      "dialogue": {
+        "topic": "Train to Tokyo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Does this go to Tokyo?",
+            "japanese": "これは とうきょうへ いきますか？",
+            "romaji": "Kore wa Toukyou e ikimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it goes.",
+            "japanese": "はい、いきます。",
+            "romaji": "Hai, ikimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "Is the ticket cheap?",
+            "japanese": "きっぷは やすいですか？",
+            "romaji": "Kippu wa yasui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cheap.",
+            "japanese": "はい、とても やすいです。",
+            "romaji": "Hai, totemo yasui desu."
+          }
+        ]
+      }
     }
   ]
 }
