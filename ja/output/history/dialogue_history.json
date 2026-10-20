@@ -3647,6 +3647,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T15:38:51.755676",
+      "dialogue": {
+        "topic": "Shopping for a Shirt",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How is this shirt?",
+            "japanese": "このシャツ、どうですか？",
+            "romaji": "Kono shatsu, dou desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Blue is nice!",
+            "japanese": "青がいいです！",
+            "romaji": "Ao ga ii desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "japanese": "いくらですか？",
+            "romaji": "Ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's one thousand yen.",
+            "japanese": "せんえんです。",
+            "romaji": "Sen en desu."
+          }
+        ]
+      }
     }
   ]
 }
