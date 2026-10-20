@@ -4399,6 +4399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T01:46:25.561804",
+      "dialogue": {
+        "topic": "Shopping & Boutiques",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there a red dress?",
+            "target_text": "שלום, יש שמלה אדומה?",
+            "transliteration": "Shalom, yesh simla aduma?",
+            "japanese": "שלום, יש שמלה אדומה?",
+            "romaji": "Shalom, yesh simla aduma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very pretty!",
+            "target_text": "כן, היא מאוד יפה!",
+            "transliteration": "Ken, hi me'od yafa!",
+            "japanese": "כן, היא מאוד יפה!",
+            "romaji": "Ken, hi me'od yafa!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "target_text": "כמה היא עולה?",
+            "transliteration": "Kama hi ola?",
+            "japanese": "כמה היא עולה?",
+            "romaji": "Kama hi ola?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only fifty shekels.",
+            "target_text": "רק חמישים שקלים.",
+            "transliteration": "Rak chamishim shkalim.",
+            "japanese": "רק חמישים שקלים.",
+            "romaji": "Rak chamishim shkalim."
+          }
+        ]
+      }
     }
   ]
 }
