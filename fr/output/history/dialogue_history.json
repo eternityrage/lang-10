@@ -4139,6 +4139,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T15:39:00.854738",
+      "dialogue": {
+        "topic": "Parisian Cafe & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have éclairs?",
+            "target_text": "Bonjour, vous avez des éclairs ?",
+            "japanese": "Bonjour, vous avez des éclairs ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are fresh!",
+            "target_text": "Oui, ils sont frais !",
+            "japanese": "Oui, ils sont frais !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Perfect, two éclairs, please.",
+            "target_text": "Parfait, deux éclairs, s’il vous plaît.",
+            "japanese": "Parfait, deux éclairs, s’il vous plaît.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, enjoy!",
+            "target_text": "Voilà, bonne dégustation !",
+            "japanese": "Voilà, bonne dégustation !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
