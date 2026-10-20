@@ -4479,6 +4479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T09:59:31.061809",
+      "dialogue": {
+        "topic": "Ordering Borsch & Pelmeni",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have borsch?",
+            "russian": "Здравствуйте, борщ у вас есть?",
+            "translit": "Zdravstvuyte, borshch u vas yest'?",
+            "japanese": "Здравствуйте, борщ у вас есть?",
+            "romaji": "Zdravstvuyte, borshch u vas yest'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, borsch is very tasty!",
+            "russian": "Да, борщ очень вкусный!",
+            "translit": "Da, borshch ochen' vkusnyy!",
+            "japanese": "Да, борщ очень вкусный!",
+            "romaji": "Da, borshch ochen' vkusnyy!"
+          },
+          {
+            "speaker": "A",
+            "english": "And do you have pelmeni too?",
+            "russian": "И пельмени тоже есть?",
+            "translit": "I pelmeni tozhe yest'?",
+            "japanese": "И пельмени тоже есть?",
+            "romaji": "I pelmeni tozhe yest'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, your order is ready!",
+            "russian": "Конечно, ваш заказ готов!",
+            "translit": "Konechno, vash zakaz gotov!",
+            "japanese": "Конечно, ваш заказ готов!",
+            "romaji": "Konechno, vash zakaz gotov!"
+          }
+        ]
+      }
     }
   ]
 }
