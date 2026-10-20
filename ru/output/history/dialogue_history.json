@@ -4439,6 +4439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T01:46:22.288000",
+      "dialogue": {
+        "topic": "Convenience Store - Buying Water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is there water?",
+            "russian": "Здравствуйте, есть вода?",
+            "translit": "Zdravstvuyte, yest' voda?",
+            "japanese": "Здравствуйте, есть вода?",
+            "romaji": "Zdravstvuyte, yest' voda?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the water is cold!",
+            "russian": "Да, вода холодная!",
+            "translit": "Da, voda kholodnaya!",
+            "japanese": "Да, вода холодная!",
+            "romaji": "Da, voda kholodnaya!"
+          },
+          {
+            "speaker": "A",
+            "english": "One bottle, please.",
+            "russian": "Одну бутылку, пожалуйста.",
+            "translit": "Odnu butylku, pozhaluysta.",
+            "japanese": "Одну бутылку, пожалуйста.",
+            "romaji": "Odnu butylku, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Here is your water, please.",
+            "russian": "Вот ваша вода, пожалуйста.",
+            "translit": "Vot vasha voda, pozhaluysta.",
+            "japanese": "Вот ваша вода, пожалуйста.",
+            "romaji": "Vot vasha voda, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
