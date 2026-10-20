@@ -3959,6 +3959,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T01:46:22.657051",
+      "dialogue": {
+        "topic": "Madrid and Barcelona trip",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we go to Madrid tomorrow?",
+            "target_text": "¿Vamos a Madrid mañana?",
+            "japanese": "¿Vamos a Madrid mañana?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love Madrid!",
+            "target_text": "¡Sí, me encanta Madrid!",
+            "japanese": "¡Sí, me encanta Madrid!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And Barcelona later?",
+            "target_text": "¿Y Barcelona después?",
+            "japanese": "¿Y Barcelona después?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, two cities!",
+            "target_text": "¡Perfecto, dos ciudades!",
+            "japanese": "¡Perfecto, dos ciudades!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
