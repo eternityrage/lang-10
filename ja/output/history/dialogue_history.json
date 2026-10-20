@@ -3615,6 +3615,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T09:59:25.704940",
+      "dialogue": {
+        "topic": "A little heart",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this a heart?",
+            "japanese": "これ、ハートですか？",
+            "romaji": "Kore, haato desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! So cute!",
+            "japanese": "はい！とても かわいいです！",
+            "romaji": "Hai! Totemo kawaii desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Wow, I am happy!",
+            "japanese": "わあ、うれしいです！",
+            "romaji": "Waa, ureshii desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Me too, happy!",
+            "japanese": "ぼくも うれしいです！",
+            "romaji": "Boku mo ureshii desu!"
+          }
+        ]
+      }
     }
   ]
 }
