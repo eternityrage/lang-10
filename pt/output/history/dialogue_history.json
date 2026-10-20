@@ -4103,6 +4103,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T15:38:47.766274",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey! What's the plan?",
+            "target_text": "Salve! Qual é a boa?",
+            "japanese": "Salve! Qual é a boa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm chill and happy!",
+            "target_text": "Tô de boa, feliz!",
+            "japanese": "Tô de boa, feliz!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk around?",
+            "target_text": "Vamos dar uma volta?",
+            "japanese": "Vamos dar uma volta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Deal, let's go!",
+            "target_text": "Fechou, vamos nessa!",
+            "japanese": "Fechou, vamos nessa!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
