@@ -4067,6 +4067,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T09:59:25.029952",
+      "dialogue": {
+        "topic": "Opening the window politely",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "May I open the window?",
+            "target_text": "Darf ich das Fenster öffnen?",
+            "japanese": "Darf ich das Fenster öffnen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it not too cold?",
+            "target_text": "Ist es nicht zu kalt?",
+            "japanese": "Ist es nicht zu kalt?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, all good, thanks.",
+            "target_text": "Nein, alles gut, danke.",
+            "japanese": "Nein, alles gut, danke.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
