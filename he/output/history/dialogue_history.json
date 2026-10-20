@@ -4519,6 +4519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T20:28:33.518771",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there coffee?",
+            "target_text": "שלום, יש קפה?",
+            "transliteration": "Shalom, yesh kafe?",
+            "japanese": "שלום, יש קפה?",
+            "romaji": "Shalom, yesh kafe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is hot coffee!",
+            "target_text": "כן, יש קפה חם!",
+            "transliteration": "Ken, yesh kafe cham!",
+            "japanese": "כן, יש קפה חם!",
+            "romaji": "Ken, yesh kafe cham!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is there cake too?",
+            "target_text": "יש גם עוגה?",
+            "transliteration": "Yesh gam uga?",
+            "japanese": "יש גם עוגה?",
+            "romaji": "Yesh gam uga?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please, enjoy!",
+            "target_text": "כן, בבקשה, בתיאבון!",
+            "transliteration": "Ken, bevakasha, bete'avon!",
+            "japanese": "כן, בבקשה, בתיאבון!",
+            "romaji": "Ken, bevakasha, bete'avon!"
+          }
+        ]
+      }
     }
   ]
 }
