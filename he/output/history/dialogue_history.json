@@ -4479,6 +4479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T15:38:34.948848",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, my friend!",
+            "target_text": "בוקר טוב, חבר שלי!",
+            "transliteration": "Boker tov, chaver sheli!",
+            "japanese": "בוקר טוב, חבר שלי!",
+            "romaji": "Boker tov, chaver sheli!"
+          },
+          {
+            "speaker": "B",
+            "english": "Good morning, all good!",
+            "target_text": "בוקר טוב, הכל טוב!",
+            "transliteration": "Boker tov, hakol tov!",
+            "japanese": "בוקר טוב, הכל טוב!",
+            "romaji": "Boker tov, hakol tov!"
+          },
+          {
+            "speaker": "A",
+            "english": "Cool, see you later?",
+            "target_text": "סבבה, נתראה אחר כך?",
+            "transliteration": "Sababa, nit'ra'eh achar kach?",
+            "japanese": "סבבה, נתראה אחר כך?",
+            "romaji": "Sababa, nit'ra'eh achar kach?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good day!",
+            "target_text": "כן, יום טוב לך!",
+            "transliteration": "Ken, yom tov lecha!",
+            "japanese": "כן, יום טוב לך!",
+            "romaji": "Ken, yom tov lecha!"
+          }
+        ]
+      }
     }
   ]
 }
