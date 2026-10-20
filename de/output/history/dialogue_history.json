@@ -4103,6 +4103,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T15:38:40.298866",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, how are you?",
+            "target_text": "Guten Morgen, wie geht's?",
+            "japanese": "Guten Morgen, wie geht's?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Good, thanks! And you?",
+            "target_text": "Gut, danke! Und dir?",
+            "japanese": "Gut, danke! Und dir?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Good too, thanks.",
+            "target_text": "Auch gut, danke.",
+            "japanese": "Auch gut, danke.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Nice! See you later.",
+            "target_text": "Schön! Bis später.",
+            "japanese": "Schön! Bis später.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
