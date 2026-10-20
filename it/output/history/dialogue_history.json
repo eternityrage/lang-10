@@ -3995,6 +3995,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T01:46:16.454049",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have pizza today?",
+            "target_text": "Ciao, avete pizza oggi?",
+            "japanese": "Ciao, avete pizza oggi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the pizza is hot!",
+            "target_text": "Sì, la pizza è calda!",
+            "japanese": "Sì, la pizza è calda!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I'll take a small pizza.",
+            "target_text": "Prendo una pizza piccola.",
+            "japanese": "Prendo una pizza piccola.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, it's coming right away!",
+            "target_text": "Perfetto, arriva subito!",
+            "japanese": "Perfetto, arriva subito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
