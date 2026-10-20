@@ -4031,6 +4031,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T15:38:28.662512",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there music here?",
+            "target_text": "¿Hay música aquí?",
+            "japanese": "¿Hay música aquí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very good music!",
+            "target_text": "¡Sí, música muy buena!",
+            "japanese": "¡Sí, música muy buena!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we have something together?",
+            "target_text": "¿Tomamos algo juntos?",
+            "japanese": "¿Tomamos algo juntos?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, great plan!",
+            "target_text": "¡Claro, plan genial!",
+            "japanese": "¡Claro, plan genial!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
