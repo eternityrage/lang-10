@@ -4519,6 +4519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T15:38:42.729904",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! What smells so good?",
+            "russian": "Здравствуйте! Что так вкусно пахнет?",
+            "translit": "Zdravstvuyte! Chto tak vkusno pakhnet?",
+            "japanese": "Здравствуйте! Что так вкусно пахнет?",
+            "romaji": "Zdravstvuyte! Chto tak vkusno pakhnet?"
+          },
+          {
+            "speaker": "B",
+            "english": "Warm bread from the oven!",
+            "russian": "Тёплый хлеб из печи!",
+            "translit": "Tyoplyy khleb iz pechi!",
+            "japanese": "Тёплый хлеб из печи!",
+            "romaji": "Tyoplyy khleb iz pechi!"
+          },
+          {
+            "speaker": "A",
+            "english": "May I have one loaf?",
+            "russian": "Можно один батон?",
+            "translit": "Mozhno odin baton?",
+            "japanese": "Можно один батон?",
+            "romaji": "Mozhno odin baton?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here is your bread.",
+            "russian": "Конечно, вот ваш хлеб.",
+            "translit": "Konechno, vot vash khleb.",
+            "japanese": "Конечно, вот ваш хлеб.",
+            "romaji": "Konechno, vot vash khleb."
+          }
+        ]
+      }
     }
   ]
 }
