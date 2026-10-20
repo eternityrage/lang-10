@@ -4067,6 +4067,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T15:38:44.687280",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, a table for two?",
+            "target_text": "Buonasera, un tavolo per due?",
+            "japanese": "Buonasera, un tavolo per due?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, come here!",
+            "target_text": "Certo, venite qui!",
+            "japanese": "Certo, venite qui!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can we order pizza?",
+            "target_text": "Possiamo ordinare la pizza?",
+            "japanese": "Possiamo ordinare la pizza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it comes right away!",
+            "target_text": "Sì, arriva subito!",
+            "japanese": "Sì, arriva subito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
