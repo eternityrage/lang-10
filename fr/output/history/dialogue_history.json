@@ -4067,6 +4067,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T01:46:39.705371",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are there bags?",
+            "target_text": "Bonjour, il y a des sacs ?",
+            "japanese": "Bonjour, il y a des sacs ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want a red one.",
+            "target_text": "Je veux un rouge.",
+            "japanese": "Je veux un rouge.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, follow me!",
+            "target_text": "Parfait, suivez-moi !",
+            "japanese": "Parfait, suivez-moi !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
