@@ -4031,6 +4031,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T09:59:25.201239",
+      "dialogue": {
+        "topic": "Italian gesture: perfetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What does this mean?",
+            "target_text": "Che significa così?",
+            "japanese": "Che significa così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: perfect!",
+            "target_text": "Vuol dire: perfetto!",
+            "japanese": "Vuol dire: perfetto!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Ah, all good?",
+            "target_text": "Ah, tutto bene?",
+            "japanese": "Ah, tutto bene?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, all good!",
+            "target_text": "Sì, tutto a posto!",
+            "japanese": "Sì, tutto a posto!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
