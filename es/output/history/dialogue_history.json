@@ -3995,6 +3995,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-20T09:59:25.804701",
+      "dialogue": {
+        "topic": "Shopping & Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much are the apples?",
+            "target_text": "Hola, ¿cuánto cuestan las manzanas?",
+            "japanese": "Hola, ¿cuánto cuestan las manzanas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Three euros per kilo!",
+            "target_text": "¡Tres euros el kilo!",
+            "japanese": "¡Tres euros el kilo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want one kilo, please.",
+            "target_text": "Quiero un kilo, por favor.",
+            "japanese": "Quiero un kilo, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go.",
+            "target_text": "Claro, aquí tiene.",
+            "japanese": "Claro, aquí tiene.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
