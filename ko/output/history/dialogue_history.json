@@ -4559,6 +4559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T01:31:51.285041",
+      "dialogue": {
+        "topic": "Movie Date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Movie with me?",
+            "korean": "저랑 영화 볼래요?",
+            "romaja": "Jeorang yeonghwa bollae-yo?",
+            "japanese": "저랑 영화 볼래요?",
+            "romaji": "Jeorang yeonghwa bollae-yo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I hold your hand?",
+            "korean": "손 잡아도 돼요?",
+            "romaja": "Son jabado dwaeyo?",
+            "japanese": "손 잡아도 돼요?",
+            "romaji": "Son jabado dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, my heart flutters.",
+            "korean": "네, 조금 설레요.",
+            "romaja": "Ne, jogeum seolleyo.",
+            "japanese": "네, 조금 설레요.",
+            "romaji": "Ne, jogeum seolleyo."
+          }
+        ]
+      }
     }
   ]
 }
