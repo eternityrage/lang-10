@@ -4319,6 +4319,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T20:33:11.219476",
+      "dialogue": {
+        "topic": "Metro line",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, which line is it?",
+            "target_text": "Bonjour, c’est quelle ligne ?",
+            "japanese": "Bonjour, c’est quelle ligne ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It’s line two!",
+            "target_text": "C’est la ligne deux !",
+            "japanese": "C’est la ligne deux !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go downtown?",
+            "target_text": "Elle va au centre ?",
+            "japanese": "Elle va au centre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Oui, bon voyage !",
+            "japanese": "Oui, bon voyage !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
