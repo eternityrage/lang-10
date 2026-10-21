@@ -4639,6 +4639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T10:04:13.559422",
+      "dialogue": {
+        "topic": "Cute Russian Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you, sunshine?",
+            "russian": "Привет, как дела, солнышко?",
+            "translit": "Privet, kak dela, solnyshko?",
+            "japanese": "Привет, как дела, солнышко?",
+            "romaji": "Privet, kak dela, solnyshko?"
+          },
+          {
+            "speaker": "B",
+            "english": "Everything is great, you're cool!",
+            "russian": "Всё отлично, ты класс!",
+            "translit": "Vsyo otlichno, ty klass!",
+            "japanese": "Всё отлично, ты класс!",
+            "romaji": "Vsyo otlichno, ty klass!"
+          },
+          {
+            "speaker": "A",
+            "english": "You have a kind smile.",
+            "russian": "У тебя добрая улыбка.",
+            "translit": "U tebya dobraya ulybka.",
+            "japanese": "У тебя добрая улыбка.",
+            "romaji": "U tebya dobraya ulybka."
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you're super too!",
+            "russian": "Спасибо, ты тоже супер!",
+            "translit": "Spasibo, ty tozhe super!",
+            "japanese": "Спасибо, ты тоже супер!",
+            "romaji": "Spasibo, ty tozhe super!"
+          }
+        ]
+      }
     }
   ]
 }
