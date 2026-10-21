@@ -4175,6 +4175,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T15:56:16.524247",
+      "dialogue": {
+        "topic": "Travel & Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there tickets here?",
+            "target_text": "Hola, ¿hay billetes aquí?",
+            "japanese": "Hola, ¿hay billetes aquí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, in that machine!",
+            "target_text": "¡Sí, en esa máquina!",
+            "japanese": "¡Sí, en esa máquina!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it take my card?",
+            "target_text": "¿Acepta mi tarjeta?",
+            "japanese": "¿Acepta mi tarjeta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip.",
+            "target_text": "Sí, buen viaje.",
+            "japanese": "Sí, buen viaje.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
