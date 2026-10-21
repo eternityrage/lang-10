@@ -4211,6 +4211,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T01:31:50.845099",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have my size?",
+            "target_text": "Bonjour, vous avez ma taille ?",
+            "japanese": "Bonjour, vous avez ma taille ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try it on?",
+            "target_text": "Je peux essayer ?",
+            "japanese": "Je peux essayer ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the fitting room is there.",
+            "target_text": "Oui, la cabine est là.",
+            "japanese": "Oui, la cabine est là.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
