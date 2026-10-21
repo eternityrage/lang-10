@@ -4679,6 +4679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T20:33:14.452396",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there sunscreen here?",
+            "target_text": "היי, יש פה קרם שמש?",
+            "transliteration": "Hai, yesh po krem shemesh?",
+            "japanese": "היי, יש פה קרם שמש?",
+            "romaji": "Hai, yesh po krem shemesh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I have some!",
+            "target_text": "כן, יש לי!",
+            "transliteration": "Ken, yesh li!",
+            "japanese": "כן, יש לי!",
+            "romaji": "Ken, yesh li!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, the sun is strong today.",
+            "target_text": "מעולה, השמש חזקה היום.",
+            "transliteration": "Me'uleh, ha-shemesh chazaka hayom.",
+            "japanese": "מעולה, השמש חזקה היום.",
+            "romaji": "Me'uleh, ha-shemesh chazaka hayom."
+          },
+          {
+            "speaker": "B",
+            "english": "Let's apply and sit in shade.",
+            "target_text": "יאללה, נמרח ונשב בצל.",
+            "transliteration": "Yalla, nimrach ve-neshev ba-tzel.",
+            "japanese": "יאללה, נמרח ונשב בצל.",
+            "romaji": "Yalla, nimrach ve-neshev ba-tzel."
+          }
+        ]
+      }
     }
   ]
 }
