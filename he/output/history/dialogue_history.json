@@ -4599,6 +4599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T10:04:28.272256",
+      "dialogue": {
+        "topic": "Shopping for a hat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have a black hat?",
+            "target_text": "שלום, יש כובע שחור?",
+            "transliteration": "Shalom, yesh kova shachor?",
+            "japanese": "שלום, יש כובע שחור?",
+            "romaji": "Shalom, yesh kova shachor?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we have a nice hat!",
+            "target_text": "כן, יש כובע יפה!",
+            "transliteration": "Ken, yesh kova yafe!",
+            "japanese": "כן, יש כובע יפה!",
+            "romaji": "Ken, yesh kova yafe!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only twenty shekels.",
+            "target_text": "רק עשרים שקל.",
+            "transliteration": "Rak esrim shekel.",
+            "japanese": "רק עשרים שקל.",
+            "romaji": "Rak esrim shekel."
+          }
+        ]
+      }
     }
   ]
 }
