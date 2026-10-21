@@ -4599,6 +4599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T01:32:02.507328",
+      "dialogue": {
+        "topic": "Street Greetings & Friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "russian": "Привет, как дела?",
+            "translit": "Privet, kak dela?",
+            "japanese": "Привет, как дела?",
+            "romaji": "Privet, kak dela?"
+          },
+          {
+            "speaker": "B",
+            "english": "All good, thanks!",
+            "russian": "Всё хорошо, спасибо!",
+            "translit": "Vsyo khorosho, spasibo!",
+            "japanese": "Всё хорошо, спасибо!",
+            "romaji": "Vsyo khorosho, spasibo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the park?",
+            "russian": "Идём в парк?",
+            "translit": "Idyom v park?",
+            "japanese": "Идём в парк?",
+            "romaji": "Idyom v park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go together!",
+            "russian": "Да, пойдём вместе!",
+            "translit": "Da, poydyom vmeste!",
+            "japanese": "Да, пойдём вместе!",
+            "romaji": "Da, poydyom vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
