@@ -4247,6 +4247,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T20:33:05.152216",
+      "dialogue": {
+        "topic": "Train Station & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, which platform for Rome?",
+            "target_text": "Scusi, quale binario per Roma?",
+            "japanese": "Scusi, quale binario per Roma?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Platform five, perfect!",
+            "target_text": "Binario cinque, perfetto!",
+            "japanese": "Binario cinque, perfetto!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it leave soon?",
+            "target_text": "Parte tra poco?",
+            "japanese": "Parte tra poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Sì, buon viaggio!",
+            "japanese": "Sì, buon viaggio!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
