@@ -4283,6 +4283,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T20:33:18.913520",
+      "dialogue": {
+        "topic": "Kuchen im Café",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is there cake?",
+            "target_text": "Hallo, gibt es Kuchen?",
+            "japanese": "Hallo, gibt es Kuchen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the cake is fresh!",
+            "target_text": "Ja, der Kuchen ist frisch!",
+            "japanese": "Ja, der Kuchen ist frisch!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One piece, please.",
+            "target_text": "Ein Stück, bitte.",
+            "japanese": "Ein Stück, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, here it is.",
+            "target_text": "Gerne, hier ist es.",
+            "japanese": "Gerne, hier ist es.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
