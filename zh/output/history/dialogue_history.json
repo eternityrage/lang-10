@@ -4879,6 +4879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T20:33:06.546475",
+      "dialogue": {
+        "topic": "Bargaining for a price",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "chinese": "这个多少钱？",
+            "pinyin": "Zhège duōshao qián?",
+            "japanese": "这个多少钱？",
+            "romaji": "Zhège duōshao qián?"
+          },
+          {
+            "speaker": "B",
+            "english": "Twenty yuan!",
+            "chinese": "二十元！",
+            "pinyin": "Èrshí yuán!",
+            "japanese": "二十元！",
+            "romaji": "Èrshí yuán!"
+          },
+          {
+            "speaker": "A",
+            "english": "Too expensive.",
+            "chinese": "太贵了。",
+            "pinyin": "Tài guì le.",
+            "japanese": "太贵了。",
+            "romaji": "Tài guì le."
+          },
+          {
+            "speaker": "B",
+            "english": "Fifteen yuan, okay!",
+            "chinese": "十五元吧！",
+            "pinyin": "Shíwǔ yuán ba!",
+            "japanese": "十五元吧！",
+            "romaji": "Shíwǔ yuán ba!"
+          }
+        ]
+      }
     }
   ]
 }
