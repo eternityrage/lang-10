@@ -3807,6 +3807,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T20:33:17.595658",
+      "dialogue": {
+        "topic": "Buying cold tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is this cold?",
+            "japanese": "マグさん、これ、つめたいですか？",
+            "romaji": "Magu-san, kore, tsumetai desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is cold.",
+            "japanese": "はい、つめたいです。",
+            "romaji": "Hai, tsumetai desu."
+          },
+          {
+            "speaker": "A",
+            "english": "One, please.",
+            "japanese": "ひとつ、ください。",
+            "romaji": "Hitotsu, kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          }
+        ]
+      }
     }
   ]
 }
