@@ -4679,6 +4679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T15:56:08.823611",
+      "dialogue": {
+        "topic": "Ordering Borsch & Pelmeni",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is there borsch?",
+            "russian": "Здравствуйте, есть борщ?",
+            "translit": "Zdravstvuyte, yest borshch?",
+            "japanese": "Здравствуйте, есть борщ?",
+            "romaji": "Zdravstvuyte, yest borshch?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, borsch is hot!",
+            "russian": "Да, борщ горячий!",
+            "translit": "Da, borshch goryachiy!",
+            "japanese": "Да, борщ горячий!",
+            "romaji": "Da, borshch goryachiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "And pelmeni too, please.",
+            "russian": "И пельмени тоже, пожалуйста.",
+            "translit": "I pelmeni tozhe, pozhaluysta.",
+            "japanese": "И пельмени тоже, пожалуйста.",
+            "romaji": "I pelmeni tozhe, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, one minute!",
+            "russian": "Отлично, одну минуту!",
+            "translit": "Otlichno, odnu minutu!",
+            "japanese": "Отлично, одну минуту!",
+            "romaji": "Otlichno, odnu minutu!"
+          }
+        ]
+      }
     }
   ]
 }
