@@ -4283,6 +4283,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T15:56:20.539375",
+      "dialogue": {
+        "topic": "Nice day street greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, nice day, right?",
+            "target_text": "Bonjour, belle journée, non ?",
+            "japanese": "Bonjour, belle journée, non ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very nice day!",
+            "target_text": "Oui, très belle journée !",
+            "japanese": "Oui, très belle journée !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you going to the park?",
+            "target_text": "Tu vas au parc ?",
+            "japanese": "Tu vas au parc ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you!",
+            "target_text": "Oui, à plus !",
+            "japanese": "Oui, à plus !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
