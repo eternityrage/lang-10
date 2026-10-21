@@ -3775,6 +3775,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T15:56:18.902486",
+      "dialogue": {
+        "topic": "Trying on a shirt",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is this shirt nice?",
+            "japanese": "マグ、このシャツ、いいですか？",
+            "romaji": "Magu, kono shatsu, ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Very nice.",
+            "japanese": "はい！とても いいです。",
+            "romaji": "Hai! Totemo ii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try it on?",
+            "japanese": "きても いいですか？",
+            "romaji": "Kite mo ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, please!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
