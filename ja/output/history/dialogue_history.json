@@ -3743,6 +3743,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T10:04:28.573914",
+      "dialogue": {
+        "topic": "Buying an onigiri at the convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this onigiri?",
+            "japanese": "これは おにぎりですか？",
+            "romaji": "Kore wa onigiri desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, tuna onigiri.",
+            "japanese": "はい、ツナおにぎりです。",
+            "romaji": "Hai, tsuna onigiri desu."
+          },
+          {
+            "speaker": "A",
+            "english": "One, please.",
+            "japanese": "ひとつ ください。",
+            "romaji": "Hitotsu kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
