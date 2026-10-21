@@ -3711,6 +3711,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T01:31:44.967061",
+      "dialogue": {
+        "topic": "Coffee taste",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Coffee, please.",
+            "japanese": "コーヒー、ください。",
+            "romaji": "Koohii, kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          },
+          {
+            "speaker": "A",
+            "english": "Is it sweet?",
+            "japanese": "あまいですか？",
+            "romaji": "Amai desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, it is bitter.",
+            "japanese": "いいえ、にがいです。",
+            "romaji": "Iie, nigai desu."
+          }
+        ]
+      }
     }
   ]
 }
