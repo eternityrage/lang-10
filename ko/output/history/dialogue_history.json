@@ -4599,6 +4599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T10:04:24.476617",
+      "dialogue": {
+        "topic": "Subway station convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the station store?",
+            "korean": "지하철역 편의점 어디예요?",
+            "romaja": "Jihacheollyeok pyeonuijeom eodiyeyo?",
+            "japanese": "지하철역 편의점 어디예요?",
+            "romaji": "Jihacheollyeok pyeonuijeom eodiyeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's right over there!",
+            "korean": "저기 바로 있어요!",
+            "romaja": "Jeogi baro isseoyo!",
+            "japanese": "저기 바로 있어요!",
+            "romaji": "Jeogi baro isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do they sell transit cards?",
+            "korean": "여기 교통카드도 팔아요?",
+            "romaja": "Yeogi gyotongkadeudo parayo?",
+            "japanese": "여기 교통카드도 팔아요?",
+            "romaji": "Yeogi gyotongkadeudo parayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go together!",
+            "korean": "네, 같이 가요!",
+            "romaja": "Ne, gachi gayo!",
+            "japanese": "네, 같이 가요!",
+            "romaji": "Ne, gachi gayo!"
+          }
+        ]
+      }
     }
   ]
 }
