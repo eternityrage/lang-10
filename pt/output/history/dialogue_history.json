@@ -4247,6 +4247,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T15:56:54.676956",
+      "dialogue": {
+        "topic": "Açaí Bowl & Smoothies",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, which smoothie is good?",
+            "target_text": "Oi, qual smoothie é bom?",
+            "japanese": "Oi, qual smoothie é bom?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "The mango one is great!",
+            "target_text": "O de manga é ótimo!",
+            "japanese": "O de manga é ótimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can it be without sugar?",
+            "target_text": "Pode ser sem açúcar?",
+            "japanese": "Pode ser sem açúcar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, it tastes very light!",
+            "target_text": "Claro, fica bem leve!",
+            "japanese": "Claro, fica bem leve!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
