@@ -4679,6 +4679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T20:33:12.083299",
+      "dialogue": {
+        "topic": "Subway convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where's the convenience store?",
+            "korean": "저기, 편의점 어디예요?",
+            "romaja": "Jeogi, pyeonuijeom eodiyeyo?",
+            "japanese": "저기, 편의점 어디예요?",
+            "romaji": "Jeogi, pyeonuijeom eodiyeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It’s inside the subway station!",
+            "korean": "지하철역 안에 있어요!",
+            "romaja": "Jihacheol-yeok ane isseoyo!",
+            "japanese": "지하철역 안에 있어요!",
+            "romaji": "Jihacheol-yeok ane isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Oh, is card okay?",
+            "korean": "오, 카드 돼요?",
+            "romaja": "O, kadeu dwaeyo?",
+            "japanese": "오, 카드 돼요?",
+            "romaji": "O, kadeu dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, cards are okay!",
+            "korean": "네, 카드 돼요!",
+            "romaja": "Ne, kadeu dwaeyo!",
+            "japanese": "네, 카드 돼요!",
+            "romaji": "Ne, kadeu dwaeyo!"
+          }
+        ]
+      }
     }
   ]
 }
