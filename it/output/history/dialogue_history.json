@@ -4175,6 +4175,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-21T10:04:19.033511",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have strawberry?",
+            "target_text": "Ciao, avete la fragola?",
+            "japanese": "Ciao, avete la fragola?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s delicious!",
+            "target_text": "Sì, è buonissima!",
+            "japanese": "Sì, è buonissima!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A small cup, please.",
+            "target_text": "Una coppetta, per favore.",
+            "japanese": "Una coppetta, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right away, here you go!",
+            "target_text": "Subito, ecco a te!",
+            "japanese": "Subito, ecco a te!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
