@@ -4319,6 +4319,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T01:28:22.441868",
+      "dialogue": {
+        "topic": "Açaí Bowl & Smoothies",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, which açaí is good?",
+            "target_text": "Oi, qual açaí é bom?",
+            "japanese": "Oi, qual açaí é bom?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "The banana one is great!",
+            "target_text": "O com banana é ótimo!",
+            "japanese": "O com banana é ótimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want a small one.",
+            "target_text": "Quero um pequeno.",
+            "japanese": "Quero um pequeno.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, I'll prepare it now!",
+            "target_text": "Perfeito, já vou preparar!",
+            "japanese": "Perfeito, já vou preparar!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
