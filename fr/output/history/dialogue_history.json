@@ -4391,6 +4391,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T10:22:22.209770",
+      "dialogue": {
+        "topic": "Deciding to eat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you hungry?",
+            "target_text": "Tu as faim ?",
+            "japanese": "Tu as faim ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little!",
+            "target_text": "Oui, un peu !",
+            "japanese": "Oui, un peu !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we eat now?",
+            "target_text": "On mange maintenant ?",
+            "japanese": "On mange maintenant ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, good idea!",
+            "target_text": "Oui, bonne idée !",
+            "japanese": "Oui, bonne idée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
