@@ -4319,6 +4319,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T10:09:53.424864",
+      "dialogue": {
+        "topic": "Espresso Bar & Cornetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you having a croissant?",
+            "target_text": "Ciao, prendi un cornetto?",
+            "japanese": "Ciao, prendi un cornetto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, happily!",
+            "target_text": "Sì, con piacere!",
+            "japanese": "Sì, con piacere!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you also want a cappuccino?",
+            "target_text": "Vuoi anche un cappuccino?",
+            "japanese": "Vuoi anche un cappuccino?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, thank you very much!",
+            "target_text": "Perfetto, grazie mille!",
+            "japanese": "Perfetto, grazie mille!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
