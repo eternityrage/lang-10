@@ -4427,6 +4427,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T20:30:39.722004",
+      "dialogue": {
+        "topic": "Bakery Pão de Queijo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, is it warm?",
+            "target_text": "Bom dia, está quentinho?",
+            "japanese": "Bom dia, está quentinho?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it just came out!",
+            "target_text": "Sim, saiu agora!",
+            "japanese": "Sim, saiu agora!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want two, please.",
+            "target_text": "Quero dois, por favor.",
+            "japanese": "Quero dois, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, enjoy!",
+            "target_text": "Claro, bom apetite!",
+            "japanese": "Claro, bom apetite!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
