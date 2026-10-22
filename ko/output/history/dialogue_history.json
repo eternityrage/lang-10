@@ -4839,6 +4839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T20:30:33.175579",
+      "dialogue": {
+        "topic": "Feeling good today",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How are you today?",
+            "korean": "오늘 기분 어때요?",
+            "romaja": "Oneul gibun eottaeyo?",
+            "japanese": "오늘 기분 어때요?",
+            "romaji": "Oneul gibun eottaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, I feel great!",
+            "korean": "응, 기분 좋아!",
+            "romaja": "Eung, gibun joa!",
+            "japanese": "응, 기분 좋아!",
+            "romaji": "Eung, gibun joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, want to walk?",
+            "korean": "그럼 산책 갈래요?",
+            "romaja": "Geureom sanchaek gallaeyo?",
+            "japanese": "그럼 산책 갈래요?",
+            "romaji": "Geureom sanchaek gallaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's go together!",
+            "korean": "좋아, 같이 가자!",
+            "romaja": "Joa, gachi gaja!",
+            "japanese": "좋아, 같이 가자!",
+            "romaji": "Joa, gachi gaja!"
+          }
+        ]
+      }
     }
   ]
 }
