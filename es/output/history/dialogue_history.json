@@ -4247,6 +4247,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T01:28:33.959566",
+      "dialogue": {
+        "topic": "Metro to the city center",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Does this train go downtown?",
+            "target_text": "¿Este tren va al centro?",
+            "japanese": "¿Este tren va al centro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it goes downtown!",
+            "target_text": "¡Sí, va al centro!",
+            "japanese": "¡Sí, va al centro!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How many stops left?",
+            "target_text": "¿Cuántas paradas faltan?",
+            "japanese": "¿Cuántas paradas faltan?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only two stops left.",
+            "target_text": "Solo faltan dos paradas.",
+            "japanese": "Solo faltan dos paradas.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
