@@ -4759,6 +4759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T01:28:49.045709",
+      "dialogue": {
+        "topic": "Buying Milk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good afternoon, do you have milk?",
+            "russian": "Добрый день, есть молоко?",
+            "translit": "Dobryy den', yest' moloko?",
+            "japanese": "Добрый день, есть молоко?",
+            "romaji": "Dobryy den', yest' moloko?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we have fresh milk!",
+            "russian": "Да, свежее молоко есть!",
+            "translit": "Da, svezheye moloko yest'!",
+            "japanese": "Да, свежее молоко есть!",
+            "romaji": "Da, svezheye moloko yest'!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have one carton?",
+            "russian": "Можно один пакет?",
+            "translit": "Mozhno odin paket?",
+            "japanese": "Можно один пакет?",
+            "romaji": "Mozhno odin paket?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, one hundred rubles.",
+            "russian": "Конечно, сто рублей.",
+            "translit": "Konechno, sto rubley.",
+            "japanese": "Конечно, сто рублей.",
+            "romaji": "Konechno, sto rubley."
+          }
+        ]
+      }
     }
   ]
 }
