@@ -4799,6 +4799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T16:09:05.387163",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "One more skewer?",
+            "korean": "꼬치 하나 더?",
+            "romaja": "Kkochi hana deo?",
+            "japanese": "꼬치 하나 더?",
+            "romaji": "Kkochi hana deo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, really good!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then drink soju too?",
+            "korean": "그럼 소주도 마실까?",
+            "romaja": "Geureom sojudo masilkka?",
+            "japanese": "그럼 소주도 마실까?",
+            "romaji": "Geureom sojudo masilkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, tonight is best!",
+            "korean": "좋아, 오늘 밤 최고!",
+            "romaja": "Joa, oneul bam choego!",
+            "japanese": "좋아, 오늘 밤 최고!",
+            "romaji": "Joa, oneul bam choego!"
+          }
+        ]
+      }
     }
   ]
 }
