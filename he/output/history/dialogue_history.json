@@ -4799,6 +4799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T15:52:56.310477",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is it sunny today?",
+            "target_text": "שלום, יש שמש היום?",
+            "transliteration": "Shalom, yesh shemesh hayom?",
+            "japanese": "שלום, יש שמש היום?",
+            "romaji": "Shalom, yesh shemesh hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very sunny!",
+            "target_text": "כן, ממש שמשי!",
+            "transliteration": "Ken, mamash shimshi!",
+            "japanese": "כן, ממש שמשי!",
+            "romaji": "Ken, mamash shimshi!"
+          },
+          {
+            "speaker": "A",
+            "english": "Sunscreen now?",
+            "target_text": "קרם הגנה עכשיו?",
+            "transliteration": "Krem hagana achshav?",
+            "japanese": "קרם הגנה עכשיו?",
+            "romaji": "Krem hagana achshav?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, and cold water!",
+            "target_text": "כן, ומים קרים!",
+            "transliteration": "Ken, u-mayim karim!",
+            "japanese": "כן, ומים קרים!",
+            "romaji": "Ken, u-mayim karim!"
+          }
+        ]
+      }
     }
   ]
 }
