@@ -4391,6 +4391,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T21:54:47.529244",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you today?",
+            "target_text": "Ciao, come stai oggi?",
+            "japanese": "Ciao, come stai oggi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm great, thank you!",
+            "target_text": "Sto benissimo, grazie mille!",
+            "japanese": "Sto benissimo, grazie mille!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You are really very special.",
+            "target_text": "Sei davvero molto speciale.",
+            "japanese": "Sei davvero molto speciale.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are special too.",
+            "target_text": "Grazie, sei speciale anche tu.",
+            "japanese": "Grazie, sei speciale anche tu.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
