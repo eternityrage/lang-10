@@ -4283,6 +4283,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T10:18:12.166698",
+      "dialogue": {
+        "topic": "Shopping & Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have red apples?",
+            "target_text": "Hola, ¿tiene manzanas rojas?",
+            "japanese": "Hola, ¿tiene manzanas rojas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very sweet.",
+            "target_text": "Sí, están muy dulces.",
+            "japanese": "Sí, están muy dulces.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want two, please.",
+            "target_text": "Quiero dos, por favor.",
+            "japanese": "Quiero dos, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, that’s three euros.",
+            "target_text": "Claro, son tres euros.",
+            "japanese": "Claro, son tres euros.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
