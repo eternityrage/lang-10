@@ -3935,6 +3935,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T21:47:10.088614",
+      "dialogue": {
+        "topic": "Buying juice at the convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this juice cheap?",
+            "japanese": "この ジュース、やすいですか？",
+            "romaji": "Kono juusu, yasui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is 100 yen.",
+            "japanese": "はい、ひゃくえんです。",
+            "romaji": "Hai, hyaku en desu."
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll buy one.",
+            "japanese": "ひとつ かいます。",
+            "romaji": "Hitotsu kaimasu."
+          },
+          {
+            "speaker": "B",
+            "english": "The register is here.",
+            "japanese": "レジは ここです。",
+            "romaji": "Reji wa koko desu."
+          }
+        ]
+      }
     }
   ]
 }
