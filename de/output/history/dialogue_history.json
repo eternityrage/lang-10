@@ -4355,6 +4355,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T10:06:11.728747",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, does the U2 run?",
+            "target_text": "Hallo, fährt die U2?",
+            "japanese": "Hallo, fährt die U2?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the U2 runs!",
+            "target_text": "Ja, die U2 fährt!",
+            "japanese": "Ja, die U2 fährt!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "In which direction?",
+            "target_text": "In welche Richtung?",
+            "japanese": "In welche Richtung?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Toward Pankow, platform two.",
+            "target_text": "Richtung Pankow, Gleis zwei.",
+            "japanese": "Richtung Pankow, Gleis zwei.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
