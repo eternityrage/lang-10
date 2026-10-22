@@ -3871,6 +3871,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T10:16:03.889263",
+      "dialogue": {
+        "topic": "Cupcake asks if it is fire",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is this fire?",
+            "japanese": "マグ、これ、やばい？",
+            "romaji": "Magu, kore, yabai?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, super fire!",
+            "japanese": "うん、まじ やばい！",
+            "romaji": "Un, maji yabai!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it sweet?",
+            "japanese": "あまい？",
+            "romaji": "Amai?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, so sweet!",
+            "japanese": "うん、すごく あまい！",
+            "romaji": "Un, sugoku amai!"
+          }
+        ]
+      }
     }
   ]
 }
