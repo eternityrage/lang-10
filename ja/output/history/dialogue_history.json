@@ -3839,6 +3839,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T01:28:32.156274",
+      "dialogue": {
+        "topic": "Tiny Hero",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Am I a hero?",
+            "japanese": "ぼくは ヒーローですか？",
+            "romaji": "Boku wa hiiroo desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a hero!",
+            "japanese": "はい、ヒーローです！",
+            "romaji": "Hai, hiiroo desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "But I'm scared.",
+            "japanese": "でも、こわいです。",
+            "romaji": "Demo, kowai desu."
+          },
+          {
+            "speaker": "B",
+            "english": "It's okay. Let's go!",
+            "japanese": "だいじょうぶ。いきましょう！",
+            "romaji": "Daijoubu. Ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
