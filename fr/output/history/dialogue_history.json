@@ -4427,6 +4427,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T16:08:04.296246",
+      "dialogue": {
+        "topic": "Leaving the house",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you ready?",
+            "target_text": "Tu es prêt ?",
+            "japanese": "Tu es prêt ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am ready!",
+            "target_text": "Oui, je suis prêt !",
+            "japanese": "Oui, je suis prêt !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do we leave now?",
+            "target_text": "On part maintenant ?",
+            "japanese": "On part maintenant ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "Oui, on y va !",
+            "japanese": "Oui, on y va !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
