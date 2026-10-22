@@ -4283,6 +4283,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T01:28:26.117742",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you look great today!",
+            "target_text": "Ciao, stai benissimo oggi!",
+            "japanese": "Ciao, stai benissimo oggi!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, how kind!",
+            "target_text": "Grazie, che gentile!",
+            "japanese": "Grazie, che gentile!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Blue looks good on you.",
+            "target_text": "Il blu ti sta bene.",
+            "japanese": "Il blu ti sta bene.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "You are very sweet, thanks!",
+            "target_text": "Sei molto dolce, grazie!",
+            "japanese": "Sei molto dolce, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
