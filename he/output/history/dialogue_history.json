@@ -4839,6 +4839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T20:30:56.540004",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, nice day, right?",
+            "target_text": "היי, יום יפה, נכון?",
+            "transliteration": "Hey, yom yafe, nachon?",
+            "japanese": "היי, יום יפה, נכון?",
+            "romaji": "Hey, yom yafe, nachon?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, super cool today!",
+            "target_text": "כן, ממש סבבה היום!",
+            "transliteration": "Ken, mamash sababa hayom!",
+            "japanese": "כן, ממש סבבה היום!",
+            "romaji": "Ken, mamash sababa hayom!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, shall we walk?",
+            "target_text": "יופי, הולכים לטייל?",
+            "transliteration": "Yofi, holchim letayel?",
+            "japanese": "יופי, הולכים לטייל?",
+            "romaji": "Yofi, holchim letayel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, yalla, come!",
+            "target_text": "בטח, יאללה, בוא!",
+            "transliteration": "Betach, yalla, bo!",
+            "japanese": "בטח, יאללה, בוא!",
+            "romaji": "Betach, yalla, bo!"
+          }
+        ]
+      }
     }
   ]
 }
