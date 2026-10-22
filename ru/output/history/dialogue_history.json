@@ -4879,6 +4879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T20:30:28.586598",
+      "dialogue": {
+        "topic": "Buying juice",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have juice?",
+            "russian": "Здравствуйте, у вас есть сок?",
+            "translit": "Zdravstvuyte, u vas yest' sok?",
+            "japanese": "Здравствуйте, у вас есть сок?",
+            "romaji": "Zdravstvuyte, u vas yest' sok?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we have apple juice!",
+            "russian": "Да, яблочный сок есть!",
+            "translit": "Da, yablochnyy sok yest'!",
+            "japanese": "Да, яблочный сок есть!",
+            "romaji": "Da, yablochnyy sok yest'!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "russian": "Сколько он стоит?",
+            "translit": "Skol'ko on stoit?",
+            "japanese": "Сколько он стоит?",
+            "romaji": "Skol'ko on stoit?"
+          },
+          {
+            "speaker": "B",
+            "english": "Fifty rubles, please.",
+            "russian": "Пятьдесят рублей, пожалуйста.",
+            "translit": "Pyat'desyat rubley, pozhaluysta.",
+            "japanese": "Пятьдесят рублей, пожалуйста.",
+            "romaji": "Pyat'desyat rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
