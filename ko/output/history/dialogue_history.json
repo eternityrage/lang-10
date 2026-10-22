@@ -4719,6 +4719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-22T01:28:25.143629",
+      "dialogue": {
+        "topic": "Because of You",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you happy today?",
+            "korean": "오늘 기분 좋아?",
+            "romaja": "Oneul gibun joa?",
+            "japanese": "오늘 기분 좋아?",
+            "romaji": "Oneul gibun joa?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, because of you!",
+            "korean": "응, 너 때문에!",
+            "romaja": "Eung, neo ttaemune!",
+            "japanese": "응, 너 때문에!",
+            "romaji": "Eung, neo ttaemune!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? I'm happy too.",
+            "korean": "진짜? 나도 좋아.",
+            "romaja": "Jinjja? nado joa.",
+            "japanese": "진짜? 나도 좋아.",
+            "romaji": "Jinjja? nado joa."
+          },
+          {
+            "speaker": "B",
+            "english": "Let's keep smiling together.",
+            "korean": "우리 계속 웃자.",
+            "romaja": "Uri gyesok utja.",
+            "japanese": "우리 계속 웃자.",
+            "romaji": "Uri gyesok utja."
+          }
+        ]
+      }
     }
   ]
 }
