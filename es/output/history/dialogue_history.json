@@ -4427,6 +4427,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T09:59:29.557996",
+      "dialogue": {
+        "topic": "Fiesta tranquila",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How is the party?",
+            "target_text": "¿Cómo está la fiesta?",
+            "japanese": "¿Cómo está la fiesta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is very fun!",
+            "target_text": "¡Está muy divertida!",
+            "japanese": "¡Está muy divertida!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you want soft music?",
+            "target_text": "¿Quieres música suave?",
+            "japanese": "¿Quieres música suave?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we play soft music.",
+            "target_text": "Sí, ponemos música suave.",
+            "japanese": "Sí, ponemos música suave.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
