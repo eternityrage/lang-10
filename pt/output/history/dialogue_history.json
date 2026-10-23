@@ -4535,6 +4535,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T17:14:11.921567",
+      "dialogue": {
+        "topic": "Making movie plans",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we go to the movies?",
+            "target_text": "Oi, vamos ao cinema?",
+            "japanese": "Oi, vamos ao cinema?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, I'm in!",
+            "target_text": "Claro, eu topo!",
+            "japanese": "Claro, eu topo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What time, then?",
+            "target_text": "Que horas, então?",
+            "japanese": "Que horas, então?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "At eight, deal!",
+            "target_text": "Às oito, combinado!",
+            "japanese": "Às oito, combinado!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
