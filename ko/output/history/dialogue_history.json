@@ -4879,6 +4879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T01:27:49.970174",
+      "dialogue": {
+        "topic": "Late Night Pocha - Fish Cake Soup",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want fish cake soup?",
+            "korean": "어묵탕 하나 먹을래?",
+            "romaja": "Eomuktang hana meogeullae?",
+            "japanese": "어묵탕 하나 먹을래?",
+            "romaji": "Eomuktang hana meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I'm hungry!",
+            "korean": "좋아, 나 배고파!",
+            "romaja": "Joa, na baegopa!",
+            "japanese": "좋아, 나 배고파!",
+            "romaji": "Joa, na baegopa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then sit here.",
+            "korean": "그럼 여기 앉자.",
+            "romaja": "Geureom yeogi anja.",
+            "japanese": "그럼 여기 앉자.",
+            "romaji": "Geureom yeogi anja."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, night pocha rocks!",
+            "korean": "좋아, 밤 포차 최고!",
+            "romaja": "Joa, bam pocha choego!",
+            "japanese": "좋아, 밤 포차 최고!",
+            "romaji": "Joa, bam pocha choego!"
+          }
+        ]
+      }
     }
   ]
 }
