@@ -4919,6 +4919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T11:04:21.216389",
+      "dialogue": {
+        "topic": "A sweet walk date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Walk together today?",
+            "korean": "오늘 같이 걸을래요?",
+            "romaja": "Oneul gachi georeullaeyo?",
+            "japanese": "오늘 같이 걸을래요?",
+            "romaji": "Oneul gachi georeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds great!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I hold hands?",
+            "korean": "손 잡아도 돼요?",
+            "romaja": "Son jabado dwaeyo?",
+            "japanese": "손 잡아도 돼요?",
+            "romaji": "Son jabado dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little fluttery.",
+            "korean": "네, 조금 설레요.",
+            "romaja": "Ne, jogeum seolleyo.",
+            "japanese": "네, 조금 설레요.",
+            "romaji": "Ne, jogeum seolleyo."
+          }
+        ]
+      }
     }
   ]
 }
