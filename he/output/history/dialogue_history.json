@@ -4879,6 +4879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T01:27:22.965845",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the sun strong?",
+            "target_text": "היי, השמש חזקה?",
+            "transliteration": "Hai, ha-shemesh chazaka?",
+            "japanese": "היי, השמש חזקה?",
+            "romaji": "Hai, ha-shemesh chazaka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very strong!",
+            "target_text": "כן, חזקה מאוד!",
+            "transliteration": "Ken, chazaka me'od!",
+            "japanese": "כן, חזקה מאוד!",
+            "romaji": "Ken, chazaka me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have sunscreen?",
+            "target_text": "יש לך קרם הגנה?",
+            "transliteration": "Yesh lecha krem hagana?",
+            "japanese": "יש לך קרם הגנה?",
+            "romaji": "Yesh lecha krem hagana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here is sunscreen.",
+            "target_text": "כן, הנה קרם הגנה.",
+            "transliteration": "Ken, hine krem hagana.",
+            "japanese": "כן, הנה קרם הגנה.",
+            "romaji": "Ken, hine krem hagana."
+          }
+        ]
+      }
     }
   ]
 }
