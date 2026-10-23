@@ -5159,6 +5159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T15:43:59.594973",
+      "dialogue": {
+        "topic": "Good Evening",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening!",
+            "chinese": "晚上好！",
+            "pinyin": "Wǎnshang hǎo!",
+            "japanese": "晚上好！",
+            "romaji": "Wǎnshang hǎo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Good evening!",
+            "chinese": "晚上好！",
+            "pinyin": "Wǎnshang hǎo!",
+            "japanese": "晚上好！",
+            "romaji": "Wǎnshang hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Where are you going?",
+            "chinese": "你去哪儿？",
+            "pinyin": "Nǐ qù nǎr?",
+            "japanese": "你去哪儿？",
+            "romaji": "Nǐ qù nǎr?"
+          },
+          {
+            "speaker": "B",
+            "english": "Going home!",
+            "chinese": "回家了！",
+            "pinyin": "Huí jiā le!",
+            "japanese": "回家了！",
+            "romaji": "Huí jiā le!"
+          }
+        ]
+      }
     }
   ]
 }
