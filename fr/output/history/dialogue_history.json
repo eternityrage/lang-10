@@ -4571,6 +4571,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T15:44:05.554616",
+      "dialogue": {
+        "topic": "Parisian Cafe & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, a table, please?",
+            "target_text": "Bonjour, une table, s’il vous plaît ?",
+            "japanese": "Bonjour, une table, s’il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Near the window?",
+            "target_text": "Près de la fenêtre ?",
+            "japanese": "Près de la fenêtre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, follow me!",
+            "target_text": "Bien sûr, suivez-moi !",
+            "japanese": "Bien sûr, suivez-moi !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
