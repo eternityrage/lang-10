@@ -4499,6 +4499,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T09:59:52.765650",
+      "dialogue": {
+        "topic": "Asking for a photo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, can you help?",
+            "target_text": "Entschuldigung, können Sie helfen?",
+            "japanese": "Entschuldigung, können Sie helfen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A photo, please.",
+            "target_text": "Ein Foto, bitte.",
+            "japanese": "Ein Foto, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, no problem!",
+            "target_text": "Ja, kein Problem!",
+            "japanese": "Ja, kein Problem!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
