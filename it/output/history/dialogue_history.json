@@ -4535,6 +4535,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T20:20:06.241342",
+      "dialogue": {
+        "topic": "Florence walk: Duomo photo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you see the Duomo?",
+            "target_text": "Ciao, vedi il Duomo?",
+            "japanese": "Ciao, vedi il Duomo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s beautiful!",
+            "target_text": "Sì, è bellissimo!",
+            "japanese": "Sì, è bellissimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a photo?",
+            "target_text": "Facciamo una foto?",
+            "japanese": "Facciamo una foto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, what a lovely walk!",
+            "target_text": "Certo, che bella passeggiata!",
+            "japanese": "Certo, che bella passeggiata!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
