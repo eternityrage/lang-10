@@ -4463,6 +4463,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T09:59:47.394276",
+      "dialogue": {
+        "topic": "Finding the platform",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, where is platform three?",
+            "target_text": "Buongiorno, dov’è il binario tre?",
+            "japanese": "Buongiorno, dov’è il binario tre?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It’s there, near the bar!",
+            "target_text": "È là, vicino al bar!",
+            "japanese": "È là, vicino al bar!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, is it far?",
+            "target_text": "Grazie, è lontano?",
+            "japanese": "Grazie, è lontano?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, two minutes.",
+            "target_text": "No, due minuti.",
+            "japanese": "No, due minuti.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
