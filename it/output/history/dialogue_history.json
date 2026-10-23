@@ -4499,6 +4499,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T15:44:30.061096",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have lasagna today?",
+            "target_text": "Ciao, avete le lasagne oggi?",
+            "japanese": "Ciao, avete le lasagne oggi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are delicious!",
+            "target_text": "Sì, sono buonissime!",
+            "japanese": "Sì, sono buonissime!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then, one portion, thanks.",
+            "target_text": "Allora, una porzione, grazie.",
+            "japanese": "Allora, una porzione, grazie.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right away, enjoy your meal!",
+            "target_text": "Subito, buon appetito!",
+            "japanese": "Subito, buon appetito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
