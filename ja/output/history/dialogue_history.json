@@ -4063,6 +4063,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T20:19:58.250435",
+      "dialogue": {
+        "topic": "Tiny Heart",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "There is a heart!",
+            "japanese": "ハートが あります！",
+            "romaji": "Haato ga arimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Oh, it's cute!",
+            "japanese": "えっ、かわいいです！",
+            "romaji": "E, kawaii desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "It's very small.",
+            "japanese": "とても ちいさいです。",
+            "romaji": "Totemo chiisai desu."
+          },
+          {
+            "speaker": "B",
+            "english": "I'm so happy!",
+            "japanese": "とても うれしいです！",
+            "romaji": "Totemo ureshii desu!"
+          }
+        ]
+      }
     }
   ]
 }
