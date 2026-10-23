@@ -4535,6 +4535,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T15:44:07.602181",
+      "dialogue": {
+        "topic": "Berlin Street Life",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! Is this bretzel fresh?",
+            "target_text": "Hallo! Ist die Brezel frisch?",
+            "japanese": "Hallo! Ist die Brezel frisch?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, fresh from the oven!",
+            "target_text": "Ja, frisch aus dem Ofen!",
+            "japanese": "Ja, frisch aus dem Ofen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One bretzel, please.",
+            "target_text": "Eine Brezel, bitte.",
+            "japanese": "Eine Brezel, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, enjoy!",
+            "target_text": "Bitte schön, guten Appetit!",
+            "japanese": "Bitte schön, guten Appetit!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
