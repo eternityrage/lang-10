@@ -4959,6 +4959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T15:44:01.917942",
+      "dialogue": {
+        "topic": "Shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there a sale?",
+            "korean": "안녕하세요, 세일 있어요?",
+            "romaja": "Annyeonghaseyo, seil isseoyo?",
+            "japanese": "안녕하세요, 세일 있어요?",
+            "romaji": "Annyeonghaseyo, seil isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there's a sale today!",
+            "korean": "네, 오늘 세일이에요!",
+            "romaja": "Ne, oneul seirieyo!",
+            "japanese": "네, 오늘 세일이에요!",
+            "romaji": "Ne, oneul seirieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is this T-shirt?",
+            "korean": "이 티셔츠 얼마예요?",
+            "romaja": "I tisyeocheu eolmayeyo?",
+            "japanese": "이 티셔츠 얼마예요?",
+            "romaji": "I tisyeocheu eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's ten thousand won now!",
+            "korean": "지금 만 원이에요!",
+            "romaja": "Jigeum man wonieyo!",
+            "japanese": "지금 만 원이에요!",
+            "romaji": "Jigeum man wonieyo!"
+          }
+        ]
+      }
     }
   ]
 }
