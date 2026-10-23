@@ -3999,6 +3999,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T09:59:39.259072",
+      "dialogue": {
+        "topic": "Sweet Confession",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, I like you.",
+            "japanese": "マグさん、すきです。",
+            "romaji": "Magu-san, suki desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Really?",
+            "japanese": "ほんとうですか？",
+            "romaji": "Hontou desu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, I love you.",
+            "japanese": "はい、だいすきです。",
+            "romaji": "Hai, daisuki desu."
+          },
+          {
+            "speaker": "B",
+            "english": "I like you too.",
+            "japanese": "わたしも すきです。",
+            "romaji": "Watashi mo suki desu."
+          }
+        ]
+      }
     }
   ]
 }
