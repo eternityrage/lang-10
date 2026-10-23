@@ -4607,6 +4607,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T20:20:10.522849",
+      "dialogue": {
+        "topic": "Street Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where are you going?",
+            "target_text": "Salut, tu vas où ?",
+            "japanese": "Salut, tu vas où ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’m going to the park!",
+            "target_text": "Je vais au parc !",
+            "japanese": "Je vais au parc !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I come with you?",
+            "target_text": "Je viens avec toi ?",
+            "japanese": "Je viens avec toi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go together!",
+            "target_text": "Oui, allons-y ensemble !",
+            "japanese": "Oui, allons-y ensemble !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
