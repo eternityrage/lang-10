@@ -4999,6 +4999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T20:20:19.568717",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, bro!",
+            "target_text": "ערב טוב, אחי!",
+            "transliteration": "Erev tov, achi!",
+            "japanese": "ערב טוב, אחי!",
+            "romaji": "Erev tov, achi!"
+          },
+          {
+            "speaker": "B",
+            "english": "Cool, great to see you!",
+            "target_text": "סבבה, טוב לראות אותך!",
+            "transliteration": "Sababa, tov lir'ot otcha!",
+            "japanese": "סבבה, טוב לראות אותך!",
+            "romaji": "Sababa, tov lir'ot otcha!"
+          },
+          {
+            "speaker": "A",
+            "english": "Are you coming tonight?",
+            "target_text": "אתה בא הערב?",
+            "transliteration": "Ata ba ha-erev?",
+            "japanese": "אתה בא הערב?",
+            "romaji": "Ata ba ha-erev?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you there!",
+            "target_text": "כן, נתראה שם!",
+            "transliteration": "Ken, nitra'eh sham!",
+            "japanese": "כן, נתראה שם!",
+            "romaji": "Ken, nitra'eh sham!"
+          }
+        ]
+      }
     }
   ]
 }
