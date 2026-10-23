@@ -4499,6 +4499,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T20:20:16.033165",
+      "dialogue": {
+        "topic": "Fiesta con pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Is there music?",
+            "target_text": "¡Hola! ¿Hay música?",
+            "japanese": "¡Hola! ¿Hay música?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, and there is pizza!",
+            "target_text": "¡Sí, y hay pizza!",
+            "japanese": "¡Sí, y hay pizza!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great! Where is the pizza?",
+            "target_text": "¡Genial! ¿Dónde está la pizza?",
+            "japanese": "¡Genial! ¿Dónde está la pizza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here, take a slice.",
+            "target_text": "Aquí, toma un trozo.",
+            "japanese": "Aquí, toma un trozo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
