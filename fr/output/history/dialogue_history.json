@@ -4535,6 +4535,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T09:59:37.615684",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, want to dance?",
+            "target_text": "Bonsoir, tu veux danser ?",
+            "japanese": "Bonsoir, tu veux danser ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You are adorable.",
+            "target_text": "Tu es adorable.",
+            "japanese": "Tu es adorable.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you too!",
+            "target_text": "Merci, toi aussi !",
+            "japanese": "Merci, toi aussi !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
