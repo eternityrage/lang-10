@@ -4427,6 +4427,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T03:10:35.448238",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, the menu, please?",
+            "target_text": "Ciao, il menù, per favore?",
+            "japanese": "Ciao, il menù, per favore?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here it is!",
+            "target_text": "Certo, eccolo qui!",
+            "japanese": "Certo, eccolo qui!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What is the specialty?",
+            "target_text": "Qual è la specialità?",
+            "japanese": "Qual è la specialità?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "The mushroom pizza!",
+            "target_text": "La pizza ai funghi!",
+            "japanese": "La pizza ai funghi!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
