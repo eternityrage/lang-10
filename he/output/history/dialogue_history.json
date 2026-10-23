@@ -4919,6 +4919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T09:59:44.621878",
+      "dialogue": {
+        "topic": "Directions to the taxi stand",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is the taxi stand?",
+            "target_text": "סליחה, איפה תחנת מוניות?",
+            "transliteration": "Slicha, eifo tachanat moniyot?",
+            "japanese": "סליחה, איפה תחנת מוניות?",
+            "romaji": "Slicha, eifo tachanat moniyot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there by the hotel!",
+            "target_text": "כן, שם ליד המלון.",
+            "transliteration": "Ken, sham leyad hamalon.",
+            "japanese": "כן, שם ליד המלון.",
+            "romaji": "Ken, sham leyad hamalon."
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far from here?",
+            "target_text": "זה רחוק מכאן?",
+            "transliteration": "Ze rachok mikan?",
+            "japanese": "זה רחוק מכאן?",
+            "romaji": "Ze rachok mikan?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, two minutes on foot.",
+            "target_text": "לא, שתי דקות ברגל.",
+            "transliteration": "Lo, shtei dakot baregel.",
+            "japanese": "לא, שתי דקות ברגל.",
+            "romaji": "Lo, shtei dakot baregel."
+          }
+        ]
+      }
     }
   ]
 }
