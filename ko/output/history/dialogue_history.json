@@ -4999,6 +4999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T20:20:31.001796",
+      "dialogue": {
+        "topic": "Convenience store in the subway station",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the convenience store?",
+            "korean": "편의점 어디예요?",
+            "romaja": "Pyeonuijeom eodiyeyo?",
+            "japanese": "편의점 어디예요?",
+            "romaji": "Pyeonuijeom eodiyeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's inside the station!",
+            "korean": "역 안에 있어요!",
+            "romaja": "Yeok ane isseoyo!",
+            "japanese": "역 안에 있어요!",
+            "romaji": "Yeok ane isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do they have gimbap too?",
+            "korean": "김밥도 있어요?",
+            "romaja": "Gimbapdo isseoyo?",
+            "japanese": "김밥도 있어요?",
+            "romaji": "Gimbapdo isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go together!",
+            "korean": "네, 같이 가요!",
+            "romaja": "Ne, gachi gayo!",
+            "japanese": "네, 같이 가요!",
+            "romaji": "Ne, gachi gayo!"
+          }
+        ]
+      }
     }
   ]
 }
