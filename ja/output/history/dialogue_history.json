@@ -4031,6 +4031,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T16:50:00.364415",
+      "dialogue": {
+        "topic": "Buying a train ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "One ticket, please.",
+            "japanese": "きっぷを ひとつ ください。",
+            "romaji": "Kippu o hitotsu kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "To the station?",
+            "japanese": "えきまで いきますか？",
+            "romaji": "Eki made ikimasu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, to the station.",
+            "japanese": "はい、えきまで いきます。",
+            "romaji": "Hai, eki made ikimasu."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here you go.",
+            "japanese": "はい、これを どうぞ。",
+            "romaji": "Hai, kore o douzo."
+          }
+        ]
+      }
     }
   ]
 }
