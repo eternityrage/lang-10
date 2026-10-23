@@ -4959,6 +4959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T15:44:06.354239",
+      "dialogue": {
+        "topic": "Walking to Carmel Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is Carmel Market?",
+            "target_text": "סליחה, איפה שוק הכרמל?",
+            "transliteration": "Slicha, eifo Shuk HaCarmel?",
+            "japanese": "סליחה, איפה שוק הכרמל?",
+            "romaji": "Slicha, eifo Shuk HaCarmel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Close, straight and left!",
+            "target_text": "קרוב, ישר ושמאלה!",
+            "transliteration": "Karov, yashar ve-smola!",
+            "japanese": "קרוב, ישר ושמאלה!",
+            "romaji": "Karov, yashar ve-smola!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I walk?",
+            "target_text": "אפשר ללכת ברגל?",
+            "transliteration": "Efshar lalechet ba-regel?",
+            "japanese": "אפשר ללכת ברגל?",
+            "romaji": "Efshar lalechet ba-regel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, five minutes.",
+            "target_text": "כן, חמש דקות.",
+            "transliteration": "Ken, chamesh dakot.",
+            "japanese": "כן, חמש דקות.",
+            "romaji": "Ken, chamesh dakot."
+          }
+        ]
+      }
     }
   ]
 }
