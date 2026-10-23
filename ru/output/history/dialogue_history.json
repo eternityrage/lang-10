@@ -4959,6 +4959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T11:27:04.237698",
+      "dialogue": {
+        "topic": "Taxi to the Moscow Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! To the metro, please.",
+            "russian": "Здравствуйте! До метро, пожалуйста.",
+            "translit": "Zdravstvuyte! Do metro, pozhaluysta.",
+            "japanese": "Здравствуйте! До метро, пожалуйста.",
+            "romaji": "Zdravstvuyte! Do metro, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course! Please sit down.",
+            "russian": "Конечно! Садитесь, пожалуйста.",
+            "translit": "Konechno! Sadites', pozhaluysta.",
+            "japanese": "Конечно! Садитесь, пожалуйста.",
+            "romaji": "Konechno! Sadites', pozhaluysta."
+          },
+          {
+            "speaker": "A",
+            "english": "How much is the ride?",
+            "russian": "Сколько стоит поездка?",
+            "translit": "Skol'ko stoit poezdka?",
+            "japanese": "Сколько стоит поездка?",
+            "romaji": "Skol'ko stoit poezdka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Three hundred rubles. Let's go!",
+            "russian": "Триста рублей. Поехали!",
+            "translit": "Trista rubley. Poekhali!",
+            "japanese": "Триста рублей. Поехали!",
+            "romaji": "Trista rubley. Poekhali!"
+          }
+        ]
+      }
     }
   ]
 }
