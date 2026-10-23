@@ -5199,6 +5199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T22:03:44.122022",
+      "dialogue": {
+        "topic": "Night Market Snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want this?",
+            "chinese": "要这个吗？",
+            "pinyin": "Yào zhège ma?",
+            "japanese": "要这个吗？",
+            "romaji": "Yào zhège ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, one!",
+            "chinese": "要，一个！",
+            "pinyin": "Yào, yí ge!",
+            "japanese": "要，一个！",
+            "romaji": "Yào, yí ge!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much?",
+            "chinese": "多少钱？",
+            "pinyin": "Duōshǎo qián?",
+            "japanese": "多少钱？",
+            "romaji": "Duōshǎo qián?"
+          },
+          {
+            "speaker": "B",
+            "english": "Five yuan.",
+            "chinese": "五块钱。",
+            "pinyin": "Wǔ kuài qián.",
+            "japanese": "五块钱。",
+            "romaji": "Wǔ kuài qián."
+          }
+        ]
+      }
     }
   ]
 }
