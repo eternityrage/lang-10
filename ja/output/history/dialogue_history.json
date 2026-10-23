@@ -3967,6 +3967,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T01:27:26.329573",
+      "dialogue": {
+        "topic": "Buying a bento at the convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is this cheap?",
+            "japanese": "マグさん、これは やすいですか？",
+            "romaji": "Magu-san, kore wa yasui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is 300 yen.",
+            "japanese": "はい、さんびゃくえんです。",
+            "romaji": "Hai, sanbyaku-en desu."
+          },
+          {
+            "speaker": "A",
+            "english": "I will buy one.",
+            "japanese": "これを ひとつ かいます。",
+            "romaji": "Kore o hitotsu kaimasu."
+          },
+          {
+            "speaker": "B",
+            "english": "This register, please.",
+            "japanese": "この レジへ どうぞ。",
+            "romaji": "Kono reji e douzo."
+          }
+        ]
+      }
     }
   ]
 }
