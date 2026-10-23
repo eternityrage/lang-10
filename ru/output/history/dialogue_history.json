@@ -4919,6 +4919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T02:46:12.735236",
+      "dialogue": {
+        "topic": "Moscow Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the metro nearby?",
+            "russian": "Здравствуйте, метро здесь рядом?",
+            "translit": "Zdravstvuyte, metro zdes' ryadom?",
+            "japanese": "Здравствуйте, метро здесь рядом?",
+            "romaji": "Zdravstvuyte, metro zdes' ryadom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the metro is very close!",
+            "russian": "Да, метро очень близко!",
+            "translit": "Da, metro ochen' blizko!",
+            "japanese": "Да, метро очень близко!",
+            "romaji": "Da, metro ochen' blizko!"
+          },
+          {
+            "speaker": "A",
+            "english": "How do I walk there?",
+            "russian": "Как пройти туда пешком?",
+            "translit": "Kak proyti tuda peshkom?",
+            "japanese": "Как пройти туда пешком?",
+            "romaji": "Kak proyti tuda peshkom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Go straight for two minutes.",
+            "russian": "Идите прямо две минуты.",
+            "translit": "Idite pryamo dve minuty.",
+            "japanese": "Идите прямо две минуты.",
+            "romaji": "Idite pryamo dve minuty."
+          }
+        ]
+      }
     }
   ]
 }
