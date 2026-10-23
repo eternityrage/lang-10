@@ -4571,6 +4571,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-23T20:20:00.356834",
+      "dialogue": {
+        "topic": "New sneakers",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, new sneakers?",
+            "target_text": "Oi, tênis novo?",
+            "japanese": "Oi, tênis novo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are new!",
+            "target_text": "Sim, é novo!",
+            "japanese": "Sim, é novo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "They look very nice!",
+            "target_text": "Ficou muito bonito!",
+            "japanese": "Ficou muito bonito!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, my friend!",
+            "target_text": "Valeu, meu amigo!",
+            "japanese": "Valeu, meu amigo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
