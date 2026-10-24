@@ -4607,6 +4607,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T01:32:52.419647",
+      "dialogue": {
+        "topic": "Uber para a Paulista em São Paulo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is this my Uber?",
+            "target_text": "Oi, é meu Uber?",
+            "japanese": "Oi, é meu Uber?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, you can get in!",
+            "target_text": "Sim, pode entrar!",
+            "japanese": "Sim, pode entrar!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are we going to Paulista?",
+            "target_text": "Vai para a Paulista?",
+            "japanese": "Vai para a Paulista?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, let's go now!",
+            "target_text": "Claro, vamos agora!",
+            "japanese": "Claro, vamos agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
