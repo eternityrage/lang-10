@@ -4715,6 +4715,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T14:48:44.432184",
+      "dialogue": {
+        "topic": "Boutique Shopping - Shoes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have these shoes?",
+            "target_text": "Bonjour, vous avez ces chaussures ?",
+            "japanese": "Bonjour, vous avez ces chaussures ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much are they?",
+            "target_text": "Elles coûtent combien ?",
+            "japanese": "Elles coûtent combien ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only thirty euros!",
+            "target_text": "Trente euros seulement !",
+            "japanese": "Trente euros seulement !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
