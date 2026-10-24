@@ -4191,6 +4191,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T19:25:23.114663",
+      "dialogue": {
+        "topic": "Buying a bento at the convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this bento?",
+            "japanese": "この おべんとう、いくらですか？",
+            "romaji": "Kono obentou, ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is 300 yen.",
+            "japanese": "さんびゃく えん です。",
+            "romaji": "Sanbyaku en desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Okay, this please.",
+            "japanese": "じゃあ、これ ください。",
+            "romaji": "Jaa, kore kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          }
+        ]
+      }
     }
   ]
 }
