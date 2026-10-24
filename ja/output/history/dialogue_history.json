@@ -4159,6 +4159,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T14:28:40.262022",
+      "dialogue": {
+        "topic": "Hot drink at the cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is that hot?",
+            "japanese": "それ、あついですか？",
+            "romaji": "Sore, atsui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's hot.",
+            "japanese": "はい、あついです。",
+            "romaji": "Hai, atsui desu."
+          },
+          {
+            "speaker": "A",
+            "english": "I want a little.",
+            "japanese": "すこし のみたいです。",
+            "romaji": "Sukoshi nomitai desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure. Drink slowly.",
+            "japanese": "どうぞ。ゆっくり のんでください。",
+            "romaji": "Douzo. Yukkuri nonde kudasai."
+          }
+        ]
+      }
     }
   ]
 }
