@@ -5159,6 +5159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T15:23:00.547562",
+      "dialogue": {
+        "topic": "Cafe & Hot Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "May I have hot tea?",
+            "russian": "Можно горячий чай, пожалуйста?",
+            "translit": "Mozhno goryachiy chay, pozhaluysta?",
+            "japanese": "Можно горячий чай, пожалуйста?",
+            "romaji": "Mozhno goryachiy chay, pozhaluysta?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, tea is ready!",
+            "russian": "Да, чай уже готов!",
+            "translit": "Da, chay uzhe gotov!",
+            "japanese": "Да, чай уже готов!",
+            "romaji": "Da, chay uzhe gotov!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have lemon?",
+            "russian": "Можно с лимоном?",
+            "translit": "Mozhno s limonom?",
+            "japanese": "Можно с лимоном?",
+            "romaji": "Mozhno s limonom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here is your tea!",
+            "russian": "Конечно, вот ваш чай!",
+            "translit": "Konechno, vot vash chay!",
+            "japanese": "Конечно, вот ваш чай!",
+            "romaji": "Konechno, vot vash chay!"
+          }
+        ]
+      }
     }
   ]
 }
