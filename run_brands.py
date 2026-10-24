@@ -1,5 +1,6 @@
 import os
 import sys
+import time
 import argparse
 import asyncio
 from pathlib import Path
@@ -129,12 +130,18 @@ if __name__ == '__main__':
     parser.add_argument('--no-upload', action='store_true', help="Skip upload step")
     parser.add_argument('--youtube', type=str, choices=['auto', 'force', 'skip'], default='auto',
                         help="YouTube upload mode: auto (strictly 2x daily quota), force (bypass quota), or skip")
+    parser.add_argument('--delay', type=int, default=300,
+                        help="Delay in seconds between language runs when --lang all is used (default: 300)")
     args = parser.parse_args()
 
     should_upload = not args.no_upload
 
     if args.lang.lower() == 'all':
-        for code in ENGINES.keys():
+        codes = list(ENGINES.keys())
+        for i, code in enumerate(codes):
             asyncio.run(run_cycle(code, upload=should_upload, youtube_mode=args.youtube))
+            if should_upload and i < len(codes) - 1 and args.delay > 0:
+                print(f"\n[Stagger] Waiting {args.delay}s before starting next language to avoid simultaneous posting...")
+                time.sleep(args.delay)
     else:
         asyncio.run(run_cycle(args.lang, upload=should_upload, youtube_mode=args.youtube))

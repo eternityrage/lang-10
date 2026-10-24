@@ -7,6 +7,23 @@ on:
     - cron: '10 23 * * *'
   workflow_dispatch:
     inputs:
+      language:
+        description: 'Language to run (all: sequential staggered run, or single: ja, he, es, fr, de, it, ko, zh, ru, pt)'
+        required: false
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - ja
+          - he
+          - es
+          - fr
+          - de
+          - it
+          - ko
+          - zh
+          - ru
+          - pt
       youtube:
         description: 'YouTube upload mode (auto: strictly 2x daily quota, force: bypass quota, skip: skip YouTube)'
         required: false
@@ -16,6 +33,15 @@ on:
           - auto
           - force
           - skip
+      cooldown:
+        description: 'Cooldown seconds between staggered language uploads (default: 300 = 5 min)'
+        required: false
+        default: '300'
+        type: string
+
+concurrency:
+  group: reel-publishing-queue
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -67,36 +93,55 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
+      max-parallel: 1
       matrix:
         lang: [ja, he, es, fr, de, it, ko, zh, ru, pt]
 
     steps:
+      - name: 🔍 Filter Language
+        id: filter
+        run: |
+          TARGET="${{ inputs.language || 'all' }}"
+          CURRENT="${{ matrix.lang }}"
+          if [ "$TARGET" != "all" ] && [ "$TARGET" != "$CURRENT" ]; then
+            echo "Skipping $CURRENT because $TARGET was selected."
+            echo "should_run=false" >> $GITHUB_OUTPUT
+          else
+            echo "Running $CURRENT..."
+            echo "should_run=true" >> $GITHUB_OUTPUT
+          fi
+
       - name: ⬇️ Checkout
+        if: steps.filter.outputs.should_run == 'true'
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: 🐍 Set up Python 3.11
+        if: steps.filter.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: 📦 Install Fonts and FFmpeg
+        if: steps.filter.outputs.should_run == 'true'
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg fonts-noto-cjk fonts-noto-cjk-extra fonts-wqy-microhei fonts-wqy-zenhei fonts-noto-core fonts-dejavu-core libraqm-dev
 
       - name: 📦 Install Python Requirements
+        if: steps.filter.outputs.should_run == 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: 🚀 Process
+        if: steps.filter.outputs.should_run == 'true'
         run: |
           python run_brands.py --lang ${{ matrix.lang }} --youtube ${{ inputs.youtube || 'auto' }}
 
       - name: 💾 State Sync
-        if: success()
+        if: success() && steps.filter.outputs.should_run == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -112,4 +157,20 @@ jobs:
               echo "Push failed, retrying in a moment..."
               sleep $(( RANDOM % 8 + 3 ))
             done
+          fi
+
+      - name: ⏱️ Inter-Channel Cooldown
+        if: success() && steps.filter.outputs.should_run == 'true'
+        run: |
+          TARGET="${{ inputs.language || 'all' }}"
+          CURRENT="${{ matrix.lang }}"
+          COOLDOWN="${{ inputs.cooldown || '300' }}"
+          if [ "$TARGET" = "all" ] && [ "$CURRENT" != "pt" ]; then
+            echo "============================================================"
+            echo "Finished publishing for $CURRENT."
+            echo "Cooling down for ${COOLDOWN}s before next channel to prevent simultaneous posting..."
+            echo "============================================================"
+            sleep "$COOLDOWN"
+          else
+            echo "Skipping cooldown for $CURRENT (Target: $TARGET)."
           fi
