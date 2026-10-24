@@ -5159,6 +5159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T20:09:41.194307",
+      "dialogue": {
+        "topic": "Busy now?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you busy now?",
+            "korean": "지금 바빠요?",
+            "romaja": "Jigeum bappayo?",
+            "japanese": "지금 바빠요?",
+            "romaji": "Jigeum bappayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I'm not busy!",
+            "korean": "아니, 안 바빠!",
+            "romaja": "Ani, an bappa!",
+            "japanese": "아니, 안 바빠!",
+            "romaji": "Ani, an bappa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then let's walk together.",
+            "korean": "그럼 같이 걸어요.",
+            "romaja": "Geureom gachi georeoyo.",
+            "japanese": "그럼 같이 걸어요.",
+            "romaji": "Geureom gachi georeoyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's go!",
+            "korean": "좋아, 가자!",
+            "romaja": "Joa, gaja!",
+            "japanese": "좋아, 가자!",
+            "romaji": "Joa, gaja!"
+          }
+        ]
+      }
     }
   ]
 }
