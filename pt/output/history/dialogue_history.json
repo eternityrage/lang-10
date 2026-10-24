@@ -4715,6 +4715,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T20:30:13.674178",
+      "dialogue": {
+        "topic": "Walk with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, all good?",
+            "target_text": "Oi, tudo bem?",
+            "japanese": "Oi, tudo bem?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, and you?",
+            "target_text": "Tudo ótimo, e você?",
+            "japanese": "Tudo ótimo, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk today?",
+            "target_text": "Vamos caminhar hoje?",
+            "japanese": "Vamos caminhar hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, it will be nice!",
+            "target_text": "Claro, vai ser bom!",
+            "japanese": "Claro, vai ser bom!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
