@@ -4679,6 +4679,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T09:28:22.827132",
+      "dialogue": {
+        "topic": "Metro & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one ticket, please?",
+            "target_text": "Bonjour, un ticket, s’il vous plaît ?",
+            "japanese": "Bonjour, un ticket, s’il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here it is!",
+            "target_text": "Bien sûr, le voilà !",
+            "japanese": "Bien sûr, le voilà !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it for the metro?",
+            "target_text": "C’est pour le métro ?",
+            "japanese": "C’est pour le métro ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Oui, bon voyage !",
+            "japanese": "Oui, bon voyage !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
