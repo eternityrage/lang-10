@@ -5239,6 +5239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T01:33:10.680811",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning!",
+            "chinese": "早上好！",
+            "pinyin": "Zǎoshang hǎo!",
+            "japanese": "早上好！",
+            "romaji": "Zǎoshang hǎo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Good morning!",
+            "chinese": "早上好！",
+            "pinyin": "Zǎoshang hǎo!",
+            "japanese": "早上好！",
+            "romaji": "Zǎoshang hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Going to school?",
+            "chinese": "去学校吗？",
+            "pinyin": "Qù xuéxiào ma?",
+            "japanese": "去学校吗？",
+            "romaji": "Qù xuéxiào ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, goodbye!",
+            "chinese": "对，再见！",
+            "pinyin": "Duì, zàijiàn!",
+            "japanese": "对，再见！",
+            "romaji": "Duì, zàijiàn!"
+          }
+        ]
+      }
     }
   ]
 }
