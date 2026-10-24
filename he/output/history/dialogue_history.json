@@ -5039,6 +5039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T01:33:20.616887",
+      "dialogue": {
+        "topic": "Greeting a friend with slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, my friend!",
+            "target_text": "היי, חבר שלי!",
+            "transliteration": "Hey, chaver sheli!",
+            "japanese": "היי, חבר שלי!",
+            "romaji": "Hey, chaver sheli!"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi, nice to see you!",
+            "target_text": "היי, כיף לראות אותך!",
+            "transliteration": "Hey, kef lir'ot otkha!",
+            "japanese": "היי, כיף לראות אותך!",
+            "romaji": "Hey, kef lir'ot otkha!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the park?",
+            "target_text": "בוא נלך לפארק?",
+            "transliteration": "Bo nelekh la-park?",
+            "japanese": "בוא נלך לפארק?",
+            "romaji": "Bo nelekh la-park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Cool, let's go!",
+            "target_text": "סבבה, בוא נלך!",
+            "transliteration": "Sababa, bo nelekh!",
+            "japanese": "סבבה, בוא נלך!",
+            "romaji": "Sababa, bo nelekh!"
+          }
+        ]
+      }
     }
   ]
 }
