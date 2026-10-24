@@ -4535,6 +4535,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T01:33:27.876859",
+      "dialogue": {
+        "topic": "Ordering tortilla at a tapas café",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have tortilla?",
+            "target_text": "Hola, ¿tienes tortilla?",
+            "japanese": "Hola, ¿tienes tortilla?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very tasty.",
+            "target_text": "Sí, está muy rica.",
+            "japanese": "Sí, está muy rica.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want one tapa, please.",
+            "target_text": "Quiero una tapa, por favor.",
+            "japanese": "Quiero una tapa, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go.",
+            "target_text": "Claro, aquí tienes.",
+            "japanese": "Claro, aquí tienes.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
