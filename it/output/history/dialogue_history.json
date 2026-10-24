@@ -4607,6 +4607,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T09:28:38.916552",
+      "dialogue": {
+        "topic": "The “boh” shrug",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, why do that?",
+            "target_text": "Ehi, perché fai così?",
+            "japanese": "Ehi, perché fai così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: dunno!",
+            "target_text": "Vuol dire: boh!",
+            "japanese": "Vuol dire: boh!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Boh means I don't know?",
+            "target_text": "Boh vuol dire non so?",
+            "japanese": "Boh vuol dire non so?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, super easy!",
+            "target_text": "Sì, facilissimo!",
+            "japanese": "Sì, facilissimo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
