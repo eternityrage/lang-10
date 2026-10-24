@@ -4607,6 +4607,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T02:42:49.018600",
+      "dialogue": {
+        "topic": "Currywurst in Berlin",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the currywurst spicy?",
+            "target_text": "Hallo, ist die Currywurst scharf?",
+            "japanese": "Hallo, ist die Currywurst scharf?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, it is mild!",
+            "target_text": "Nein, sie ist mild!",
+            "japanese": "Nein, sie ist mild!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, I'll take one.",
+            "target_text": "Super, ich nehme eine.",
+            "japanese": "Super, ich nehme eine.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, here you go!",
+            "target_text": "Gern, bitte schön!",
+            "japanese": "Gern, bitte schön!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
