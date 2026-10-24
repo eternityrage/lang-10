@@ -5079,6 +5079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T02:12:51.211642",
+      "dialogue": {
+        "topic": "Meeting an old friend on the street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Long time no see?",
+            "russian": "Привет! Давно не виделись?",
+            "translit": "Privet! Davno ne videlis'?",
+            "japanese": "Привет! Давно не виделись?",
+            "romaji": "Privet! Davno ne videlis'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi! I am so happy!",
+            "russian": "Привет! Я так рад!",
+            "translit": "Privet! Ya tak rad!",
+            "japanese": "Привет! Я так рад!",
+            "romaji": "Privet! Ya tak rad!"
+          },
+          {
+            "speaker": "A",
+            "english": "How are you doing?",
+            "russian": "Как у тебя дела?",
+            "translit": "Kak u tebya dela?",
+            "japanese": "Как у тебя дела?",
+            "romaji": "Kak u tebya dela?"
+          },
+          {
+            "speaker": "B",
+            "english": "All good, thanks!",
+            "russian": "Всё хорошо, спасибо!",
+            "translit": "Vsyo khorosho, spasibo!",
+            "japanese": "Всё хорошо, спасибо!",
+            "romaji": "Vsyo khorosho, spasibo!"
+          }
+        ]
+      }
     }
   ]
 }
