@@ -5039,6 +5039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T01:33:03.494815",
+      "dialogue": {
+        "topic": "Cute K-Drama Smile",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How do you feel today?",
+            "korean": "오늘 기분 어때?",
+            "romaja": "Oneul gibun eottae?",
+            "japanese": "오늘 기분 어때?",
+            "romaji": "Oneul gibun eottae?"
+          },
+          {
+            "speaker": "B",
+            "english": "I feel really great!",
+            "korean": "진짜 너무 좋아!",
+            "romaja": "Jinjja neomu joa!",
+            "japanese": "진짜 너무 좋아!",
+            "romaji": "Jinjja neomu joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Why are you smiling?",
+            "korean": "왜 이렇게 웃어?",
+            "romaja": "Wae ireoke useo?",
+            "japanese": "왜 이렇게 웃어?",
+            "romaji": "Wae ireoke useo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's all because of you!",
+            "korean": "다 너 때문이야!",
+            "romaja": "Da neo ttaemuniya!",
+            "japanese": "다 너 때문이야!",
+            "romaji": "Da neo ttaemuniya!"
+          }
+        ]
+      }
     }
   ]
 }
