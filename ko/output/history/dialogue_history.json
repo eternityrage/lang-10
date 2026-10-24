@@ -5079,6 +5079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T09:28:30.043209",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Boss, still open?",
+            "korean": "사장님, 아직 해요?",
+            "romaja": "Sajangnim, ajik haeyo?",
+            "japanese": "사장님, 아직 해요?",
+            "romaji": "Sajangnim, ajik haeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come on in!",
+            "korean": "네, 어서 오세요!",
+            "romaja": "Ne, eoseo oseyo!",
+            "japanese": "네, 어서 오세요!",
+            "romaji": "Ne, eoseo oseyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then fish cake, please.",
+            "korean": "그럼 어묵 주세요.",
+            "romaja": "Geureom eomuk juseyo.",
+            "japanese": "그럼 어묵 주세요.",
+            "romaji": "Geureom eomuk juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, coming right up!",
+            "korean": "좋아요, 금방 나와요!",
+            "romaja": "Joayo, geumbang nawayo!",
+            "japanese": "좋아요, 금방 나와요!",
+            "romaji": "Joayo, geumbang nawayo!"
+          }
+        ]
+      }
     }
   ]
 }
