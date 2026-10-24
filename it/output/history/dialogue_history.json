@@ -4571,6 +4571,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T01:33:21.622462",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you today?",
+            "target_text": "Ciao, come stai oggi?",
+            "japanese": "Ciao, come stai oggi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very well, thanks!",
+            "target_text": "Molto bene, grazie!",
+            "japanese": "Molto bene, grazie!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a walk?",
+            "target_text": "Facciamo due passi?",
+            "japanese": "Facciamo due passi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Sì, con piacere!",
+            "japanese": "Sì, con piacere!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
