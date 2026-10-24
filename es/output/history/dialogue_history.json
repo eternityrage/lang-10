@@ -4643,6 +4643,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T19:41:07.154054",
+      "dialogue": {
+        "topic": "Madrid to Barcelona by train",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are we in Madrid?",
+            "target_text": "Hola, ¿estamos en Madrid?",
+            "japanese": "Hola, ¿estamos en Madrid?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Madrid is beautiful.",
+            "target_text": "Sí, Madrid es precioso.",
+            "japanese": "Sí, Madrid es precioso.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And is Barcelona far?",
+            "target_text": "¿Y Barcelona está lejos?",
+            "japanese": "¿Y Barcelona está lejos?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, by fast train.",
+            "target_text": "No, en tren rápido.",
+            "japanese": "No, en tren rápido.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
