@@ -4643,6 +4643,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T01:32:52.655055",
+      "dialogue": {
+        "topic": "Coffee break",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want a coffee?",
+            "target_text": "Tu veux un café ?",
+            "japanese": "Tu veux un café ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With sugar?",
+            "target_text": "Avec du sucre ?",
+            "japanese": "Avec du sucre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thank you very much!",
+            "target_text": "Oui, merci beaucoup !",
+            "japanese": "Oui, merci beaucoup !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
