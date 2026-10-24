@@ -5079,6 +5079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T09:28:38.529772",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we go to the beach?",
+            "target_text": "היי, נלך לים?",
+            "transliteration": "Hai, nelekh la-yam?",
+            "japanese": "היי, נלך לים?",
+            "romaji": "Hai, nelekh la-yam?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is great sun!",
+            "target_text": "כן, יש שמש נהדרת!",
+            "transliteration": "Ken, yesh shemesh nehederet!",
+            "japanese": "כן, יש שמש נהדרת!",
+            "romaji": "Ken, yesh shemesh nehederet!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have a hat?",
+            "target_text": "יש לך כובע?",
+            "transliteration": "Yesh lekha kova?",
+            "japanese": "יש לך כובע?",
+            "romaji": "Yesh lekha kova?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "כן, בוא נלך!",
+            "transliteration": "Ken, bo nelekh!",
+            "japanese": "כן, בוא נלך!",
+            "romaji": "Ken, bo nelekh!"
+          }
+        ]
+      }
     }
   ]
 }
