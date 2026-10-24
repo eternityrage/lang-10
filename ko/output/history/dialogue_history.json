@@ -5119,6 +5119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T15:09:27.723282",
+      "dialogue": {
+        "topic": "Can we speak casually?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Can we speak casually?",
+            "korean": "안녕하세요! 우리 반말해도 돼요?",
+            "romaja": "Annyeonghaseyo! Uri banmalhaedo dwaeyo?",
+            "japanese": "안녕하세요! 우리 반말해도 돼요?",
+            "romaji": "Annyeonghaseyo! Uri banmalhaedo dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Great, speak comfortably.",
+            "korean": "네! 좋아요, 편하게 말해요.",
+            "romaja": "Ne! Joayo, pyeonhage malhaeyo.",
+            "japanese": "네! 좋아요, 편하게 말해요.",
+            "romaji": "Ne! Joayo, pyeonhage malhaeyo."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, how old are you?",
+            "korean": "그럼 너 몇 살이야?",
+            "romaja": "Geureom neo myeot sariya?",
+            "japanese": "그럼 너 몇 살이야?",
+            "romaji": "Geureom neo myeot sariya?"
+          },
+          {
+            "speaker": "B",
+            "english": "I'm twenty. Let's be friends!",
+            "korean": "스무 살이야. 친구 하자!",
+            "romaja": "Seumu sariya. Chingu haja!",
+            "japanese": "스무 살이야. 친구 하자!",
+            "romaji": "Seumu sariya. Chingu haja!"
+          }
+        ]
+      }
     }
   ]
 }
