@@ -10,7 +10,7 @@ import requests
 import numpy as np
 from datetime import datetime
 from pathlib import Path
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, features
 from dotenv import load_dotenv
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from font_loader import get_platform_font
@@ -154,22 +154,6 @@ def generate_ai_dialogue(category=None):
     }
 
 
-def wrap_japanese(text, font, max_w=920):
-    lines = []
-    chunks = text.split('\n')
-    for chunk in chunks:
-        cur = ''
-        for ch in chunk:
-            test = cur + ch
-            bbox = font.getbbox(test)
-            if (bbox[2] - bbox[0]) <= max_w:
-                cur = test
-            else:
-                if cur: lines.append(cur)
-                cur = ch
-        if cur: lines.append(cur)
-    return chr(10).join(lines)
-
 def wrap_text(text, font, max_w=920):
     words = text.split(' ')
     lines = []
@@ -184,6 +168,20 @@ def wrap_text(text, font, max_w=920):
             cur = [w]
     if cur: lines.append(' '.join(cur))
     return chr(10).join(lines)
+
+def format_hebrew_text(text, font, max_w=920):
+    """
+    Renders Hebrew text with correct Right-to-Left (RTL) ordering across all environments.
+    - When libraqm is available (Linux runner with HarfBuzz/FriBidi):
+      Keeps logical text order so Raqm natively renders RTL without double-reversal.
+    - When libraqm is absent (standard Windows / default Pillow without Raqm):
+      Applies python-bidi per line so Pillow's basic LTR rasterizer displays glyphs in visual RTL order.
+    """
+    wrapped = wrap_text(text, font, max_w=max_w)
+    if not features.check('raqm'):
+        lines = [get_display(line) for line in wrapped.split('\n')]
+        return '\n'.join(lines)
+    return wrapped
 
 def analyze_audio_speaking_timeline(audio_mp3_path):
     wav_path = audio_mp3_path.with_suffix('.wav')
@@ -216,29 +214,32 @@ def analyze_audio_speaking_timeline(audio_mp3_path):
     except Exception:
         return [True] * int(FPS * 2.5)
 
-def render_frame(speaker_speaking, is_talking, mouth_flap, line_data, font_en, font_jp, font_ro):
+def render_frame(speaker_speaking, is_talking, mouth_flap, line_data, font_en, font_he, font_ro):
     bg = Image.new('RGB', (WIDTH, HEIGHT), color=(39, 11, 234))
     draw = ImageDraw.Draw(bg)
 
     # Wrap texts cleanly within safety margins
     wrapped_en = wrap_text(line_data['english'], font_en, max_w=920)
     raw_hebrew = line_data.get('target_text', line_data.get('japanese', ''))
-    wrapped_jp = get_display(raw_hebrew)
+    wrapped_he = format_hebrew_text(raw_hebrew, font_he, max_w=920)
     wrapped_ro = wrap_text(line_data.get('transliteration', line_data.get('romaji', '')), font_ro, max_w=920)
+
+    # Apply direction='rtl' when Raqm is available for native RTL text rendering
+    dir_kwargs = {'direction': 'rtl'} if features.check('raqm') else {}
 
     # Measure exact bounding boxes for stacked layout
     bbox_en = draw.multiline_textbbox((0, 0), wrapped_en, font=font_en, align='center', spacing=12)
     h_en = bbox_en[3] - bbox_en[1]
 
-    bbox_jp = draw.multiline_textbbox((0, 0), wrapped_jp, font=font_jp, align='center', spacing=18)
-    h_jp = bbox_jp[3] - bbox_jp[1]
+    bbox_he = draw.multiline_textbbox((0, 0), wrapped_he, font=font_he, align='center', spacing=18, **dir_kwargs)
+    h_he = bbox_he[3] - bbox_he[1]
 
     bbox_ro = draw.multiline_textbbox((0, 0), wrapped_ro, font=font_ro, align='center', spacing=12)
     h_ro = bbox_ro[3] - bbox_ro[1]
 
-    gap_1 = 50  # Gap between English and Japanese
-    gap_2 = 45  # Gap between Japanese and Romaji
-    total_text_h = h_en + gap_1 + h_jp + gap_2 + h_ro
+    gap_1 = 50  # Gap between English and Hebrew
+    gap_2 = 45  # Gap between Hebrew and Romaji/transliteration
+    total_text_h = h_en + gap_1 + h_he + gap_2 + h_ro
 
     # Center the entire text stack vertically in the upper region (Y: 150 to 1100)
     top_y = 180 + (850 - total_text_h) // 2
@@ -249,8 +250,8 @@ def render_frame(speaker_speaking, is_talking, mouth_flap, line_data, font_en, f
     draw.multiline_text((WIDTH // 2, cur_y), wrapped_en, fill=(112, 174, 255), font=font_en, anchor='ma', align='center', spacing=12)
     cur_y += h_en + gap_1
 
-    draw.multiline_text((WIDTH // 2, cur_y), wrapped_jp, fill=(255, 255, 255), font=font_jp, anchor='ma', align='center', spacing=18)
-    cur_y += h_jp + gap_2
+    draw.multiline_text((WIDTH // 2, cur_y), wrapped_he, fill=(255, 255, 255), font=font_he, anchor='ma', align='center', spacing=18, **dir_kwargs)
+    cur_y += h_he + gap_2
 
     draw.multiline_text((WIDTH // 2, cur_y), wrapped_ro, fill=(112, 174, 255), font=font_ro, anchor='ma', align='center', spacing=12)
 
@@ -280,7 +281,7 @@ async def generate_single_reel():
     reel_id = f'ivrina_{timestamp}'
 
     font_en = get_platform_font(style='bold', lang='default', size=58)
-    font_jp = get_platform_font(style='bold', lang='he', size=76)
+    font_he = get_platform_font(style='bold', lang='he', size=76)
     font_ro = get_platform_font(style='regular', lang='default', size=52)
 
     segments = []
@@ -290,7 +291,7 @@ async def generate_single_reel():
         aud_path = AUDIO_DIR / f'{reel_id}_aud_{i}.mp3'
         voice = VOICE_A if line['speaker'] == 'A' else VOICE_B
         pitch = "+8Hz" if line['speaker'] == 'A' else "+4Hz"
-        clean_jp = line['japanese'].replace('\n', ' ')
+        clean_he = line.get('target_text', line.get('japanese', '')).replace('\n', ' ')
         # Slower, clearer pronunciation for beginners (-10% rate, custom pitch per mascot)
         for _att in range(3):
 
@@ -298,7 +299,7 @@ async def generate_single_reel():
 
                 configure_edge_tts()
 
-                comm = edge_tts.Communicate(clean_jp, voice, rate='-10%', pitch=pitch)
+                comm = edge_tts.Communicate(clean_he, voice, rate='-10%', pitch=pitch)
 
                 await comm.save(str(aud_path))
 
@@ -371,7 +372,7 @@ async def generate_single_reel():
                 speaking_counter = 0
                 mouth_flap = False
                 
-            im = render_frame(line['speaker'], is_active, mouth_flap, line, font_en, font_jp, font_ro)
+            im = render_frame(line['speaker'], is_active, mouth_flap, line, font_en, font_he, font_ro)
             proc.stdin.write(im.tobytes())
         proc.stdin.close()
         proc.wait()
