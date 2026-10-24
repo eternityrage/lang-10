@@ -4127,6 +4127,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-24T09:28:23.262300",
+      "dialogue": {
+        "topic": "A quick photo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, look!",
+            "japanese": "マグ、見て！",
+            "romaji": "Magu, mite!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow, so cool!",
+            "japanese": "わあ、やばいね！",
+            "romaji": "Waa, yabai ne!"
+          },
+          {
+            "speaker": "A",
+            "english": "Photo okay?",
+            "japanese": "しゃしん、いい？",
+            "romaji": "Shashin, ii?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, okay!",
+            "japanese": "うん、いいよ！",
+            "romaji": "Un, ii yo!"
+          }
+        ]
+      }
     }
   ]
 }
