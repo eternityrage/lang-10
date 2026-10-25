@@ -5279,6 +5279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T16:15:37.451892",
+      "dialogue": {
+        "topic": "Hongdae and Gangnam cafe date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hongdae cafe, want to go?",
+            "korean": "홍대 카페 갈래?",
+            "romaja": "Hongdae kape gallae?",
+            "japanese": "홍대 카페 갈래?",
+            "romaji": "Hongdae kape gallae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let’s drink coffee!",
+            "korean": "좋아, 커피 마시자!",
+            "romaja": "Joa, keopi masija!",
+            "japanese": "좋아, 커피 마시자!",
+            "romaji": "Joa, keopi masija!"
+          },
+          {
+            "speaker": "A",
+            "english": "Gangnam cafe too?",
+            "korean": "강남 카페도 갈까?",
+            "romaja": "Gangnam kapedo galkka?",
+            "japanese": "강남 카페도 갈까?",
+            "romaji": "Gangnam kapedo galkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, cafe date sounds good!",
+            "korean": "응, 카페 데이트 좋아!",
+            "romaja": "Eung, kape deiteu joa!",
+            "japanese": "응, 카페 데이트 좋아!",
+            "romaji": "Eung, kape deiteu joa!"
+          }
+        ]
+      }
     }
   ]
 }
