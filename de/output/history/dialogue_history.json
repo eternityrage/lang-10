@@ -4787,6 +4787,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T10:12:39.373630",
+      "dialogue": {
+        "topic": "Asking for sugar and a spoon",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, some sugar please?",
+            "target_text": "Entschuldigung, etwas Zucker bitte?",
+            "japanese": "Entschuldigung, etwas Zucker bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, gladly.",
+            "target_text": "Ja, natürlich, gern.",
+            "japanese": "Ja, natürlich, gern.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A spoon too, please?",
+            "target_text": "Auch einen Löffel, bitte?",
+            "japanese": "Auch einen Löffel, bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here it is.",
+            "target_text": "Klar, hier ist er.",
+            "japanese": "Klar, hier ist er.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
