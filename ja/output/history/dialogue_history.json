@@ -4223,6 +4223,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T01:06:10.752827",
+      "dialogue": {
+        "topic": "Cute photo slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, look at this!",
+            "japanese": "マグ、これ見て！",
+            "romaji": "Magu, kore mite!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow, super cute!",
+            "japanese": "わあ、めっちゃ かわいい！",
+            "romaji": "Waa, meccha kawaii!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? That is nice!",
+            "japanese": "ほんと？いいね！",
+            "romaji": "Honto? Ii ne!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, totally nice!",
+            "japanese": "うん、まじ いいね！",
+            "romaji": "Un, maji ii ne!"
+          }
+        ]
+      }
     }
   ]
 }
