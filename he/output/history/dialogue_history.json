@@ -5199,6 +5199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T01:13:05.515033",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, long time!",
+            "target_text": "היי, הרבה זמן!",
+            "transliteration": "Hey, harbe zman!",
+            "japanese": "היי, הרבה זמן!",
+            "romaji": "Hey, harbe zman!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, so fun!",
+            "target_text": "כן, איזה כיף!",
+            "transliteration": "Ken, eize kef!",
+            "japanese": "כן, איזה כיף!",
+            "romaji": "Ken, eize kef!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we sit here a bit?",
+            "target_text": "נשב כאן קצת?",
+            "transliteration": "Neshev kan ktzat?",
+            "japanese": "נשב כאן קצת?",
+            "romaji": "Neshev kan ktzat?"
+          },
+          {
+            "speaker": "B",
+            "english": "Cool, let's go, gladly!",
+            "target_text": "סבבה, יאללה בכיף!",
+            "transliteration": "Sababa, yalla bekef!",
+            "japanese": "סבבה, יאללה בכיף!",
+            "romaji": "Sababa, yalla bekef!"
+          }
+        ]
+      }
     }
   ]
 }
