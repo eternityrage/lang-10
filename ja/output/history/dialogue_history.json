@@ -4255,6 +4255,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T09:46:15.387446",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you busy?",
+            "japanese": "マグさん、いそがしいですか？",
+            "romaji": "Magu-san, isogashii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I'm free.",
+            "japanese": "いいえ、ひまです。",
+            "romaji": "Iie, hima desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Let's rest a little.",
+            "japanese": "すこし やすみましょう。",
+            "romaji": "Sukoshi yasumimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, work later.",
+            "japanese": "はい、しごとは あとで。",
+            "romaji": "Hai, shigoto wa ato de."
+          }
+        ]
+      }
     }
   ]
 }
