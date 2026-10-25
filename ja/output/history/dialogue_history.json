@@ -4287,6 +4287,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T14:56:45.504450",
+      "dialogue": {
+        "topic": "At the airport",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, airport?",
+            "japanese": "マグ、くうこうですか？",
+            "romaji": "Magu, kuukou desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, airport.",
+            "japanese": "はい、くうこうです。",
+            "romaji": "Hai, kuukou desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the taxi?",
+            "japanese": "タクシーは どこですか？",
+            "romaji": "Takushii wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Over there.",
+            "japanese": "あそこです。",
+            "romaji": "Asoko desu."
+          }
+        ]
+      }
     }
   ]
 }
