@@ -4823,6 +4823,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T20:44:57.001576",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "target_text": "Ciao, come stai?",
+            "japanese": "Ciao, come stai?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm great, thanks!",
+            "target_text": "Sto benissimo, grazie!",
+            "japanese": "Sto benissimo, grazie!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you going to the square?",
+            "target_text": "Vai in piazza?",
+            "japanese": "Vai in piazza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you there!",
+            "target_text": "Sì, ci vediamo lì!",
+            "japanese": "Sì, ci vediamo lì!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
