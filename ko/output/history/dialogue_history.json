@@ -5239,6 +5239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T10:26:48.589483",
+      "dialogue": {
+        "topic": "A sweet walk together",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have time today?",
+            "korean": "안녕, 오늘 시간 있어?",
+            "romaja": "Annyeong, oneul sigan isseo?",
+            "japanese": "안녕, 오늘 시간 있어?",
+            "romaji": "Annyeong, oneul sigan isseo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I have time!",
+            "korean": "응, 나 시간 있어!",
+            "romaja": "Eung, na sigan isseo!",
+            "japanese": "응, 나 시간 있어!",
+            "romaji": "Eung, na sigan isseo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want to walk with me?",
+            "korean": "나랑 같이 산책할래?",
+            "romaja": "Narang gachi sanchaek hallae?",
+            "japanese": "나랑 같이 산책할래?",
+            "romaji": "Narang gachi sanchaek hallae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I'm excited!",
+            "korean": "좋아, 나 설레!",
+            "romaja": "Joa, na seolle!",
+            "japanese": "좋아, 나 설레!",
+            "romaji": "Joa, na seolle!"
+          }
+        ]
+      }
     }
   ]
 }
