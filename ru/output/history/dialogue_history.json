@@ -5279,6 +5279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T10:40:22.898397",
+      "dialogue": {
+        "topic": "Street Greetings & Friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, going for a walk?",
+            "russian": "Привет, идёшь гулять?",
+            "translit": "Privet, idyosh gulyat?",
+            "japanese": "Привет, идёшь гулять?",
+            "romaji": "Privet, idyosh gulyat?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with joy!",
+            "russian": "Да, с радостью!",
+            "translit": "Da, s radostyu!",
+            "japanese": "Да, с радостью!",
+            "romaji": "Da, s radostyu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I come along?",
+            "russian": "Можно с тобой?",
+            "translit": "Mozhno s toboy?",
+            "japanese": "Можно с тобой?",
+            "romaji": "Mozhno s toboy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, let's go together!",
+            "russian": "Конечно, пойдём вместе!",
+            "translit": "Konechno, poydyom vmeste!",
+            "japanese": "Конечно, пойдём вместе!",
+            "romaji": "Konechno, poydyom vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
