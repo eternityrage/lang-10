@@ -5319,6 +5319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T16:29:28.248258",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Shall we walk?",
+            "russian": "Привет! Идём гулять?",
+            "translit": "Privet! Idyom gulyat'?",
+            "japanese": "Привет! Идём гулять?",
+            "romaji": "Privet! Idyom gulyat'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! The snow is beautiful!",
+            "russian": "Да! Снег такой красивый!",
+            "translit": "Da! Sneg takoy krasivyy!",
+            "japanese": "Да! Снег такой красивый!",
+            "romaji": "Da! Sneg takoy krasivyy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take hot tea?",
+            "russian": "Возьмём горячий чай?",
+            "translit": "Voz'myom goryachiy chay?",
+            "japanese": "Возьмём горячий чай?",
+            "romaji": "Voz'myom goryachiy chay?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great! Winter is wonderful!",
+            "russian": "Отлично! Зима прекрасна!",
+            "translit": "Otlichno! Zima prekrasna!",
+            "japanese": "Отлично! Зима прекрасна!",
+            "romaji": "Otlichno! Zima prekrasna!"
+          }
+        ]
+      }
     }
   ]
 }
