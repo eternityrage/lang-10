@@ -4319,6 +4319,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T19:32:21.704851",
+      "dialogue": {
+        "topic": "Taking a taxi to the station",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, where is the taxi?",
+            "japanese": "マグさん、タクシーは どこですか？",
+            "romaji": "Magu-san, takushii wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is over there.",
+            "japanese": "あそこです。",
+            "romaji": "Asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "To the station, please.",
+            "japanese": "えきまで おねがいします。",
+            "romaji": "Eki made onegai shimasu."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "japanese": "はい、いきましょう！",
+            "romaji": "Hai, ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
