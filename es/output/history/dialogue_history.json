@@ -4751,6 +4751,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T15:48:22.833157",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! Is this tortilla delicious?",
+            "target_text": "¡Hola! ¿Esta tortilla es rica?",
+            "japanese": "¡Hola! ¿Esta tortilla es rica?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very good!",
+            "target_text": "¡Sí, está muy buena!",
+            "japanese": "¡Sí, está muy buena!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try one piece?",
+            "target_text": "¿Puedo probar un poco?",
+            "japanese": "¿Puedo probar un poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, please enjoy!",
+            "target_text": "¡Claro, buen provecho!",
+            "japanese": "¡Claro, buen provecho!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
