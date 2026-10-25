@@ -4823,6 +4823,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T16:36:31.957516",
+      "dialogue": {
+        "topic": "Bakery Pão de Queijo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Morning! Got cheese bread?",
+            "target_text": "Bom dia! Tem pão de queijo?",
+            "japanese": "Bom dia! Tem pão de queijo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, nice and warm!",
+            "target_text": "Tem sim, bem quentinho!",
+            "japanese": "Tem sim, bem quentinho!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I'll take two, please.",
+            "target_text": "Vou querer dois, por favor.",
+            "japanese": "Vou querer dois, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Five reais.",
+            "target_text": "Claro! São cinco reais.",
+            "japanese": "Claro! São cinco reais.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
