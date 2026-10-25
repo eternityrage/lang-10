@@ -4787,6 +4787,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T19:45:39.453150",
+      "dialogue": {
+        "topic": "Good coffee in Madrid and Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Does Madrid have good coffee?",
+            "target_text": "¿Madrid tiene buen café?",
+            "japanese": "¿Madrid tiene buen café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the coffee is tasty!",
+            "target_text": "¡Sí, el café es rico!",
+            "japanese": "¡Sí, el café es rico!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And Barcelona too?",
+            "target_text": "¿Y Barcelona también?",
+            "japanese": "¿Y Barcelona también?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, both are great.",
+            "target_text": "Sí, las dos son geniales.",
+            "japanese": "Sí, las dos son geniales.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
