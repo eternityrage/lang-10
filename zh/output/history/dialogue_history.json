@@ -5479,6 +5479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T16:22:22.091673",
+      "dialogue": {
+        "topic": "Evening Greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening!",
+            "chinese": "晚上好！",
+            "pinyin": "Wǎnshang hǎo!",
+            "japanese": "晚上好！",
+            "romaji": "Wǎnshang hǎo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Good evening!",
+            "chinese": "晚上好！",
+            "pinyin": "Wǎnshang hǎo!",
+            "japanese": "晚上好！",
+            "romaji": "Wǎnshang hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Are you busy?",
+            "chinese": "你忙吗？",
+            "pinyin": "Nǐ máng ma?",
+            "japanese": "你忙吗？",
+            "romaji": "Nǐ máng ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not busy. Bye!",
+            "chinese": "不忙，再见！",
+            "pinyin": "Bù máng, zàijiàn!",
+            "japanese": "不忙，再见！",
+            "romaji": "Bù máng, zàijiàn!"
+          }
+        ]
+      }
     }
   ]
 }
