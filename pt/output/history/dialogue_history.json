@@ -4787,6 +4787,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T10:47:12.443701",
+      "dialogue": {
+        "topic": "Ordering Coxinha & Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, is there a special?",
+            "target_text": "Bom dia, tem promoção?",
+            "japanese": "Bom dia, tem promoção?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "There is coxinha with coffee!",
+            "target_text": "Tem coxinha com café!",
+            "japanese": "Tem coxinha com café!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want that combo, please.",
+            "target_text": "Quero esse combo, por favor.",
+            "japanese": "Quero esse combo, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, it is coming right up.",
+            "target_text": "Claro, já vai sair.",
+            "japanese": "Claro, já vai sair.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
