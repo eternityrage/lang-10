@@ -4679,6 +4679,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T01:19:48.840129",
+      "dialogue": {
+        "topic": "Liking Madrid and Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like Madrid?",
+            "target_text": "¿Te gusta Madrid?",
+            "japanese": "¿Te gusta Madrid?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it.",
+            "target_text": "Sí, me encanta.",
+            "japanese": "Sí, me encanta.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And Barcelona?",
+            "target_text": "¿Y Barcelona?",
+            "japanese": "¿Y Barcelona?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I like it a lot too.",
+            "target_text": "También me gusta mucho.",
+            "japanese": "También me gusta mucho.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
