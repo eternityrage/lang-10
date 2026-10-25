@@ -4859,6 +4859,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T20:38:11.512203",
+      "dialogue": {
+        "topic": "Asking to sit down",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, is this seat free?",
+            "target_text": "Entschuldigung, ist hier frei?",
+            "japanese": "Entschuldigung, ist hier frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the seat is free.",
+            "target_text": "Ja, der Platz ist frei.",
+            "japanese": "Ja, der Platz ist frei.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "May I sit down?",
+            "target_text": "Darf ich mich setzen?",
+            "japanese": "Darf ich mich setzen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please sit down.",
+            "target_text": "Ja, setzen Sie sich gern.",
+            "japanese": "Ja, setzen Sie sich gern.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
