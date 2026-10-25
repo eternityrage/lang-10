@@ -5319,6 +5319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-25T20:52:11.292698",
+      "dialogue": {
+        "topic": "Speaking casually",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, can we eat together?",
+            "korean": "안녕하세요, 같이 먹어도 돼요?",
+            "romaja": "Annyeonghaseyo, gachi meogeodo dwaeyo?",
+            "japanese": "안녕하세요, 같이 먹어도 돼요?",
+            "romaji": "Annyeonghaseyo, gachi meogeodo dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's eat together!",
+            "korean": "네, 같이 먹어요!",
+            "romaja": "Ne, gachi meogeoyo!",
+            "japanese": "네, 같이 먹어요!",
+            "romaji": "Ne, gachi meogeoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I speak casually?",
+            "korean": "말 놓아도 돼요?",
+            "romaja": "Mal noado dwaeyo?",
+            "japanese": "말 놓아도 돼요?",
+            "romaji": "Mal noado dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, we're friends now!",
+            "korean": "좋아, 이제 친구야!",
+            "romaja": "Joa, ije chinguya!",
+            "japanese": "좋아, 이제 친구야!",
+            "romaji": "Joa, ije chinguya!"
+          }
+        ]
+      }
     }
   ]
 }
