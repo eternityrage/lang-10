@@ -4895,6 +4895,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T18:23:34.160200",
+      "dialogue": {
+        "topic": "Shopping & Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have cheese?",
+            "target_text": "Hola, ¿tiene queso?",
+            "japanese": "Hola, ¿tiene queso?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I have tasty cheese.",
+            "target_text": "Sí, tengo queso rico.",
+            "japanese": "Sí, tengo queso rico.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is this cheese?",
+            "target_text": "¿Cuánto cuesta este queso?",
+            "japanese": "¿Cuánto cuesta este queso?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Three euros, please.",
+            "target_text": "Tres euros, por favor.",
+            "japanese": "Tres euros, por favor.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
