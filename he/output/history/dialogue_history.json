@@ -5479,6 +5479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T23:12:36.540692",
+      "dialogue": {
+        "topic": "Shopping & Boutiques",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! What is this?",
+            "target_text": "שלום! מה זה?",
+            "transliteration": "Shalom! Ma ze?",
+            "japanese": "שלום! מה זה?",
+            "romaji": "Shalom! Ma ze?"
+          },
+          {
+            "speaker": "B",
+            "english": "This is fresh bread.",
+            "target_text": "זה לחם טרי.",
+            "transliteration": "Ze lechem tari.",
+            "japanese": "זה לחם טרי.",
+            "romaji": "Ze lechem tari."
+          },
+          {
+            "speaker": "A",
+            "english": "Is it delicious?",
+            "target_text": "זה טעים?",
+            "transliteration": "Ze taim?",
+            "japanese": "זה טעים?",
+            "romaji": "Ze taim?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very delicious!",
+            "target_text": "כן, מאוד טעים!",
+            "transliteration": "Ken, meod taim!",
+            "japanese": "כן, מאוד טעים!",
+            "romaji": "Ken, meod taim!"
+          }
+        ]
+      }
     }
   ]
 }
