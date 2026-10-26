@@ -5639,6 +5639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T21:11:36.958596",
+      "dialogue": {
+        "topic": "Saying Goodbye",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you leaving?",
+            "chinese": "你走吗？",
+            "pinyin": "Nǐ zǒu ma?",
+            "japanese": "你走吗？",
+            "romaji": "Nǐ zǒu ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I'm leaving.",
+            "chinese": "我走啦！",
+            "pinyin": "Wǒ zǒu la!",
+            "japanese": "我走啦！",
+            "romaji": "Wǒ zǒu la!"
+          },
+          {
+            "speaker": "A",
+            "english": "Bye!",
+            "chinese": "再见啦！",
+            "pinyin": "Zàijiàn la!",
+            "japanese": "再见啦！",
+            "romaji": "Zàijiàn la!"
+          },
+          {
+            "speaker": "B",
+            "english": "See you tomorrow!",
+            "chinese": "明天见！",
+            "pinyin": "Míngtiān jiàn!",
+            "japanese": "明天见！",
+            "romaji": "Míngtiān jiàn!"
+          }
+        ]
+      }
     }
   ]
 }
