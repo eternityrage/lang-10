@@ -5003,6 +5003,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T23:58:38.591740",
+      "dialogue": {
+        "topic": "Paying politely",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can I pay, please?",
+            "target_text": "Kann ich zahlen, bitte?",
+            "japanese": "Kann ich zahlen, bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "By card, please.",
+            "target_text": "Mit Karte, bitte.",
+            "japanese": "Mit Karte, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here you go.",
+            "target_text": "Natürlich, bitte sehr.",
+            "japanese": "Natürlich, bitte sehr.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
