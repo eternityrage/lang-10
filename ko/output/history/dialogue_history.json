@@ -5399,6 +5399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T15:13:53.466648",
+      "dialogue": {
+        "topic": "Cute K-Drama Smile",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Why so cute today?",
+            "korean": "오늘 왜 이렇게 귀여워?",
+            "romaja": "Oneul wae ireoke gwiyeowo?",
+            "japanese": "오늘 왜 이렇게 귀여워?",
+            "romaji": "Oneul wae ireoke gwiyeowo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Me? I feel good!",
+            "korean": "나? 기분 좋아!",
+            "romaja": "Na? Gibun joa!",
+            "japanese": "나? 기분 좋아!",
+            "romaji": "Na? Gibun joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "I am smiling too.",
+            "korean": "나도 웃음 나.",
+            "romaja": "Nado useum na.",
+            "japanese": "나도 웃음 나.",
+            "romaji": "Nado useum na."
+          },
+          {
+            "speaker": "B",
+            "english": "Then, let's smile together!",
+            "korean": "그럼, 같이 웃자!",
+            "romaja": "Geureom, gachi utja!",
+            "japanese": "그럼, 같이 웃자!",
+            "romaji": "Geureom, gachi utja!"
+          }
+        ]
+      }
     }
   ]
 }
