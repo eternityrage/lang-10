@@ -5399,6 +5399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T11:08:03.017281",
+      "dialogue": {
+        "topic": "Tel Aviv Street Life",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where's the sea?",
+            "target_text": "סליחה, איפה הים?",
+            "transliteration": "Slicha, eifo hayam?",
+            "japanese": "סליחה, איפה הים?",
+            "romaji": "Slicha, eifo hayam?"
+          },
+          {
+            "speaker": "B",
+            "english": "It’s very close!",
+            "target_text": "זה קרוב מאוד!",
+            "transliteration": "Ze karov me'od!",
+            "japanese": "זה קרוב מאוד!",
+            "romaji": "Ze karov me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, shall we go?",
+            "target_text": "יופי, נלך יחד?",
+            "transliteration": "Yofi, nelekh yachad?",
+            "japanese": "יופי, נלך יחד?",
+            "romaji": "Yofi, nelekh yachad?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go!",
+            "target_text": "כן, בוא נלך!",
+            "transliteration": "Ken, bo nelekh!",
+            "japanese": "כן, בוא נלך!",
+            "romaji": "Ken, bo nelekh!"
+          }
+        ]
+      }
     }
   ]
 }
