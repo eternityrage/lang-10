@@ -4931,6 +4931,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T14:59:12.664771",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one pretzel, please.",
+            "target_text": "Hallo, eine Brezel, bitte.",
+            "japanese": "Hallo, eine Brezel, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here it is!",
+            "target_text": "Sehr gern, hier ist sie!",
+            "japanese": "Sehr gern, hier ist sie!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you also have butter?",
+            "target_text": "Haben Sie auch Butter?",
+            "japanese": "Haben Sie auch Butter?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, butter is included.",
+            "target_text": "Ja, Butter ist dabei.",
+            "japanese": "Ja, Butter ist dabei.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
