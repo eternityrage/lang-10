@@ -4895,6 +4895,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T04:48:26.872878",
+      "dialogue": {
+        "topic": "Friendly walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you okay?",
+            "target_text": "Oi, tudo bem?",
+            "japanese": "Oi, tudo bem?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, and you?",
+            "target_text": "Tudo ótimo, e você?",
+            "japanese": "Tudo ótimo, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Me too! Shall we walk?",
+            "target_text": "Também! Vamos caminhar?",
+            "japanese": "Também! Vamos caminhar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, good idea!",
+            "target_text": "Vamos, boa ideia!",
+            "japanese": "Vamos, boa ideia!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
