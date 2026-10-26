@@ -4967,6 +4967,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T19:41:18.308892",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one pretzel, please.",
+            "target_text": "Hallo, eine Brezel bitte.",
+            "japanese": "Hallo, eine Brezel bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, with butter?",
+            "target_text": "Gerne, mit Butter?",
+            "japanese": "Gerne, mit Butter?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "No, only with salt.",
+            "target_text": "Nein, nur mit Salz.",
+            "japanese": "Nein, nur mit Salz.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here you go!",
+            "target_text": "Okay, bitte schön!",
+            "japanese": "Okay, bitte schön!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
