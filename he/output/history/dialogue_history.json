@@ -5439,6 +5439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T18:16:47.756252",
+      "dialogue": {
+        "topic": "Shuk Carmel Market - Mango",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there sweet mango?",
+            "target_text": "שלום, יש מנגו מתוק?",
+            "transliteration": "Shalom, yesh mango matok?",
+            "japanese": "שלום, יש מנגו מתוק?",
+            "romaji": "Shalom, yesh mango matok?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very sweet!",
+            "target_text": "כן, מתוק מאוד!",
+            "transliteration": "Ken, matok me'od!",
+            "japanese": "כן, מתוק מאוד!",
+            "romaji": "Ken, matok me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one?",
+            "target_text": "כמה עולה אחד?",
+            "transliteration": "Kama oleh echad?",
+            "japanese": "כמה עולה אחד?",
+            "romaji": "Kama oleh echad?"
+          },
+          {
+            "speaker": "B",
+            "english": "Five shekels, please!",
+            "target_text": "חמישה שקלים, בבקשה!",
+            "transliteration": "Chamisha shkalim, bevakasha!",
+            "japanese": "חמישה שקלים, בבקשה!",
+            "romaji": "Chamisha shkalim, bevakasha!"
+          }
+        ]
+      }
     }
   ]
 }
