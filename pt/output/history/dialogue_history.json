@@ -4967,6 +4967,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T23:04:00.621543",
+      "dialogue": {
+        "topic": "Street slang greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, all good?",
+            "target_text": "E aí, tudo bem?",
+            "japanese": "E aí, tudo bem?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All great, and you?",
+            "target_text": "Tudo ótimo, e você?",
+            "japanese": "Tudo ótimo, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Chill too.",
+            "target_text": "De boa também.",
+            "japanese": "De boa também.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "So, let’s go!",
+            "target_text": "Então, bora lá!",
+            "japanese": "Então, bora lá!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
