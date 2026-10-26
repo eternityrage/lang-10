@@ -4447,6 +4447,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T23:05:40.675404",
+      "dialogue": {
+        "topic": "Milk at the cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is there milk?",
+            "japanese": "マグさん、ミルクは ありますか？",
+            "romaji": "Magu-san, miruku wa arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is.",
+            "japanese": "はい、あります。",
+            "romaji": "Hai, arimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "Milk, please.",
+            "japanese": "ミルクを ください。",
+            "romaji": "Miruku o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go.",
+            "japanese": "どうぞ、ミルクです。",
+            "romaji": "Douzo, miruku desu."
+          }
+        ]
+      }
     }
   ]
 }
