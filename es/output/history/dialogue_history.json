@@ -4823,6 +4823,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T02:01:57.992219",
+      "dialogue": {
+        "topic": "Bebida en el patio",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want a drink?",
+            "target_text": "¿Quieres una bebida?",
+            "japanese": "¿Quieres una bebida?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thanks. I’m happy.",
+            "target_text": "Sí, gracias. Estoy feliz.",
+            "japanese": "Sí, gracias. Estoy feliz.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the patio?",
+            "target_text": "¿Vamos al patio?",
+            "japanese": "¿Vamos al patio?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go calmly.",
+            "target_text": "Sí, vamos tranquilos.",
+            "japanese": "Sí, vamos tranquilos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
