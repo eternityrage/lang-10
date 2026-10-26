@@ -5359,6 +5359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T01:55:24.429518",
+      "dialogue": {
+        "topic": "Coffee & Bakery - Chocolate Cake",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there fresh cake?",
+            "target_text": "שלום, יש עוגה טרייה?",
+            "transliteration": "Shalom, yesh uga triya?",
+            "japanese": "שלום, יש עוגה טרייה?",
+            "romaji": "Shalom, yesh uga triya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, warm chocolate cake!",
+            "target_text": "כן, עוגת שוקולד חמה!",
+            "transliteration": "Ken, ugat shokolad chama!",
+            "japanese": "כן, עוגת שוקולד חמה!",
+            "romaji": "Ken, ugat shokolad chama!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have a small piece?",
+            "target_text": "אפשר חתיכה קטנה?",
+            "transliteration": "Efshar chaticha ktana?",
+            "japanese": "אפשר חתיכה קטנה?",
+            "romaji": "Efshar chaticha ktana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here, enjoy!",
+            "target_text": "בטח, הנה, בתיאבון!",
+            "transliteration": "Betach, hine, bete'avon!",
+            "japanese": "בטח, הנה, בתיאבון!",
+            "romaji": "Betach, hine, bete'avon!"
+          }
+        ]
+      }
     }
   ]
 }
