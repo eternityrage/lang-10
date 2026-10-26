@@ -4415,6 +4415,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T18:10:10.554826",
+      "dialogue": {
+        "topic": "Shibuya street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is this Shibuya?",
+            "japanese": "マグ、ここは しぶやですか？",
+            "romaji": "Magu, koko wa Shibuya desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's Shibuya.",
+            "japanese": "はい、しぶやです。",
+            "romaji": "Hai, Shibuya desu."
+          },
+          {
+            "speaker": "A",
+            "english": "There are many people.",
+            "japanese": "ひとが おおいです。",
+            "romaji": "Hito ga ooi desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Please walk slowly.",
+            "japanese": "ゆっくり あるいてください。",
+            "romaji": "Yukkuri aruite kudasai."
+          }
+        ]
+      }
     }
   ]
 }
