@@ -4895,6 +4895,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T15:05:57.656562",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what a beautiful smile!",
+            "target_text": "Ciao, che bel sorriso!",
+            "japanese": "Ciao, che bel sorriso!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you, you are kind!",
+            "target_text": "Grazie, sei gentile!",
+            "japanese": "Grazie, sei gentile!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You brighten the day.",
+            "target_text": "Illumini la giornata.",
+            "japanese": "Illumini la giornata.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How sweet, thank you!",
+            "target_text": "Che dolce, grazie!",
+            "japanese": "Che dolce, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
