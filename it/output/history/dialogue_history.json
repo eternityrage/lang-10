@@ -4931,6 +4931,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T20:57:28.306115",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Which pizza do you recommend?",
+            "target_text": "Quale pizza consigli?",
+            "japanese": "Quale pizza consigli?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "The margherita is delicious!",
+            "target_text": "La margherita è buonissima!",
+            "japanese": "La margherita è buonissima!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take a margherita.",
+            "target_text": "Prendo una margherita.",
+            "japanese": "Prendo una margherita.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, it’s coming right away!",
+            "target_text": "Perfetto, arriva subito!",
+            "japanese": "Perfetto, arriva subito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
