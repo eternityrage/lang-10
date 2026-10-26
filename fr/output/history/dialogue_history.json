@@ -5039,6 +5039,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T23:51:56.369904",
+      "dialogue": {
+        "topic": "Ordering a croissant and coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one croissant, please?",
+            "target_text": "Bonjour, un croissant, s'il vous plaît ?",
+            "japanese": "Bonjour, un croissant, s'il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With a coffee, thanks.",
+            "target_text": "Avec un café, merci.",
+            "japanese": "Avec un café, merci.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, enjoy!",
+            "target_text": "Voilà, bonne dégustation !",
+            "japanese": "Voilà, bonne dégustation !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
