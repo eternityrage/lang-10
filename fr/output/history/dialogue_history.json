@@ -4931,6 +4931,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T02:08:47.496190",
+      "dialogue": {
+        "topic": "Train departure",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Does this train go to Lyon?",
+            "target_text": "Ce train va à Lyon ?",
+            "japanese": "Ce train va à Lyon ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it goes to Lyon!",
+            "target_text": "Oui, il va à Lyon !",
+            "japanese": "Oui, il va à Lyon !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "When does it leave?",
+            "target_text": "Il part quand ?",
+            "japanese": "Il part quand ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "In ten minutes.",
+            "target_text": "Dans dix minutes.",
+            "japanese": "Dans dix minutes.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
