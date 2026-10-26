@@ -4895,6 +4895,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T02:15:18.327440",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Does the U2 stop here?",
+            "target_text": "Fährt die U2 hier?",
+            "japanese": "Fährt die U2 hier?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, down there.",
+            "target_text": "Klar, dort unten.",
+            "japanese": "Klar, dort unten.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Toward Alexanderplatz?",
+            "target_text": "In Richtung Alexanderplatz?",
+            "japanese": "In Richtung Alexanderplatz?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, platform one.",
+            "target_text": "Ja, Gleis eins.",
+            "japanese": "Ja, Gleis eins.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
