@@ -5479,6 +5479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T22:57:00.705293",
+      "dialogue": {
+        "topic": "Convenience Store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have batteries?",
+            "russian": "Здравствуйте, есть батарейки?",
+            "translit": "Zdravstvuyte, est' batareyki?",
+            "japanese": "Здравствуйте, есть батарейки?",
+            "romaji": "Zdravstvuyte, est' batareyki?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here they are!",
+            "russian": "Да, вот они!",
+            "translit": "Da, vot oni!",
+            "japanese": "Да, вот они!",
+            "romaji": "Da, vot oni!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much are they?",
+            "russian": "Сколько они стоят?",
+            "translit": "Skol'ko oni stoyat?",
+            "japanese": "Сколько они стоят?",
+            "romaji": "Skol'ko oni stoyat?"
+          },
+          {
+            "speaker": "B",
+            "english": "One hundred rubles, please.",
+            "russian": "Сто рублей, пожалуйста.",
+            "translit": "Sto rubley, pozhaluysta.",
+            "japanese": "Сто рублей, пожалуйста.",
+            "romaji": "Sto rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
