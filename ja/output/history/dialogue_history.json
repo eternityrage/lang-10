@@ -4383,6 +4383,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-26T11:01:04.408043",
+      "dialogue": {
+        "topic": "Anime pep talk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, let's go!",
+            "japanese": "マグさん、いきましょう！",
+            "romaji": "Magu-san, ikimashou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go together!",
+            "japanese": "はい、いっしょに いきましょう！",
+            "romaji": "Hai, issho ni ikimashou!"
+          },
+          {
+            "speaker": "A",
+            "english": "I will do my best!",
+            "japanese": "わたしは がんばります！",
+            "romaji": "Watashi wa ganbarimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Me too! Do your best!",
+            "japanese": "ぼくも！がんばってください！",
+            "romaji": "Boku mo! Ganbatte kudasai!"
+          }
+        ]
+      }
     }
   ]
 }
