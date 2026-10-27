@@ -5039,6 +5039,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T16:58:44.533833",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, a coffee with milk?",
+            "target_text": "Hola, ¿un café con leche?",
+            "japanese": "Hola, ¿un café con leche?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, great choice!",
+            "target_text": "¡Claro, buena elección!",
+            "japanese": "¡Claro, buena elección!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have a small tapa?",
+            "target_text": "¿Tienes una tapa pequeña?",
+            "japanese": "¿Tienes una tapa pequeña?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "target_text": "Sí, aquí la tienes.",
+            "japanese": "Sí, aquí la tienes.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
