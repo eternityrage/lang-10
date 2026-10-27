@@ -5111,6 +5111,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T22:27:12.826929",
+      "dialogue": {
+        "topic": "Smoothie de manga gelado",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the smoothie cold?",
+            "target_text": "Oi, o smoothie é gelado?",
+            "japanese": "Oi, o smoothie é gelado?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, super cold!",
+            "target_text": "Sim, super gelado!",
+            "japanese": "Sim, super gelado!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it have mango too?",
+            "target_text": "Leva manga também?",
+            "japanese": "Leva manga também?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s delicious!",
+            "target_text": "Sim, fica uma delícia!",
+            "japanese": "Sim, fica uma delícia!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
