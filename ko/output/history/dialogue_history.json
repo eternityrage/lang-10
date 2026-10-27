@@ -5639,6 +5639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T22:03:07.018624",
+      "dialogue": {
+        "topic": "Sharing an Umbrella",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "It’s raining. Are you okay?",
+            "korean": "비 와요, 괜찮아요?",
+            "romaja": "Bi wayo, gwaenchanayo?",
+            "japanese": "비 와요, 괜찮아요?",
+            "romaji": "Bi wayo, gwaenchanayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I have an umbrella!",
+            "korean": "네, 우산 있어요!",
+            "romaja": "Ne, usan isseoyo!",
+            "japanese": "네, 우산 있어요!",
+            "romaji": "Ne, usan isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can we share it?",
+            "korean": "같이 써도 돼요?",
+            "romaja": "Gachi sseodo dwaeyo?",
+            "japanese": "같이 써도 돼요?",
+            "romaji": "Gachi sseodo dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, my heart flutters!",
+            "korean": "네, 저 설레요!",
+            "romaja": "Ne, jeo seolleyo!",
+            "japanese": "네, 저 설레요!",
+            "romaji": "Ne, jeo seolleyo!"
+          }
+        ]
+      }
     }
   ]
 }
