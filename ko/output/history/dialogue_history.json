@@ -5519,6 +5519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T05:03:11.940148",
+      "dialogue": {
+        "topic": "Switching to Casual Speech",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we use banmal?",
+            "korean": "우리 반말할까요?",
+            "romaja": "Uri banmal halkkayo?",
+            "japanese": "우리 반말할까요?",
+            "romaji": "Uri banmal halkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, it feels comfy!",
+            "korean": "좋아요, 편해요!",
+            "romaja": "Joayo, pyeonhaeyo!",
+            "japanese": "좋아요, 편해요!",
+            "romaji": "Joayo, pyeonhaeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then speak casually!",
+            "korean": "그럼 반말해!",
+            "romaja": "Geureom banmalhae!",
+            "japanese": "그럼 반말해!",
+            "romaji": "Geureom banmalhae!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds good!",
+            "korean": "응, 좋아!",
+            "romaja": "Eung, joa!",
+            "japanese": "응, 좋아!",
+            "romaji": "Eung, joa!"
+          }
+        ]
+      }
     }
   ]
 }
