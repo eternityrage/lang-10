@@ -4967,6 +4967,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T03:37:20.698860",
+      "dialogue": {
+        "topic": "Ordering coffee at a café",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have coffee with milk?",
+            "target_text": "Hola, ¿tiene café con leche?",
+            "japanese": "Hola, ¿tiene café con leche?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very good.",
+            "target_text": "Sí, está muy bueno.",
+            "japanese": "Sí, está muy bueno.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One, please.",
+            "target_text": "Uno, por favor.",
+            "japanese": "Uno, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, right now.",
+            "target_text": "Claro, ahora mismo.",
+            "japanese": "Claro, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
