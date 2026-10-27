@@ -4543,6 +4543,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T16:45:26.613944",
+      "dialogue": {
+        "topic": "Anime courage",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you okay?",
+            "japanese": "マグさん、だいじょうぶですか？",
+            "romaji": "Magu-san, daijoubu desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I am fine.",
+            "japanese": "はい！げんきです。",
+            "romaji": "Hai! Genki desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Let’s go together!",
+            "japanese": "いっしょに いきましょう！",
+            "romaji": "Issho ni ikimashou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Let’s go!",
+            "japanese": "はい！いきましょう！",
+            "romaji": "Hai! Ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
