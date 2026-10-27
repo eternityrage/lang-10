@@ -5519,6 +5519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T05:16:14.842857",
+      "dialogue": {
+        "topic": "Street Greetings & Friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you here alone?",
+            "russian": "Привет, ты здесь один?",
+            "translit": "Privet, ty zdes' odin?",
+            "japanese": "Привет, ты здесь один?",
+            "romaji": "Privet, ty zdes' odin?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I'm waiting for a friend!",
+            "russian": "Нет, я жду друга!",
+            "translit": "Net, ya zhdu druga!",
+            "japanese": "Нет, я жду друга!",
+            "romaji": "Net, ya zhdu druga!"
+          },
+          {
+            "speaker": "A",
+            "english": "Cool, may I join you?",
+            "russian": "Класс, можно с вами?",
+            "translit": "Klass, mozhno s vami?",
+            "japanese": "Класс, можно с вами?",
+            "romaji": "Klass, mozhno s vami?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, let's go together!",
+            "russian": "Конечно, пойдём вместе!",
+            "translit": "Konechno, poydyom vmeste!",
+            "japanese": "Конечно, пойдём вместе!",
+            "romaji": "Konechno, poydyom vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
