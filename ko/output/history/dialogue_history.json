@@ -5599,6 +5599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T18:57:20.915103",
+      "dialogue": {
+        "topic": "Hotteok street snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want hot hotteok?",
+            "korean": "뜨거운 호떡 먹을래?",
+            "romaja": "Tteugeoun hotteok meogeullae?",
+            "japanese": "뜨거운 호떡 먹을래?",
+            "romaji": "Tteugeoun hotteok meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Let's share one together.",
+            "korean": "하나 같이 먹자.",
+            "romaja": "Hana gachi meokja.",
+            "japanese": "하나 같이 먹자.",
+            "romaji": "Hana gachi meokja."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's eat quickly!",
+            "korean": "좋아, 빨리 먹자!",
+            "romaja": "Joa, ppalli meokja!",
+            "japanese": "좋아, 빨리 먹자!",
+            "romaji": "Joa, ppalli meokja!"
+          }
+        ]
+      }
     }
   ]
 }
