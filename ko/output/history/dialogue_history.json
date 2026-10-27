@@ -5479,6 +5479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T00:12:26.357179",
+      "dialogue": {
+        "topic": "Hat shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this hat?",
+            "korean": "이 모자 얼마예요?",
+            "romaja": "I moja eolmayeyo?",
+            "japanese": "이 모자 얼마예요?",
+            "romaji": "I moja eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is just 10,000 won!",
+            "korean": "딱 만 원이에요!",
+            "romaja": "Ttak man won-ieyo!",
+            "japanese": "딱 만 원이에요!",
+            "romaji": "Ttak man won-ieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try it?",
+            "korean": "써 봐도 돼요?",
+            "romaja": "Sseo bwado dwaeyo?",
+            "japanese": "써 봐도 돼요?",
+            "romaji": "Sseo bwado dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it suits you!",
+            "korean": "네, 아주 잘 어울려요!",
+            "romaja": "Ne, aju jal eoullyeoyo!",
+            "japanese": "네, 아주 잘 어울려요!",
+            "romaji": "Ne, aju jal eoullyeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
