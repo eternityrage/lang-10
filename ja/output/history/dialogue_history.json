@@ -4575,6 +4575,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T21:14:18.969829",
+      "dialogue": {
+        "topic": "Work break together",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you working now?",
+            "japanese": "いま、しごとですか？",
+            "romaji": "Ima, shigoto desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little work.",
+            "japanese": "はい、すこし しごとです。",
+            "romaji": "Hai, sukoshi shigoto desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Will you rest later?",
+            "japanese": "あとで やすみますか？",
+            "romaji": "Ato de yasumimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's rest together!",
+            "japanese": "はい、いっしょに やすみましょう！",
+            "romaji": "Hai, issho ni yasumimashou!"
+          }
+        ]
+      }
     }
   ]
 }
