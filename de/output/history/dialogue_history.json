@@ -5039,6 +5039,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T03:50:59.505720",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is the subway?",
+            "target_text": "Entschuldigung, wo ist die U-Bahn?",
+            "japanese": "Entschuldigung, wo ist die U-Bahn?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right there on the left.",
+            "target_text": "Ja, gleich dort links.",
+            "japanese": "Ja, gleich dort links.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does the U3 go to the zoo?",
+            "target_text": "Fährt die U3 zum Zoo?",
+            "japanese": "Fährt die U3 zum Zoo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, take the U3.",
+            "target_text": "Ja, nimm die U3.",
+            "japanese": "Ja, nimm die U3.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
