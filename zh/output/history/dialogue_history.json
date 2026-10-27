@@ -5679,6 +5679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T00:22:14.659716",
+      "dialogue": {
+        "topic": "Ordering Milk Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Drink milk tea?",
+            "chinese": "喝奶茶吗？",
+            "pinyin": "Hē nǎichá ma?",
+            "japanese": "喝奶茶吗？",
+            "romaji": "Hē nǎichá ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes!",
+            "chinese": "好呀！",
+            "pinyin": "Hǎo ya!",
+            "japanese": "好呀！",
+            "romaji": "Hǎo ya!"
+          },
+          {
+            "speaker": "A",
+            "english": "Large cup?",
+            "chinese": "要大杯吗？",
+            "pinyin": "Yào dà bēi ma?",
+            "japanese": "要大杯吗？",
+            "romaji": "Yào dà bēi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Small is fine.",
+            "chinese": "小杯就好。",
+            "pinyin": "Xiǎo bēi jiù hǎo.",
+            "japanese": "小杯就好。",
+            "romaji": "Xiǎo bēi jiù hǎo."
+          }
+        ]
+      }
     }
   ]
 }
