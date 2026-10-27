@@ -5599,6 +5599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T16:52:00.983755",
+      "dialogue": {
+        "topic": "Buying fresh strawberries at Shuk Carmel Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there fresh strawberries?",
+            "target_text": "שלום, יש תותים טריים?",
+            "transliteration": "Shalom, yesh tutim tri'im?",
+            "japanese": "שלום, יש תותים טריים?",
+            "romaji": "Shalom, yesh tutim tri'im?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very sweet!",
+            "target_text": "כן, מתוקים מאוד!",
+            "transliteration": "Ken, metukim me'od!",
+            "japanese": "כן, מתוקים מאוד!",
+            "romaji": "Ken, metukim me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is a box?",
+            "target_text": "כמה עולה קופסה?",
+            "transliteration": "Kama ola kufsa?",
+            "japanese": "כמה עולה קופסה?",
+            "romaji": "Kama ola kufsa?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, please.",
+            "target_text": "עשרה שקלים, בבקשה.",
+            "transliteration": "Asara shkalim, bevakasha.",
+            "japanese": "עשרה שקלים, בבקשה.",
+            "romaji": "Asara shkalim, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
