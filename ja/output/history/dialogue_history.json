@@ -4479,6 +4479,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T03:22:53.714346",
+      "dialogue": {
+        "topic": "Bus Ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the bus?",
+            "japanese": "バスは どこですか？",
+            "romaji": "Basu wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is over there.",
+            "japanese": "あそこ です。",
+            "romaji": "Asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Is it 100 yen?",
+            "japanese": "100えん ですか？",
+            "romaji": "Hyaku-en desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, 100 yen.",
+            "japanese": "はい、100えん です。",
+            "romaji": "Hai, hyaku-en desu."
+          }
+        ]
+      }
     }
   ]
 }
