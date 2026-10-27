@@ -5839,6 +5839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T22:09:51.046871",
+      "dialogue": {
+        "topic": "Daily greeting: You’re here!",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "You’re here?",
+            "chinese": "你来啦？",
+            "pinyin": "Nǐ lái la?",
+            "japanese": "你来啦？",
+            "romaji": "Nǐ lái la?"
+          },
+          {
+            "speaker": "B",
+            "english": "I’m here!",
+            "chinese": "我来啦！",
+            "pinyin": "Wǒ lái la!",
+            "japanese": "我来啦！",
+            "romaji": "Wǒ lái la!"
+          },
+          {
+            "speaker": "A",
+            "english": "So happy!",
+            "chinese": "真高兴！",
+            "pinyin": "Zhēn gāoxìng!",
+            "japanese": "真高兴！",
+            "romaji": "Zhēn gāoxìng!"
+          },
+          {
+            "speaker": "B",
+            "english": "Me too!",
+            "chinese": "我也是！",
+            "pinyin": "Wǒ yě shì!",
+            "japanese": "我也是！",
+            "romaji": "Wǒ yě shì!"
+          }
+        ]
+      }
     }
   ]
 }
