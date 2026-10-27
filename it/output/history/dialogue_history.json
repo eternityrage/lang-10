@@ -5075,6 +5075,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T18:28:07.702975",
+      "dialogue": {
+        "topic": "Ordering pizza in a trattoria",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, a Margherita pizza?",
+            "target_text": "Buonasera, una pizza margherita?",
+            "japanese": "Buonasera, una pizza margherita?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, coming right away!",
+            "target_text": "Certo, arriva subito!",
+            "japanese": "Certo, arriva subito!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, and still water.",
+            "target_text": "Grazie, e acqua naturale.",
+            "japanese": "Grazie, e acqua naturale.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, enjoy your meal!",
+            "target_text": "Perfetto, buon appetito!",
+            "japanese": "Perfetto, buon appetito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
