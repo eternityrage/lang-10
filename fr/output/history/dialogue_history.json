@@ -5111,6 +5111,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T10:47:48.668064",
+      "dialogue": {
+        "topic": "Daily Life",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! Is this croissant fresh?",
+            "target_text": "Bonjour! Ce croissant est frais?",
+            "japanese": "Bonjour! Ce croissant est frais?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is warm and fresh!",
+            "target_text": "Oui, il est bien chaud!",
+            "japanese": "Oui, il est bien chaud!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One, please.",
+            "target_text": "Un, s’il vous plaît.",
+            "japanese": "Un, s’il vous plaît.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, enjoy!",
+            "target_text": "Voilà, bon appétit!",
+            "japanese": "Voilà, bon appétit!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
