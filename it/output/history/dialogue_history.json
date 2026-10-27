@@ -5039,6 +5039,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T11:00:44.230390",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning! A coffee, please?",
+            "target_text": "Buongiorno! Un caffè, per favore?",
+            "japanese": "Buongiorno! Un caffè, per favore?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Certainly! Normal or macchiato?",
+            "target_text": "Certamente! Normale o macchiato?",
+            "japanese": "Certamente! Normale o macchiato?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A hot espresso, thanks!",
+            "target_text": "Un espresso caldo, grazie!",
+            "japanese": "Un espresso caldo, grazie!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here it is! Have a nice day!",
+            "target_text": "Eccolo! Buona giornata!",
+            "japanese": "Eccolo! Buona giornata!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
