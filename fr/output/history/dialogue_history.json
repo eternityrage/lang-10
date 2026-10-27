@@ -5147,6 +5147,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T17:05:39.074520",
+      "dialogue": {
+        "topic": "Street greeting with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how are you?",
+            "target_text": "Bonjour, ça va ?",
+            "japanese": "Bonjour, ça va ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very well, thanks!",
+            "target_text": "Oui, très bien, merci !",
+            "japanese": "Oui, très bien, merci !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where are you going?",
+            "target_text": "Tu vas où ?",
+            "japanese": "Tu vas où ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "To the park, see you soon!",
+            "target_text": "Au parc, à bientôt !",
+            "japanese": "Au parc, à bientôt !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
