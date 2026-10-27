@@ -5111,6 +5111,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-27T18:21:23.747225",
+      "dialogue": {
+        "topic": "Im Biergarten einen Tisch finden",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this table free?",
+            "target_text": "Hallo, ist der Tisch frei?",
+            "japanese": "Hallo, ist der Tisch frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please, sit down!",
+            "target_text": "Ja, bitte, setzen Sie sich!",
+            "japanese": "Ja, bitte, setzen Sie sich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A shandy, please.",
+            "target_text": "Ein Radler, bitte.",
+            "japanese": "Ein Radler, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, coming right away!",
+            "target_text": "Gern, kommt sofort!",
+            "japanese": "Gern, kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
