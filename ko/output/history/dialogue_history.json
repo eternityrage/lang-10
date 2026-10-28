@@ -5799,6 +5799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T22:25:10.305784",
+      "dialogue": {
+        "topic": "Cute K-Drama: I Missed You",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Did you miss me?",
+            "korean": "나 보고 싶었어?",
+            "romaja": "Na bogo sipeosseo?",
+            "japanese": "나 보고 싶었어?",
+            "romaji": "Na bogo sipeosseo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I missed you lots!",
+            "korean": "응, 많이 보고 싶었어!",
+            "romaja": "Eung, mani bogo sipeosseo!",
+            "japanese": "응, 많이 보고 싶었어!",
+            "romaji": "Eung, mani bogo sipeosseo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? Me too.",
+            "korean": "진짜? 나도 그랬어.",
+            "romaja": "Jinjja? Nado geuraesseo.",
+            "japanese": "진짜? 나도 그랬어.",
+            "romaji": "Jinjja? Nado geuraesseo."
+          },
+          {
+            "speaker": "B",
+            "english": "Let's stay together now.",
+            "korean": "우리 이제 같이 있어.",
+            "romaja": "Uri ije gachi isseo.",
+            "japanese": "우리 이제 같이 있어.",
+            "romaji": "Uri ije gachi isseo."
+          }
+        ]
+      }
     }
   ]
 }
