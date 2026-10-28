@@ -5183,6 +5183,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T17:22:56.998170",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want to dance a little?",
+            "target_text": "Hola, ¿quieres bailar un poco?",
+            "japanese": "Hola, ¿quieres bailar un poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, I want to dance!",
+            "target_text": "¡Sí, claro, quiero bailar!",
+            "japanese": "¡Sí, claro, quiero bailar!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Here or on the terrace?",
+            "target_text": "¿Aquí o en la terraza?",
+            "japanese": "¿Aquí o en la terraza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "On the terrace, let's go.",
+            "target_text": "En la terraza, vamos.",
+            "japanese": "En la terraza, vamos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
