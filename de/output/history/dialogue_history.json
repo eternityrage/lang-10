@@ -5255,6 +5255,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T17:36:40.901726",
+      "dialogue": {
+        "topic": "Greeting a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, nice to see you!",
+            "target_text": "Hallo, schön dich zu sehen!",
+            "japanese": "Hallo, schön dich zu sehen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, I am happy!",
+            "target_text": "Danke, ich freue mich!",
+            "japanese": "Danke, ich freue mich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have a moment?",
+            "target_text": "Hast du kurz Zeit?",
+            "japanese": "Hast du kurz Zeit?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you soon!",
+            "target_text": "Ja, bis gleich!",
+            "japanese": "Ja, bis gleich!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
