@@ -5799,6 +5799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T21:48:47.189824",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there hot coffee?",
+            "target_text": "שלום, יש קפה חם?",
+            "transliteration": "Shalom, yesh kafe cham?",
+            "japanese": "שלום, יש קפה חם?",
+            "romaji": "Shalom, yesh kafe cham?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is fresh coffee!",
+            "target_text": "כן, יש קפה טרי!",
+            "transliteration": "Ken, yesh kafe tari!",
+            "japanese": "כן, יש קפה טרי!",
+            "romaji": "Ken, yesh kafe tari!"
+          },
+          {
+            "speaker": "A",
+            "english": "And is there a small cake?",
+            "target_text": "ויש עוגה קטנה?",
+            "transliteration": "Ve-yesh uga ktana?",
+            "japanese": "ויש עוגה קטנה?",
+            "romaji": "Ve-yesh uga ktana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, coffee and cake!",
+            "target_text": "בטח, קפה ועוגה!",
+            "transliteration": "Betach, kafe ve-uga!",
+            "japanese": "בטח, קפה ועוגה!",
+            "romaji": "Betach, kafe ve-uga!"
+          }
+        ]
+      }
     }
   ]
 }
