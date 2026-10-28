@@ -4607,6 +4607,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T02:10:28.517062",
+      "dialogue": {
+        "topic": "Cake sharing at a cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "I'm sweet.",
+            "japanese": "ぼく、あまいです。",
+            "romaji": "Boku, amai desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Nice! Smells good.",
+            "japanese": "いいですね！いい におい。",
+            "romaji": "Ii desu ne! Ii nioi."
+          },
+          {
+            "speaker": "A",
+            "english": "One bite, please.",
+            "japanese": "ひとくち、どうぞ。",
+            "romaji": "Hitokuchi, douzo."
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! It's delicious.",
+            "japanese": "ありがとう！おいしいです。",
+            "romaji": "Arigatou! Oishii desu."
+          }
+        ]
+      }
     }
   ]
 }
