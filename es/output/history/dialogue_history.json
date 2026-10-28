@@ -5111,6 +5111,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T02:23:53.313790",
+      "dialogue": {
+        "topic": "Finding the metro line",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the metro?",
+            "target_text": "Hola, ¿dónde está el metro?",
+            "japanese": "Hola, ¿dónde está el metro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here, very close!",
+            "target_text": "¡Aquí, muy cerca!",
+            "japanese": "¡Aquí, muy cerca!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Which line do I need?",
+            "target_text": "¿Qué línea necesito?",
+            "japanese": "¿Qué línea necesito?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Line two, easy.",
+            "target_text": "La línea dos, fácil.",
+            "japanese": "La línea dos, fácil.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
