@@ -5679,6 +5679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T02:57:48.621423",
+      "dialogue": {
+        "topic": "Buy Water Before the Subway",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Buy water before subway?",
+            "korean": "지하철 전에 물 살까?",
+            "romaja": "Jihacheol jeone mul salkka?",
+            "japanese": "지하철 전에 물 살까?",
+            "romaji": "Jihacheol jeone mul salkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I’m thirsty!",
+            "korean": "좋아, 나 목말라!",
+            "romaja": "Joa, na mongmalla!",
+            "japanese": "좋아, 나 목말라!",
+            "romaji": "Joa, na mongmalla!"
+          },
+          {
+            "speaker": "A",
+            "english": "Let’s buy it there.",
+            "korean": "편의점에서 물 사자.",
+            "romaja": "Pyeonuijeomeseo mul saja.",
+            "japanese": "편의점에서 물 사자.",
+            "romaji": "Pyeonuijeomeseo mul saja."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, one water, please!",
+            "korean": "응, 물 하나 주세요!",
+            "romaja": "Eung, mul hana juseyo!",
+            "japanese": "응, 물 하나 주세요!",
+            "romaji": "Eung, mul hana juseyo!"
+          }
+        ]
+      }
     }
   ]
 }
