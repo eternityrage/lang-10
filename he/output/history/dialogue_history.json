@@ -5719,6 +5719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T11:24:13.733284",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there a croissant?",
+            "target_text": "שלום, יש קרואסון?",
+            "transliteration": "Shalom, yesh kroason?",
+            "japanese": "שלום, יש קרואסון?",
+            "romaji": "Shalom, yesh kroason?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very fresh!",
+            "target_text": "כן, הוא טרי מאוד!",
+            "transliteration": "Ken, hu tari meod!",
+            "japanese": "כן, הוא טרי מאוד!",
+            "romaji": "Ken, hu tari meod!"
+          },
+          {
+            "speaker": "A",
+            "english": "I want one, please.",
+            "target_text": "אני רוצה אחד, בבקשה.",
+            "transliteration": "Ani rotze echad, bevakasha.",
+            "japanese": "אני רוצה אחד, בבקשה.",
+            "romaji": "Ani rotze echad, bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, sweet day!",
+            "target_text": "בבקשה, יום מתוק!",
+            "transliteration": "Bevakasha, yom matok!",
+            "japanese": "בבקשה, יום מתוק!",
+            "romaji": "Bevakasha, yom matok!"
+          }
+        ]
+      }
     }
   ]
 }
