@@ -5147,6 +5147,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T02:50:41.487021",
+      "dialogue": {
+        "topic": "Italian Gestures & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we take a photo?",
+            "target_text": "Ciao, facciamo una foto?",
+            "japanese": "Ciao, facciamo una foto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, how cool!",
+            "target_text": "Certo, che figata!",
+            "japanese": "Certo, che figata!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do the Italian gesture!",
+            "target_text": "Fai il gesto italiano!",
+            "japanese": "Fai il gesto italiano!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, mamma mia!",
+            "target_text": "Perfetto, mamma mia!",
+            "japanese": "Perfetto, mamma mia!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
