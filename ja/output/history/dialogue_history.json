@@ -4703,6 +4703,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T21:38:29.382914",
+      "dialogue": {
+        "topic": "Harajuku crepe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is this a crepe?",
+            "japanese": "マグさん、これは クレープですか？",
+            "romaji": "Magu-san, kore wa kurēpu desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a Harajuku crepe.",
+            "japanese": "はい、はらじゅくの クレープです。",
+            "romaji": "Hai, Harajuku no kurēpu desu."
+          },
+          {
+            "speaker": "A",
+            "english": "One, please.",
+            "japanese": "ひとつ ください。",
+            "romaji": "Hitotsu kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, dōzo!"
+          }
+        ]
+      }
     }
   ]
 }
