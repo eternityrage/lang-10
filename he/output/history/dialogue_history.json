@@ -5759,6 +5759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T17:15:58.196501",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, taxi available?",
+            "target_text": "סליחה, המונית פנויה?",
+            "transliteration": "Slicha, ha-monit pnuya?",
+            "japanese": "סליחה, המונית פנויה?",
+            "romaji": "Slicha, ha-monit pnuya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly, please!",
+            "target_text": "כן, בשמחה, בבקשה!",
+            "transliteration": "Ken, be-simcha, bevakasha!",
+            "japanese": "כן, בשמחה, בבקשה!",
+            "romaji": "Ken, be-simcha, bevakasha!"
+          },
+          {
+            "speaker": "A",
+            "english": "To Dan Hotel, please.",
+            "target_text": "למלון דן, בבקשה.",
+            "transliteration": "Le-malon Dan, bevakasha.",
+            "japanese": "למלון דן, בבקשה.",
+            "romaji": "Le-malon Dan, bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, we go now!",
+            "target_text": "בטח, נוסעים עכשיו!",
+            "transliteration": "Betach, nos'im achshav!",
+            "japanese": "בטח, נוסעים עכשיו!",
+            "romaji": "Betach, nos'im achshav!"
+          }
+        ]
+      }
     }
   ]
 }
