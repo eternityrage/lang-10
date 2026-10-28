@@ -5759,6 +5759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T17:54:20.256834",
+      "dialogue": {
+        "topic": "Hongdae & Gangnam Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want a Hongdae cafe?",
+            "korean": "홍대 카페 갈래요?",
+            "romaja": "Hongdae kape gallaeyo?",
+            "japanese": "홍대 카페 갈래요?",
+            "romaji": "Hongdae kape gallaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's drink coffee!",
+            "korean": "좋아요, 커피 마셔요!",
+            "romaja": "Joayo, keopi masyeoyo!",
+            "japanese": "좋아요, 커피 마셔요!",
+            "romaji": "Joayo, keopi masyeoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is Gangnam cafe good too?",
+            "korean": "강남 카페도 좋아요?",
+            "romaja": "Gangnam kapedo joayo?",
+            "japanese": "강남 카페도 좋아요?",
+            "romaji": "Gangnam kapedo joayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, both are good!",
+            "korean": "네, 둘 다 좋아요!",
+            "romaja": "Ne, dul da joayo!",
+            "japanese": "네, 둘 다 좋아요!",
+            "romaji": "Ne, dul da joayo!"
+          }
+        ]
+      }
     }
   ]
 }
