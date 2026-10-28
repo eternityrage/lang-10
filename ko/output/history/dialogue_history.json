@@ -5719,6 +5719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T11:58:54.957423",
+      "dialogue": {
+        "topic": "Hongdae & Gangnam Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want to go to a Hongdae cafe?",
+            "korean": "홍대 카페 갈래요?",
+            "romaja": "Hongdae kape gallaeyo?",
+            "japanese": "홍대 카페 갈래요?",
+            "romaji": "Hongdae kape gallaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds really good!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Gangnam cafes are nice too.",
+            "korean": "강남 카페도 좋아요.",
+            "romaja": "Gangnam kapedo joayo.",
+            "japanese": "강남 카페도 좋아요.",
+            "romaji": "Gangnam kapedo joayo."
+          },
+          {
+            "speaker": "B",
+            "english": "Then let’s go to Gangnam!",
+            "korean": "그럼 강남 가요!",
+            "romaja": "Geureom Gangnam gayo!",
+            "japanese": "그럼 강남 가요!",
+            "romaji": "Geureom Gangnam gayo!"
+          }
+        ]
+      }
     }
   ]
 }
