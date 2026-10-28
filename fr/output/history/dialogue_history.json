@@ -5327,6 +5327,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T22:02:16.389731",
+      "dialogue": {
+        "topic": "Buying a scarf",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have scarves?",
+            "target_text": "Bonjour, vous avez des foulards ?",
+            "japanese": "Bonjour, vous avez des foulards ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are here!",
+            "target_text": "Oui, ils sont ici !",
+            "japanese": "Oui, ils sont ici !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is this scarf?",
+            "target_text": "Combien coûte ce foulard ?",
+            "japanese": "Combien coûte ce foulard ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Ten euros, please.",
+            "target_text": "Dix euros, s’il vous plaît.",
+            "japanese": "Dix euros, s’il vous plaît.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
