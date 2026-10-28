@@ -5255,6 +5255,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T22:17:59.755231",
+      "dialogue": {
+        "topic": "Boh and the shoulder shrug",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what does “boh” mean?",
+            "target_text": "Ciao, che significa “boh”?",
+            "japanese": "Ciao, che significa “boh”?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means I don’t know!",
+            "target_text": "Vuol dire non lo so!",
+            "japanese": "Vuol dire non lo so!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And the gesture?",
+            "target_text": "E il gesto?",
+            "japanese": "E il gesto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Raise your shoulders: boh!",
+            "target_text": "Alza le spalle: boh!",
+            "japanese": "Alza le spalle: boh!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
