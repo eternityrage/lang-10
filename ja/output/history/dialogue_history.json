@@ -4639,6 +4639,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T11:17:37.148280",
+      "dialogue": {
+        "topic": "Casual walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, free today?",
+            "japanese": "マグ、きょう ひま？",
+            "romaji": "Magu, kyou hima?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, super free.",
+            "japanese": "うん、めっちゃ ひま。",
+            "romaji": "Un, meccha hima."
+          },
+          {
+            "speaker": "A",
+            "english": "Walk together?",
+            "japanese": "いっしょに さんぽ いく？",
+            "romaji": "Issho ni sanpo iku?"
+          },
+          {
+            "speaker": "B",
+            "english": "Nice, let's go now!",
+            "japanese": "いいね、いま いこう！",
+            "romaji": "Ii ne, ima ikou!"
+          }
+        ]
+      }
     }
   ]
 }
