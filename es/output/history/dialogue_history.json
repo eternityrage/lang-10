@@ -5219,6 +5219,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T21:55:42.118340",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, does Barcelona have a beach?",
+            "target_text": "Hola, ¿Barcelona tiene playa?",
+            "japanese": "Hola, ¿Barcelona tiene playa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the beach is beautiful!",
+            "target_text": "¡Sí, la playa es bonita!",
+            "japanese": "¡Sí, la playa es bonita!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does Madrid have a beach too?",
+            "target_text": "¿Madrid tiene playa también?",
+            "japanese": "¿Madrid tiene playa también?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, Madrid has museums.",
+            "target_text": "No, Madrid tiene museos.",
+            "japanese": "No, Madrid tiene museos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
