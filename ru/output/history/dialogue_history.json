@@ -5719,6 +5719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T12:16:03.599081",
+      "dialogue": {
+        "topic": "Cute Russian Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! Is this tea hot?",
+            "russian": "Привет! Этот чай горячий?",
+            "translit": "Privet! Etot chay goryachiy?",
+            "japanese": "Привет! Этот чай горячий?",
+            "romaji": "Privet! Etot chay goryachiy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hot and sweet!",
+            "russian": "Да, очень горячий и сладкий!",
+            "translit": "Da, ochen goryachiy i sladkiy!",
+            "japanese": "Да, очень горячий и сладкий!",
+            "romaji": "Da, ochen goryachiy i sladkiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "One cup for me, please.",
+            "russian": "Один стакан мне, пожалуйста.",
+            "translit": "Odin stakan mne, pozhaluysta.",
+            "japanese": "Один стакан мне, пожалуйста.",
+            "romaji": "Odin stakan mne, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, enjoy!",
+            "russian": "Вот, держи, приятного аппетита!",
+            "translit": "Vot, derzhi, priyatnogo appetita!",
+            "japanese": "Вот, держи, приятного аппетита!",
+            "romaji": "Vot, derzhi, priyatnogo appetita!"
+          }
+        ]
+      }
     }
   ]
 }
