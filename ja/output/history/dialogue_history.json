@@ -4671,6 +4671,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T17:09:02.888250",
+      "dialogue": {
+        "topic": "At Ueno street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is this?",
+            "japanese": "ここは どこですか？",
+            "romaji": "Koko wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "This is Ueno.",
+            "japanese": "ここは うえのです。",
+            "romaji": "Koko wa Ueno desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Are there pandas?",
+            "japanese": "パンダは いますか？",
+            "romaji": "Panda wa imasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there are!",
+            "japanese": "はい、いますよ！",
+            "romaji": "Hai, imasu yo!"
+          }
+        ]
+      }
     }
   ]
 }
