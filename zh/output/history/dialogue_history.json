@@ -5879,6 +5879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T03:08:15.564703",
+      "dialogue": {
+        "topic": "Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Take the metro?",
+            "chinese": "坐地铁吗？",
+            "pinyin": "Zuò dìtiě ma?",
+            "japanese": "坐地铁吗？",
+            "romaji": "Zuò dìtiě ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, let’s go!",
+            "chinese": "好，走吧！",
+            "pinyin": "Hǎo, zǒu ba!",
+            "japanese": "好，走吧！",
+            "romaji": "Hǎo, zǒu ba!"
+          },
+          {
+            "speaker": "A",
+            "english": "Two stops?",
+            "chinese": "两站吗？",
+            "pinyin": "Liǎng zhàn ma?",
+            "japanese": "两站吗？",
+            "romaji": "Liǎng zhàn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, two stops.",
+            "chinese": "对，两站。",
+            "pinyin": "Duì, liǎng zhàn.",
+            "japanese": "对，两站。",
+            "romaji": "Duì, liǎng zhàn."
+          }
+        ]
+      }
     }
   ]
 }
