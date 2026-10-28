@@ -5255,6 +5255,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-28T11:37:37.616021",
+      "dialogue": {
+        "topic": "Complimenting a smile",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you okay?",
+            "target_text": "Salut, ça va ?",
+            "japanese": "Salut, ça va ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very well!",
+            "target_text": "Oui, très bien !",
+            "japanese": "Oui, très bien !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Your smile is lovely.",
+            "target_text": "Ton sourire est joli.",
+            "japanese": "Ton sourire est joli.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are sweet.",
+            "target_text": "Merci, tu es adorable.",
+            "japanese": "Merci, tu es adorable.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
