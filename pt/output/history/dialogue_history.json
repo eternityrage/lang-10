@@ -5327,6 +5327,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T12:33:46.414208",
+      "dialogue": {
+        "topic": "Rio Beach & Coconut Water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where's the kiosk?",
+            "target_text": "Oi, cadê o quiosque?",
+            "japanese": "Oi, cadê o quiosque?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "There, near the sea!",
+            "target_text": "Ali, perto do mar!",
+            "japanese": "Ali, perto do mar!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the coconut water cold?",
+            "target_text": "A água de coco é gelada?",
+            "japanese": "A água de coco é gelada?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s delicious!",
+            "target_text": "É sim, uma delícia!",
+            "japanese": "É sim, uma delícia!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
