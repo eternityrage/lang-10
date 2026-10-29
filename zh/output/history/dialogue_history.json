@@ -6079,6 +6079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T12:17:47.425182",
+      "dialogue": {
+        "topic": "Taxi Home",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Take a taxi?",
+            "chinese": "坐出租车？",
+            "pinyin": "Zuò chūzūchē?",
+            "japanese": "坐出租车？",
+            "romaji": "Zuò chūzūchē?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go!",
+            "chinese": "好，走吧！",
+            "pinyin": "Hǎo, zǒu ba!",
+            "japanese": "好，走吧！",
+            "romaji": "Hǎo, zǒu ba!"
+          },
+          {
+            "speaker": "A",
+            "english": "Go where?",
+            "chinese": "去哪里？",
+            "pinyin": "Qù nǎlǐ?",
+            "japanese": "去哪里？",
+            "romaji": "Qù nǎlǐ?"
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go home!",
+            "chinese": "回家吧！",
+            "pinyin": "Huí jiā ba!",
+            "japanese": "回家吧！",
+            "romaji": "Huí jiā ba!"
+          }
+        ]
+      }
     }
   ]
 }
