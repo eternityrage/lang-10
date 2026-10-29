@@ -5919,6 +5919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T18:08:49.595990",
+      "dialogue": {
+        "topic": "Hotteok snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want this hotteok?",
+            "korean": "이 호떡 먹을래?",
+            "romaja": "I hotteok meogeullae?",
+            "japanese": "이 호떡 먹을래?",
+            "romaji": "I hotteok meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds great!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Careful, eat slowly.",
+            "korean": "뜨거워, 천천히 먹어.",
+            "romaja": "Tteugeowo, cheoncheonhi meogeo.",
+            "japanese": "뜨거워, 천천히 먹어.",
+            "romaji": "Tteugeowo, cheoncheonhi meogeo."
+          },
+          {
+            "speaker": "B",
+            "english": "Sweet, really the best!",
+            "korean": "달콤해, 정말 최고야!",
+            "romaja": "Dalkomhae, jeongmal choegoya!",
+            "japanese": "달콤해, 정말 최고야!",
+            "romaji": "Dalkomhae, jeongmal choegoya!"
+          }
+        ]
+      }
     }
   ]
 }
