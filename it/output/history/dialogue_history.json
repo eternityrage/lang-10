@@ -5291,6 +5291,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T02:57:27.518125",
+      "dialogue": {
+        "topic": "Rome & Florence Walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we walk along the Arno?",
+            "target_text": "Ciao, camminiamo lungo l'Arno?",
+            "japanese": "Ciao, camminiamo lungo l'Arno?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is beautiful!",
+            "target_text": "Sì, è bellissimo!",
+            "japanese": "Sì, è bellissimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then shall we see the bridge?",
+            "target_text": "Poi vediamo il ponte?",
+            "japanese": "Poi vediamo il ponte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, it is nearby!",
+            "target_text": "Certo, è vicino!",
+            "japanese": "Certo, è vicino!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
