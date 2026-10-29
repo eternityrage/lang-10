@@ -4767,6 +4767,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T11:32:37.320581",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is work over?",
+            "japanese": "マグさん、しごとは おわりですか？",
+            "romaji": "Magu-san, shigoto wa owari desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is over.",
+            "japanese": "はい、しごとは おわりです。",
+            "romaji": "Hai, shigoto wa owari desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, let’s rest here.",
+            "japanese": "では、ここで 休みましょう。",
+            "romaji": "Dewa, koko de yasumimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Sounds good. Nice and quiet.",
+            "japanese": "いいですね。とても しずかです。",
+            "romaji": "Ii desu ne. Totemo shizuka desu."
+          }
+        ]
+      }
     }
   ]
 }
