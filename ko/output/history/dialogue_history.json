@@ -5839,6 +5839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T03:04:43.389626",
+      "dialogue": {
+        "topic": "Sweet First Date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Did you miss me?",
+            "korean": "나 보고 싶었어요?",
+            "romaja": "Na bogo sipeosseoyo?",
+            "japanese": "나 보고 싶었어요?",
+            "romaji": "Na bogo sipeosseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really missed you.",
+            "korean": "네, 정말 보고 싶었어요.",
+            "romaja": "Ne, jeongmal bogo sipeosseoyo.",
+            "japanese": "네, 정말 보고 싶었어요.",
+            "romaji": "Ne, jeongmal bogo sipeosseoyo."
+          },
+          {
+            "speaker": "A",
+            "english": "My heart is racing too.",
+            "korean": "저도 심장이 뛰어요.",
+            "romaja": "Jeodo simjangi ttwieoyo.",
+            "japanese": "저도 심장이 뛰어요.",
+            "romaji": "Jeodo simjangi ttwieoyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Let's walk holding hands.",
+            "korean": "우리 손잡고 걸어요.",
+            "romaja": "Uri sonjapgo georeoyo.",
+            "japanese": "우리 손잡고 걸어요.",
+            "romaji": "Uri sonjapgo georeoyo."
+          }
+        ]
+      }
     }
   ]
 }
