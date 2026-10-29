@@ -5399,6 +5399,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T17:55:26.509174",
+      "dialogue": {
+        "topic": "Cafe seat and drink",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this free?",
+            "target_text": "Hallo, ist hier frei?",
+            "japanese": "Hallo, ist hier frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please, gladly!",
+            "target_text": "Ja, bitte, sehr gern!",
+            "japanese": "Ja, bitte, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What are you drinking?",
+            "target_text": "Was trinkst du?",
+            "japanese": "Was trinkst du?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "An apple spritzer, very tasty!",
+            "target_text": "Eine Apfelschorle, sehr lecker!",
+            "japanese": "Eine Apfelschorle, sehr lecker!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
