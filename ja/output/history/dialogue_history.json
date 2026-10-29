@@ -4831,6 +4831,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T21:45:53.921107",
+      "dialogue": {
+        "topic": "Buying onigiri at the convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do they have onigiri?",
+            "japanese": "おにぎりは ありますか？",
+            "romaji": "Onigiri wa arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they have it.",
+            "japanese": "はい、ありますよ。",
+            "romaji": "Hai, arimasu yo."
+          },
+          {
+            "speaker": "A",
+            "english": "One onigiri, please.",
+            "japanese": "おにぎりを ひとつ ください。",
+            "romaji": "Onigiri o hitotsu kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          }
+        ]
+      }
     }
   ]
 }
