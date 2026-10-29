@@ -5471,6 +5471,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T22:05:11.483606",
+      "dialogue": {
+        "topic": "Sunny street greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, nice weather?",
+            "target_text": "Salut, il fait beau ?",
+            "japanese": "Salut, il fait beau ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very nice!",
+            "target_text": "Oui, très beau !",
+            "japanese": "Oui, très beau !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Going out a bit?",
+            "target_text": "Tu sors un peu ?",
+            "japanese": "Tu sors un peu ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you soon!",
+            "target_text": "Oui, à bientôt !",
+            "japanese": "Oui, à bientôt !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
