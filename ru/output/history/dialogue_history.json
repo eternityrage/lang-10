@@ -5839,6 +5839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T03:18:01.012731",
+      "dialogue": {
+        "topic": "Ordering Borsch & Pelmeni",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good afternoon! Borsch, please.",
+            "russian": "Добрый день! Борщ, пожалуйста.",
+            "translit": "Dobryy den'! Borshch, pozhaluysta.",
+            "japanese": "Добрый день! Борщ, пожалуйста.",
+            "romaji": "Dobryy den'! Borshch, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course! Also pelmeni?",
+            "russian": "Конечно! Ещё пельмени?",
+            "translit": "Konechno! Yeshchyo pelmeni?",
+            "japanese": "Конечно! Ещё пельмени?",
+            "romaji": "Konechno! Yeshchyo pelmeni?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, pelmeni too.",
+            "russian": "Да, пельмени тоже.",
+            "translit": "Da, pelmeni tozhe.",
+            "japanese": "Да, пельмени тоже.",
+            "romaji": "Da, pelmeni tozhe."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I’ll bring it now.",
+            "russian": "Отлично, сейчас принесу.",
+            "translit": "Otlichno, seychas prinesu.",
+            "japanese": "Отлично, сейчас принесу.",
+            "romaji": "Otlichno, seychas prinesu."
+          }
+        ]
+      }
     }
   ]
 }
