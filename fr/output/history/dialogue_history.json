@@ -5399,6 +5399,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T11:51:51.435153",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, nice smile!",
+            "target_text": "Salut, joli sourire !",
+            "japanese": "Salut, joli sourire !",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are kind!",
+            "target_text": "Merci, tu es gentil !",
+            "japanese": "Merci, tu es gentil !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "See you tomorrow?",
+            "target_text": "On se voit demain ?",
+            "japanese": "On se voit demain ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
