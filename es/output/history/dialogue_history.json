@@ -5255,6 +5255,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T02:37:38.259959",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want a soda?",
+            "target_text": "Hola, ¿quieres un refresco?",
+            "japanese": "Hola, ¿quieres un refresco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thank you.",
+            "target_text": "Sí, muchas gracias.",
+            "japanese": "Sí, muchas gracias.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you want it cold?",
+            "target_text": "¿Lo quieres frío?",
+            "japanese": "¿Lo quieres frío?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold.",
+            "target_text": "Sí, muy frío.",
+            "japanese": "Sí, muy frío.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
