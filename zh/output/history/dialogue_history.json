@@ -6159,6 +6159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T22:35:16.461311",
+      "dialogue": {
+        "topic": "Night Market Baozi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Eat baozi?",
+            "chinese": "吃包子吗？",
+            "pinyin": "Chī bāozi ma?",
+            "japanese": "吃包子吗？",
+            "romaji": "Chī bāozi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "I want to eat!",
+            "chinese": "我想吃！",
+            "pinyin": "Wǒ xiǎng chī!",
+            "japanese": "我想吃！",
+            "romaji": "Wǒ xiǎng chī!"
+          },
+          {
+            "speaker": "A",
+            "english": "How many?",
+            "chinese": "要几个？",
+            "pinyin": "Yào jǐ ge?",
+            "japanese": "要几个？",
+            "romaji": "Yào jǐ ge?"
+          },
+          {
+            "speaker": "B",
+            "english": "Two, please.",
+            "chinese": "要两个。",
+            "pinyin": "Yào liǎng ge.",
+            "japanese": "要两个。",
+            "romaji": "Yào liǎng ge."
+          }
+        ]
+      }
     }
   ]
 }
