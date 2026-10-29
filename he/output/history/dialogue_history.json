@@ -5959,6 +5959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T21:52:18.649559",
+      "dialogue": {
+        "topic": "Buying bananas at Shuk Carmel Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there bananas?",
+            "target_text": "שלום, יש בננות?",
+            "transliteration": "Shalom, yesh bananot?",
+            "japanese": "שלום, יש בננות?",
+            "romaji": "Shalom, yesh bananot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, fresh bananas!",
+            "target_text": "כן, יש בננות טריות!",
+            "transliteration": "Ken, yesh bananot triyot!",
+            "japanese": "כן, יש בננות טריות!",
+            "romaji": "Ken, yesh bananot triyot!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is a kilo?",
+            "target_text": "כמה עולה קילו?",
+            "transliteration": "Kama oleh kilo?",
+            "japanese": "כמה עולה קילו?",
+            "romaji": "Kama oleh kilo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels. Please!",
+            "target_text": "עשרה שקלים. בבקשה!",
+            "transliteration": "Asara shkalim. Bevakasha!",
+            "japanese": "עשרה שקלים. בבקשה!",
+            "romaji": "Asara shkalim. Bevakasha!"
+          }
+        ]
+      }
     }
   ]
 }
