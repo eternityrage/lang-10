@@ -5363,6 +5363,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T11:58:06.679479",
+      "dialogue": {
+        "topic": "Busy Berlin Street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this seat free?",
+            "target_text": "Hallo, ist der Platz frei?",
+            "japanese": "Hallo, ist der Platz frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please, sit down!",
+            "target_text": "Ja, bitte, setz dich!",
+            "japanese": "Ja, bitte, setz dich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it always this busy here?",
+            "target_text": "Ist hier immer so viel los?",
+            "japanese": "Ist hier immer so viel los?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Berlin never sleeps!",
+            "target_text": "Ja, Berlin schläft nie!",
+            "japanese": "Ja, Berlin schläft nie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
