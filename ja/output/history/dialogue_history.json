@@ -4735,6 +4735,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T02:24:05.872481",
+      "dialogue": {
+        "topic": "A cute walk date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you free today?",
+            "japanese": "マグさん、きょう ひまですか？",
+            "romaji": "Magu-san, kyou hima desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am free.",
+            "japanese": "はい、ひまです。",
+            "romaji": "Hai, hima desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk together?",
+            "japanese": "いっしょに さんぽ しませんか？",
+            "romaji": "Issho ni sanpo shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "japanese": "はい、いきましょう！",
+            "romaji": "Hai, ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
