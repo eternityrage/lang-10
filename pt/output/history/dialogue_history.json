@@ -5291,6 +5291,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T03:24:42.107954",
+      "dialogue": {
+        "topic": "Travel & Uber in São Paulo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, going to Pinheiros?",
+            "target_text": "Oi, vai para Pinheiros?",
+            "japanese": "Oi, vai para Pinheiros?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come in!",
+            "target_text": "Vou sim, pode entrar!",
+            "japanese": "Vou sim, pode entrar!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How long to there?",
+            "target_text": "Quanto tempo até lá?",
+            "japanese": "Quanto tempo até lá?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only fifteen minutes.",
+            "target_text": "Só quinze minutos.",
+            "japanese": "Só quinze minutos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
