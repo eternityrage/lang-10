@@ -5363,6 +5363,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T21:58:51.452189",
+      "dialogue": {
+        "topic": "Greetings & Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! What a nice shirt.",
+            "target_text": "¡Hola! Qué camisa bonita.",
+            "japanese": "¡Hola! Qué camisa bonita.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! I like it a lot.",
+            "target_text": "¡Gracias! Me gusta mucho.",
+            "japanese": "¡Gracias! Me gusta mucho.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "It suits you well.",
+            "target_text": "Te queda muy bien.",
+            "japanese": "Te queda muy bien.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How kind! Thanks.",
+            "target_text": "¡Qué amable! Gracias.",
+            "japanese": "¡Qué amable! Gracias.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
