@@ -5879,6 +5879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T12:11:04.290460",
+      "dialogue": {
+        "topic": "Hotteok street snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want warm hotteok?",
+            "korean": "따뜻한 호떡 먹을래요?",
+            "romaja": "Ttatteuthan hotteok meogeullaeyo?",
+            "japanese": "따뜻한 호떡 먹을래요?",
+            "romaji": "Ttatteuthan hotteok meogeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Two honey hotteok?",
+            "korean": "꿀 호떡 두 개요?",
+            "romaja": "Kkul hotteok du gaeyo?",
+            "japanese": "꿀 호떡 두 개요?",
+            "romaji": "Kkul hotteok du gaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let’s eat together!",
+            "korean": "좋아요, 같이 먹어요!",
+            "romaja": "Joayo, gachi meogeoyo!",
+            "japanese": "좋아요, 같이 먹어요!",
+            "romaji": "Joayo, gachi meogeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
