@@ -4799,6 +4799,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T17:24:56.749527",
+      "dialogue": {
+        "topic": "Anime Quote: Big Dream",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, I have a dream.",
+            "japanese": "マグ、ゆめが あります。",
+            "romaji": "Magu, yume ga arimasu."
+          },
+          {
+            "speaker": "B",
+            "english": "A big dream?",
+            "japanese": "大きい ゆめですか？",
+            "romaji": "Ookii yume desu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes! I will do my best!",
+            "japanese": "はい！がんばります！",
+            "romaji": "Hai! Ganbarimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Great! Let's go!",
+            "japanese": "いいですね！いきましょう！",
+            "romaji": "Ii desu ne! Ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
