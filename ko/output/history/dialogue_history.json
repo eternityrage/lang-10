@@ -5959,6 +5959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T22:28:46.715907",
+      "dialogue": {
+        "topic": "Your Smile",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, did you arrive well?",
+            "korean": "안녕, 잘 왔어요?",
+            "romaja": "Annyeong, jal wasseoyo?",
+            "japanese": "안녕, 잘 왔어요?",
+            "romaji": "Annyeong, jal wasseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I feel great!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Your smile is so pretty.",
+            "korean": "웃으니 너무 예뻐요.",
+            "romaja": "Useuni neomu yeppeoyo.",
+            "japanese": "웃으니 너무 예뻐요.",
+            "romaji": "Useuni neomu yeppeoyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Then I’ll smile more.",
+            "korean": "그럼 더 웃을게요.",
+            "romaja": "Geureom deo useulgeyo.",
+            "japanese": "그럼 더 웃을게요.",
+            "romaji": "Geureom deo useulgeyo."
+          }
+        ]
+      }
     }
   ]
 }
