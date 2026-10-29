@@ -5399,6 +5399,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T22:48:01.280399",
+      "dialogue": {
+        "topic": "Street slang greeting: catching up",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, stranger!",
+            "target_text": "E aí, sumido?",
+            "japanese": "E aí, sumido?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Hey, I’m good, just busy!",
+            "target_text": "Oi, tô bem, na correria!",
+            "japanese": "Oi, tô bem, na correria!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we grab a coffee?",
+            "target_text": "Bora tomar um café?",
+            "japanese": "Bora tomar um café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go, right now!",
+            "target_text": "Bora, partiu agora!",
+            "japanese": "Bora, partiu agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
