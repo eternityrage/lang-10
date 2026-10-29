@@ -5959,6 +5959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T22:41:38.354504",
+      "dialogue": {
+        "topic": "Moscow Metro: Blue Line",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Which line is this?",
+            "russian": "Какая это линия?",
+            "translit": "Kakaya eto liniya?",
+            "japanese": "Какая это линия?",
+            "romaji": "Kakaya eto liniya?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's the blue line!",
+            "russian": "Это синяя линия!",
+            "translit": "Eto sinyaya liniya!",
+            "japanese": "Это синяя линия!",
+            "romaji": "Eto sinyaya liniya!"
+          },
+          {
+            "speaker": "A",
+            "english": "How many more stops?",
+            "russian": "Сколько ещё остановок?",
+            "translit": "Skolko eshchyo ostanovok?",
+            "japanese": "Сколько ещё остановок?",
+            "romaji": "Skolko eshchyo ostanovok?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only two stops.",
+            "russian": "Всего две остановки.",
+            "translit": "Vsego dve ostanovki.",
+            "japanese": "Всего две остановки.",
+            "romaji": "Vsego dve ostanovki."
+          }
+        ]
+      }
     }
   ]
 }
