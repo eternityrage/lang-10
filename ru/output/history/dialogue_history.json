@@ -5919,6 +5919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T18:22:05.712799",
+      "dialogue": {
+        "topic": "Moscow Metro and Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what station now?",
+            "russian": "Привет, какая станция сейчас?",
+            "translit": "Privet, kakaya stantsiya seychas?",
+            "japanese": "Привет, какая станция сейчас?",
+            "romaji": "Privet, kakaya stantsiya seychas?"
+          },
+          {
+            "speaker": "B",
+            "english": "Now Pushkinskaya, great!",
+            "russian": "Сейчас Пушкинская, отлично!",
+            "translit": "Seychas Pushkinskaya, otlichno!",
+            "japanese": "Сейчас Пушкинская, отлично!",
+            "romaji": "Seychas Pushkinskaya, otlichno!"
+          },
+          {
+            "speaker": "A",
+            "english": "Where is a taxi here?",
+            "russian": "Где здесь такси?",
+            "translit": "Gde zdes taksi?",
+            "japanese": "Где здесь такси?",
+            "romaji": "Gde zdes taksi?"
+          },
+          {
+            "speaker": "B",
+            "english": "Taxi is by the exit.",
+            "russian": "Такси у выхода.",
+            "translit": "Taksi u vykhoda.",
+            "japanese": "Такси у выхода.",
+            "romaji": "Taksi u vykhoda."
+          }
+        ]
+      }
     }
   ]
 }
