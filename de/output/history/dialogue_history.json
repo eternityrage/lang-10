@@ -5327,6 +5327,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-29T02:50:57.331471",
+      "dialogue": {
+        "topic": "Berlin Wall walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the Wall close?",
+            "target_text": "Hallo, ist die Mauer nah?",
+            "japanese": "Hallo, ist die Mauer nah?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very close!",
+            "target_text": "Ja, sehr nah!",
+            "japanese": "Ja, sehr nah!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do we walk?",
+            "target_text": "Gehen wir zu Fuß?",
+            "japanese": "Gehen wir zu Fuß?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, let's go!",
+            "target_text": "Klar, los geht's!",
+            "japanese": "Klar, los geht's!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
