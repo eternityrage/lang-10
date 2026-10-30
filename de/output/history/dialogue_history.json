@@ -5543,6 +5543,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T17:26:05.494392",
+      "dialogue": {
+        "topic": "Berlin Wall Walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the Wall here?",
+            "target_text": "Hallo, ist die Mauer hier?",
+            "japanese": "Hallo, ist die Mauer hier?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, just around the corner!",
+            "target_text": "Ja, gleich um die Ecke!",
+            "japanese": "Ja, gleich um die Ecke!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, shall we go?",
+            "target_text": "Super, gehen wir?",
+            "japanese": "Super, gehen wir?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Berlin is cool!",
+            "target_text": "Ja, Berlin ist cool!",
+            "japanese": "Ja, Berlin ist cool!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
