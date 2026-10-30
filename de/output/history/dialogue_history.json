@@ -5471,6 +5471,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T03:02:10.590626",
+      "dialogue": {
+        "topic": "Polite request for a napkin",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, a napkin please?",
+            "target_text": "Entschuldigung, eine Serviette bitte?",
+            "japanese": "Entschuldigung, eine Serviette bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thank you, very kind.",
+            "target_text": "Danke, sehr nett.",
+            "japanese": "Danke, sehr nett.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, no problem.",
+            "target_text": "Bitte schön, kein Problem.",
+            "japanese": "Bitte schön, kein Problem.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
