@@ -6119,6 +6119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T21:33:09.281656",
+      "dialogue": {
+        "topic": "Shopping & Boutiques",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, a blue shirt?",
+            "target_text": "שלום, חולצה כחולה?",
+            "transliteration": "Shalom, chultza kchula?",
+            "japanese": "שלום, חולצה כחולה?",
+            "romaji": "Shalom, chultza kchula?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here it is!",
+            "target_text": "כן, הנה היא!",
+            "transliteration": "Ken, hine hi!",
+            "japanese": "כן, הנה היא!",
+            "romaji": "Ken, hine hi!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only fifty shekels.",
+            "target_text": "רק חמישים שקל.",
+            "transliteration": "Rak chamishim shekel.",
+            "japanese": "רק חמישים שקל.",
+            "romaji": "Rak chamishim shekel."
+          }
+        ]
+      }
     }
   ]
 }
