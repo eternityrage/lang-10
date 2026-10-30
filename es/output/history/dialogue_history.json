@@ -5399,6 +5399,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T02:48:56.746380",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there patatas bravas?",
+            "target_text": "Hola, ¿hay patatas bravas?",
+            "japanese": "Hola, ¿hay patatas bravas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very tasty!",
+            "target_text": "¡Sí, están muy ricas!",
+            "japanese": "¡Sí, están muy ricas!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And a free table?",
+            "target_text": "¿Y una mesa libre?",
+            "japanese": "¿Y una mesa libre?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here, please.",
+            "target_text": "Sí, aquí, por favor.",
+            "japanese": "Sí, aquí, por favor.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
