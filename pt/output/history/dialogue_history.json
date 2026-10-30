@@ -5543,6 +5543,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T22:31:42.858447",
+      "dialogue": {
+        "topic": "Street slang greeting: E aí, firmeza?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, all solid?",
+            "target_text": "E aí, firmeza?",
+            "japanese": "E aí, firmeza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All solid, and you?",
+            "target_text": "Firmeza, e você?",
+            "japanese": "Firmeza, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Wanna grab a coffee?",
+            "target_text": "Bora tomar um café?",
+            "japanese": "Bora tomar um café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go, thanks for inviting!",
+            "target_text": "Bora, valeu pelo convite!",
+            "japanese": "Bora, valeu pelo convite!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
