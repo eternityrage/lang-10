@@ -6039,6 +6039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T11:59:34.943686",
+      "dialogue": {
+        "topic": "Cute confession",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like me?",
+            "korean": "혹시 나 좋아해?",
+            "romaja": "Hoksi na joahae?",
+            "japanese": "혹시 나 좋아해?",
+            "romaji": "Hoksi na joahae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I like you a lot!",
+            "korean": "응, 많이 좋아해!",
+            "romaja": "Eung, mani joahae!",
+            "japanese": "응, 많이 좋아해!",
+            "romaji": "Eung, mani joahae!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? I like you too!",
+            "korean": "진짜? 나도 좋아해!",
+            "romaja": "Jinjja? Nado joahae!",
+            "japanese": "진짜? 나도 좋아해!",
+            "romaji": "Jinjja? Nado joahae!"
+          },
+          {
+            "speaker": "B",
+            "english": "Today is our day one!",
+            "korean": "우리 오늘부터 1일!",
+            "romaja": "Uri oneulbuteo iril!",
+            "japanese": "우리 오늘부터 1일!",
+            "romaji": "Uri oneulbuteo iril!"
+          }
+        ]
+      }
     }
   ]
 }
