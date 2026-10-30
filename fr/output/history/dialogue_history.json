@@ -5579,6 +5579,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T17:19:35.789324",
+      "dialogue": {
+        "topic": "Romantic flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you are very beautiful.",
+            "target_text": "Salut, tu es très belle.",
+            "japanese": "Salut, tu es très belle.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you, you are sweet!",
+            "target_text": "Merci, tu es gentil !",
+            "japanese": "Merci, tu es gentil !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk together?",
+            "target_text": "On marche ensemble ?",
+            "japanese": "On marche ensemble ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
