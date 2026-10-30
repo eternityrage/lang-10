@@ -5999,6 +5999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T03:17:49.330438",
+      "dialogue": {
+        "topic": "Polite hello, casual reply",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, nice to meet you.",
+            "korean": "안녕하세요, 처음 뵙네요.",
+            "romaja": "Annyeonghaseyo, cheoeum boemneyo.",
+            "japanese": "안녕하세요, 처음 뵙네요.",
+            "romaji": "Annyeonghaseyo, cheoeum boemneyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, nice to meet you!",
+            "korean": "응, 만나서 반가워!",
+            "romaja": "Eung, mannaseo bangawo!",
+            "japanese": "응, 만나서 반가워!",
+            "romaji": "Eung, mannaseo bangawo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Should I be polite?",
+            "korean": "제가 존댓말 할까요?",
+            "romaja": "Jega jondaenmal halkkayo?",
+            "japanese": "제가 존댓말 할까요?",
+            "romaji": "Jega jondaenmal halkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, speak casually!",
+            "korean": "아니, 반말해도 돼!",
+            "romaja": "Ani, banmalhaedo dwae!",
+            "japanese": "아니, 반말해도 돼!",
+            "romaji": "Ani, banmalhaedo dwae!"
+          }
+        ]
+      }
     }
   ]
 }
