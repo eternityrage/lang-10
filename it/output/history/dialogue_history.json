@@ -5507,6 +5507,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T17:32:44.039486",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, a small cone?",
+            "target_text": "Buongiorno, un cono piccolo?",
+            "japanese": "Buongiorno, un cono piccolo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, with pleasure!",
+            "target_text": "Certo, con piacere!",
+            "japanese": "Certo, con piacere!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Pistachio and strawberry, please.",
+            "target_text": "Pistacchio e fragola, grazie.",
+            "japanese": "Pistacchio e fragola, grazie.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, enjoy!",
+            "target_text": "Ecco, buon gelato!",
+            "japanese": "Ecco, buon gelato!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
