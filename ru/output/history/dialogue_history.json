@@ -6039,6 +6039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T12:12:24.206013",
+      "dialogue": {
+        "topic": "Moscow Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, which metro line?",
+            "russian": "Здравствуйте, какая линия метро?",
+            "translit": "Zdravstvuyte, kakaya liniya metro?",
+            "japanese": "Здравствуйте, какая линия метро?",
+            "romaji": "Zdravstvuyte, kakaya liniya metro?"
+          },
+          {
+            "speaker": "B",
+            "english": "The blue line, great!",
+            "russian": "Синяя линия, отлично!",
+            "translit": "Sinyaya liniya, otlichno!",
+            "japanese": "Синяя линия, отлично!",
+            "romaji": "Sinyaya liniya, otlichno!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do we need a taxi?",
+            "russian": "Нам нужно такси?",
+            "translit": "Nam nuzhno taksi?",
+            "japanese": "Нам нужно такси?",
+            "romaji": "Nam nuzhno taksi?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, metro is faster.",
+            "russian": "Нет, метро быстрее.",
+            "translit": "Net, metro bystree.",
+            "japanese": "Нет, метро быстрее.",
+            "romaji": "Net, metro bystree."
+          }
+        ]
+      }
     }
   ]
 }
