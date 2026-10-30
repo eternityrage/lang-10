@@ -5999,6 +5999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T03:30:37.029411",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is there a fresh baguette?",
+            "russian": "Здравствуйте, есть свежий багет?",
+            "translit": "Zdravstvuyte, yest' svezhiy baget?",
+            "japanese": "Здравствуйте, есть свежий багет?",
+            "romaji": "Zdravstvuyte, yest' svezhiy baget?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is still warm!",
+            "russian": "Да, он ещё тёплый!",
+            "translit": "Da, on yeshchyo tyoplyy!",
+            "japanese": "Да, он ещё тёплый!",
+            "romaji": "Da, on yeshchyo tyoplyy!"
+          },
+          {
+            "speaker": "A",
+            "english": "One baguette, please.",
+            "russian": "Мне один багет, пожалуйста.",
+            "translit": "Mne odin baget, pozhaluysta.",
+            "japanese": "Мне один багет, пожалуйста.",
+            "romaji": "Mne odin baget, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, enjoy your meal!",
+            "russian": "Конечно, приятного аппетита!",
+            "translit": "Konechno, priyatnogo appetita!",
+            "japanese": "Конечно, приятного аппетита!",
+            "romaji": "Konechno, priyatnogo appetita!"
+          }
+        ]
+      }
     }
   ]
 }
