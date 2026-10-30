@@ -6039,6 +6039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T11:27:34.668670",
+      "dialogue": {
+        "topic": "Greeting with slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What's up, bro?",
+            "target_text": "מה נשמע, אחי?",
+            "transliteration": "Ma nishma, achi?",
+            "japanese": "מה נשמע, אחי?",
+            "romaji": "Ma nishma, achi?"
+          },
+          {
+            "speaker": "B",
+            "english": "All good, thanks!",
+            "target_text": "הכול טוב, תודה!",
+            "transliteration": "Hakol tov, toda!",
+            "japanese": "הכול טוב, תודה!",
+            "romaji": "Hakol tov, toda!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want coffee?",
+            "target_text": "בא לך קפה?",
+            "transliteration": "Ba lecha kafe?",
+            "japanese": "בא לך קפה?",
+            "romaji": "Ba lecha kafe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "כן, יאללה, בוא!",
+            "transliteration": "Ken, yalla, bo!",
+            "japanese": "כן, יאללה, בוא!",
+            "romaji": "Ken, yalla, bo!"
+          }
+        ]
+      }
     }
   ]
 }
