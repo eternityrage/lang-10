@@ -4959,6 +4959,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T21:26:48.418409",
+      "dialogue": {
+        "topic": "Anime encouragement",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you okay?",
+            "japanese": "だいじょうぶですか？",
+            "romaji": "Daijoubu desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am okay.",
+            "japanese": "はい、だいじょうぶです。",
+            "romaji": "Hai, daijoubu desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Please do your best!",
+            "japanese": "がんばってください！",
+            "romaji": "Ganbatte kudasai!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I can do it!",
+            "japanese": "はい！できます！",
+            "romaji": "Hai! Dekimasu!"
+          }
+        ]
+      }
     }
   ]
 }
