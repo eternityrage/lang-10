@@ -5435,6 +5435,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T03:37:06.737646",
+      "dialogue": {
+        "topic": "Party & Samba Vibes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you dance samba?",
+            "target_text": "Oi, você dança samba?",
+            "japanese": "Oi, você dança samba?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with joy!",
+            "target_text": "Danço sim, com alegria!",
+            "japanese": "Danço sim, com alegria!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Teach me one step?",
+            "target_text": "Me ensina um passo?",
+            "japanese": "Me ensina um passo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, come with me!",
+            "target_text": "Claro, vem comigo!",
+            "japanese": "Claro, vem comigo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
