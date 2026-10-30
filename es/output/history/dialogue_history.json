@@ -5471,6 +5471,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T17:13:14.522711",
+      "dialogue": {
+        "topic": "Fiesta & Chill - Bailar",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, will you dance with me?",
+            "target_text": "Hola, ¿bailas conmigo?",
+            "japanese": "Hola, ¿bailas conmigo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love dancing!",
+            "target_text": "¡Sí, me encanta bailar!",
+            "japanese": "¡Sí, me encanta bailar!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Now or later?",
+            "target_text": "¿Ahora o más tarde?",
+            "japanese": "¿Ahora o más tarde?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Now, let's dance!",
+            "target_text": "¡Ahora, vamos a bailar!",
+            "japanese": "¡Ahora, vamos a bailar!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
