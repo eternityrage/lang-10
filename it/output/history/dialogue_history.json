@@ -5435,6 +5435,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T03:08:37.626889",
+      "dialogue": {
+        "topic": "Ordering a pizza at a trattoria",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have margherita pizza?",
+            "target_text": "Ciao, avete pizza margherita?",
+            "japanese": "Ciao, avete pizza margherita?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s very good!",
+            "target_text": "Sì, è buonissima!",
+            "japanese": "Sì, è buonissima!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Perfect, one pizza, please.",
+            "target_text": "Perfetto, una pizza, per favore.",
+            "japanese": "Perfetto, una pizza, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, it’s coming right away!",
+            "target_text": "Certo, arriva subito!",
+            "japanese": "Certo, arriva subito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
