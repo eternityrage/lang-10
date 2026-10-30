@@ -5579,6 +5579,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T21:56:17.971103",
+      "dialogue": {
+        "topic": "Polite request for water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, some water please?",
+            "target_text": "Entschuldigung, etwas Wasser bitte?",
+            "japanese": "Entschuldigung, etwas Wasser bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With lemon, please.",
+            "target_text": "Mit Zitrone, bitte.",
+            "japanese": "Mit Zitrone, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, right away.",
+            "target_text": "Natürlich, kommt sofort.",
+            "japanese": "Natürlich, kommt sofort.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
