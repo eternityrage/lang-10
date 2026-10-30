@@ -5999,6 +5999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T02:41:47.432317",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning! Is there shade?",
+            "target_text": "בוקר טוב! יש צל?",
+            "transliteration": "Boker tov! Yesh tzel?",
+            "japanese": "בוקר טוב! יש צל?",
+            "romaji": "Boker tov! Yesh tzel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, under the umbrella.",
+            "target_text": "כן, מתחת לשמשייה.",
+            "transliteration": "Ken, mitachat la-shimshiya.",
+            "japanese": "כן, מתחת לשמשייה.",
+            "romaji": "Ken, mitachat la-shimshiya."
+          },
+          {
+            "speaker": "A",
+            "english": "Great, I'm coming.",
+            "target_text": "מעולה, אני בא.",
+            "transliteration": "Me'ule, ani ba.",
+            "japanese": "מעולה, אני בא.",
+            "romaji": "Me'ule, ani ba."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, there is cold water.",
+            "target_text": "יופי, יש מים קרים.",
+            "transliteration": "Yofi, yesh mayim karim.",
+            "japanese": "יופי, יש מים קרים.",
+            "romaji": "Yofi, yesh mayim karim."
+          }
+        ]
+      }
     }
   ]
 }
