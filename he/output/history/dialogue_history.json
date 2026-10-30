@@ -6079,6 +6079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T17:06:57.464518",
+      "dialogue": {
+        "topic": "Shuk Carmel Market - olives",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there good olives?",
+            "target_text": "שלום, יש זיתים טובים?",
+            "transliteration": "Shalom, yesh zetim tovim?",
+            "japanese": "שלום, יש זיתים טובים?",
+            "romaji": "Shalom, yesh zetim tovim?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, excellent olives today!",
+            "target_text": "כן, זיתים מעולים היום!",
+            "transliteration": "Ken, zetim me'ulim hayom!",
+            "japanese": "כן, זיתים מעולים היום!",
+            "romaji": "Ken, zetim me'ulim hayom!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I taste one?",
+            "target_text": "אפשר לטעום אחד?",
+            "transliteration": "Efshar lit'om echad?",
+            "japanese": "אפשר לטעום אחד?",
+            "romaji": "Efshar lit'om echad?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, please, enjoy!",
+            "target_text": "בטח, בבקשה, בתיאבון!",
+            "transliteration": "Betach, bevakasha, bete'avon!",
+            "japanese": "בטח, בבקשה, בתיאבון!",
+            "romaji": "Betach, bevakasha, bete'avon!"
+          }
+        ]
+      }
     }
   ]
 }
