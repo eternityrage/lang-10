@@ -4927,6 +4927,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T17:00:26.985672",
+      "dialogue": {
+        "topic": "Coffee Break",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, break time?",
+            "japanese": "マグさん、休みじかんですか？",
+            "romaji": "Magu-san, yasumi jikan desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes. Coffee time.",
+            "japanese": "はい。コーヒーのじかんです。",
+            "romaji": "Hai. Koohii no jikan desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Can I rest too?",
+            "japanese": "わたしも 休んでいいですか？",
+            "romaji": "Watashi mo yasunde ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure. Please rest.",
+            "japanese": "どうぞ。休んでください。",
+            "romaji": "Douzo. Yasunde kudasai."
+          }
+        ]
+      }
     }
   ]
 }
