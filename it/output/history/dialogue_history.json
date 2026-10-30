@@ -5543,6 +5543,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T22:05:01.237507",
+      "dialogue": {
+        "topic": "Italian Gestures & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What is this gesture?",
+            "target_text": "Cos'è questo gesto?",
+            "japanese": "Cos'è questo gesto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's the perfect gesture!",
+            "target_text": "È il gesto perfetto!",
+            "japanese": "È il gesto perfetto!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it mean all good?",
+            "target_text": "Vuol dire tutto bene?",
+            "japanese": "Vuol dire tutto bene?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, all good!",
+            "target_text": "Sì, tutto a posto!",
+            "japanese": "Sì, tutto a posto!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
