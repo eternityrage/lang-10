@@ -6199,6 +6199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T03:24:14.384439",
+      "dialogue": {
+        "topic": "How are you?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "chinese": "你好吗？",
+            "pinyin": "Nǐ hǎo ma?",
+            "japanese": "你好吗？",
+            "romaji": "Nǐ hǎo ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "I’m very good!",
+            "chinese": "我很好！",
+            "pinyin": "Wǒ hěn hǎo!",
+            "japanese": "我很好！",
+            "romaji": "Wǒ hěn hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great!",
+            "chinese": "真好啊！",
+            "pinyin": "Zhēn hǎo a!",
+            "japanese": "真好啊！",
+            "romaji": "Zhēn hǎo a!"
+          },
+          {
+            "speaker": "B",
+            "english": "See you!",
+            "chinese": "再见啦！",
+            "pinyin": "Zàijiàn la!",
+            "japanese": "再见啦！",
+            "romaji": "Zàijiàn la!"
+          }
+        ]
+      }
     }
   ]
 }
