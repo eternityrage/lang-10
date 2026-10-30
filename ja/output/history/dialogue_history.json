@@ -4895,6 +4895,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T11:21:07.898849",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Work was tiring, huh.",
+            "japanese": "しごと、つかれましたね。",
+            "romaji": "Shigoto, tsukaremashita ne."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, coffee, please.",
+            "japanese": "はい、コーヒー どうぞ。",
+            "romaji": "Hai, koohii douzo."
+          },
+          {
+            "speaker": "A",
+            "english": "Sweet cake too, please.",
+            "japanese": "あまい ケーキも どうぞ。",
+            "romaji": "Amai keeki mo douzo."
+          },
+          {
+            "speaker": "B",
+            "english": "Nice. Let's rest!",
+            "japanese": "いいですね。やすみましょう！",
+            "romaji": "Ii desu ne. Yasumimashou!"
+          }
+        ]
+      }
     }
   ]
 }
