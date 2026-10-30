@@ -5471,6 +5471,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T11:53:12.125160",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you have beautiful eyes!",
+            "target_text": "Ciao, hai occhi bellissimi!",
+            "japanese": "Ciao, hai occhi bellissimi!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are very kind!",
+            "target_text": "Grazie, sei molto gentile!",
+            "japanese": "Grazie, sei molto gentile!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Really, they are bright.",
+            "target_text": "Davvero, sono luminosi.",
+            "japanese": "Davvero, sono luminosi.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How sweet, thank you!",
+            "target_text": "Che dolce, grazie!",
+            "japanese": "Che dolce, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
