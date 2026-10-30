@@ -6079,6 +6079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T17:39:16.282178",
+      "dialogue": {
+        "topic": "Tteokbokki",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want tteokbokki together?",
+            "korean": "떡볶이 같이 먹을래?",
+            "romaja": "Tteokbokki gachi meogeullae?",
+            "japanese": "떡볶이 같이 먹을래?",
+            "romaji": "Tteokbokki gachi meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is spicy okay?",
+            "korean": "매운 거 괜찮아?",
+            "romaja": "Maeun geo gwaenchana?",
+            "japanese": "매운 거 괜찮아?",
+            "romaji": "Maeun geo gwaenchana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's eat now!",
+            "korean": "좋아, 빨리 먹자!",
+            "romaja": "Joa, ppalli meokja!",
+            "japanese": "좋아, 빨리 먹자!",
+            "romaji": "Joa, ppalli meokja!"
+          }
+        ]
+      }
     }
   ]
 }
