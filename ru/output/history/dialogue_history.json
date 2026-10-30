@@ -6079,6 +6079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T17:54:53.929061",
+      "dialogue": {
+        "topic": "Moscow Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is taxi near metro?",
+            "russian": "Где такси у метро?",
+            "translit": "Gde taksi u metro?",
+            "japanese": "Где такси у метро?",
+            "romaji": "Gde taksi u metro?"
+          },
+          {
+            "speaker": "B",
+            "english": "Over there, on the right!",
+            "russian": "Вон там, справа!",
+            "translit": "Von tam, sprava!",
+            "japanese": "Вон там, справа!",
+            "romaji": "Von tam, sprava!"
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, is it close?",
+            "russian": "Спасибо, это близко?",
+            "translit": "Spasibo, eto blizko?",
+            "japanese": "Спасибо, это близко?",
+            "romaji": "Spasibo, eto blizko?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, two minutes.",
+            "russian": "Да, две минуты.",
+            "translit": "Da, dve minuty.",
+            "japanese": "Да, две минуты.",
+            "romaji": "Da, dve minuty."
+          }
+        ]
+      }
     }
   ]
 }
