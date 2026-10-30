@@ -5435,6 +5435,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T11:34:00.182412",
+      "dialogue": {
+        "topic": "Shopping & Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have fresh cheese?",
+            "target_text": "Hola, ¿tiene queso fresco?",
+            "japanese": "Hola, ¿tiene queso fresco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "target_text": "¡Sí, muy fresco!",
+            "japanese": "¡Sí, muy fresco!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one kilo?",
+            "target_text": "¿Cuánto cuesta un kilo?",
+            "japanese": "¿Cuánto cuesta un kilo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Three euros, thank you.",
+            "target_text": "Tres euros, gracias.",
+            "japanese": "Tres euros, gracias.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
