@@ -4863,6 +4863,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T02:34:37.594099",
+      "dialogue": {
+        "topic": "Anime-style encouragement",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you okay?",
+            "japanese": "マグさん、だいじょうぶですか？",
+            "romaji": "Magu-san, daijoubu desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I am okay.",
+            "japanese": "はい！だいじょうぶです。",
+            "romaji": "Hai! Daijoubu desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Let's go now!",
+            "japanese": "いま、いきましょう！",
+            "romaji": "Ima, ikimashou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Let's do our best!",
+            "japanese": "はい！がんばりましょう！",
+            "romaji": "Hai! Ganbarimashou!"
+          }
+        ]
+      }
     }
   ]
 }
