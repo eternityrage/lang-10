@@ -5507,6 +5507,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-30T21:39:33.697082",
+      "dialogue": {
+        "topic": "Shopping & Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much is this?",
+            "target_text": "Hola, ¿cuánto cuesta esto?",
+            "japanese": "Hola, ¿cuánto cuesta esto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It only costs five euros!",
+            "target_text": "¡Solo cuesta cinco euros!",
+            "japanese": "¡Solo cuesta cinco euros!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I pay by card?",
+            "target_text": "¿Puedo pagar con tarjeta?",
+            "japanese": "¿Puedo pagar con tarjeta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, thank you.",
+            "target_text": "Sí, claro, muchas gracias.",
+            "japanese": "Sí, claro, muchas gracias.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
