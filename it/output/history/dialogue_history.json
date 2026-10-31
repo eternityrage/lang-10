@@ -5579,6 +5579,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T02:51:18.547666",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, do you have a table?",
+            "target_text": "Buonasera, avete un tavolo?",
+            "japanese": "Buonasera, avete un tavolo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, for two?",
+            "target_text": "Certo, per due?",
+            "japanese": "Certo, per due?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, near the window.",
+            "target_text": "Sì, vicino alla finestra.",
+            "japanese": "Sì, vicino alla finestra.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, come with me.",
+            "target_text": "Perfetto, venite con me.",
+            "japanese": "Perfetto, venite con me.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
