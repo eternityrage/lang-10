@@ -5579,6 +5579,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T11:05:58.814860",
+      "dialogue": {
+        "topic": "Olives at a tapas café",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have olives?",
+            "target_text": "Hola, ¿tienes aceitunas?",
+            "japanese": "Hola, ¿tienes aceitunas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very good!",
+            "target_text": "¡Sí, muy buenas!",
+            "japanese": "¡Sí, muy buenas!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I'd like one tapa.",
+            "target_text": "Quiero una tapa.",
+            "japanese": "Quiero una tapa.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go!",
+            "target_text": "¡Claro, aquí tienes!",
+            "japanese": "¡Claro, aquí tienes!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
