@@ -6159,6 +6159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T02:57:46.496005",
+      "dialogue": {
+        "topic": "First name: polite to casual",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what's your name?",
+            "korean": "안녕하세요, 이름이 뭐예요?",
+            "romaja": "Annyeonghaseyo, ireumi mwoyeyo?",
+            "japanese": "안녕하세요, 이름이 뭐예요?",
+            "romaji": "Annyeonghaseyo, ireumi mwoyeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I'm Jisu!",
+            "korean": "네, 저는 지수예요!",
+            "romaja": "Ne, jeoneun Jisuyeyo!",
+            "japanese": "네, 저는 지수예요!",
+            "romaji": "Ne, jeoneun Jisuyeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Jisu, nice to meet you!",
+            "korean": "지수야, 정말 반가워!",
+            "romaja": "Jisuya, jeongmal bangawo!",
+            "japanese": "지수야, 정말 반가워!",
+            "romaji": "Jisuya, jeongmal bangawo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Nice to meet you too!",
+            "korean": "저도 정말 반가워요!",
+            "romaja": "Jeodo jeongmal bangawoyo!",
+            "japanese": "저도 정말 반가워요!",
+            "romaji": "Jeodo jeongmal bangawoyo!"
+          }
+        ]
+      }
     }
   ]
 }
