@@ -5543,6 +5543,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T02:31:43.871833",
+      "dialogue": {
+        "topic": "Ordering small tapas",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have small tapas?",
+            "target_text": "¿Tienes tapas pequeñas?",
+            "japanese": "¿Tienes tapas pequeñas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very tasty!",
+            "target_text": "¡Sí, son muy ricas!",
+            "japanese": "¡Sí, son muy ricas!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want one, please.",
+            "target_text": "Quiero una, por favor.",
+            "japanese": "Quiero una, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here you go.",
+            "target_text": "Claro, aquí tienes.",
+            "japanese": "Claro, aquí tienes.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
