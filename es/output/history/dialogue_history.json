@@ -5615,6 +5615,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T16:19:01.600616",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there croquettes?",
+            "target_text": "Hola, ¿hay croquetas?",
+            "japanese": "Hola, ¿hay croquetas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very tasty!",
+            "target_text": "¡Sí, muy ricas!",
+            "japanese": "¡Sí, muy ricas!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much are two?",
+            "target_text": "¿Cuánto cuestan dos?",
+            "japanese": "¿Cuánto cuestan dos?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Three euros, please.",
+            "target_text": "Tres euros, por favor.",
+            "japanese": "Tres euros, por favor.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
