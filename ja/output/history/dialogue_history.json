@@ -5023,6 +5023,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T10:53:21.277471",
+      "dialogue": {
+        "topic": "Buying a cute shirt",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How is this shirt?",
+            "japanese": "この シャツは どうですか？",
+            "romaji": "Kono shatsu wa dou desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Nice! It is cute.",
+            "japanese": "いいですね！かわいいです。",
+            "romaji": "Ii desu ne! Kawaii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "This, please.",
+            "japanese": "これを ください。",
+            "romaji": "Kore o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
