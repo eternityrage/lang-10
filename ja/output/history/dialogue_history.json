@@ -4991,6 +4991,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T02:18:59.300357",
+      "dialogue": {
+        "topic": "Anime Friendship Power",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, don't give up!",
+            "japanese": "マグさん、がんばって！",
+            "romaji": "Magu-san, ganbatte!"
+          },
+          {
+            "speaker": "B",
+            "english": "I won't lose!",
+            "japanese": "まけません！",
+            "romaji": "Makemasen!"
+          },
+          {
+            "speaker": "A",
+            "english": "We are friends!",
+            "japanese": "わたしたちは ともだちです！",
+            "romaji": "Watashitachi wa tomodachi desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, always together!",
+            "japanese": "はい、いつも いっしょです！",
+            "romaji": "Hai, itsumo issho desu!"
+          }
+        ]
+      }
     }
   ]
 }
