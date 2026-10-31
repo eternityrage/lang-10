@@ -6239,6 +6239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T16:57:03.972264",
+      "dialogue": {
+        "topic": "Bakery & Warm Buns",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, are the buns warm today?",
+            "russian": "Здравствуйте, булочки сегодня тёплые?",
+            "translit": "Zdravstvuyte, bulochki segodnya tyoplye?",
+            "japanese": "Здравствуйте, булочки сегодня тёплые?",
+            "romaji": "Zdravstvuyte, bulochki segodnya tyoplye?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, straight from the oven!",
+            "russian": "Да, прямо из печи!",
+            "translit": "Da, pryamo iz pechi!",
+            "japanese": "Да, прямо из печи!",
+            "romaji": "Da, pryamo iz pechi!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then two buns for me.",
+            "russian": "Тогда мне две булочки.",
+            "translit": "Togda mne dve bulochki.",
+            "japanese": "Тогда мне две булочки.",
+            "romaji": "Togda mne dve bulochki."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, enjoy your meal!",
+            "russian": "Конечно, приятного аппетита!",
+            "translit": "Konechno, priyatnogo appetita!",
+            "japanese": "Конечно, приятного аппетита!",
+            "romaji": "Konechno, priyatnogo appetita!"
+          }
+        ]
+      }
     }
   ]
 }
