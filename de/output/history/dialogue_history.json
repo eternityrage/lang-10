@@ -5651,6 +5651,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T11:18:49.528209",
+      "dialogue": {
+        "topic": "Polite request to pass by",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, may I pass?",
+            "target_text": "Entschuldigung, darf ich vorbei?",
+            "japanese": "Entschuldigung, darf ich vorbei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course. Go ahead.",
+            "target_text": "Ja, natürlich. Bitte sehr.",
+            "japanese": "Ja, natürlich. Bitte sehr.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, very kind.",
+            "target_text": "Danke, sehr nett.",
+            "japanese": "Danke, sehr nett.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly. Have a nice day!",
+            "target_text": "Gern. Schönen Tag!",
+            "japanese": "Gern. Schönen Tag!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
