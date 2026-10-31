@@ -6359,6 +6359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T03:04:44.471704",
+      "dialogue": {
+        "topic": "Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Taxi?",
+            "chinese": "出租车吗？",
+            "pinyin": "Chūzūchē ma?",
+            "japanese": "出租车吗？",
+            "romaji": "Chūzūchē ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come on!",
+            "chinese": "对，来吧！",
+            "pinyin": "Duì, lái ba!",
+            "japanese": "对，来吧！",
+            "romaji": "Duì, lái ba!"
+          },
+          {
+            "speaker": "A",
+            "english": "Go where?",
+            "chinese": "去哪里？",
+            "pinyin": "Qù nǎlǐ?",
+            "japanese": "去哪里？",
+            "romaji": "Qù nǎlǐ?"
+          },
+          {
+            "speaker": "B",
+            "english": "To school.",
+            "chinese": "去学校。",
+            "pinyin": "Qù xuéxiào.",
+            "japanese": "去学校。",
+            "romaji": "Qù xuéxiào."
+          }
+        ]
+      }
     }
   ]
 }
