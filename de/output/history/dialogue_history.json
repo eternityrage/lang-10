@@ -5723,6 +5723,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T20:59:18.637431",
+      "dialogue": {
+        "topic": "Berlin Street Life",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where are you going?",
+            "target_text": "Hallo, wohin gehst du?",
+            "japanese": "Hallo, wohin gehst du?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "To the flea market, very nice!",
+            "target_text": "Zum Flohmarkt, sehr schön!",
+            "japanese": "Zum Flohmarkt, sehr schön!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far?",
+            "target_text": "Ist er weit?",
+            "japanese": "Ist er weit?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, just around the corner.",
+            "target_text": "Nein, gleich um die Ecke.",
+            "japanese": "Nein, gleich um die Ecke.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
