@@ -5615,6 +5615,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T02:44:41.282010",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Which exit for the museum?",
+            "target_text": "Welcher Ausgang zum Museum?",
+            "japanese": "Welcher Ausgang zum Museum?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Exit B, very close!",
+            "target_text": "Ausgang B, ganz nah!",
+            "japanese": "Ausgang B, ganz nah!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do I go left?",
+            "target_text": "Muss ich links gehen?",
+            "japanese": "Muss ich links gehen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, then straight ahead.",
+            "target_text": "Ja, dann geradeaus.",
+            "japanese": "Ja, dann geradeaus.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
