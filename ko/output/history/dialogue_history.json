@@ -6199,6 +6199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T11:31:46.151567",
+      "dialogue": {
+        "topic": "Hongdae & Gangnam Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this tteokbokki spicy?",
+            "korean": "이 떡볶이 많이 매워요?",
+            "romaja": "i tteokbokki mani maewoyo?",
+            "japanese": "이 떡볶이 많이 매워요?",
+            "romaji": "i tteokbokki mani maewoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, it is sweet and delicious!",
+            "korean": "아니요, 달콤하고 맛있어요!",
+            "romaja": "aniyo, dalkomhago masisseoyo!",
+            "japanese": "아니요, 달콤하고 맛있어요!",
+            "romaji": "aniyo, dalkomhago masisseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "One portion please!",
+            "korean": "일인분 주세요!",
+            "romaja": "il-inbun juseyo!",
+            "japanese": "일인분 주세요!",
+            "romaji": "il-inbun juseyo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Coming right up, enjoy!",
+            "korean": "금방 나와요, 맛있게 드세요!",
+            "romaja": "geumbang nawMessageayo, mas-issge deuseyo!",
+            "japanese": "금방 나와요, 맛있게 드세요!",
+            "romaji": "geumbang nawMessageayo, mas-issge deuseyo!"
+          }
+        ]
+      }
     }
   ]
 }
