@@ -5615,6 +5615,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T11:25:05.550494",
+      "dialogue": {
+        "topic": "Train Station & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, does this train leave?",
+            "target_text": "Scusi, parte questo treno?",
+            "japanese": "Scusi, parte questo treno?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it leaves soon!",
+            "target_text": "Sì, parte tra poco!",
+            "japanese": "Sì, parte tra poco!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go to Rome?",
+            "target_text": "Va a Roma?",
+            "japanese": "Va a Roma?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Sì, buon viaggio!",
+            "japanese": "Sì, buon viaggio!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
