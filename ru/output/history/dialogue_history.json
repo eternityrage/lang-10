@@ -6279,6 +6279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T21:25:31.121497",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have buns?",
+            "russian": "У вас есть булочки?",
+            "translit": "U vas est' bulochki?",
+            "japanese": "У вас есть булочки?",
+            "romaji": "U vas est' bulochki?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, warm and fresh!",
+            "russian": "Да, тёплые и свежие!",
+            "translit": "Da, tyoplye i svezhie!",
+            "japanese": "Да, тёплые и свежие!",
+            "romaji": "Da, tyoplye i svezhie!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one?",
+            "russian": "Сколько стоит одна?",
+            "translit": "Skol'ko stoit odna?",
+            "japanese": "Сколько стоит одна?",
+            "romaji": "Skol'ko stoit odna?"
+          },
+          {
+            "speaker": "B",
+            "english": "Thirty rubles, please.",
+            "russian": "Тридцать рублей, пожалуйста.",
+            "translit": "Tridtsat' rubley, pozhaluysta.",
+            "japanese": "Тридцать рублей, пожалуйста.",
+            "romaji": "Tridtsat' rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
