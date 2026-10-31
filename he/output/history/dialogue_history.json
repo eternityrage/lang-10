@@ -6199,6 +6199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T10:59:41.682742",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, all good?",
+            "target_text": "היי, הכול סבבה?",
+            "transliteration": "Hey, hakol sababa?",
+            "japanese": "היי, הכול סבבה?",
+            "romaji": "Hey, hakol sababa?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, everything is great!",
+            "target_text": "כן, הכול מעולה!",
+            "transliteration": "Ken, hakol me'ule!",
+            "japanese": "כן, הכול מעולה!",
+            "romaji": "Ken, hakol me'ule!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, want coffee?",
+            "target_text": "יופי, בא לך קפה?",
+            "transliteration": "Yofi, ba lakh kafe?",
+            "japanese": "יופי, בא לך קפה?",
+            "romaji": "Yofi, ba lakh kafe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, let's do coffee!",
+            "target_text": "בטח, יאללה קפה!",
+            "transliteration": "Betakh, yalla kafe!",
+            "japanese": "בטח, יאללה קפה!",
+            "romaji": "Betakh, yalla kafe!"
+          }
+        ]
+      }
     }
   ]
 }
