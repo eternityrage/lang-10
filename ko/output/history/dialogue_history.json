@@ -6279,6 +6279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T21:12:35.787396",
+      "dialogue": {
+        "topic": "Polite hello, casual friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, I'm Minsu.",
+            "korean": "안녕하세요, 저는 민수예요.",
+            "romaja": "Annyeonghaseyo, jeoneun Minsuyeyo.",
+            "japanese": "안녕하세요, 저는 민수예요.",
+            "romaji": "Annyeonghaseyo, jeoneun Minsuyeyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Hi, I'm Jisu!",
+            "korean": "안녕, 나는 지수야!",
+            "romaja": "Annyeong, naneun Jisuya!",
+            "japanese": "안녕, 나는 지수야!",
+            "romaji": "Annyeong, naneun Jisuya!"
+          },
+          {
+            "speaker": "A",
+            "english": "Are we friends now?",
+            "korean": "이제 우리 친구예요?",
+            "romaja": "Ije uri chinguyeyo?",
+            "japanese": "이제 우리 친구예요?",
+            "romaji": "Ije uri chinguyeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we're friends!",
+            "korean": "응, 우리 친구야!",
+            "romaja": "Eung, uri chinguya!",
+            "japanese": "응, 우리 친구야!",
+            "romaji": "Eung, uri chinguya!"
+          }
+        ]
+      }
     }
   ]
 }
