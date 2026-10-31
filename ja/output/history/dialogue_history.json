@@ -5087,6 +5087,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T20:27:14.276297",
+      "dialogue": {
+        "topic": "Buying a Bag",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Need a bag?",
+            "japanese": "ふくろは いりますか？",
+            "romaji": "Fukuro wa irimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please.",
+            "japanese": "はい、ください。",
+            "romaji": "Hai, kudasai."
+          },
+          {
+            "speaker": "A",
+            "english": "It is five yen.",
+            "japanese": "ごえんです。",
+            "romaji": "Go-en desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          }
+        ]
+      }
     }
   ]
 }
