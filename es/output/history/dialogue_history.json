@@ -5651,6 +5651,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T20:43:18.270859",
+      "dialogue": {
+        "topic": "Bailar en la fiesta",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Will you dance with me today?",
+            "target_text": "¿Bailas conmigo hoy?",
+            "japanese": "¿Bailas conmigo hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love dancing!",
+            "target_text": "¡Sí, me encanta bailar!",
+            "japanese": "¡Sí, me encanta bailar!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you like this song?",
+            "target_text": "¿Te gusta esta canción?",
+            "japanese": "¿Te gusta esta canción?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very fun!",
+            "target_text": "¡Sí, es muy divertida!",
+            "japanese": "¡Sí, es muy divertida!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
