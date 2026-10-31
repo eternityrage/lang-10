@@ -6159,6 +6159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T03:11:35.746691",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Is it cold outside?",
+            "russian": "Привет! На улице холодно?",
+            "translit": "Privet! Na ulitse kholodno?",
+            "japanese": "Привет! На улице холодно?",
+            "romaji": "Privet! Na ulitse kholodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but very beautiful!",
+            "russian": "Да, но очень красиво!",
+            "translit": "Da, no ochen' krasivo!",
+            "japanese": "Да, но очень красиво!",
+            "romaji": "Da, no ochen' krasivo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the park?",
+            "russian": "Пойдём в парк?",
+            "translit": "Poydyom v park?",
+            "japanese": "Пойдём в парк?",
+            "romaji": "Poydyom v park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's take scarves!",
+            "russian": "Да, возьмём шарфы!",
+            "translit": "Da, voz'myom sharfy!",
+            "japanese": "Да, возьмём шарфы!",
+            "romaji": "Da, voz'myom sharfy!"
+          }
+        ]
+      }
     }
   ]
 }
