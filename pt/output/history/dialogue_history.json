@@ -5579,6 +5579,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T03:17:53.640304",
+      "dialogue": {
+        "topic": "Coffee with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want a coffee?",
+            "target_text": "Oi, quer um café?",
+            "japanese": "Oi, quer um café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Coffee is life.",
+            "target_text": "Quero! Café é vida.",
+            "japanese": "Quero! Café é vida.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With sugar or without?",
+            "target_text": "Com açúcar ou sem?",
+            "japanese": "Com açúcar ou sem?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Without. Let’s talk!",
+            "target_text": "Sem. Vamos conversar!",
+            "japanese": "Sem. Vamos conversar!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
