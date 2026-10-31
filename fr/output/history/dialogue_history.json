@@ -5723,6 +5723,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T16:25:15.870247",
+      "dialogue": {
+        "topic": "Metro exit",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, where is the exit?",
+            "target_text": "Bonjour, où est la sortie ?",
+            "japanese": "Bonjour, où est la sortie ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is on the right!",
+            "target_text": "Elle est à droite !",
+            "japanese": "Elle est à droite !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the exit far?",
+            "target_text": "La sortie est loin ?",
+            "japanese": "La sortie est loin ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, very close!",
+            "target_text": "Non, tout près !",
+            "japanese": "Non, tout près !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
