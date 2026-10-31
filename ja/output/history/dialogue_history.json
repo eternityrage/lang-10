@@ -5055,6 +5055,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-10-31T16:03:15.486901",
+      "dialogue": {
+        "topic": "A sweet first date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, I like you.",
+            "japanese": "マグさん、すきです。",
+            "romaji": "Magu-san, suki desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Really? I like you too.",
+            "japanese": "ほんとう？わたしも すきです。",
+            "romaji": "Hontou? Watashi mo suki desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Date today?",
+            "japanese": "きょう、デート しませんか？",
+            "romaji": "Kyou, deeto shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "japanese": "はい、いきましょう！",
+            "romaji": "Hai, ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
