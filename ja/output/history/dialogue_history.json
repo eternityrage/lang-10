@@ -5215,6 +5215,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T21:06:42.243589",
+      "dialogue": {
+        "topic": "すきです",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, do you like me?",
+            "japanese": "マグさん、わたしが すきですか？",
+            "romaji": "Magu-san, watashi ga suki desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I like you.",
+            "japanese": "はい、カップケーキさんが すきです。",
+            "romaji": "Hai, Kappukeeki-san ga suki desu."
+          },
+          {
+            "speaker": "A",
+            "english": "I like you too.",
+            "japanese": "わたしも マグさんが すきです。",
+            "romaji": "Watashi mo Magu-san ga suki desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Let's drink coffee together.",
+            "japanese": "いっしょに コーヒーを のみましょう。",
+            "romaji": "Issho ni koohii o nomimashou."
+          }
+        ]
+      }
     }
   ]
 }
