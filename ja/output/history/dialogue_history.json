@@ -5119,6 +5119,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T02:09:27.665809",
+      "dialogue": {
+        "topic": "Buying a cute hat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this hat cute?",
+            "japanese": "この ぼうし、かわいいですか？",
+            "romaji": "Kono boushi, kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Very cute.",
+            "japanese": "はい！とても かわいいです。",
+            "romaji": "Hai! Totemo kawaii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, this please.",
+            "japanese": "じゃあ、これを ください。",
+            "romaji": "Jaa, kore o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Nice! It suits you.",
+            "japanese": "いいですね！にあいます。",
+            "romaji": "Ii desu ne! Niaimasu."
+          }
+        ]
+      }
     }
   ]
 }
