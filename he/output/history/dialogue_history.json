@@ -6319,6 +6319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T02:15:54.919705",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have small coffee?",
+            "target_text": "שלום, יש קפה קטן?",
+            "transliteration": "Shalom, yesh kafe katan?",
+            "japanese": "שלום, יש קפה קטן?",
+            "romaji": "Shalom, yesh kafe katan?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, small and tasty coffee!",
+            "target_text": "כן, קפה קטן וטעים!",
+            "transliteration": "Ken, kafe katan ve-ta'im!",
+            "japanese": "כן, קפה קטן וטעים!",
+            "romaji": "Ken, kafe katan ve-ta'im!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is there also a croissant?",
+            "target_text": "יש גם קרואסון?",
+            "transliteration": "Yesh gam kruason?",
+            "japanese": "יש גם קרואסון?",
+            "romaji": "Yesh gam kruason?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please, it’s warm.",
+            "target_text": "כן, בבקשה, הוא חם.",
+            "transliteration": "Ken, bevakasha, hu cham.",
+            "japanese": "כן, בבקשה, הוא חם.",
+            "romaji": "Ken, bevakasha, hu cham."
+          }
+        ]
+      }
     }
   ]
 }
