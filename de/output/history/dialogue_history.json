@@ -5831,6 +5831,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T17:32:12.693757",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, which platform?",
+            "target_text": "Entschuldigung, welcher Bahnsteig?",
+            "japanese": "Entschuldigung, welcher Bahnsteig?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Platform two, right there.",
+            "target_text": "Bahnsteig zwei, gleich dort.",
+            "japanese": "Bahnsteig zwei, gleich dort.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go to Central Station?",
+            "target_text": "Fährt sie zum Hauptbahnhof?",
+            "japanese": "Fährt sie zum Hauptbahnhof?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, only three stops.",
+            "target_text": "Ja, nur drei Stationen.",
+            "japanese": "Ja, nur drei Stationen.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
