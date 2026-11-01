@@ -5759,6 +5759,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T12:48:25.036625",
+      "dialogue": {
+        "topic": "Rio Beach & Coconut Water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want coconut water?",
+            "target_text": "Oi, quer água de coco?",
+            "japanese": "Oi, quer água de coco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold!",
+            "target_text": "Quero sim, bem gelada!",
+            "japanese": "Quero sim, bem gelada!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "On Ipanema beach?",
+            "target_text": "Na praia de Ipanema?",
+            "japanese": "Na praia de Ipanema?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with a beautiful view!",
+            "target_text": "Sim, com vista linda!",
+            "japanese": "Sim, com vista linda!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
