@@ -5151,6 +5151,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T11:48:28.039993",
+      "dialogue": {
+        "topic": "Buying a rice ball",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "This rice ball, please.",
+            "japanese": "この おにぎり ください。",
+            "romaji": "Kono onigiri kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, 100 yen.",
+            "japanese": "はい、100えんです。",
+            "romaji": "Hai, hyaku en desu."
+          },
+          {
+            "speaker": "A",
+            "english": "A bag too, please.",
+            "japanese": "ふくろも ください。",
+            "romaji": "Fukuro mo kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          }
+        ]
+      }
     }
   ]
 }
