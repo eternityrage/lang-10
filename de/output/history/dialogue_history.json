@@ -5759,6 +5759,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T02:35:27.368952",
+      "dialogue": {
+        "topic": "Berlin Street Life - Mauerpark",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is Mauerpark close?",
+            "target_text": "Hallo, ist der Mauerpark nah?",
+            "japanese": "Hallo, ist der Mauerpark nah?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right up ahead!",
+            "target_text": "Ja, direkt da vorne!",
+            "japanese": "Ja, direkt da vorne!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go there?",
+            "target_text": "Gehen wir hin?",
+            "japanese": "Gehen wir hin?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, I'm coming!",
+            "target_text": "Gern, ich komme!",
+            "japanese": "Gern, ich komme!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
