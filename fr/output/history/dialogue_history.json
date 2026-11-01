@@ -5831,6 +5831,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T12:08:03.556795",
+      "dialogue": {
+        "topic": "Street Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you live here?",
+            "target_text": "Bonjour, vous habitez ici ?",
+            "japanese": "Bonjour, vous habitez ici ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love this neighborhood!",
+            "target_text": "Oui, j’adore ce quartier !",
+            "japanese": "Oui, j’adore ce quartier !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the park?",
+            "target_text": "Le parc est où ?",
+            "japanese": "Le parc est où ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right there, enjoy your walk!",
+            "target_text": "Juste là, bonne promenade !",
+            "japanese": "Juste là, bonne promenade !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
