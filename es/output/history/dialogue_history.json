@@ -5759,6 +5759,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T17:19:17.699272",
+      "dialogue": {
+        "topic": "Greetings & Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! How are you?",
+            "target_text": "¡Hola! ¿Cómo estás?",
+            "japanese": "¡Hola! ¿Cómo estás?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very well, thanks!",
+            "target_text": "¡Muy bien, gracias!",
+            "japanese": "¡Muy bien, gracias!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You look great.",
+            "target_text": "Te ves genial.",
+            "japanese": "Te ves genial.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! You too.",
+            "target_text": "¡Gracias! Tú también.",
+            "japanese": "¡Gracias! Tú también.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
