@@ -6399,6 +6399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T18:01:36.163155",
+      "dialogue": {
+        "topic": "Winter Walk & Cold Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Is it cold today?",
+            "russian": "Привет! Сегодня холодно?",
+            "translit": "Privet! Segodnya kholodno?",
+            "japanese": "Привет! Сегодня холодно?",
+            "romaji": "Privet! Segodnya kholodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but very beautiful!",
+            "russian": "Да, но очень красиво!",
+            "translit": "Da, no ochen' krasivo!",
+            "japanese": "Да, но очень красиво!",
+            "romaji": "Da, no ochen' krasivo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is the wind strong?",
+            "russian": "А ветер сильный?",
+            "translit": "A veter sil'nyy?",
+            "japanese": "А ветер сильный?",
+            "romaji": "A veter sil'nyy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's drink tea!",
+            "russian": "Да, идём пить чай!",
+            "translit": "Da, idyom pit' chay!",
+            "japanese": "Да, идём пить чай!",
+            "romaji": "Da, idyom pit' chay!"
+          }
+        ]
+      }
     }
   ]
 }
