@@ -6639,6 +6639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T21:58:26.905267",
+      "dialogue": {
+        "topic": "Night Market Skewers",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Eat skewers?",
+            "chinese": "吃烤串吗？",
+            "pinyin": "Chī kǎochuàn ma?",
+            "japanese": "吃烤串吗？",
+            "romaji": "Chī kǎochuàn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, smells great!",
+            "chinese": "好，真香！",
+            "pinyin": "Hǎo, zhēn xiāng!",
+            "japanese": "好，真香！",
+            "romaji": "Hǎo, zhēn xiāng!"
+          },
+          {
+            "speaker": "A",
+            "english": "How many?",
+            "chinese": "要几个？",
+            "pinyin": "Yào jǐ ge?",
+            "japanese": "要几个？",
+            "romaji": "Yào jǐ ge?"
+          },
+          {
+            "speaker": "B",
+            "english": "Two, thanks!",
+            "chinese": "两个，谢谢！",
+            "pinyin": "Liǎng ge, xièxie!",
+            "japanese": "两个，谢谢！",
+            "romaji": "Liǎng ge, xièxie!"
+          }
+        ]
+      }
     }
   ]
 }
