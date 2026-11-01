@@ -5795,6 +5795,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T12:14:26.916051",
+      "dialogue": {
+        "topic": "Ordering Water Politely",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, water please.",
+            "target_text": "Hallo, ein Wasser, bitte.",
+            "japanese": "Hallo, ein Wasser, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With bubbles, please.",
+            "target_text": "Mit Gas, bitte.",
+            "japanese": "Mit Gas, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, right away.",
+            "target_text": "Natürlich, kommt sofort.",
+            "japanese": "Natürlich, kommt sofort.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
