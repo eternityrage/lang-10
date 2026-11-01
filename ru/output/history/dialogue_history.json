@@ -6359,6 +6359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T12:41:47.816964",
+      "dialogue": {
+        "topic": "Meeting a Friend on the Street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "russian": "Привет, как дела?",
+            "translit": "Privet, kak dela?",
+            "japanese": "Привет, как дела?",
+            "romaji": "Privet, kak dela?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks, friend!",
+            "russian": "Отлично, спасибо, друг!",
+            "translit": "Otlichno, spasibo, drug!",
+            "japanese": "Отлично, спасибо, друг!",
+            "romaji": "Otlichno, spasibo, drug!"
+          },
+          {
+            "speaker": "A",
+            "english": "Where are you going?",
+            "russian": "Куда ты идёшь?",
+            "translit": "Kuda ty idyosh?",
+            "japanese": "Куда ты идёшь?",
+            "romaji": "Kuda ty idyosh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Home, see you later!",
+            "russian": "Домой, увидимся позже!",
+            "translit": "Domoy, uvidimsya pozhe!",
+            "japanese": "Домой, увидимся позже!",
+            "romaji": "Domoy, uvidimsya pozhe!"
+          }
+        ]
+      }
     }
   ]
 }
