@@ -5831,6 +5831,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T22:11:14.268751",
+      "dialogue": {
+        "topic": "Coffee with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want a coffee?",
+            "target_text": "Oi, quer um café?",
+            "japanese": "Oi, quer um café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, for sure!",
+            "target_text": "Quero, com certeza!",
+            "japanese": "Quero, com certeza!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With sugar or without?",
+            "target_text": "Com açúcar ou sem?",
+            "japanese": "Com açúcar ou sem?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With sugar, please.",
+            "target_text": "Com açúcar, por favor.",
+            "japanese": "Com açúcar, por favor.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
