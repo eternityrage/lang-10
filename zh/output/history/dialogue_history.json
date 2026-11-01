@@ -6599,6 +6599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T17:55:15.559832",
+      "dialogue": {
+        "topic": "Night Market Street Food",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Eat skewers?",
+            "chinese": "吃烤串吗？",
+            "pinyin": "Chī kǎochuàn ma?",
+            "japanese": "吃烤串吗？",
+            "romaji": "Chī kǎochuàn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, two skewers!",
+            "chinese": "好，来两串！",
+            "pinyin": "Hǎo, lái liǎng chuàn!",
+            "japanese": "好，来两串！",
+            "romaji": "Hǎo, lái liǎng chuàn!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want it spicy?",
+            "chinese": "要辣吗？",
+            "pinyin": "Yào là ma?",
+            "japanese": "要辣吗？",
+            "romaji": "Yào là ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little spicy!",
+            "chinese": "一点点辣！",
+            "pinyin": "Yìdiǎn diǎn là!",
+            "japanese": "一点点辣！",
+            "romaji": "Yìdiǎn diǎn là!"
+          }
+        ]
+      }
     }
   ]
 }
