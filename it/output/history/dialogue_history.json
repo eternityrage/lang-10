@@ -5759,6 +5759,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T12:20:46.063366",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, a table?",
+            "target_text": "Buonasera, avete un tavolo?",
+            "japanese": "Buonasera, avete un tavolo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, come in!",
+            "target_text": "Certo, venite pure!",
+            "japanese": "Certo, venite pure!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can we eat pizza?",
+            "target_text": "Possiamo mangiare pizza?",
+            "japanese": "Possiamo mangiare pizza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the pizza is ready!",
+            "target_text": "Sì, la pizza è pronta!",
+            "japanese": "Sì, la pizza è pronta!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
