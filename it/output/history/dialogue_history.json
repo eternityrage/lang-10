@@ -5831,6 +5831,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T21:42:43.843205",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you are really special.",
+            "target_text": "Ciao, sei davvero speciale.",
+            "japanese": "Ciao, sei davvero speciale.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you, how nice!",
+            "target_text": "Grazie, che bello!",
+            "japanese": "Grazie, che bello!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You are also very sweet.",
+            "target_text": "Sei anche molto dolce.",
+            "japanese": "Sei anche molto dolce.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How kind, thank you!",
+            "target_text": "Che carino, grazie!",
+            "japanese": "Che carino, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
