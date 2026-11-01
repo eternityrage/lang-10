@@ -5795,6 +5795,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T18:07:51.764140",
+      "dialogue": {
+        "topic": "Travel & Uber in São Paulo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is this my Uber?",
+            "target_text": "Oi, é meu Uber?",
+            "japanese": "Oi, é meu Uber?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, you can get in!",
+            "target_text": "Sim, pode entrar!",
+            "japanese": "Sim, pode entrar!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are we going to MASP?",
+            "target_text": "Vamos ao MASP?",
+            "japanese": "Vamos ao MASP?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, we’ll arrive quickly.",
+            "target_text": "Claro, chegamos rapidinho.",
+            "japanese": "Claro, chegamos rapidinho.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
