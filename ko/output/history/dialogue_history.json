@@ -6359,6 +6359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T12:27:42.451862",
+      "dialogue": {
+        "topic": "Gangnam cafe latte",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How is this Gangnam cafe?",
+            "korean": "강남 카페 어때요?",
+            "romaja": "Gangnam kape eottaeyo?",
+            "japanese": "강남 카페 어때요?",
+            "romaji": "Gangnam kape eottaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's really pretty and quiet!",
+            "korean": "정말 예쁘고 조용해요!",
+            "romaja": "Jeongmal yeppeugo joyonghaeyo!",
+            "japanese": "정말 예쁘고 조용해요!",
+            "romaji": "Jeongmal yeppeugo joyonghaeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "What will you drink today?",
+            "korean": "오늘 뭐 마실래요?",
+            "romaja": "Oneul mwo masillaeyo?",
+            "japanese": "오늘 뭐 마실래요?",
+            "romaji": "Oneul mwo masillaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I'll drink a latte.",
+            "korean": "좋아요, 라테 마실래요.",
+            "romaja": "Joayo, rate masillaeyo.",
+            "japanese": "좋아요, 라테 마실래요.",
+            "romaji": "Joayo, rate masillaeyo."
+          }
+        ]
+      }
     }
   ]
 }
