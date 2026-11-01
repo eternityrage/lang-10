@@ -5867,6 +5867,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-01T21:32:40.777835",
+      "dialogue": {
+        "topic": "Berlin Street Life - Flohmarkt",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the flea market open?",
+            "target_text": "Hallo, ist der Flohmarkt offen?",
+            "japanese": "Hallo, ist der Flohmarkt offen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, until six o’clock!",
+            "target_text": "Ja, bis sechs Uhr!",
+            "japanese": "Ja, bis sechs Uhr!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are there old books?",
+            "target_text": "Gibt es alte Bücher?",
+            "japanese": "Gibt es alte Bücher?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right up front!",
+            "target_text": "Ja, gleich vorne!",
+            "japanese": "Ja, gleich vorne!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
