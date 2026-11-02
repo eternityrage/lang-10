@@ -5279,6 +5279,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T13:27:57.952255",
+      "dialogue": {
+        "topic": "Buying a cheap drink in Tokyo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, how much is this?",
+            "japanese": "マグさん、これ いくらですか？",
+            "romaji": "Magu-san, kore ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is 100 yen.",
+            "japanese": "ひゃくえんです。",
+            "romaji": "Hyaku en desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Wow, it is cheap!",
+            "japanese": "わあ、やすいです！",
+            "romaji": "Waa, yasui desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please buy it!",
+            "japanese": "はい、買ってください！",
+            "romaji": "Hai, katte kudasai!"
+          }
+        ]
+      }
     }
   ]
 }
