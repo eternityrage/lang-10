@@ -5247,6 +5247,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T02:29:18.474687",
+      "dialogue": {
+        "topic": "Cold day in Tokyo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "It's cold today.",
+            "japanese": "きょう、さむいですね。",
+            "romaji": "Kyou, samui desu ne."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold.",
+            "japanese": "はい、とても さむいです。",
+            "romaji": "Hai, totemo samui desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Hot coffee?",
+            "japanese": "あつい コーヒーですか？",
+            "romaji": "Atsui koohii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please drink.",
+            "japanese": "はい、のんでください。",
+            "romaji": "Hai, nonde kudasai."
+          }
+        ]
+      }
     }
   ]
 }
