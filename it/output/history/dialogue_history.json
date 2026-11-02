@@ -5867,6 +5867,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T03:01:19.173620",
+      "dialogue": {
+        "topic": "Train Station & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, where is the train?",
+            "target_text": "Buongiorno, dov'è il treno?",
+            "japanese": "Buongiorno, dov'è il treno?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's at platform two!",
+            "target_text": "È al binario due!",
+            "japanese": "È al binario due!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does the train leave now?",
+            "target_text": "Il treno parte adesso?",
+            "japanese": "Il treno parte adesso?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Sì, buon viaggio!",
+            "japanese": "Sì, buon viaggio!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
