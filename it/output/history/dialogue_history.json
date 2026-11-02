@@ -5903,6 +5903,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T14:06:46.019539",
+      "dialogue": {
+        "topic": "Slang: “dai”",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what does “dai” mean?",
+            "target_text": "Ciao, cosa vuol dire “dai”?",
+            "japanese": "Ciao, cosa vuol dire “dai”?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: come on!",
+            "target_text": "Vuol dire: forza!",
+            "japanese": "Vuol dire: forza!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do I say it like this?",
+            "target_text": "Lo dici così?",
+            "japanese": "Lo dici così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come on, let’s go!",
+            "target_text": "Sì, dai, andiamo!",
+            "japanese": "Sì, dai, andiamo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
