@@ -6719,6 +6719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T14:19:46.037576",
+      "dialogue": {
+        "topic": "Morning Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning!",
+            "chinese": "早上好！",
+            "pinyin": "Zǎoshang hǎo!",
+            "japanese": "早上好！",
+            "romaji": "Zǎoshang hǎo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Morning! I’m here.",
+            "chinese": "早！我来了。",
+            "pinyin": "Zǎo! Wǒ lái le.",
+            "japanese": "早！我来了。",
+            "romaji": "Zǎo! Wǒ lái le."
+          },
+          {
+            "speaker": "A",
+            "english": "Coffee is ready.",
+            "chinese": "咖啡好了。",
+            "pinyin": "Kāfēi hǎo le.",
+            "japanese": "咖啡好了。",
+            "romaji": "Kāfēi hǎo le."
+          },
+          {
+            "speaker": "B",
+            "english": "Great! Thanks!",
+            "chinese": "太好了！谢谢！",
+            "pinyin": "Tài hǎo le! Xièxie!",
+            "japanese": "太好了！谢谢！",
+            "romaji": "Tài hǎo le! Xièxie!"
+          }
+        ]
+      }
     }
   ]
 }
