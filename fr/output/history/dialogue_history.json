@@ -6011,6 +6011,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T21:03:38.369983",
+      "dialogue": {
+        "topic": "Coffee at home",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want coffee?",
+            "target_text": "Tu veux un café ?",
+            "japanese": "Tu veux un café ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With some sugar?",
+            "target_text": "Avec du sucre ?",
+            "japanese": "Avec du sucre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No thanks, it's perfect!",
+            "target_text": "Non merci, c'est parfait !",
+            "japanese": "Non merci, c'est parfait !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
