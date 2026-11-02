@@ -5343,6 +5343,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T23:51:43.161839",
+      "dialogue": {
+        "topic": "Sweet Confession",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, I like you.",
+            "japanese": "マグさん、好きです。",
+            "romaji": "Magu-san, suki desu."
+          },
+          {
+            "speaker": "B",
+            "english": "I like you too.",
+            "japanese": "わたしも 好きです。",
+            "romaji": "Watashi mo suki desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we have a date?",
+            "japanese": "デート しませんか？",
+            "romaji": "Deeto shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's have a date.",
+            "japanese": "はい、デート しましょう。",
+            "romaji": "Hai, deeto shimashou."
+          }
+        ]
+      }
     }
   ]
 }
