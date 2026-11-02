@@ -5939,6 +5939,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T14:00:06.161347",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Which platform to Alexanderplatz?",
+            "target_text": "Welcher Bahnsteig nach Alexanderplatz?",
+            "japanese": "Welcher Bahnsteig nach Alexanderplatz?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Platform three, right here.",
+            "target_text": "Klar! Bahnsteig drei, gleich hier.",
+            "japanese": "Klar! Bahnsteig drei, gleich hier.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does the U5 leave now?",
+            "target_text": "Fährt die U5 jetzt?",
+            "japanese": "Fährt die U5 jetzt?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, in two minutes.",
+            "target_text": "Ja, in zwei Minuten.",
+            "japanese": "Ja, in zwei Minuten.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
