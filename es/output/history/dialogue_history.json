@@ -5831,6 +5831,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T02:42:13.175206",
+      "dialogue": {
+        "topic": "Ordering croquetas",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there croquettes?",
+            "target_text": "Hola, ¿hay croquetas?",
+            "japanese": "Hola, ¿hay croquetas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very tasty!",
+            "target_text": "¡Sí, están muy ricas!",
+            "japanese": "¡Sí, están muy ricas!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One tapa, please.",
+            "target_text": "Una tapa, por favor.",
+            "japanese": "Una tapa, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, right now!",
+            "target_text": "¡Claro, ahora mismo!",
+            "japanese": "¡Claro, ahora mismo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
