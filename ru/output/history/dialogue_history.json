@@ -6479,6 +6479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T03:20:26.133561",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the bread fresh?",
+            "russian": "Здравствуйте, хлеб свежий?",
+            "translit": "Zdravstvuyte, khleb svezhiy?",
+            "japanese": "Здравствуйте, хлеб свежий?",
+            "romaji": "Zdravstvuyte, khleb svezhiy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "russian": "Да, очень свежий!",
+            "translit": "Da, ochen svezhiy!",
+            "japanese": "Да, очень свежий!",
+            "romaji": "Da, ochen svezhiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Give me one baguette, please.",
+            "russian": "Дайте один багет, пожалуйста.",
+            "translit": "Dayte odin baget, pozhaluysta.",
+            "japanese": "Дайте один багет, пожалуйста.",
+            "romaji": "Dayte odin baget, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here is your baguette.",
+            "russian": "Конечно, вот ваш багет.",
+            "translit": "Konechno, vot vash baget.",
+            "japanese": "Конечно, вот ваш багет.",
+            "romaji": "Konechno, vot vash baget."
+          }
+        ]
+      }
     }
   ]
 }
