@@ -6559,6 +6559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T21:24:28.436063",
+      "dialogue": {
+        "topic": "Polite and casual: music together",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! Do you like music?",
+            "korean": "안녕하세요! 음악 좋아해요?",
+            "romaja": "Annyeonghaseyo! Eumak joahaeyo?",
+            "japanese": "안녕하세요! 음악 좋아해요?",
+            "romaji": "Annyeonghaseyo! Eumak joahaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I really like it.",
+            "korean": "네! 정말 좋아해요.",
+            "romaja": "Ne! Jeongmal joahaeyo.",
+            "japanese": "네! 정말 좋아해요.",
+            "romaji": "Ne! Jeongmal joahaeyo."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, shall we listen together?",
+            "korean": "그럼 같이 들을까요?",
+            "romaja": "Geureom gachi deureulkkayo?",
+            "japanese": "그럼 같이 들을까요?",
+            "romaji": "Geureom gachi deureulkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, great! Let's listen together.",
+            "korean": "응, 좋아! 같이 듣자.",
+            "romaja": "Eung, joa! Gachi deutja.",
+            "japanese": "응, 좋아! 같이 듣자.",
+            "romaji": "Eung, joa! Gachi deutja."
+          }
+        ]
+      }
     }
   ]
 }
