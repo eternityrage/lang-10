@@ -6599,6 +6599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T23:58:15.552511",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, cake please?",
+            "target_text": "שלום, עוגה בבקשה?",
+            "transliteration": "Shalom, uga bevakasha?",
+            "japanese": "שלום, עוגה בבקשה?",
+            "romaji": "Shalom, uga bevakasha?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is fresh cake!",
+            "target_text": "כן, יש עוגה טרייה!",
+            "transliteration": "Ken, yesh uga triya!",
+            "japanese": "כן, יש עוגה טרייה!",
+            "romaji": "Ken, yesh uga triya!"
+          },
+          {
+            "speaker": "A",
+            "english": "Also a small coffee, please.",
+            "target_text": "גם קפה קטן, בבקשה.",
+            "transliteration": "Gam kafe katan, bevakasha.",
+            "japanese": "גם קפה קטן, בבקשה.",
+            "romaji": "Gam kafe katan, bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, coffee and cake.",
+            "target_text": "בשמחה, קפה ועוגה.",
+            "transliteration": "Besimcha, kafe ve-uga.",
+            "japanese": "בשמחה, קפה ועוגה.",
+            "romaji": "Besimcha, kafe ve-uga."
+          }
+        ]
+      }
     }
   ]
 }
