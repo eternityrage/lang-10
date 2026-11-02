@@ -5311,6 +5311,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T20:44:25.738289",
+      "dialogue": {
+        "topic": "Taking a cute cafe photo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, this place is nice!",
+            "japanese": "マグ、ここ いいね！",
+            "romaji": "Magu, koko ii ne!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, seriously nice.",
+            "japanese": "うん、まじで いいね。",
+            "romaji": "Un, maji de ii ne."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a photo?",
+            "japanese": "しゃしん とる？",
+            "romaji": "Shashin toru?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Say cheese!",
+            "japanese": "いいよ！はい、チーズ！",
+            "romaji": "Ii yo! Hai, chiizu!"
+          }
+        ]
+      }
     }
   ]
 }
