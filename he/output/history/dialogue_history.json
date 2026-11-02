@@ -6559,6 +6559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T20:50:53.313839",
+      "dialogue": {
+        "topic": "Tel Aviv Street Life - Carmel Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is Carmel Market?",
+            "target_text": "סליחה, איפה שוק הכרמל?",
+            "transliteration": "Slicha, eifo Shuk HaCarmel?",
+            "japanese": "סליחה, איפה שוק הכרמל?",
+            "romaji": "Slicha, eifo Shuk HaCarmel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Close, straight and left!",
+            "target_text": "קרוב, ישר ושמאלה!",
+            "transliteration": "Karov, yashar u-smola!",
+            "japanese": "קרוב, ישר ושמאלה!",
+            "romaji": "Karov, yashar u-smola!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far from here?",
+            "target_text": "זה רחוק מכאן?",
+            "transliteration": "Ze rachok mikan?",
+            "japanese": "זה רחוק מכאן?",
+            "romaji": "Ze rachok mikan?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, five minutes!",
+            "target_text": "לא, חמש דקות!",
+            "transliteration": "Lo, chamesh dakot!",
+            "japanese": "לא, חמש דקות!",
+            "romaji": "Lo, chamesh dakot!"
+          }
+        ]
+      }
     }
   ]
 }
