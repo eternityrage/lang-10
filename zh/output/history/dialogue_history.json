@@ -6679,6 +6679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T03:14:01.296634",
+      "dialogue": {
+        "topic": "Cute Compliments: You're Cool",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Wow, you're cool!",
+            "chinese": "哇，你真酷！",
+            "pinyin": "Wā, nǐ zhēn kù!",
+            "japanese": "哇，你真酷！",
+            "romaji": "Wā, nǐ zhēn kù!"
+          },
+          {
+            "speaker": "B",
+            "english": "Haha, thanks!",
+            "chinese": "哈哈，谢谢！",
+            "pinyin": "Hāhā, xièxie!",
+            "japanese": "哈哈，谢谢！",
+            "romaji": "Hāhā, xièxie!"
+          },
+          {
+            "speaker": "A",
+            "english": "You're great!",
+            "chinese": "你很棒！",
+            "pinyin": "Nǐ hěn bàng!",
+            "japanese": "你很棒！",
+            "romaji": "Nǐ hěn bàng!"
+          },
+          {
+            "speaker": "B",
+            "english": "You too!",
+            "chinese": "你也棒！",
+            "pinyin": "Nǐ yě bàng!",
+            "japanese": "你也棒！",
+            "romaji": "Nǐ yě bàng!"
+          }
+        ]
+      }
     }
   ]
 }
