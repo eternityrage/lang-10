@@ -5867,6 +5867,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T13:45:22.251375",
+      "dialogue": {
+        "topic": "Fiesta con música",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Do you like the party?",
+            "target_text": "¡Hola! ¿Te gusta la fiesta?",
+            "japanese": "¡Hola! ¿Te gusta la fiesta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very fun!",
+            "target_text": "¡Sí, está muy divertida!",
+            "japanese": "¡Sí, está muy divertida!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is there good music here?",
+            "target_text": "¿Hay buena música aquí?",
+            "japanese": "¿Hay buena música aquí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s sing!",
+            "target_text": "¡Sí, vamos a cantar!",
+            "japanese": "¡Sí, vamos a cantar!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
