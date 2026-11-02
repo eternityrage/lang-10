@@ -6519,6 +6519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T13:38:42.183487",
+      "dialogue": {
+        "topic": "Buying tomatoes at Shuk Carmel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much are the tomatoes?",
+            "target_text": "שלום, כמה העגבניות?",
+            "transliteration": "Shalom, kama ha-agvaniyot?",
+            "japanese": "שלום, כמה העגבניות?",
+            "romaji": "Shalom, kama ha-agvaniyot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, very fresh!",
+            "target_text": "עשרה שקלים, טריות מאוד!",
+            "transliteration": "Asara shkalim, triyot me'od!",
+            "japanese": "עשרה שקלים, טריות מאוד!",
+            "romaji": "Asara shkalim, triyot me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have two tomatoes?",
+            "target_text": "אפשר שתי עגבניות?",
+            "transliteration": "Efshar shtey agvaniyot?",
+            "japanese": "אפשר שתי עגבניות?",
+            "romaji": "Efshar shtey agvaniyot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, please, good day!",
+            "target_text": "בטח, בבקשה, יום טוב!",
+            "transliteration": "Betach, bevakasha, yom tov!",
+            "japanese": "בטח, בבקשה, יום טוב!",
+            "romaji": "Betach, bevakasha, yom tov!"
+          }
+        ]
+      }
     }
   ]
 }
