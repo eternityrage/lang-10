@@ -6519,6 +6519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T14:13:13.007777",
+      "dialogue": {
+        "topic": "Do you like this song?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like this song?",
+            "korean": "이 노래 좋아해요?",
+            "romaja": "i norae joahaeyo?",
+            "japanese": "이 노래 좋아해요?",
+            "romaji": "i norae joahaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like it!",
+            "korean": "네, 정말 좋아해요!",
+            "romaja": "ne, jeongmal joahaeyo!",
+            "japanese": "네, 정말 좋아해요!",
+            "romaji": "ne, jeongmal joahaeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, listen together?",
+            "korean": "그럼 같이 들어요?",
+            "romaja": "geureom gachi deureoyo?",
+            "japanese": "그럼 같이 들어요?",
+            "romaji": "geureom gachi deureoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's listen together!",
+            "korean": "좋아, 같이 듣자!",
+            "romaja": "joa, gachi deutja!",
+            "japanese": "좋아, 같이 듣자!",
+            "romaji": "joa, gachi deutja!"
+          }
+        ]
+      }
     }
   ]
 }
