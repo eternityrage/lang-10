@@ -5903,6 +5903,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T20:57:20.533369",
+      "dialogue": {
+        "topic": "Buying a metro ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, one ticket, please?",
+            "target_text": "Hola, ¿un billete, por favor?",
+            "japanese": "Hola, ¿un billete, por favor?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here you go!",
+            "target_text": "¡Claro, aquí tiene!",
+            "japanese": "¡Claro, aquí tiene!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go downtown?",
+            "target_text": "¿Va al centro?",
+            "japanese": "¿Va al centro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, line two.",
+            "target_text": "Sí, línea dos.",
+            "japanese": "Sí, línea dos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
