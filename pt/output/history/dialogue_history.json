@@ -5903,6 +5903,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T14:32:53.748714",
+      "dialogue": {
+        "topic": "Making plans with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, going out today?",
+            "target_text": "Oi, vai sair hoje?",
+            "japanese": "Oi, vai sair hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, for sure!",
+            "target_text": "Vou, com certeza!",
+            "japanese": "Vou, com certeza!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I go too?",
+            "target_text": "Posso ir também?",
+            "japanese": "Posso ir também?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, let’s go together!",
+            "target_text": "Claro, vamos juntos!",
+            "japanese": "Claro, vamos juntos!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
