@@ -5903,6 +5903,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T02:55:04.577809",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Which line to the zoo?",
+            "target_text": "Welche Linie zum Zoo?",
+            "japanese": "Welche Linie zum Zoo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Take the U3!",
+            "target_text": "Nimm die U3!",
+            "japanese": "Nimm die U3!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How many stops?",
+            "target_text": "Wie viele Stationen?",
+            "japanese": "Wie viele Stationen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only two stops.",
+            "target_text": "Nur zwei Stationen.",
+            "japanese": "Nur zwei Stationen.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
