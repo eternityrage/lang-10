@@ -5975,6 +5975,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T21:09:56.686654",
+      "dialogue": {
+        "topic": "Asking for help in a shop",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, can you help me?",
+            "target_text": "Entschuldigung, helfen Sie mir bitte?",
+            "japanese": "Entschuldigung, helfen Sie mir bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I am looking for the checkout.",
+            "target_text": "Ich suche die Kasse.",
+            "japanese": "Ich suche die Kasse.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is on the right.",
+            "target_text": "Sie ist dort rechts.",
+            "japanese": "Sie ist dort rechts.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
