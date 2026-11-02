@@ -5867,6 +5867,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-02T03:26:49.774661",
+      "dialogue": {
+        "topic": "Talking about music with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you like funk?",
+            "target_text": "Oi, você curte funk?",
+            "japanese": "Oi, você curte funk?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I do! It is very good.",
+            "target_text": "Curto! É muito bom.",
+            "japanese": "Curto! É muito bom.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we listen now?",
+            "target_text": "Vamos ouvir agora?",
+            "japanese": "Vamos ouvir agora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let's! Play it loud.",
+            "target_text": "Vamos! Põe bem alto.",
+            "japanese": "Vamos! Põe bem alto.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
