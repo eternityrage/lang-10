@@ -6119,6 +6119,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T18:56:07.863146",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, which line to Zoo?",
+            "target_text": "Entschuldigung, welche Linie zum Zoo?",
+            "japanese": "Entschuldigung, welche Linie zum Zoo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the U2 works!",
+            "target_text": "Ja, die U2 passt!",
+            "japanese": "Ja, die U2 passt!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Which direction, please?",
+            "target_text": "Welche Richtung, bitte?",
+            "japanese": "Welche Richtung, bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Toward Ruhleben, two stops.",
+            "target_text": "Richtung Ruhleben, zwei Stationen.",
+            "japanese": "Richtung Ruhleben, zwei Stationen.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
