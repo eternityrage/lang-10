@@ -6011,6 +6011,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T00:19:25.947040",
+      "dialogue": {
+        "topic": "Berlin Street Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the market here?",
+            "target_text": "Hallo, ist der Markt hier?",
+            "japanese": "Hallo, ist der Markt hier?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, just around the corner!",
+            "target_text": "Ja, gleich um die Ecke!",
+            "japanese": "Ja, gleich um die Ecke!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is there coffee there?",
+            "target_text": "Gibt es dort Kaffee?",
+            "japanese": "Gibt es dort Kaffee?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very good coffee!",
+            "target_text": "Ja, sehr guten Kaffee!",
+            "japanese": "Ja, sehr guten Kaffee!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
