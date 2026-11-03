@@ -6155,6 +6155,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T18:48:58.012257",
+      "dialogue": {
+        "topic": "Metro & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, which platform?",
+            "target_text": "Pardon, quel quai ?",
+            "japanese": "Pardon, quel quai ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Platform two, there!",
+            "target_text": "Le quai deux, voilà !",
+            "japanese": "Le quai deux, voilà !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it very far?",
+            "target_text": "C'est très loin ?",
+            "japanese": "C'est très loin ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, just on the left.",
+            "target_text": "Non, juste à gauche.",
+            "japanese": "Non, juste à gauche.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
