@@ -6759,6 +6759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T22:26:19.908606",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what's up?",
+            "target_text": "היי, מה קורה?",
+            "transliteration": "Hi, ma kore?",
+            "japanese": "היי, מה קורה?",
+            "romaji": "Hi, ma kore?"
+          },
+          {
+            "speaker": "B",
+            "english": "All good, thanks!",
+            "target_text": "הכול סבבה, תודה!",
+            "transliteration": "Hakol sababa, toda!",
+            "japanese": "הכול סבבה, תודה!",
+            "romaji": "Hakol sababa, toda!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, want to go?",
+            "target_text": "מעולה, בא לך ללכת?",
+            "transliteration": "Me'ule, ba lecha laléchet?",
+            "japanese": "מעולה, בא לך ללכת?",
+            "romaji": "Me'ule, ba lecha laléchet?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, let's go!",
+            "target_text": "יאללה, בוא נלך!",
+            "transliteration": "Yalla, bo nelech!",
+            "japanese": "יאללה, בוא נלך!",
+            "romaji": "Yalla, bo nelech!"
+          }
+        ]
+      }
     }
   ]
 }
