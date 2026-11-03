@@ -6011,6 +6011,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T04:55:38.180428",
+      "dialogue": {
+        "topic": "Rio Beach & Coconut Water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have coconut water?",
+            "target_text": "Oi, tem água de coco?",
+            "japanese": "Oi, tem água de coco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold!",
+            "target_text": "Tem sim, bem gelada!",
+            "japanese": "Tem sim, bem gelada!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one cup?",
+            "target_text": "Quanto custa um copo?",
+            "japanese": "Quanto custa um copo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It costs five reais, friend!",
+            "target_text": "Custa cinco reais, amigo!",
+            "japanese": "Custa cinco reais, amigo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
