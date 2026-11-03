@@ -6083,6 +6083,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T22:32:45.623326",
+      "dialogue": {
+        "topic": "Travel & Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, does this train go downtown?",
+            "target_text": "Hola, ¿este tren va al centro?",
+            "japanese": "Hola, ¿este tren va al centro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, it goes downtown.",
+            "target_text": "Sí, claro, va al centro.",
+            "japanese": "Sí, claro, va al centro.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How many stops are left?",
+            "target_text": "¿Cuántas paradas faltan?",
+            "japanese": "¿Cuántas paradas faltan?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only two stops are left.",
+            "target_text": "Solo faltan dos paradas.",
+            "japanese": "Solo faltan dos paradas.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
