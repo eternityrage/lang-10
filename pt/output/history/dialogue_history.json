@@ -6083,6 +6083,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T19:31:34.836492",
+      "dialogue": {
+        "topic": "Party & Samba Vibes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, did the party start?",
+            "target_text": "Oi, a festa começou?",
+            "japanese": "Oi, a festa começou?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is super lively!",
+            "target_text": "Sim, está super animada!",
+            "japanese": "Sim, está super animada!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the tambourine now?",
+            "target_text": "Cadê o tamborim agora?",
+            "japanese": "Cadê o tamborim agora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is here, let’s sing!",
+            "target_text": "Está aqui, vamos cantar!",
+            "japanese": "Está aqui, vamos cantar!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
