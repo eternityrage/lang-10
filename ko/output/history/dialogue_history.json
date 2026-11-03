@@ -6719,6 +6719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T19:10:53.341312",
+      "dialogue": {
+        "topic": "Cute K-Drama Compliment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Am I pretty today?",
+            "korean": "나 오늘 예뻐요?",
+            "romaja": "Na oneul yeppeoyo?",
+            "japanese": "나 오늘 예뻐요?",
+            "romaji": "Na oneul yeppeoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, totally pretty!",
+            "korean": "네, 완전 예뻐요!",
+            "romaja": "Ne, wanjeon yeppeoyo!",
+            "japanese": "네, 완전 예뻐요!",
+            "romaji": "Ne, wanjeon yeppeoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? I feel happy!",
+            "korean": "정말요? 기분 좋아요!",
+            "romaja": "Jeongmallyo? Gibun joayo!",
+            "japanese": "정말요? 기분 좋아요!",
+            "romaji": "Jeongmallyo? Gibun joayo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Always pretty, my princess.",
+            "korean": "항상 예뻐요, 공주님.",
+            "romaja": "Hangsang yeppeoyo, gongjunim.",
+            "japanese": "항상 예뻐요, 공주님.",
+            "romaji": "Hangsang yeppeoyo, gongjunim."
+          }
+        ]
+      }
     }
   ]
 }
