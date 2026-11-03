@@ -6759,6 +6759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T22:59:14.297054",
+      "dialogue": {
+        "topic": "Buying a T-money card",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have T-money cards?",
+            "korean": "티머니 카드 있어요?",
+            "romaja": "T-money kadeu isseoyo?",
+            "japanese": "티머니 카드 있어요?",
+            "romaji": "T-money kadeu isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here they are!",
+            "korean": "네, 여기 있어요!",
+            "romaja": "Ne, yeogi isseoyo!",
+            "japanese": "네, 여기 있어요!",
+            "romaji": "Ne, yeogi isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I recharge here too?",
+            "korean": "충전도 여기서 돼요?",
+            "romaja": "Chungjeondo yeogiseo dwaeyo?",
+            "japanese": "충전도 여기서 돼요?",
+            "romaji": "Chungjeondo yeogiseo dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right away!",
+            "korean": "네, 바로 돼요!",
+            "romaja": "Ne, baro dwaeyo!",
+            "japanese": "네, 바로 돼요!",
+            "romaji": "Ne, baro dwaeyo!"
+          }
+        ]
+      }
     }
   ]
 }
