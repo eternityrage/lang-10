@@ -5975,6 +5975,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T00:56:23.393548",
+      "dialogue": {
+        "topic": "Street slang greeting: Qual é a boa?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey! What's the plan?",
+            "target_text": "Salve! Qual é a boa?",
+            "japanese": "Salve! Qual é a boa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "The plan is coffee!",
+            "target_text": "A boa é café!",
+            "japanese": "A boa é café!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Let's go now?",
+            "target_text": "Partiu agora?",
+            "japanese": "Partiu agora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go! Come with me.",
+            "target_text": "Partiu! Vem comigo.",
+            "japanese": "Partiu! Vem comigo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
