@@ -6719,6 +6719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T18:31:10.057245",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there hummus?",
+            "target_text": "שלום, יש חומוס?",
+            "transliteration": "Shalom, yesh hummus?",
+            "japanese": "שלום, יש חומוס?",
+            "romaji": "Shalom, yesh hummus?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, fresh and tasty hummus!",
+            "target_text": "כן, חומוס טרי וטעים!",
+            "transliteration": "Ken, hummus tari ve-ta'im!",
+            "japanese": "כן, חומוס טרי וטעים!",
+            "romaji": "Ken, hummus tari ve-ta'im!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have a small plate?",
+            "target_text": "אפשר צלחת קטנה?",
+            "transliteration": "Efshar tsalachat ktana?",
+            "japanese": "אפשר צלחת קטנה?",
+            "romaji": "Efshar tsalachat ktana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here is your hummus.",
+            "target_text": "בטח, הנה החומוס שלך.",
+            "transliteration": "Betach, hine ha-hummus shelcha.",
+            "japanese": "בטח, הנה החומוס שלך.",
+            "romaji": "Betach, hine ha-hummus shelcha."
+          }
+        ]
+      }
     }
   ]
 }
