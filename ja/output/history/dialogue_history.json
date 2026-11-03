@@ -5407,6 +5407,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T12:44:46.466356",
+      "dialogue": {
+        "topic": "Anime friendship promise",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, please don't cry.",
+            "japanese": "マグ、もう なかないで。",
+            "romaji": "Magu, mou nakanaide."
+          },
+          {
+            "speaker": "B",
+            "english": "Cupcake, thank you so much.",
+            "japanese": "カップケーキ、ほんとうに ありがとう。",
+            "romaji": "Kappukeeki, hontou ni arigatou."
+          },
+          {
+            "speaker": "A",
+            "english": "I am your friend.",
+            "japanese": "わたしは あなたの ともだちです。",
+            "romaji": "Watashi wa anata no tomodachi desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go together now!",
+            "japanese": "いっしょに いきましょう、いま！",
+            "romaji": "Issho ni ikimashou, ima!"
+          }
+        ]
+      }
     }
   ]
 }
