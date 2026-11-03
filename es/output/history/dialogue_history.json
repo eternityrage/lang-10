@@ -5975,6 +5975,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T04:09:29.488929",
+      "dialogue": {
+        "topic": "Barcelona today, Madrid tomorrow",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, Barcelona today?",
+            "target_text": "Hola, ¿Barcelona hoy?",
+            "japanese": "Hola, ¿Barcelona hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I want Gaudí!",
+            "target_text": "¡Sí, quiero ver Gaudí!",
+            "japanese": "¡Sí, quiero ver Gaudí!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And tomorrow, Madrid?",
+            "target_text": "¿Y mañana, Madrid?",
+            "japanese": "¿Y mañana, Madrid?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, two cities!",
+            "target_text": "¡Perfecto, dos ciudades!",
+            "japanese": "¡Perfecto, dos ciudades!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
