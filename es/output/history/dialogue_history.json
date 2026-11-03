@@ -6047,6 +6047,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T18:41:52.721870",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you like this party?",
+            "target_text": "¿Te gusta esta fiesta?",
+            "japanese": "¿Te gusta esta fiesta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I like it a lot!",
+            "target_text": "¡Sí, me gusta mucho!",
+            "japanese": "¡Sí, me gusta mucho!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you want happy music?",
+            "target_text": "¿Quieres música alegre?",
+            "japanese": "¿Quieres música alegre?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the party continues.",
+            "target_text": "Sí, la fiesta sigue.",
+            "japanese": "Sí, la fiesta sigue.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
