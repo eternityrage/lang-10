@@ -6679,6 +6679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T13:41:29.397236",
+      "dialogue": {
+        "topic": "Cafe & Hot Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good afternoon, tea with lemon?",
+            "russian": "Добрый день, чай с лимоном?",
+            "translit": "Dobryy den, chay s limonom?",
+            "japanese": "Добрый день, чай с лимоном?",
+            "romaji": "Dobryy den, chay s limonom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, it is hot!",
+            "russian": "Да, конечно, он горячий!",
+            "translit": "Da, konechno, on goryachiy!",
+            "japanese": "Да, конечно, он горячий!",
+            "romaji": "Da, konechno, on goryachiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have sugar, please?",
+            "russian": "Можно сахар, пожалуйста?",
+            "translit": "Mozhno sakhar, pozhaluysta?",
+            "japanese": "Можно сахар, пожалуйста?",
+            "romaji": "Mozhno sakhar, pozhaluysta?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, enjoy your tea!",
+            "russian": "Конечно, приятного чаепития!",
+            "translit": "Konechno, priyatnogo chaepitiya!",
+            "japanese": "Конечно, приятного чаепития!",
+            "romaji": "Konechno, priyatnogo chaepitiya!"
+          }
+        ]
+      }
     }
   ]
 }
