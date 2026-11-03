@@ -6119,6 +6119,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T22:52:13.296122",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how is it going today?",
+            "target_text": "Ciao, come va oggi?",
+            "japanese": "Ciao, come va oggi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very well, thanks!",
+            "target_text": "Molto bene, grazie!",
+            "japanese": "Molto bene, grazie!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You are always so kind!",
+            "target_text": "Sei sempre così gentile!",
+            "japanese": "Sei sempre così gentile!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are sweet!",
+            "target_text": "Grazie, sei dolce!",
+            "japanese": "Grazie, sei dolce!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
