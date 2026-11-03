@@ -5939,6 +5939,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T00:04:37.651025",
+      "dialogue": {
+        "topic": "Greetings & Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! What a nice smile.",
+            "target_text": "¡Hola! Qué bonita sonrisa.",
+            "japanese": "¡Hola! Qué bonita sonrisa.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! I am very happy.",
+            "target_text": "¡Gracias! Estoy muy feliz.",
+            "japanese": "¡Gracias! Estoy muy feliz.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Your energy is great.",
+            "target_text": "Tu energía es genial.",
+            "japanese": "Tu energía es genial.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How kind! Thank you.",
+            "target_text": "¡Qué amable! Gracias.",
+            "japanese": "¡Qué amable! Gracias.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
