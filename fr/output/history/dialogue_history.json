@@ -6083,6 +6083,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T04:16:07.151409",
+      "dialogue": {
+        "topic": "Parisian Cafe & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one baguette, please?",
+            "target_text": "Bonjour, une baguette, s’il vous plaît ?",
+            "japanese": "Bonjour, une baguette, s’il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it warm?",
+            "target_text": "Elle est chaude ?",
+            "japanese": "Elle est chaude ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very warm!",
+            "target_text": "Oui, très chaude !",
+            "japanese": "Oui, très chaude !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
