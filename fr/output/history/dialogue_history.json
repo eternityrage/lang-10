@@ -6119,6 +6119,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T13:07:55.321830",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you free tonight?",
+            "target_text": "Salut, tu es libre ce soir ?",
+            "japanese": "Salut, tu es libre ce soir ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with great pleasure!",
+            "target_text": "Oui, avec grand plaisir !",
+            "japanese": "Oui, avec grand plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A coffee with me?",
+            "target_text": "Un café avec moi ?",
+            "japanese": "Un café avec moi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, you are adorable!",
+            "target_text": "Oui, tu es adorable !",
+            "japanese": "Oui, tu es adorable !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
