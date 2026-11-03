@@ -5375,6 +5375,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T03:56:00.468184",
+      "dialogue": {
+        "topic": "Casual compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, cute today!",
+            "japanese": "マグ、きょう かわいいね！",
+            "romaji": "Magu, kyou kawaii ne!"
+          },
+          {
+            "speaker": "B",
+            "english": "Really? I'm happy!",
+            "japanese": "マジ？うれしい！",
+            "romaji": "Maji? Ureshii!"
+          },
+          {
+            "speaker": "A",
+            "english": "That hat is nice.",
+            "japanese": "その ぼうし、いいね。",
+            "romaji": "Sono boushi, ii ne."
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks. You too!",
+            "japanese": "ありがとう。きみも かわいい！",
+            "romaji": "Arigatou. Kimi mo kawaii!"
+          }
+        ]
+      }
     }
   ]
 }
