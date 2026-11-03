@@ -5471,6 +5471,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T22:19:45.909125",
+      "dialogue": {
+        "topic": "Buying a train ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "One ticket, please.",
+            "japanese": "きっぷを ひとつ ください。",
+            "romaji": "Kippu o hitotsu kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "To Tokyo?",
+            "japanese": "とうきょう までですか？",
+            "romaji": "Toukyou made desu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, to Tokyo.",
+            "japanese": "はい、とうきょう までです。",
+            "romaji": "Hai, Toukyou made desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Platform two, please.",
+            "japanese": "にばん のりばへ どうぞ。",
+            "romaji": "Niban noriba e douzo."
+          }
+        ]
+      }
     }
   ]
 }
