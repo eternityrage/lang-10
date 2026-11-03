@@ -6011,6 +6011,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T13:01:21.464448",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we go to Retiro today?",
+            "target_text": "¿Vamos al Retiro hoy?",
+            "japanese": "¿Vamos al Retiro hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love Madrid!",
+            "target_text": "¡Sí, me encanta Madrid!",
+            "japanese": "¡Sí, me encanta Madrid!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we see the Sagrada Familia?",
+            "target_text": "¿Vemos la Sagrada Familia?",
+            "japanese": "¿Vemos la Sagrada Familia?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very beautiful!",
+            "target_text": "¡Sí, es muy bonita!",
+            "japanese": "¡Sí, es muy bonita!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
