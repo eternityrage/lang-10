@@ -6083,6 +6083,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T19:03:23.122608",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you're special!",
+            "target_text": "Ciao, sei speciale!",
+            "japanese": "Ciao, sei speciale!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, how kind!",
+            "target_text": "Grazie, che gentile!",
+            "japanese": "Grazie, che gentile!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You have a good heart.",
+            "target_text": "Hai un cuore buono.",
+            "japanese": "Hai un cuore buono.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How nice, thanks!",
+            "target_text": "Che bello, grazie!",
+            "japanese": "Che bello, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
