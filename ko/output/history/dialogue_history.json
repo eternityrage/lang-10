@@ -6599,6 +6599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-03T00:32:43.531933",
+      "dialogue": {
+        "topic": "Evening Walk Date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have time today?",
+            "korean": "오늘 시간 있어요?",
+            "romaja": "Oneul sigan isseoyo?",
+            "japanese": "오늘 시간 있어요?",
+            "romaji": "Oneul sigan isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, evening is good!",
+            "korean": "네, 저녁 좋아요!",
+            "romaja": "Ne, jeonyeok joayo!",
+            "japanese": "네, 저녁 좋아요!",
+            "romaji": "Ne, jeonyeok joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want to walk with me?",
+            "korean": "저랑 같이 산책할래요?",
+            "romaja": "Jeorang gachi sanchaekallaeyo?",
+            "japanese": "저랑 같이 산책할래요?",
+            "romaji": "Jeorang gachi sanchaekallaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I'm really excited.",
+            "korean": "네, 정말 설레요.",
+            "romaja": "Ne, jeongmal seolleyo.",
+            "japanese": "네, 정말 설레요.",
+            "romaji": "Ne, jeongmal seolleyo."
+          }
+        ]
+      }
     }
   ]
 }
