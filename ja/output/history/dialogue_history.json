@@ -5535,6 +5535,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T12:57:14.059429",
+      "dialogue": {
+        "topic": "Anime hero moment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, let's go!",
+            "japanese": "マグ、いきますよ！",
+            "romaji": "Magu, ikimasu yo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Cupcake!",
+            "japanese": "はい、カップケーキさん！",
+            "romaji": "Hai, Kappukeeki-san!"
+          },
+          {
+            "speaker": "A",
+            "english": "I will not lose!",
+            "japanese": "わたしは まけません！",
+            "romaji": "Watashi wa makemasen!"
+          },
+          {
+            "speaker": "B",
+            "english": "Good! Let's go!",
+            "japanese": "いいですね！いきましょう！",
+            "romaji": "Ii desu ne! Ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
