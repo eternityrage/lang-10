@@ -6227,6 +6227,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T19:13:33.526628",
+      "dialogue": {
+        "topic": "Pizza and drinks",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, which pizza are you getting?",
+            "target_text": "Ciao, che pizza prendi?",
+            "japanese": "Ciao, che pizza prendi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm getting mushroom pizza!",
+            "target_text": "Prendo una pizza ai funghi!",
+            "japanese": "Prendo una pizza ai funghi!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you also want a drink?",
+            "target_text": "Vuoi anche una bibita?",
+            "japanese": "Vuoi anche una bibita?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sparkling water, thanks!",
+            "target_text": "Sì, acqua frizzante, grazie!",
+            "japanese": "Sì, acqua frizzante, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
