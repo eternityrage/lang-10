@@ -5503,6 +5503,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T03:00:02.703296",
+      "dialogue": {
+        "topic": "Travel & Transit - Train",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, which train?",
+            "japanese": "マグ、どの でんしゃ？",
+            "romaji": "Magu, dono densha?"
+          },
+          {
+            "speaker": "B",
+            "english": "This train.",
+            "japanese": "この でんしゃです。",
+            "romaji": "Kono densha desu."
+          },
+          {
+            "speaker": "A",
+            "english": "To Tokyo?",
+            "japanese": "とうきょう まで？",
+            "romaji": "Tōkyō made?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "japanese": "はい、いきましょう！",
+            "romaji": "Hai, ikimashō!"
+          }
+        ]
+      }
     }
   ]
 }
