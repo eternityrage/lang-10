@@ -6839,6 +6839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T13:37:02.579700",
+      "dialogue": {
+        "topic": "Hold My Hand",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have time today?",
+            "korean": "오늘 시간 있어?",
+            "romaja": "oneul sigan isseo?",
+            "japanese": "오늘 시간 있어?",
+            "romaji": "oneul sigan isseo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m so happy!",
+            "korean": "응, 완전 좋아!",
+            "romaja": "eung, wanjeon joa!",
+            "japanese": "응, 완전 좋아!",
+            "romaji": "eung, wanjeon joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, hold my hand?",
+            "korean": "그럼 손 잡을까?",
+            "romaja": "geureom son jabeulkka?",
+            "japanese": "그럼 손 잡을까?",
+            "romaji": "geureom son jabeulkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, my heart flutters!",
+            "korean": "좋아, 너무 설렌다!",
+            "romaja": "joa, neomu seollenda!",
+            "japanese": "좋아, 너무 설렌다!",
+            "romaji": "joa, neomu seollenda!"
+          }
+        ]
+      }
     }
   ]
 }
