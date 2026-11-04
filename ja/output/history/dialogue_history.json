@@ -5599,6 +5599,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T23:44:50.531144",
+      "dialogue": {
+        "topic": "This song is awesome",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "This song is awesome?",
+            "japanese": "この うた、やばい？",
+            "romaji": "Kono uta, yabai?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, super good!",
+            "japanese": "うん、めちゃ いい！",
+            "romaji": "Un, mecha ii!"
+          },
+          {
+            "speaker": "A",
+            "english": "Dance together?",
+            "japanese": "いっしょに おどる？",
+            "romaji": "Issho ni odoru?"
+          },
+          {
+            "speaker": "B",
+            "english": "Nice! Let's dance!",
+            "japanese": "いいね！おどろう！",
+            "romaji": "Ii ne! Odorou!"
+          }
+        ]
+      }
     }
   ]
 }
