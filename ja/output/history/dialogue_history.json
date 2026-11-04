@@ -5567,6 +5567,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T18:40:43.853828",
+      "dialogue": {
+        "topic": "Need a spoon?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you need a spoon?",
+            "japanese": "スプーンは いりますか？",
+            "romaji": "Supuun wa irimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, one please.",
+            "japanese": "はい、ひとつ おねがいします。",
+            "romaji": "Hai, hitotsu onegai shimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "Do you need a bag?",
+            "japanese": "ふくろは いりますか？",
+            "romaji": "Fukuro wa irimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I'm okay.",
+            "japanese": "いいえ、だいじょうぶです。",
+            "romaji": "Iie, daijoubu desu."
+          }
+        ]
+      }
     }
   ]
 }
