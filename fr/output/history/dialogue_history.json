@@ -6263,6 +6263,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T13:17:12.129603",
+      "dialogue": {
+        "topic": "Finding the platform",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, platform two?",
+            "target_text": "Pardon, voie deux ?",
+            "japanese": "Pardon, voie deux ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, just on the left!",
+            "target_text": "Oui, juste à gauche !",
+            "japanese": "Oui, juste à gauche !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the train here?",
+            "target_text": "Le train est là ?",
+            "japanese": "Le train est là ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Oui, bon voyage !",
+            "japanese": "Oui, bon voyage !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
