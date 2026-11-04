@@ -6799,6 +6799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T03:54:31.551893",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good afternoon! Is the bread fresh today?",
+            "russian": "Добрый день! Хлеб сегодня свежий?",
+            "translit": "Dobryy den! Khleb segodnya svezhiy?",
+            "japanese": "Добрый день! Хлеб сегодня свежий?",
+            "romaji": "Dobryy den! Khleb segodnya svezhiy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "russian": "Да, очень свежий!",
+            "translit": "Da, ochen svezhiy!",
+            "japanese": "Да, очень свежий!",
+            "romaji": "Da, ochen svezhiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "One black bread for me, please.",
+            "russian": "Мне один чёрный хлеб, пожалуйста.",
+            "translit": "Mne odin chornyy khleb, pozhaluysta.",
+            "japanese": "Мне один чёрный хлеб, пожалуйста.",
+            "romaji": "Mne odin chornyy khleb, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here is your bread.",
+            "russian": "Конечно, вот ваш хлеб.",
+            "translit": "Konechno, vot vash khleb.",
+            "japanese": "Конечно, вот ваш хлеб.",
+            "romaji": "Konechno, vot vash khleb."
+          }
+        ]
+      }
     }
   ]
 }
