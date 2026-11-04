@@ -6119,6 +6119,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T03:13:54.490553",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we go to Barcelona?",
+            "target_text": "Hola, ¿vamos a Barcelona?",
+            "japanese": "Hola, ¿vamos a Barcelona?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "target_text": "¡Sí, me encanta!",
+            "japanese": "¡Sí, me encanta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And then to Madrid?",
+            "target_text": "¿Y luego a Madrid?",
+            "japanese": "¿Y luego a Madrid?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, by train!",
+            "target_text": "¡Perfecto, en tren!",
+            "japanese": "¡Perfecto, en tren!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
