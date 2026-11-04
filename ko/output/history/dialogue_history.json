@@ -6879,6 +6879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T19:20:03.841010",
+      "dialogue": {
+        "topic": "A short walk together",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you a little tired now?",
+            "korean": "지금 좀 피곤해요?",
+            "romaja": "Jigeum jom pigonhaeyo?",
+            "japanese": "지금 좀 피곤해요?",
+            "romaji": "Jigeum jom pigonhaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I’m okay!",
+            "korean": "아니요, 저 괜찮아요!",
+            "romaja": "Aniyo, jeo gwaenchanayo!",
+            "japanese": "아니요, 저 괜찮아요!",
+            "romaji": "Aniyo, jeo gwaenchanayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then shall we walk a little?",
+            "korean": "그럼 조금 걸을까요?",
+            "romaja": "Geureom jogeum georeulkkayo?",
+            "japanese": "그럼 조금 걸을까요?",
+            "romaji": "Geureom jogeum georeulkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let’s walk together!",
+            "korean": "좋아요, 같이 걸어요!",
+            "romaja": "Joayo, gachi georeoyo!",
+            "japanese": "좋아요, 같이 걸어요!",
+            "romaji": "Joayo, gachi georeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
