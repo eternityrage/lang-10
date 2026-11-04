@@ -6839,6 +6839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T13:04:00.201456",
+      "dialogue": {
+        "topic": "Greetings & Slang: See You Later",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you today?",
+            "target_text": "היי, מה נשמע היום?",
+            "transliteration": "Hi, ma nishma hayom?",
+            "japanese": "היי, מה נשמע היום?",
+            "romaji": "Hi, ma nishma hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks, so fun!",
+            "target_text": "מעולה, תודה, איזה כיף!",
+            "transliteration": "Me'ule, toda, eize kef!",
+            "japanese": "מעולה, תודה, איזה כיף!",
+            "romaji": "Me'ule, toda, eize kef!"
+          },
+          {
+            "speaker": "A",
+            "english": "Nice, see you later?",
+            "target_text": "יופי, נתראה אחר כך?",
+            "transliteration": "Yofi, nitra'e akhar kakh?",
+            "japanese": "יופי, נתראה אחר כך?",
+            "romaji": "Yofi, nitra'e akhar kakh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, bye for now!",
+            "target_text": "כן, ביי בינתיים!",
+            "transliteration": "Ken, bye beינתayim!",
+            "japanese": "כן, ביי בינתיים!",
+            "romaji": "Ken, bye beינתayim!"
+          }
+        ]
+      }
     }
   ]
 }
