@@ -6227,6 +6227,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T19:40:37.450880",
+      "dialogue": {
+        "topic": "Travel & Uber in São Paulo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is this my Uber?",
+            "target_text": "Oi, é meu Uber?",
+            "japanese": "Oi, é meu Uber?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, good morning!",
+            "target_text": "Sim, bom dia!",
+            "japanese": "Sim, bom dia!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are we going to Congonhas?",
+            "target_text": "Vamos para Congonhas?",
+            "japanese": "Vamos para Congonhas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, let’s go now!",
+            "target_text": "Claro, vamos agora!",
+            "japanese": "Claro, vamos agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
