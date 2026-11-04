@@ -6191,6 +6191,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T13:30:29.213663",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have lemon gelato?",
+            "target_text": "Ciao, avete gelato al limone?",
+            "japanese": "Ciao, avete gelato al limone?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very fresh!",
+            "target_text": "Sì, è molto fresco!",
+            "japanese": "Sì, è molto fresco!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then a cup, please.",
+            "target_text": "Allora una coppetta, per favore.",
+            "japanese": "Allora una coppetta, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right away, thanks a lot!",
+            "target_text": "Subito, grazie mille!",
+            "japanese": "Subito, grazie mille!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
