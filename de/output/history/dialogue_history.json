@@ -6227,6 +6227,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-04T13:23:44.135925",
+      "dialogue": {
+        "topic": "Morning Greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, Anna!",
+            "target_text": "Guten Morgen, Anna!",
+            "japanese": "Guten Morgen, Anna!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Good morning, Max!",
+            "target_text": "Guten Morgen, Max!",
+            "japanese": "Guten Morgen, Max!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice day, right?",
+            "target_text": "Schöner Tag, oder?",
+            "japanese": "Schöner Tag, oder?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very nice!",
+            "target_text": "Ja, sehr schön!",
+            "japanese": "Ja, sehr schön!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
