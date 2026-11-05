@@ -7079,6 +7079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T23:19:17.606752",
+      "dialogue": {
+        "topic": "Bungeoppang snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want bungeoppang?",
+            "korean": "붕어빵 먹을래?",
+            "romaja": "Bungeoppang meogeullae?",
+            "japanese": "붕어빵 먹을래?",
+            "romaji": "Bungeoppang meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds good!",
+            "korean": "응, 좋아!",
+            "romaja": "Eung, joa!",
+            "japanese": "응, 좋아!",
+            "romaji": "Eung, joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "How many?",
+            "korean": "몇 개 먹을래?",
+            "romaja": "Myeot gae meogeullae?",
+            "japanese": "몇 개 먹을래?",
+            "romaji": "Myeot gae meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Two, please!",
+            "korean": "두 개 주세요!",
+            "romaja": "Du gae juseyo!",
+            "japanese": "두 개 주세요!",
+            "romaji": "Du gae juseyo!"
+          }
+        ]
+      }
     }
   ]
 }
