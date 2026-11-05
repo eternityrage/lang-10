@@ -6999,6 +6999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T13:17:54.466393",
+      "dialogue": {
+        "topic": "Fresh croissant at the bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there a fresh croissant?",
+            "target_text": "שלום, יש קרואסון טרי?",
+            "transliteration": "Shalom, yesh kruason tari?",
+            "japanese": "שלום, יש קרואסון טרי?",
+            "romaji": "Shalom, yesh kruason tari?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is a warm croissant!",
+            "target_text": "כן, יש קרואסון חם!",
+            "transliteration": "Ken, yesh kruason cham!",
+            "japanese": "כן, יש קרואסון חם!",
+            "romaji": "Ken, yesh kruason cham!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, please.",
+            "target_text": "עשרה שקלים, בבקשה.",
+            "transliteration": "Asara shkalim, bevakasha.",
+            "japanese": "עשרה שקלים, בבקשה.",
+            "romaji": "Asara shkalim, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
