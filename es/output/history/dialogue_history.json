@@ -6299,6 +6299,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T13:24:44.328498",
+      "dialogue": {
+        "topic": "Greetings & Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! What a nice smile.",
+            "target_text": "¡Hola! Qué bonita sonrisa.",
+            "japanese": "¡Hola! Qué bonita sonrisa.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! You are very kind.",
+            "target_text": "¡Gracias! Eres muy amable.",
+            "japanese": "¡Gracias! Eres muy amable.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "All good today?",
+            "target_text": "¿Todo bien hoy?",
+            "japanese": "¿Todo bien hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, perfect day!",
+            "target_text": "¡Sí, día perfecto!",
+            "japanese": "¡Sí, día perfecto!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
