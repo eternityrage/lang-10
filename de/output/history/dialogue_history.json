@@ -6371,6 +6371,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T13:38:20.962276",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, are you awake?",
+            "target_text": "Guten Morgen, bist du wach?",
+            "japanese": "Guten Morgen, bist du wach?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, good morning!",
+            "target_text": "Ja, guten Morgen!",
+            "japanese": "Ja, guten Morgen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Ready for the day?",
+            "target_text": "Bereit für den Tag?",
+            "japanese": "Bereit für den Tag?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you later!",
+            "target_text": "Ja, bis später!",
+            "japanese": "Ja, bis später!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
