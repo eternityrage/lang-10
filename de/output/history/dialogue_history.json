@@ -6335,6 +6335,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T03:54:30.046804",
+      "dialogue": {
+        "topic": "Kaffee bestellen",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, a coffee, please?",
+            "target_text": "Hallo, ein Kaffee bitte?",
+            "japanese": "Hallo, ein Kaffee bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With milk, please.",
+            "target_text": "Mit Milch, bitte.",
+            "japanese": "Mit Milch, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, coming right away!",
+            "target_text": "Klar, kommt sofort!",
+            "japanese": "Klar, kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
