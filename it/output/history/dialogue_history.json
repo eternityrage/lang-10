@@ -6263,6 +6263,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T00:18:28.938393",
+      "dialogue": {
+        "topic": "Walking to the Duomo in Florence",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the Duomo?",
+            "target_text": "Ciao, dov'è il Duomo?",
+            "japanese": "Ciao, dov'è il Duomo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is there, beautiful!",
+            "target_text": "È là, bellissimo!",
+            "japanese": "È là, bellissimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk there?",
+            "target_text": "Andiamo a piedi?",
+            "japanese": "Andiamo a piedi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's take a photo!",
+            "target_text": "Sì, facciamo una foto!",
+            "japanese": "Sì, facciamo una foto!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
