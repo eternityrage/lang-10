@@ -6335,6 +6335,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T00:05:11.948405",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, can I try it on?",
+            "target_text": "Bonjour, je peux essayer ?",
+            "japanese": "Bonjour, je peux essayer ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the fitting room?",
+            "target_text": "Où est la cabine ?",
+            "japanese": "Où est la cabine ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Over there, on the left.",
+            "target_text": "Là-bas, à gauche.",
+            "japanese": "Là-bas, à gauche.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
