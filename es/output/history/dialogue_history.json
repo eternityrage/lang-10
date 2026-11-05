@@ -6371,6 +6371,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T22:53:15.711032",
+      "dialogue": {
+        "topic": "Greetings & Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what a beautiful smile.",
+            "target_text": "Hola, qué sonrisa tan bonita.",
+            "japanese": "Hola, qué sonrisa tan bonita.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are very kind.",
+            "target_text": "Gracias, eres muy amable.",
+            "japanese": "Gracias, eres muy amable.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you coming to the party?",
+            "target_text": "¿Vienes a la fiesta?",
+            "japanese": "¿Vienes a la fiesta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you there.",
+            "target_text": "Sí, nos vemos allí.",
+            "japanese": "Sí, nos vemos allí.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
