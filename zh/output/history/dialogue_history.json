@@ -7279,6 +7279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T23:31:47.526591",
+      "dialogue": {
+        "topic": "Simple Compliment: You're Awesome",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi there!",
+            "chinese": "你好呀！",
+            "pinyin": "Nǐ hǎo ya!",
+            "japanese": "你好呀！",
+            "romaji": "Nǐ hǎo ya!"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi there!",
+            "chinese": "你好呀！",
+            "pinyin": "Nǐ hǎo ya!",
+            "japanese": "你好呀！",
+            "romaji": "Nǐ hǎo ya!"
+          },
+          {
+            "speaker": "A",
+            "english": "You're awesome!",
+            "chinese": "你真棒！",
+            "pinyin": "Nǐ zhēn bàng!",
+            "japanese": "你真棒！",
+            "romaji": "Nǐ zhēn bàng!"
+          },
+          {
+            "speaker": "B",
+            "english": "You're awesome too!",
+            "chinese": "你也很棒！",
+            "pinyin": "Nǐ yě hěn bàng!",
+            "japanese": "你也很棒！",
+            "romaji": "Nǐ yě hěn bàng!"
+          }
+        ]
+      }
     }
   ]
 }
