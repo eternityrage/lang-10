@@ -5631,6 +5631,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T03:28:18.853311",
+      "dialogue": {
+        "topic": "Dating & Romance - Date Invitation",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want to go on a date?",
+            "japanese": "デート しませんか？",
+            "romaji": "Deeto shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds good!",
+            "japanese": "はい、いいですね！",
+            "romaji": "Hai, ii desu ne!"
+          },
+          {
+            "speaker": "A",
+            "english": "When is good?",
+            "japanese": "いつが いいですか？",
+            "romaji": "Itsu ga ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Tomorrow is good.",
+            "japanese": "あしたが いいです。",
+            "romaji": "Ashita ga ii desu."
+          }
+        ]
+      }
     }
   ]
 }
