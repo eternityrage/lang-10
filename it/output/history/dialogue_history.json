@@ -6407,6 +6407,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T23:13:04.670449",
+      "dialogue": {
+        "topic": "Italian slang: “Boh”",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Why do you do that?",
+            "target_text": "Perché fai così?",
+            "japanese": "Perché fai così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Boh, I don’t know!",
+            "target_text": "Boh, non lo so!",
+            "japanese": "Boh, non lo so!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Ah, it means nothing?",
+            "target_text": "Ah, vuol dire niente?",
+            "japanese": "Ah, vuol dire niente?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, exactly!",
+            "target_text": "Sì, proprio così!",
+            "japanese": "Sì, proprio così!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
