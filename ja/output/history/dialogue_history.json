@@ -5727,6 +5727,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T22:39:56.212834",
+      "dialogue": {
+        "topic": "Friendship Power",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you my friend?",
+            "japanese": "あなたは ともだちですか？",
+            "romaji": "Anata wa tomodachi desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am.",
+            "japanese": "はい、そうです。",
+            "romaji": "Hai, sou desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, let’s go!",
+            "japanese": "じゃあ、いきましょう！",
+            "romaji": "Jaa, ikimashou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! We are strong!",
+            "japanese": "はい！わたしたちは つよいです！",
+            "romaji": "Hai! Watashitachi wa tsuyoi desu!"
+          }
+        ]
+      }
     }
   ]
 }
