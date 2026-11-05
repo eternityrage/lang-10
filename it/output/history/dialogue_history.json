@@ -6335,6 +6335,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T13:45:24.594595",
+      "dialogue": {
+        "topic": "Slang: che figata",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what does “figata” mean?",
+            "target_text": "Ciao, che significa figata?",
+            "japanese": "Ciao, che significa figata?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: very cool!",
+            "target_text": "Significa: molto bello!",
+            "japanese": "Significa: molto bello!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Ah, a nice thing?",
+            "target_text": "Ah, una bella cosa?",
+            "japanese": "Ah, una bella cosa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, super cool!",
+            "target_text": "Sì, che figata!",
+            "japanese": "Sì, che figata!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
