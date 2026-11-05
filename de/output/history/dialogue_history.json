@@ -6443,6 +6443,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T23:06:41.400086",
+      "dialogue": {
+        "topic": "Morning greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, already awake?",
+            "target_text": "Guten Morgen, schon wach?",
+            "japanese": "Guten Morgen, schon wach?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am awake!",
+            "target_text": "Ja, ich bin wach!",
+            "japanese": "Ja, ich bin wach!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Coffee is already ready.",
+            "target_text": "Kaffee ist schon fertig.",
+            "japanese": "Kaffee ist schon fertig.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks, see you soon!",
+            "target_text": "Super, danke, bis gleich!",
+            "japanese": "Super, danke, bis gleich!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
