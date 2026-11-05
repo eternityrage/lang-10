@@ -6407,6 +6407,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T13:31:16.826822",
+      "dialogue": {
+        "topic": "Tea at home",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want tea?",
+            "target_text": "Tu veux du thé ?",
+            "japanese": "Tu veux du thé ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With sugar?",
+            "target_text": "Avec du sucre ?",
+            "japanese": "Avec du sucre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, thanks, it's perfect!",
+            "target_text": "Non, merci, c'est parfait !",
+            "japanese": "Non, merci, c'est parfait !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
