@@ -6371,6 +6371,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T20:30:56.204029",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, one pizza for two?",
+            "target_text": "Ciao, una pizza per due?",
+            "japanese": "Ciao, una pizza per due?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, what a nice idea!",
+            "target_text": "Certo, che bella idea!",
+            "japanese": "Certo, che bella idea!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we get water too?",
+            "target_text": "Prendiamo anche l'acqua?",
+            "japanese": "Prendiamo anche l'acqua?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, and then tiramisu!",
+            "target_text": "Sì, e poi tiramisù!",
+            "japanese": "Sì, e poi tiramisù!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
