@@ -6299,6 +6299,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T04:29:08.363990",
+      "dialogue": {
+        "topic": "E aí, bora dar um rolê?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, all good?",
+            "target_text": "E aí, tudo bem?",
+            "japanese": "E aí, tudo bem?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, my friend!",
+            "target_text": "Tudo ótimo, meu amigo!",
+            "japanese": "Tudo ótimo, meu amigo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Want to hang out?",
+            "target_text": "Vamos dar um rolê?",
+            "japanese": "Vamos dar um rolê?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go, it'll be cool!",
+            "target_text": "Bora, vai ser massa!",
+            "japanese": "Bora, vai ser massa!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
