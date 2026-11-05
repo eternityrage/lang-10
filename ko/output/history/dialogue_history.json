@@ -6999,6 +6999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T13:51:52.194106",
+      "dialogue": {
+        "topic": "Hongdae cafe seat and coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this seat empty?",
+            "korean": "이 자리 비었어요?",
+            "romaja": "I jari bieosseoyo?",
+            "japanese": "이 자리 비었어요?",
+            "romaji": "I jari bieosseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sit here!",
+            "korean": "네, 여기 앉아요!",
+            "romaja": "Ne, yeogi anjayo!",
+            "japanese": "네, 여기 앉아요!",
+            "romaji": "Ne, yeogi anjayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we drink coffee?",
+            "korean": "우리 커피 마실래요?",
+            "romaja": "Uri keopi masillaeyo?",
+            "japanese": "우리 커피 마실래요?",
+            "romaji": "Uri keopi masillaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, coffee is good!",
+            "korean": "네, 커피 좋아요!",
+            "romaja": "Ne, keopi joayo!",
+            "japanese": "네, 커피 좋아요!",
+            "romaji": "Ne, keopi joayo!"
+          }
+        ]
+      }
     }
   ]
 }
