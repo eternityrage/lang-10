@@ -6959,6 +6959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T04:07:24.015825",
+      "dialogue": {
+        "topic": "Subway and convenience store stop",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we take the subway?",
+            "korean": "우리 지하철 타요?",
+            "romaja": "Uri jihacheol tayo?",
+            "japanese": "우리 지하철 타요?",
+            "romaji": "Uri jihacheol tayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, great idea!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Convenience store first?",
+            "korean": "편의점 먼저 갈까요?",
+            "romaja": "Pyeonuijeom meonjeo galkkayo?",
+            "japanese": "편의점 먼저 갈까요?",
+            "romaji": "Pyeonuijeom meonjeo galkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Let's buy water and go!",
+            "korean": "물 사고 가요!",
+            "romaja": "Mul sago gayo!",
+            "japanese": "물 사고 가요!",
+            "romaji": "Mul sago gayo!"
+          }
+        ]
+      }
     }
   ]
 }
