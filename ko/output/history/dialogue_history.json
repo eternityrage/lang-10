@@ -7039,6 +7039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T20:37:21.454829",
+      "dialogue": {
+        "topic": "Subway card and convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have a subway card?",
+            "korean": "지하철 카드 있어?",
+            "romaja": "Jihacheol kadeu isseo?",
+            "japanese": "지하철 카드 있어?",
+            "romaji": "Jihacheol kadeu isseo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s here!",
+            "korean": "응, 여기 있어!",
+            "romaja": "Eung, yeogi isseo!",
+            "japanese": "응, 여기 있어!",
+            "romaji": "Eung, yeogi isseo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the convenience store too?",
+            "korean": "편의점도 같이 갈까?",
+            "romaja": "Pyeonuijeomdo gachi galkka?",
+            "japanese": "편의점도 같이 갈까?",
+            "romaji": "Pyeonuijeomdo gachi galkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, let’s buy water!",
+            "korean": "좋아, 물 사자!",
+            "romaja": "Joa, mul saja!",
+            "japanese": "좋아, 물 사자!",
+            "romaji": "Joa, mul saja!"
+          }
+        ]
+      }
     }
   ]
 }
