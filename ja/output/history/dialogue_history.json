@@ -5695,6 +5695,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T18:42:27.755743",
+      "dialogue": {
+        "topic": "Buying shoes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are these shoes cute?",
+            "japanese": "この くつ、かわいいですか？",
+            "romaji": "Kono kutsu, kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cute!",
+            "japanese": "はい、とても かわいいです！",
+            "romaji": "Hai, totemo kawaii desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much are they?",
+            "japanese": "いくらですか？",
+            "romaji": "Ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Two thousand yen.",
+            "japanese": "にせんえんです。",
+            "romaji": "Nisen en desu."
+          }
+        ]
+      }
     }
   ]
 }
