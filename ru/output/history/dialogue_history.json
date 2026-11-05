@@ -6999,6 +6999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T15:13:53.575223",
+      "dialogue": {
+        "topic": "Ordering Borsch & Pelmeni",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have borsch and pelmeni?",
+            "russian": "Здравствуйте, есть борщ и пельмени?",
+            "translit": "Zdravstvuyte, yest' borshch i pel'meni?",
+            "japanese": "Здравствуйте, есть борщ и пельмени?",
+            "romaji": "Zdravstvuyte, yest' borshch i pel'meni?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, everything is hot!",
+            "russian": "Да, конечно, всё горячее!",
+            "translit": "Da, konechno, vsyo goryacheye!",
+            "japanese": "Да, конечно, всё горячее!",
+            "romaji": "Da, konechno, vsyo goryacheye!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then borsch and pelmeni, please.",
+            "russian": "Тогда борщ и пельмени, пожалуйста.",
+            "translit": "Togda borshch i pel'meni, pozhaluysta.",
+            "japanese": "Тогда борщ и пельмени, пожалуйста.",
+            "romaji": "Togda borshch i pel'meni, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I'll bring the order now.",
+            "russian": "Отлично, сейчас принесу заказ.",
+            "translit": "Otlichno, seychas prinesu zakaz.",
+            "japanese": "Отлично, сейчас принесу заказ.",
+            "romaji": "Otlichno, seychas prinesu zakaz."
+          }
+        ]
+      }
     }
   ]
 }
