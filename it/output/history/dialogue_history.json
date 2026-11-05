@@ -6299,6 +6299,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T04:01:06.623574",
+      "dialogue": {
+        "topic": "Train Station & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the platform?",
+            "target_text": "Ciao, dov'è il binario?",
+            "japanese": "Ciao, dov'è il binario?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, it's there!",
+            "target_text": "Certo, è lì!",
+            "japanese": "Certo, è lì!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it platform two?",
+            "target_text": "È il binario due?",
+            "japanese": "È il binario due?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Sì, buon viaggio!",
+            "japanese": "Sì, buon viaggio!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
