@@ -6263,6 +6263,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T03:41:22.215059",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have tortilla?",
+            "target_text": "Hola, ¿tienes tortilla?",
+            "japanese": "Hola, ¿tienes tortilla?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very tasty!",
+            "target_text": "¡Sí, está muy rica!",
+            "japanese": "¡Sí, está muy rica!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A coffee too?",
+            "target_text": "¿Un café también?",
+            "japanese": "¿Un café también?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, right now.",
+            "target_text": "Claro, ahora mismo.",
+            "japanese": "Claro, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
