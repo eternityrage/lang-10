@@ -6479,6 +6479,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T22:59:34.367865",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have shoes?",
+            "target_text": "Bonjour, vous avez des chaussures ?",
+            "japanese": "Bonjour, vous avez des chaussures ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "In size thirty-eight?",
+            "target_text": "En taille trente-huit ?",
+            "japanese": "En taille trente-huit ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here they are!",
+            "target_text": "Oui, les voilà !",
+            "japanese": "Oui, les voilà !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
