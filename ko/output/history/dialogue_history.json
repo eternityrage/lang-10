@@ -6919,6 +6919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T00:25:01.462725",
+      "dialogue": {
+        "topic": "Switching to casual speech",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can we speak casually?",
+            "korean": "우리 반말해도 돼요?",
+            "romaja": "Uri banmalhaedo dwaeyo?",
+            "japanese": "우리 반말해도 돼요?",
+            "romaji": "Uri banmalhaedo dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds good!",
+            "korean": "네, 좋아요!",
+            "romaja": "Ne, joayo!",
+            "japanese": "네, 좋아요!",
+            "romaji": "Ne, joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then speak like friends.",
+            "korean": "그럼 친구처럼 말해.",
+            "romaja": "Geureom chingucheoreom malhae.",
+            "japanese": "그럼 친구처럼 말해.",
+            "romaji": "Geureom chingucheoreom malhae."
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, we’re friends now!",
+            "korean": "응, 이제 친구야!",
+            "romaja": "Eung, ije chinguya!",
+            "japanese": "응, 이제 친구야!",
+            "romaji": "Eung, ije chinguya!"
+          }
+        ]
+      }
     }
   ]
 }
