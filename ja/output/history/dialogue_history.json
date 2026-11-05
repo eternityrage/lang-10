@@ -5663,6 +5663,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T13:11:03.933271",
+      "dialogue": {
+        "topic": "Anime hero moment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, let's go!",
+            "japanese": "マグ、行きましょう！",
+            "romaji": "Magu, ikimashou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I'm ready!",
+            "japanese": "はい！じゅんび いいです！",
+            "romaji": "Hai! Junbi ii desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "I am the hero!",
+            "japanese": "ぼくは ヒーローです！",
+            "romaji": "Boku wa hiiroo desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Cool! Go!",
+            "japanese": "かっこいい！行ってください！",
+            "romaji": "Kakkoii! Itte kudasai!"
+          }
+        ]
+      }
     }
   ]
 }
