@@ -6919,6 +6919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T00:42:52.529882",
+      "dialogue": {
+        "topic": "Buying water at a convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! Do you have water?",
+            "russian": "Здравствуйте! Есть вода?",
+            "translit": "Zdravstvuyte! Yest voda?",
+            "japanese": "Здравствуйте! Есть вода?",
+            "romaji": "Zdravstvuyte! Yest voda?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here is water!",
+            "russian": "Да, вот вода!",
+            "translit": "Da, vot voda!",
+            "japanese": "Да, вот вода!",
+            "romaji": "Da, vot voda!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "russian": "Сколько она стоит?",
+            "translit": "Skolko ona stoit?",
+            "japanese": "Сколько она стоит?",
+            "romaji": "Skolko ona stoit?"
+          },
+          {
+            "speaker": "B",
+            "english": "Fifty rubles, please.",
+            "russian": "Пятьдесят рублей, пожалуйста.",
+            "translit": "Pyatdesyat rubley, pozhaluysta.",
+            "japanese": "Пятьдесят рублей, пожалуйста.",
+            "romaji": "Pyatdesyat rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
