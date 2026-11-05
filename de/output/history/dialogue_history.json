@@ -6299,6 +6299,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T00:11:38.237800",
+      "dialogue": {
+        "topic": "Berlin Street Music",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the music live?",
+            "target_text": "Hallo, ist die Musik live?",
+            "japanese": "Hallo, ist die Musik live?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is great!",
+            "target_text": "Ja, sie ist super!",
+            "japanese": "Ja, sie ist super!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we dance briefly?",
+            "target_text": "Tanzen wir kurz?",
+            "japanese": "Tanzen wir kurz?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Berlin is fun!",
+            "target_text": "Ja, Berlin macht Spaß!",
+            "japanese": "Ja, Berlin macht Spaß!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
