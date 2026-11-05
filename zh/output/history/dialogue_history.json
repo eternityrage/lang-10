@@ -7239,6 +7239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T20:43:55.696080",
+      "dialogue": {
+        "topic": "Complimenting Chinese",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you know Chinese?",
+            "chinese": "你会中文吗？",
+            "pinyin": "Nǐ huì Zhōngwén ma?",
+            "japanese": "你会中文吗？",
+            "romaji": "Nǐ huì Zhōngwén ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little!",
+            "chinese": "会一点儿！",
+            "pinyin": "Huì yìdiǎnr!",
+            "japanese": "会一点儿！",
+            "romaji": "Huì yìdiǎnr!"
+          },
+          {
+            "speaker": "A",
+            "english": "So awesome!",
+            "chinese": "太牛了！",
+            "pinyin": "Tài niú le!",
+            "japanese": "太牛了！",
+            "romaji": "Tài niú le!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! So happy!",
+            "chinese": "谢谢！真开心！",
+            "pinyin": "Xièxie! Zhēn kāixīn!",
+            "japanese": "谢谢！真开心！",
+            "romaji": "Xièxie! Zhēn kāixīn!"
+          }
+        ]
+      }
     }
   ]
 }
