@@ -6371,6 +6371,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T20:56:34.542981",
+      "dialogue": {
+        "topic": "Filme com amigos",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want to watch a movie?",
+            "target_text": "Oi, quer ver um filme?",
+            "japanese": "Oi, quer ver um filme?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! It will be fun.",
+            "target_text": "Claro! Vai ser divertido.",
+            "japanese": "Claro! Vai ser divertido.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "At my house?",
+            "target_text": "Na minha casa?",
+            "japanese": "Na minha casa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Deal! I’ll bring popcorn.",
+            "target_text": "Fechado! Levo pipoca.",
+            "japanese": "Fechado! Levo pipoca.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
