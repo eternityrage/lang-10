@@ -6407,6 +6407,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-05T23:44:17.070475",
+      "dialogue": {
+        "topic": "Walking in the park",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Shall we walk today?",
+            "target_text": "Oi! Vamos caminhar hoje?",
+            "japanese": "Oi! Vamos caminhar hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, the day is beautiful!",
+            "target_text": "Claro, o dia está lindo!",
+            "japanese": "Claro, o dia está lindo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "At the square at five?",
+            "target_text": "Na praça às cinco?",
+            "japanese": "Na praça às cinco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, see you there!",
+            "target_text": "Perfeito, te vejo lá!",
+            "japanese": "Perfeito, te vejo lá!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
