@@ -7399,6 +7399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T20:09:04.776203",
+      "dialogue": {
+        "topic": "Morning Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Morning drink?",
+            "chinese": "早上喝什么？",
+            "pinyin": "Zǎoshang hē shénme?",
+            "japanese": "早上喝什么？",
+            "romaji": "Zǎoshang hē shénme?"
+          },
+          {
+            "speaker": "B",
+            "english": "I drink coffee!",
+            "chinese": "我喝咖啡！",
+            "pinyin": "Wǒ hē kāfēi!",
+            "japanese": "我喝咖啡！",
+            "romaji": "Wǒ hē kāfēi!"
+          },
+          {
+            "speaker": "A",
+            "english": "Add sugar?",
+            "chinese": "加糖吗？",
+            "pinyin": "Jiā táng ma?",
+            "japanese": "加糖吗？",
+            "romaji": "Jiā táng ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "No sugar, thanks.",
+            "chinese": "不加，谢谢。",
+            "pinyin": "Bù jiā, xièxie.",
+            "japanese": "不加，谢谢。",
+            "romaji": "Bù jiā, xièxie."
+          }
+        ]
+      }
     }
   ]
 }
