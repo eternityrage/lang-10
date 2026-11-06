@@ -6551,6 +6551,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T13:13:41.158692",
+      "dialogue": {
+        "topic": "Romantic Flirting - Dancing",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want to dance?",
+            "target_text": "Tu veux danser ?",
+            "japanese": "Tu veux danser ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You dance very well.",
+            "target_text": "Tu danses très bien.",
+            "japanese": "Tu danses très bien.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With you, yes.",
+            "target_text": "Avec toi, oui.",
+            "japanese": "Avec toi, oui.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
