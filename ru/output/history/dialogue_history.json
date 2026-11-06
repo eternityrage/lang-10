@@ -7239,6 +7239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T23:09:36.324894",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we walk?",
+            "russian": "Привет, пойдём гулять?",
+            "translit": "Privet, poydyom gulyat'?",
+            "japanese": "Привет, пойдём гулять?",
+            "romaji": "Privet, poydyom gulyat'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the snow is beautiful!",
+            "russian": "Да, снег такой красивый!",
+            "translit": "Da, sneg takoy krasivyy!",
+            "japanese": "Да, снег такой красивый!",
+            "romaji": "Da, sneg takoy krasivyy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do we need warm hats?",
+            "russian": "Нужна тёплая шапка?",
+            "translit": "Nuzhna tyoplaya shapka?",
+            "japanese": "Нужна тёплая шапка?",
+            "romaji": "Nuzhna tyoplaya shapka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "russian": "Да, и пошли!",
+            "translit": "Da, i poshli!",
+            "japanese": "Да, и пошли!",
+            "romaji": "Da, i poshli!"
+          }
+        ]
+      }
     }
   ]
 }
