@@ -7239,6 +7239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T22:41:26.112133",
+      "dialogue": {
+        "topic": "Hotteok street snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want this hotteok?",
+            "korean": "이 호떡 먹을래요?",
+            "romaja": "I hotteok meogeullaeyo?",
+            "japanese": "이 호떡 먹을래요?",
+            "romaji": "I hotteok meogeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Careful, it's still hot.",
+            "korean": "아직 뜨거워요, 조심해요.",
+            "romaja": "Ajik tteugeowoyo, josimhaeyo.",
+            "japanese": "아직 뜨거워요, 조심해요.",
+            "romaji": "Ajik tteugeowoyo, josimhaeyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Wow, it's so sweet!",
+            "korean": "와, 정말 달콤해요!",
+            "romaja": "Wa, jeongmal dalkomhaeyo!",
+            "japanese": "와, 정말 달콤해요!",
+            "romaji": "Wa, jeongmal dalkomhaeyo!"
+          }
+        ]
+      }
     }
   ]
 }
