@@ -6587,6 +6587,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T22:28:36.394846",
+      "dialogue": {
+        "topic": "Asking for the bill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, the bill please?",
+            "target_text": "Entschuldigung, die Rechnung bitte?",
+            "japanese": "Entschuldigung, die Rechnung bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course.",
+            "target_text": "Ja, natürlich gern.",
+            "japanese": "Ja, natürlich gern.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I pay cash?",
+            "target_text": "Kann ich bar zahlen?",
+            "japanese": "Kann ich bar zahlen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, no problem.",
+            "target_text": "Ja, kein Problem.",
+            "japanese": "Ja, kein Problem.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
