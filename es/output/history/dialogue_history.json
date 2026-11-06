@@ -6515,6 +6515,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T22:15:42.056047",
+      "dialogue": {
+        "topic": "Fiesta & Chill: limonada con hielo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you want lemonade?",
+            "target_text": "Hola, ¿quieres limonada?",
+            "japanese": "Hola, ¿quieres limonada?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thank you very much!",
+            "target_text": "¡Sí, muchas gracias!",
+            "japanese": "¡Sí, muchas gracias!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With ice or without?",
+            "target_text": "¿Con hielo o sin?",
+            "japanese": "¿Con hielo o sin?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With ice, please.",
+            "target_text": "Con hielo, por favor.",
+            "japanese": "Con hielo, por favor.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
