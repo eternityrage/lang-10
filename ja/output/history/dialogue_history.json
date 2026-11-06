@@ -5791,6 +5791,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T12:53:50.169587",
+      "dialogue": {
+        "topic": "Quiet Music at Work",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Coffee Mug, how about music?",
+            "japanese": "コーヒーさん、おんがくは どうですか？",
+            "romaji": "Koohii-san, ongaku wa dou desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sounds good. It's quiet.",
+            "japanese": "いいですね。しずかです。",
+            "romaji": "Ii desu ne. Shizuka desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Let's listen at work.",
+            "japanese": "しごとで おんがくを ききましょう。",
+            "romaji": "Shigoto de ongaku o kikimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's relax.",
+            "japanese": "はい、ゆっくり しましょう。",
+            "romaji": "Hai, yukkuri shimashou."
+          }
+        ]
+      }
     }
   ]
 }
