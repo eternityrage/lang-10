@@ -6623,6 +6623,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T22:22:08.843637",
+      "dialogue": {
+        "topic": "Going to the park",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you going out?",
+            "target_text": "Salut, tu sors ?",
+            "japanese": "Salut, tu sors ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m going to the park!",
+            "target_text": "Oui, je vais au parc !",
+            "japanese": "Oui, je vais au parc !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I come with you?",
+            "target_text": "Je viens avec toi ?",
+            "japanese": "Je viens avec toi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
