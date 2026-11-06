@@ -7239,6 +7239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T22:08:49.622443",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, to the train station?",
+            "target_text": "שלום, לתחנת הרכבת?",
+            "transliteration": "Shalom, le-takhanat ha-rakevet?",
+            "japanese": "שלום, לתחנת הרכבת?",
+            "romaji": "Shalom, le-takhanat ha-rakevet?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sure, get in!",
+            "target_text": "כן, בטח, תיכנס!",
+            "transliteration": "Ken, betakh, tikhanes!",
+            "japanese": "כן, בטח, תיכנס!",
+            "romaji": "Ken, betakh, tikhanes!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Thirty shekels, please.",
+            "target_text": "שלושים שקל, בבקשה.",
+            "transliteration": "Shloshim shekel, bevakasha.",
+            "japanese": "שלושים שקל, בבקשה.",
+            "romaji": "Shloshim shekel, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
