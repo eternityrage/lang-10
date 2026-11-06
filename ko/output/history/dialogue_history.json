@@ -7199,6 +7199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T20:02:37.935618",
+      "dialogue": {
+        "topic": "Buying hotteok",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "One hotteok, please?",
+            "korean": "호떡 하나 주세요?",
+            "romaja": "Hotteok hana juseyo?",
+            "japanese": "호떡 하나 주세요?",
+            "romaji": "Hotteok hana juseyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's very warm!",
+            "korean": "네, 아주 따뜻해요!",
+            "romaja": "Ne, aju ttatteutaeyo!",
+            "japanese": "네, 아주 따뜻해요!",
+            "romaji": "Ne, aju ttatteutaeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one?",
+            "korean": "이거 하나 얼마예요?",
+            "romaja": "Igeo hana eolmayeyo?",
+            "japanese": "이거 하나 얼마예요?",
+            "romaji": "Igeo hana eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "One is 1,000 won!",
+            "korean": "한 개 천 원이에요!",
+            "romaja": "Han gae cheon won-ieyo!",
+            "japanese": "한 개 천 원이에요!",
+            "romaji": "Han gae cheon won-ieyo!"
+          }
+        ]
+      }
     }
   ]
 }
