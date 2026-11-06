@@ -6515,6 +6515,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T03:43:41.990099",
+      "dialogue": {
+        "topic": "Flirty Dance Invitation",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, will you dance with me?",
+            "target_text": "Salut, tu danses avec moi ?",
+            "japanese": "Salut, tu danses avec moi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You have a nice smile.",
+            "target_text": "Tu as un joli sourire.",
+            "japanese": "Tu as un joli sourire.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you too!",
+            "target_text": "Merci, toi aussi !",
+            "japanese": "Merci, toi aussi !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
