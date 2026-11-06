@@ -5855,6 +5855,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T22:02:08.957845",
+      "dialogue": {
+        "topic": "Finding hot coffee at the convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the coffee?",
+            "japanese": "コーヒーは どこですか？",
+            "romaji": "Koohii wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is over there.",
+            "japanese": "あそこです。",
+            "romaji": "Asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Is it hot?",
+            "japanese": "ホットですか？",
+            "romaji": "Hotto desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is hot!",
+            "japanese": "はい、あついです！",
+            "romaji": "Hai, atsui desu!"
+          }
+        ]
+      }
     }
   ]
 }
