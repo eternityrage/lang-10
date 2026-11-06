@@ -6515,6 +6515,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T13:19:57.836631",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, sleep well?",
+            "target_text": "Guten Morgen, gut geschlafen?",
+            "japanese": "Guten Morgen, gut geschlafen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very well, thanks!",
+            "target_text": "Ja, sehr gut, danke!",
+            "japanese": "Ja, sehr gut, danke!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice! Coffee now?",
+            "target_text": "Schön! Kaffee jetzt?",
+            "japanese": "Schön! Kaffee jetzt?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, see you soon!",
+            "target_text": "Gern, bis gleich!",
+            "japanese": "Gern, bis gleich!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
