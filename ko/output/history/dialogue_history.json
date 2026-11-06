@@ -7119,6 +7119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T04:03:56.543574",
+      "dialogue": {
+        "topic": "Subway Convenience Store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there a convenience store in the subway station?",
+            "korean": "지하철역 안에 편의점 있어요?",
+            "romaja": "Jihacheollyeok ane pyeonuijeom isseoyo?",
+            "japanese": "지하철역 안에 편의점 있어요?",
+            "romaji": "Jihacheollyeok ane pyeonuijeom isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's right ahead!",
+            "korean": "네, 바로 앞이에요!",
+            "romaja": "Ne, baro apieyo!",
+            "japanese": "네, 바로 앞이에요!",
+            "romaji": "Ne, baro apieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we buy one water?",
+            "korean": "물 하나 살까요?",
+            "romaja": "Mul hana salkkayo?",
+            "japanese": "물 하나 살까요?",
+            "romaji": "Mul hana salkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, let's go together!",
+            "korean": "좋아요, 같이 가요!",
+            "romaja": "Joayo, gachi gayo!",
+            "japanese": "좋아요, 같이 가요!",
+            "romaji": "Joayo, gachi gayo!"
+          }
+        ]
+      }
     }
   ]
 }
