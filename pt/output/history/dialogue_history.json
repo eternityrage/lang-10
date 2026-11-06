@@ -6479,6 +6479,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T16:18:19.790961",
+      "dialogue": {
+        "topic": "Dar uma volta com amigo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, my friend?",
+            "target_text": "E aí, amigo?",
+            "japanese": "E aí, amigo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, and you?",
+            "target_text": "Tudo ótimo, e você?",
+            "japanese": "Tudo ótimo, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Want to take a walk?",
+            "target_text": "Vamos dar uma volta?",
+            "japanese": "Vamos dar uma volta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, let's go now!",
+            "target_text": "Claro, vamos agora!",
+            "japanese": "Claro, vamos agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
