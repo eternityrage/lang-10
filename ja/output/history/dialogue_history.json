@@ -5823,6 +5823,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T18:02:52.555051",
+      "dialogue": {
+        "topic": "Sleepy Mug",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, sleepy?",
+            "japanese": "マグ、ねむい？",
+            "romaji": "Magu, nemui?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, super sleepy.",
+            "japanese": "うん、めっちゃ ねむい。",
+            "romaji": "Un, meccha nemui."
+          },
+          {
+            "speaker": "A",
+            "english": "Want coffee?",
+            "japanese": "コーヒー、ほしい？",
+            "romaji": "Koohii, hoshii?"
+          },
+          {
+            "speaker": "B",
+            "english": "Nice! I want it!",
+            "japanese": "いいね！ほしい！",
+            "romaji": "Ii ne! Hoshii!"
+          }
+        ]
+      }
     }
   ]
 }
