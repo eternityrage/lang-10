@@ -6551,6 +6551,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T19:49:02.853955",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Does the subway go to the main station?",
+            "target_text": "Fährt die U-Bahn zum Hauptbahnhof?",
+            "japanese": "Fährt die U-Bahn zum Hauptbahnhof?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, take the U5.",
+            "target_text": "Ja, nimm die U5.",
+            "japanese": "Ja, nimm die U5.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far?",
+            "target_text": "Ist es weit?",
+            "japanese": "Ist es weit?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, only two stops.",
+            "target_text": "Nein, nur zwei Stationen.",
+            "japanese": "Nein, nur zwei Stationen.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
