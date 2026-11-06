@@ -5759,6 +5759,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T03:24:22.503195",
+      "dialogue": {
+        "topic": "Warm tea at the convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this tea?",
+            "japanese": "これは おちゃですか？",
+            "romaji": "Kore wa ocha desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, warm tea.",
+            "japanese": "はい、あたたかい おちゃです。",
+            "romaji": "Hai, atatakai ocha desu."
+          },
+          {
+            "speaker": "A",
+            "english": "I will buy it.",
+            "japanese": "これを かいます。",
+            "romaji": "Kore o kaimasu."
+          },
+          {
+            "speaker": "B",
+            "english": "Good. Let's go.",
+            "japanese": "いいですね。いきましょう。",
+            "romaji": "Ii desu ne. Ikimashou."
+          }
+        ]
+      }
     }
   ]
 }
