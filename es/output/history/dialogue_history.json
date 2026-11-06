@@ -6479,6 +6479,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T19:34:59.615533",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have tomato bread?",
+            "target_text": "Hola, ¿hay pan con tomate?",
+            "japanese": "Hola, ¿hay pan con tomate?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very good.",
+            "target_text": "Sí, está muy bueno.",
+            "japanese": "Sí, está muy bueno.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One and a coffee.",
+            "target_text": "Uno y un café.",
+            "japanese": "Uno y un café.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, right away.",
+            "target_text": "Perfecto, ahora mismo.",
+            "japanese": "Perfecto, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
