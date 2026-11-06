@@ -6443,6 +6443,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T08:04:49.550005",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, how are you?",
+            "target_text": "Salve, como você tá?",
+            "japanese": "Salve, como você tá?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm good, thanks a lot!",
+            "target_text": "Tô bem, valeu demais!",
+            "japanese": "Tô bem, valeu demais!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Good to see you!",
+            "target_text": "Que bom te ver!",
+            "japanese": "Que bom te ver!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "You too, bye!",
+            "target_text": "Você também, até!",
+            "japanese": "Você também, até!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
