@@ -7359,6 +7359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T14:50:05.516011",
+      "dialogue": {
+        "topic": "Compliments & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, so pretty!",
+            "chinese": "嗨，真美！",
+            "pinyin": "Hāi, zhēn měi!",
+            "japanese": "嗨，真美！",
+            "romaji": "Hāi, zhēn měi!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, haha!",
+            "chinese": "谢谢，哈哈！",
+            "pinyin": "Xièxie, hāhā!",
+            "japanese": "谢谢，哈哈！",
+            "romaji": "Xièxie, hāhā!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really, so pretty!",
+            "chinese": "真的，很美！",
+            "pinyin": "Zhēn de, hěn měi!",
+            "japanese": "真的，很美！",
+            "romaji": "Zhēn de, hěn měi!"
+          },
+          {
+            "speaker": "B",
+            "english": "You’re great too!",
+            "chinese": "你也很棒！",
+            "pinyin": "Nǐ yě hěn bàng!",
+            "japanese": "你也很棒！",
+            "romaji": "Nǐ yě hěn bàng!"
+          }
+        ]
+      }
     }
   ]
 }
