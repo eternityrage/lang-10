@@ -7119,6 +7119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T03:30:39.894237",
+      "dialogue": {
+        "topic": "Shopping for a red dress",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there a red dress?",
+            "target_text": "שלום, יש שמלה אדומה?",
+            "transliteration": "Shalom, yesh simla aduma?",
+            "japanese": "שלום, יש שמלה אדומה?",
+            "romaji": "Shalom, yesh simla aduma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a pretty dress!",
+            "target_text": "כן, שמלה יפה!",
+            "transliteration": "Ken, simla yafa!",
+            "japanese": "כן, שמלה יפה!",
+            "romaji": "Ken, simla yafa!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only fifty shekels.",
+            "target_text": "רק חמישים שקלים.",
+            "transliteration": "Rak chamishim shkalim.",
+            "japanese": "רק חמישים שקלים.",
+            "romaji": "Rak chamishim shkalim."
+          }
+        ]
+      }
     }
   ]
 }
