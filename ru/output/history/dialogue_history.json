@@ -7199,6 +7199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T21:47:12.376995",
+      "dialogue": {
+        "topic": "Bakery & Warm Rye Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have rye bread?",
+            "russian": "Здравствуйте, есть ржаной хлеб?",
+            "translit": "Zdravstvuyte, est' rzhanoy khleb?",
+            "japanese": "Здравствуйте, есть ржаной хлеб?",
+            "romaji": "Zdravstvuyte, est' rzhanoy khleb?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is warm!",
+            "russian": "Да, он тёплый!",
+            "translit": "Da, on tyoplyy!",
+            "japanese": "Да, он тёплый!",
+            "romaji": "Da, on tyoplyy!"
+          },
+          {
+            "speaker": "A",
+            "english": "One loaf, please.",
+            "russian": "Одну буханку, пожалуйста.",
+            "translit": "Odnu bukhanku, pozhaluysta.",
+            "japanese": "Одну буханку, пожалуйста.",
+            "romaji": "Odnu bukhanku, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Here, enjoy your meal!",
+            "russian": "Вот, приятного аппетита!",
+            "translit": "Vot, priyatnogo appetita!",
+            "japanese": "Вот, приятного аппетита!",
+            "romaji": "Vot, priyatnogo appetita!"
+          }
+        ]
+      }
     }
   ]
 }
