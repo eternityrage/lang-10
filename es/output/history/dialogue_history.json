@@ -6443,6 +6443,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T13:07:16.580956",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Do you want lemonade?",
+            "target_text": "¡Hola! ¿Quieres limonada?",
+            "japanese": "¡Hola! ¿Quieres limonada?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thanks! It’s cold.",
+            "target_text": "¡Sí, gracias! Está fría.",
+            "japanese": "¡Sí, gracias! Está fría.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the patio?",
+            "target_text": "¿Vamos al patio?",
+            "japanese": "¿Vamos al patio?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Let’s go together.",
+            "target_text": "¡Claro! Vamos juntos.",
+            "japanese": "¡Claro! Vamos juntos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
