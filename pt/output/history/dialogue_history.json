@@ -6551,6 +6551,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-06T23:16:15.906253",
+      "dialogue": {
+        "topic": "Bakery Pão de Queijo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much is it?",
+            "target_text": "Oi, quanto é?",
+            "japanese": "Oi, quanto é?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's three reais!",
+            "target_text": "É três reais!",
+            "japanese": "É três reais!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want one, please.",
+            "target_text": "Quero um, por favor.",
+            "japanese": "Quero um, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, nice and warm!",
+            "target_text": "Claro, bem quentinho!",
+            "japanese": "Claro, bem quentinho!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
