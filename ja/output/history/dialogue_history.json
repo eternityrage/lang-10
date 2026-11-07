@@ -5951,6 +5951,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T16:50:06.611019",
+      "dialogue": {
+        "topic": "Tiny Anime Hero",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you okay?",
+            "japanese": "マグ、だいじょうぶですか？",
+            "romaji": "Magu, daijoubu desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am okay.",
+            "japanese": "はい、だいじょうぶです。",
+            "romaji": "Hai, daijoubu desu."
+          },
+          {
+            "speaker": "A",
+            "english": "I will help you!",
+            "japanese": "わたしが てつだいます！",
+            "romaji": "Watashi ga tetsudaimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you, Cupcake!",
+            "japanese": "ありがとう、カップケーキ！",
+            "romaji": "Arigatou, Kappukeeki!"
+          }
+        ]
+      }
     }
   ]
 }
