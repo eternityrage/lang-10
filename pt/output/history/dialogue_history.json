@@ -6695,6 +6695,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T21:47:38.389060",
+      "dialogue": {
+        "topic": "Greeting and making plans",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, how are you?",
+            "target_text": "E aí, tudo bem?",
+            "japanese": "E aí, tudo bem?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All great, thanks!",
+            "target_text": "Tudo ótimo, valeu!",
+            "japanese": "Tudo ótimo, valeu!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Want to hang out?",
+            "target_text": "Bora dar um rolê?",
+            "japanese": "Bora dar um rolê?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go now!",
+            "target_text": "Bora, partiu agora!",
+            "japanese": "Bora, partiu agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
