@@ -7359,6 +7359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T16:56:39.204860",
+      "dialogue": {
+        "topic": "Tel Aviv bus stop",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the bus coming now?",
+            "target_text": "שלום, האוטובוס בא עכשיו?",
+            "transliteration": "Shalom, ha-otobus ba akhshav?",
+            "japanese": "שלום, האוטובוס בא עכשיו?",
+            "romaji": "Shalom, ha-otobus ba akhshav?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, two more minutes!",
+            "target_text": "כן, עוד שתי דקות!",
+            "transliteration": "Ken, od shtey dakot!",
+            "japanese": "כן, עוד שתי דקות!",
+            "romaji": "Ken, od shtey dakot!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, is it to the port?",
+            "target_text": "יופי, זה לנמל?",
+            "transliteration": "Yofi, ze la-namal?",
+            "japanese": "יופי, זה לנמל?",
+            "romaji": "Yofi, ze la-namal?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come, let's get on!",
+            "target_text": "כן, בוא נעלה!",
+            "transliteration": "Ken, bo na'ale!",
+            "japanese": "כן, בוא נעלה!",
+            "romaji": "Ken, bo na'ale!"
+          }
+        ]
+      }
     }
   ]
 }
