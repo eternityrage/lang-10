@@ -7399,6 +7399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T21:41:04.467790",
+      "dialogue": {
+        "topic": "Cute Russian Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you have a sweet voice!",
+            "russian": "Привет, у тебя милый голос!",
+            "translit": "Privet, u tebya milyy golos!",
+            "japanese": "Привет, у тебя милый голос!",
+            "romaji": "Privet, u tebya milyy golos!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, that's very nice!",
+            "russian": "Спасибо, мне очень приятно!",
+            "translit": "Spasibo, mne ochen' priyatno!",
+            "japanese": "Спасибо, мне очень приятно!",
+            "romaji": "Spasibo, mne ochen' priyatno!"
+          },
+          {
+            "speaker": "A",
+            "english": "You are like sunshine today.",
+            "russian": "Ты сегодня как солнышко.",
+            "translit": "Ty segodnya kak solnyshko.",
+            "japanese": "Ты сегодня как солнышко.",
+            "romaji": "Ty segodnya kak solnyshko."
+          },
+          {
+            "speaker": "B",
+            "english": "Oh, you are cute too!",
+            "russian": "Ой, ты тоже милый!",
+            "translit": "Oy, ty tozhe milyy!",
+            "japanese": "Ой, ты тоже милый!",
+            "romaji": "Oy, ty tozhe milyy!"
+          }
+        ]
+      }
     }
   ]
 }
