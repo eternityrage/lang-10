@@ -6659,6 +6659,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T03:04:50.831346",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, I’m looking for shoes.",
+            "target_text": "Bonjour, je cherche des chaussures.",
+            "japanese": "Bonjour, je cherche des chaussures.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, what size?",
+            "target_text": "Bien sûr, quelle taille ?",
+            "japanese": "Bien sûr, quelle taille ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Size thirty-eight, please.",
+            "target_text": "Du trente-huit, s’il vous plaît.",
+            "japanese": "Du trente-huit, s’il vous plaît.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, here is a pair.",
+            "target_text": "Parfait, voici une paire.",
+            "japanese": "Parfait, voici une paire.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
