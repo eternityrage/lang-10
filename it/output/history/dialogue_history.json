@@ -6695,6 +6695,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T21:21:29.860797",
+      "dialogue": {
+        "topic": "Rome & Florence Walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we walk?",
+            "target_text": "Ciao, camminiamo un po'?",
+            "japanese": "Ciao, camminiamo un po'?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly, it's sunny!",
+            "target_text": "Sì, volentieri, c'è il sole!",
+            "japanese": "Sì, volentieri, c'è il sole!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then the Duomo?",
+            "target_text": "Poi vediamo il Duomo?",
+            "japanese": "Poi vediamo il Duomo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, then gelato!",
+            "target_text": "Perfetto, poi un gelato!",
+            "japanese": "Perfetto, poi un gelato!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
