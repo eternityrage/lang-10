@@ -7279,6 +7279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T03:24:51.798641",
+      "dialogue": {
+        "topic": "Hotteok street snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want this hotteok?",
+            "korean": "이 호떡 먹을래요?",
+            "romaja": "I hotteok meogeullaeyo?",
+            "japanese": "이 호떡 먹을래요?",
+            "romaji": "I hotteok meogeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "네, 정말 좋아해요!",
+            "romaja": "Ne, jeongmal joahaeyo!",
+            "japanese": "네, 정말 좋아해요!",
+            "romaji": "Ne, jeongmal joahaeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it very sweet?",
+            "korean": "이거 많이 달아요?",
+            "romaja": "Igeo mani darayo?",
+            "japanese": "이거 많이 달아요?",
+            "romaji": "Igeo mani darayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is amazing!",
+            "korean": "네, 정말 최고예요!",
+            "romaja": "Ne, jeongmal choegoyeyo!",
+            "japanese": "네, 정말 최고예요!",
+            "romaji": "Ne, jeongmal choegoyeyo!"
+          }
+        ]
+      }
     }
   ]
 }
