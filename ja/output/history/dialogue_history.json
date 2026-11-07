@@ -5983,6 +5983,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T20:48:37.681721",
+      "dialogue": {
+        "topic": "Buying shoes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are these shoes good?",
+            "japanese": "この くつ、いいですか？",
+            "romaji": "Kono kutsu, ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very good.",
+            "japanese": "はい、とても いいです。",
+            "romaji": "Hai, totemo ii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Then this, please.",
+            "japanese": "じゃあ、これを ください。",
+            "romaji": "Jaa, kore o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、これ どうぞ。",
+            "romaji": "Hai, kore douzo."
+          }
+        ]
+      }
     }
   ]
 }
