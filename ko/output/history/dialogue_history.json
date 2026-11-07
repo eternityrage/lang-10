@@ -7359,6 +7359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T17:29:12.686195",
+      "dialogue": {
+        "topic": "Buying Hotteok",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this hotteok good?",
+            "korean": "이 호떡 맛있어요?",
+            "romaja": "I hotteok masisseoyo?",
+            "japanese": "이 호떡 맛있어요?",
+            "romaji": "I hotteok masisseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very delicious!",
+            "korean": "네, 정말 맛있어요!",
+            "romaja": "Ne, jeongmal masisseoyo!",
+            "japanese": "네, 정말 맛있어요!",
+            "romaji": "Ne, jeongmal masisseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "One hotteok, please.",
+            "korean": "호떡 하나 주세요.",
+            "romaja": "Hotteok hana juseyo.",
+            "japanese": "호떡 하나 주세요.",
+            "romaji": "Hotteok hana juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, very hot!",
+            "korean": "좋아요, 아주 뜨거워요!",
+            "romaja": "Joayo, aju tteugeowoyo!",
+            "japanese": "좋아요, 아주 뜨거워요!",
+            "romaji": "Joayo, aju tteugeowoyo!"
+          }
+        ]
+      }
     }
   ]
 }
