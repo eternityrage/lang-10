@@ -7319,6 +7319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T12:19:43.092178",
+      "dialogue": {
+        "topic": "Buying a hat in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this hat?",
+            "korean": "이 모자 얼마예요?",
+            "romaja": "I moja eolmayeyo?",
+            "japanese": "이 모자 얼마예요?",
+            "romaji": "I moja eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Just ten thousand won!",
+            "korean": "딱 만 원이에요!",
+            "romaja": "Ttak man wonieyo!",
+            "japanese": "딱 만 원이에요!",
+            "romaji": "Ttak man wonieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Please lower it a little.",
+            "korean": "조금 깎아 주세요.",
+            "romaja": "Jogeum kkakka juseyo.",
+            "japanese": "조금 깎아 주세요.",
+            "romaji": "Jogeum kkakka juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, nine thousand won.",
+            "korean": "좋아요, 구천 원이에요.",
+            "romaja": "Joayo, gucheon wonieyo.",
+            "japanese": "좋아요, 구천 원이에요.",
+            "romaji": "Joayo, gucheon wonieyo."
+          }
+        ]
+      }
     }
   ]
 }
