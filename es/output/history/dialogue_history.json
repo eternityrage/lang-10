@@ -6623,6 +6623,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T17:03:20.056194",
+      "dialogue": {
+        "topic": "Travel & Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the metro?",
+            "target_text": "Hola, ¿dónde está el metro?",
+            "japanese": "Hola, ¿dónde está el metro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "There, very close!",
+            "target_text": "¡Allí, muy cerca!",
+            "japanese": "¡Allí, muy cerca!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go downtown?",
+            "target_text": "¿Va al centro?",
+            "japanese": "¿Va al centro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, line two.",
+            "target_text": "Sí, línea dos.",
+            "japanese": "Sí, línea dos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
