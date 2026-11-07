@@ -6659,6 +6659,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T21:01:30.076102",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you see the Sagrada Familia?",
+            "target_text": "¿Ves la Sagrada Familia?",
+            "japanese": "¿Ves la Sagrada Familia?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very beautiful!",
+            "target_text": "¡Sí, es muy bonita!",
+            "japanese": "¡Sí, es muy bonita!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take photos?",
+            "target_text": "¿Tomamos unas fotos?",
+            "japanese": "¿Tomamos unas fotos?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, let's go now!",
+            "target_text": "¡Claro, vamos ahora!",
+            "japanese": "¡Claro, vamos ahora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
