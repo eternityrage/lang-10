@@ -6731,6 +6731,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T17:09:49.237346",
+      "dialogue": {
+        "topic": "Parisian Cafe & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one croissant, please.",
+            "target_text": "Bonjour, un croissant, s'il vous plaît.",
+            "japanese": "Bonjour, un croissant, s'il vous plaît.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, great choice!",
+            "target_text": "Bien sûr, très bon choix !",
+            "japanese": "Bien sûr, très bon choix !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it warm?",
+            "target_text": "Il est bien chaud ?",
+            "japanese": "Il est bien chaud ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, just baked!",
+            "target_text": "Oui, tout juste sorti !",
+            "japanese": "Oui, tout juste sorti !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
