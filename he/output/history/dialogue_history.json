@@ -7319,6 +7319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T11:47:27.027940",
+      "dialogue": {
+        "topic": "Tel Aviv Scooter Ride",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the scooter free?",
+            "target_text": "שלום, הקורקינט פנוי?",
+            "transliteration": "Shalom, ha-korkinet panui?",
+            "japanese": "שלום, הקורקינט פנוי?",
+            "romaji": "Shalom, ha-korkinet panui?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, take it now!",
+            "target_text": "כן, קח אותו עכשיו!",
+            "transliteration": "Ken, kakh oto akhshav!",
+            "japanese": "כן, קח אותו עכשיו!",
+            "romaji": "Ken, kakh oto akhshav!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, we ride slowly.",
+            "target_text": "יופי, נוסעים לאט.",
+            "transliteration": "Yofi, nos'im le'at.",
+            "japanese": "יופי, נוסעים לאט.",
+            "romaji": "Yofi, nos'im le'at."
+          },
+          {
+            "speaker": "B",
+            "english": "Good, Tel Aviv is fun!",
+            "target_text": "טוב, תל אביב כיפית!",
+            "transliteration": "Tov, Tel Aviv kefit!",
+            "japanese": "טוב, תל אביב כיפית!",
+            "romaji": "Tov, Tel Aviv kefit!"
+          }
+        ]
+      }
     }
   ]
 }
