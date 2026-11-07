@@ -6659,6 +6659,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T12:06:41.948950",
+      "dialogue": {
+        "topic": "Morning greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, how are you?",
+            "target_text": "Guten Morgen, wie geht's?",
+            "japanese": "Guten Morgen, wie geht's?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm great, thanks!",
+            "target_text": "Mir geht's super, danke!",
+            "japanese": "Mir geht's super, danke!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Did you sleep well?",
+            "target_text": "Hast du gut geschlafen?",
+            "japanese": "Hast du gut geschlafen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am fit!",
+            "target_text": "Ja, ich bin fit!",
+            "japanese": "Ja, ich bin fit!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
