@@ -5919,6 +5919,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T11:41:06.358941",
+      "dialogue": {
+        "topic": "Snack break slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, break time?",
+            "japanese": "マグ、やすみ？",
+            "romaji": "Magu, yasumi?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yep! Coffee time.",
+            "japanese": "うん！コーヒー タイム。",
+            "romaji": "Un! Koohii taimu."
+          },
+          {
+            "speaker": "A",
+            "english": "Nice! Me too?",
+            "japanese": "いいね！わたしも？",
+            "romaji": "Ii ne! Watashi mo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Come here.",
+            "japanese": "もちろん！こっち きて。",
+            "romaji": "Mochiron! Kocchi kite."
+          }
+        ]
+      }
     }
   ]
 }
