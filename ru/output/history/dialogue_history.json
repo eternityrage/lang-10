@@ -7279,6 +7279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T03:37:56.141858",
+      "dialogue": {
+        "topic": "Buying still water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have still water?",
+            "russian": "Здравствуйте, есть вода без газа?",
+            "translit": "Zdravstvuyte, yest' voda bez gaza?",
+            "japanese": "Здравствуйте, есть вода без газа?",
+            "romaji": "Zdravstvuyte, yest' voda bez gaza?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sure, here it is!",
+            "russian": "Да, конечно, вот она!",
+            "translit": "Da, konechno, vot ona!",
+            "japanese": "Да, конечно, вот она!",
+            "romaji": "Da, konechno, vot ona!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is a small bottle?",
+            "russian": "Сколько стоит маленькая бутылка?",
+            "translit": "Skol'ko stoit malen'kaya butylka?",
+            "japanese": "Сколько стоит маленькая бутылка?",
+            "romaji": "Skol'ko stoit malen'kaya butylka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Fifty rubles, please.",
+            "russian": "Пятьдесят рублей, пожалуйста.",
+            "translit": "Pyat'desyat rubley, pozhaluysta.",
+            "japanese": "Пятьдесят рублей, пожалуйста.",
+            "romaji": "Pyat'desyat rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
