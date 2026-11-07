@@ -6659,6 +6659,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T17:22:55.414906",
+      "dialogue": {
+        "topic": "Florence walk to the Duomo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the Duomo near?",
+            "target_text": "Ciao, il Duomo è vicino?",
+            "japanese": "Ciao, il Duomo è vicino?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very near!",
+            "target_text": "Sì, è molto vicino!",
+            "japanese": "Sì, è molto vicino!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk?",
+            "target_text": "Andiamo a piedi?",
+            "japanese": "Andiamo a piedi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, what a nice walk!",
+            "target_text": "Certo, che bella passeggiata!",
+            "japanese": "Certo, che bella passeggiata!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
