@@ -7399,6 +7399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T20:54:53.442115",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, pita with hummus?",
+            "target_text": "שלום, פיתה עם חומוס?",
+            "transliteration": "Shalom, pita im hummus?",
+            "japanese": "שלום, פיתה עם חומוס?",
+            "romaji": "Shalom, pita im hummus?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very tasty!",
+            "target_text": "כן, זה טעים מאוד!",
+            "transliteration": "Ken, ze taim meod!",
+            "japanese": "כן, זה טעים מאוד!",
+            "romaji": "Ken, ze taim meod!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I also have tahini?",
+            "target_text": "אפשר גם קצת טחינה?",
+            "transliteration": "Efshar gam ktzat tahina?",
+            "japanese": "אפשר גם קצת טחינה?",
+            "romaji": "Efshar gam ktzat tahina?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, some tahini, enjoy!",
+            "target_text": "בטח, קצת טחינה, בתיאבון!",
+            "transliteration": "Betach, ktzat tahina, beteavon!",
+            "japanese": "בטח, קצת טחינה, בתיאבון!",
+            "romaji": "Betach, ktzat tahina, beteavon!"
+          }
+        ]
+      }
     }
   ]
 }
