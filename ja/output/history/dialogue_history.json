@@ -5887,6 +5887,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-07T02:45:26.422621",
+      "dialogue": {
+        "topic": "Asking the way to the station",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is the station near?",
+            "japanese": "マグさん、えきは ちかいですか？",
+            "romaji": "Magu-san, eki wa chikai desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very near.",
+            "japanese": "はい、とても ちかいです。",
+            "romaji": "Hai, totemo chikai desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go together?",
+            "japanese": "いっしょに いきますか？",
+            "romaji": "Issho ni ikimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "japanese": "はい、いきましょう！",
+            "romaji": "Hai, ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
