@@ -6767,6 +6767,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T17:14:06.261054",
+      "dialogue": {
+        "topic": "Visiting Sagrada Familia",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we visit Sagrada Familia?",
+            "target_text": "Hola, ¿vamos a la Sagrada Familia?",
+            "japanese": "Hola, ¿vamos a la Sagrada Familia?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very beautiful!",
+            "target_text": "¡Sí, es muy bonita!",
+            "japanese": "¡Sí, es muy bonita!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far from here?",
+            "target_text": "¿Está lejos de aquí?",
+            "japanese": "¿Está lejos de aquí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, let’s go by metro.",
+            "target_text": "No, vamos en metro.",
+            "japanese": "No, vamos en metro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
