@@ -6839,6 +6839,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T17:26:49.018530",
+      "dialogue": {
+        "topic": "Berlin Currywurst Stand",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the currywurst good?",
+            "target_text": "Hallo, ist die Currywurst gut?",
+            "japanese": "Hallo, ist die Currywurst gut?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is great!",
+            "target_text": "Ja, sie ist super!",
+            "japanese": "Ja, sie ist super!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then I’ll take one.",
+            "target_text": "Dann nehme ich eine.",
+            "japanese": "Dann nehme ich eine.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, coming right up!",
+            "target_text": "Gern, kommt sofort!",
+            "japanese": "Gern, kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
