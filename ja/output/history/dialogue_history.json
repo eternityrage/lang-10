@@ -6111,6 +6111,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T21:04:40.688431",
+      "dialogue": {
+        "topic": "Tea date invitation",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you free today?",
+            "japanese": "マグさん、きょう ひまですか？",
+            "romaji": "Magu-san, kyou hima desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am free.",
+            "japanese": "はい、ひまです。",
+            "romaji": "Hai, hima desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Let's have tea together.",
+            "japanese": "いっしょに おちゃしましょう。",
+            "romaji": "Issho ni ocha shimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I am happy.",
+            "japanese": "はい！うれしいです。",
+            "romaji": "Hai! Ureshii desu."
+          }
+        ]
+      }
     }
   ]
 }
