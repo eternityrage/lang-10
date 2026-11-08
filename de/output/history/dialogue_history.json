@@ -6875,6 +6875,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T21:30:49.451723",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how much is a pretzel?",
+            "target_text": "Hallo, was kostet eine Brezel?",
+            "japanese": "Hallo, was kostet eine Brezel?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only two euros!",
+            "target_text": "Nur zwei Euro!",
+            "japanese": "Nur zwei Euro!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One pretzel, please.",
+            "target_text": "Eine Brezel, bitte.",
+            "japanese": "Eine Brezel, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure. Enjoy!",
+            "target_text": "Gern. Guten Appetit!",
+            "japanese": "Gern. Guten Appetit!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
