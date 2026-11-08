@@ -7439,6 +7439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T02:30:13.062630",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, all cool?",
+            "target_text": "בוקר טוב, הכל סבבה?",
+            "transliteration": "Boker tov, hakol sababa?",
+            "japanese": "בוקר טוב, הכל סבבה?",
+            "romaji": "Boker tov, hakol sababa?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, totally cool!",
+            "target_text": "כן, סבבה לגמרי!",
+            "transliteration": "Ken, sababa legamrei!",
+            "japanese": "כן, סבבה לגמרי!",
+            "romaji": "Ken, sababa legamrei!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, have a good day!",
+            "target_text": "יופי, יום טוב!",
+            "transliteration": "Yofi, yom tov!",
+            "japanese": "יופי, יום טוב!",
+            "romaji": "Yofi, yom tov!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you too!",
+            "target_text": "תודה, גם לך!",
+            "transliteration": "Toda, gam lecha!",
+            "japanese": "תודה, גם לך!",
+            "romaji": "Toda, gam lecha!"
+          }
+        ]
+      }
     }
   ]
 }
