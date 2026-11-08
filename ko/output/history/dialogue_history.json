@@ -7439,6 +7439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T03:03:23.811049",
+      "dialogue": {
+        "topic": "Can I use banmal?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can I use banmal?",
+            "korean": "반말 해도 돼요?",
+            "romaja": "Banmal haedo dwaeyo?",
+            "japanese": "반말 해도 돼요?",
+            "romaji": "Banmal haedo dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds good!",
+            "korean": "네, 좋아요!",
+            "romaja": "Ne, joayo!",
+            "japanese": "네, 좋아요!",
+            "romaji": "Ne, joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, I’ll use banmal!",
+            "korean": "그럼, 반말 할게!",
+            "romaja": "Geureom, banmal halge!",
+            "japanese": "그럼, 반말 할게!",
+            "romaji": "Geureom, banmal halge!"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, talk comfortably!",
+            "korean": "좋아, 편하게 말해!",
+            "romaja": "Joa, pyeonhage malhae!",
+            "japanese": "좋아, 편하게 말해!",
+            "romaji": "Joa, pyeonhage malhae!"
+          }
+        ]
+      }
     }
   ]
 }
