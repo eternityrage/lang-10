@@ -7559,6 +7559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T21:44:11.133551",
+      "dialogue": {
+        "topic": "Buying hotteok street snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we eat hotteok?",
+            "korean": "우리 호떡 먹을래요?",
+            "romaja": "Uri hotteok meogeullaeyo?",
+            "japanese": "우리 호떡 먹을래요?",
+            "romaji": "Uri hotteok meogeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "How many shall we buy?",
+            "korean": "몇 개 살까요?",
+            "romaja": "Myeot gae salkkayo?",
+            "japanese": "몇 개 살까요?",
+            "romaji": "Myeot gae salkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Two pieces, please!",
+            "korean": "두 개 주세요!",
+            "romaja": "Du gae juseyo!",
+            "japanese": "두 개 주세요!",
+            "romaji": "Du gae juseyo!"
+          }
+        ]
+      }
     }
   ]
 }
