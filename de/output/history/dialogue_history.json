@@ -6767,6 +6767,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T02:49:49.994285",
+      "dialogue": {
+        "topic": "Biergarten table and drink",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the table free?",
+            "target_text": "Hallo, ist der Tisch frei?",
+            "japanese": "Hallo, ist der Tisch frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the table is free!",
+            "target_text": "Ja, der Tisch ist frei!",
+            "japanese": "Ja, der Tisch ist frei!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, what do you recommend?",
+            "target_text": "Danke, was empfehlen Sie?",
+            "japanese": "Danke, was empfehlen Sie?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "The shandy is very good.",
+            "target_text": "Das Radler ist sehr gut.",
+            "japanese": "Das Radler ist sehr gut.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
