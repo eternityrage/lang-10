@@ -6767,6 +6767,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T12:26:52.344234",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, do you have pistachio?",
+            "target_text": "Buongiorno, avete il pistacchio?",
+            "japanese": "Buongiorno, avete il pistacchio?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very good!",
+            "target_text": "Sì, è molto buono!",
+            "japanese": "Sì, è molto buono!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A small cup, please.",
+            "target_text": "Una coppetta, per favore.",
+            "japanese": "Una coppetta, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here is the gelato!",
+            "target_text": "Certo, ecco il gelato!",
+            "japanese": "Certo, ecco il gelato!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
