@@ -6079,6 +6079,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T17:01:23.127639",
+      "dialogue": {
+        "topic": "Anime hero moment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, watch me!",
+            "japanese": "マグ、みてください！",
+            "romaji": "Magu, mite kudasai!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I will watch!",
+            "japanese": "はい、みます！",
+            "romaji": "Hai, mimasu!"
+          },
+          {
+            "speaker": "A",
+            "english": "I will not lose!",
+            "japanese": "ぼくは まけません！",
+            "romaji": "Boku wa makemasen!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow! You are a hero!",
+            "japanese": "すごい！ヒーローです！",
+            "romaji": "Sugoi! Hiiroo desu!"
+          }
+        ]
+      }
     }
   ]
 }
