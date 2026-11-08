@@ -6875,6 +6875,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T17:20:23.430237",
+      "dialogue": {
+        "topic": "Hungry for Lunch",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you hungry?",
+            "target_text": "Tu as faim ?",
+            "japanese": "Tu as faim ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hungry!",
+            "target_text": "Oui, très faim !",
+            "japanese": "Oui, très faim !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we eat here?",
+            "target_text": "On mange ici ?",
+            "japanese": "On mange ici ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s perfect!",
+            "target_text": "Oui, c’est parfait !",
+            "japanese": "Oui, c’est parfait !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
