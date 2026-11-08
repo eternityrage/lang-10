@@ -6695,6 +6695,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T02:36:52.360496",
+      "dialogue": {
+        "topic": "Buying bread at the market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much is the bread?",
+            "target_text": "Hola, ¿cuánto cuesta el pan?",
+            "japanese": "Hola, ¿cuánto cuesta el pan?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only two euros!",
+            "target_text": "¡Solo cuesta dos euros!",
+            "japanese": "¡Solo cuesta dos euros!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I pay by card?",
+            "target_text": "¿Puedo pagar con tarjeta?",
+            "japanese": "¿Puedo pagar con tarjeta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course! Thanks.",
+            "target_text": "¡Sí, claro! Gracias.",
+            "japanese": "¡Sí, claro! Gracias.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
