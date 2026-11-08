@@ -6803,6 +6803,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T02:43:21.574189",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you always smile?",
+            "target_text": "Salut, tu souris toujours ?",
+            "japanese": "Salut, tu souris toujours ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with you!",
+            "target_text": "Oui, avec toi !",
+            "japanese": "Oui, avec toi !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk together?",
+            "target_text": "On marche ensemble ?",
+            "japanese": "On marche ensemble ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
