@@ -7519,6 +7519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T17:07:43.154364",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want to walk?",
+            "target_text": "היי, רוצה לטייל?",
+            "transliteration": "Hai, rotze letayel?",
+            "japanese": "היי, רוצה לטייל?",
+            "romaji": "Hai, rotze letayel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, totally cool!",
+            "target_text": "כן, סבבה ממש!",
+            "transliteration": "Ken, sababa mamash!",
+            "japanese": "כן, סבבה ממש!",
+            "romaji": "Ken, sababa mamash!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, shall we go now?",
+            "target_text": "יופי, נלך עכשיו?",
+            "transliteration": "Yofi, nelekh akhshav?",
+            "japanese": "יופי, נלך עכשיו?",
+            "romaji": "Yofi, nelekh akhshav?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yalla, let's go!",
+            "target_text": "יאללה, בוא נלך!",
+            "transliteration": "Yalla, bo nelekh!",
+            "japanese": "יאללה, בוא נלך!",
+            "romaji": "Yalla, bo nelekh!"
+          }
+        ]
+      }
     }
   ]
 }
