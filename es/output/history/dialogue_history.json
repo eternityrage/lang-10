@@ -6731,6 +6731,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T12:07:06.602568",
+      "dialogue": {
+        "topic": "Travel & Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what line is it?",
+            "target_text": "Hola, ¿qué línea es?",
+            "japanese": "Hola, ¿qué línea es?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It’s line two!",
+            "target_text": "¡Es la línea dos!",
+            "japanese": "¡Es la línea dos!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go to the museum?",
+            "target_text": "¿Va al museo?",
+            "japanese": "¿Va al museo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go now!",
+            "target_text": "¡Sí, vamos ahora!",
+            "japanese": "¡Sí, vamos ahora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
