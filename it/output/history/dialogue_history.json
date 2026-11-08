@@ -6731,6 +6731,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T02:56:28.036716",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what flavor do you want?",
+            "target_text": "Ciao, che gusto vuoi?",
+            "japanese": "Ciao, che gusto vuoi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Chocolate, so good!",
+            "target_text": "Cioccolato, che buono!",
+            "japanese": "Cioccolato, che buono!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Cup or cone?",
+            "target_text": "Coppetta o cono?",
+            "japanese": "Coppetta o cono?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Cup, thanks a lot!",
+            "target_text": "Coppetta, grazie mille!",
+            "japanese": "Coppetta, grazie mille!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
