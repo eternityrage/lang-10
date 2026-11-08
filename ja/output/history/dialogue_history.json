@@ -6015,6 +6015,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T02:23:51.889540",
+      "dialogue": {
+        "topic": "Waiting for the Bus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What time is the bus?",
+            "japanese": "バスは なんじですか？",
+            "romaji": "Basu wa nanji desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is at three.",
+            "japanese": "さんじです。",
+            "romaji": "Sanji desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Do we wait here?",
+            "japanese": "ここで まちますか？",
+            "romaji": "Koko de machimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we wait here.",
+            "japanese": "はい、ここで まちます。",
+            "romaji": "Hai, koko de machimasu."
+          }
+        ]
+      }
     }
   ]
 }
