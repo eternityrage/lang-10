@@ -6731,6 +6731,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T03:22:44.879106",
+      "dialogue": {
+        "topic": "Açaí Bowl & Smoothies",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Do you have strawberry smoothie?",
+            "target_text": "Oi! Tem vitamina de morango?",
+            "japanese": "Oi! Tem vitamina de morango?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold!",
+            "target_text": "Tem sim, bem gelada!",
+            "japanese": "Tem sim, bem gelada!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can it be without sugar?",
+            "target_text": "Pode ser sem açúcar?",
+            "japanese": "Pode ser sem açúcar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! It tastes delicious.",
+            "target_text": "Claro! Fica uma delícia.",
+            "japanese": "Claro! Fica uma delícia.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
