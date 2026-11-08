@@ -7479,6 +7479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T12:00:42.376673",
+      "dialogue": {
+        "topic": "Shopping & Boutiques",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, a red dress?",
+            "target_text": "שלום, יש שמלה אדומה?",
+            "transliteration": "Shalom, yesh simla aduma?",
+            "japanese": "שלום, יש שמלה אדומה?",
+            "romaji": "Shalom, yesh simla aduma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here is one.",
+            "target_text": "כן, הנה אחת.",
+            "transliteration": "Ken, hine achat.",
+            "japanese": "כן, הנה אחת.",
+            "romaji": "Ken, hine achat."
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze ole?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze ole?"
+          },
+          {
+            "speaker": "B",
+            "english": "Twenty shekels, please.",
+            "target_text": "עשרים שקל, בבקשה.",
+            "transliteration": "Esrim shekel, bevakasha.",
+            "japanese": "עשרים שקל, בבקשה.",
+            "romaji": "Esrim shekel, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
