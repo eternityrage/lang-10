@@ -7519,6 +7519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T17:53:01.565690",
+      "dialogue": {
+        "topic": "Cafe & Hot Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have hot tea?",
+            "russian": "Здравствуйте, есть горячий чай?",
+            "translit": "Zdravstvuyte, yest' goryachiy chay?",
+            "japanese": "Здравствуйте, есть горячий чай?",
+            "romaji": "Zdravstvuyte, yest' goryachiy chay?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we have tasty tea!",
+            "russian": "Да, есть вкусный чай!",
+            "translit": "Da, yest' vkusnyy chay!",
+            "japanese": "Да, есть вкусный чай!",
+            "romaji": "Da, yest' vkusnyy chay!"
+          },
+          {
+            "speaker": "A",
+            "english": "One cup, please?",
+            "russian": "Можно чашку, пожалуйста?",
+            "translit": "Mozhno chashku, pozhaluysta?",
+            "japanese": "Можно чашку, пожалуйста?",
+            "romaji": "Mozhno chashku, pozhaluysta?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, tea is ready!",
+            "russian": "Конечно, чай уже готов!",
+            "translit": "Konechno, chay uzhe gotov!",
+            "japanese": "Конечно, чай уже готов!",
+            "romaji": "Konechno, chay uzhe gotov!"
+          }
+        ]
+      }
     }
   ]
 }
