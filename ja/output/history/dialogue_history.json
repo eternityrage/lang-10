@@ -6047,6 +6047,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T11:54:04.215029",
+      "dialogue": {
+        "topic": "Coffee tastes awesome",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Coffee, is it good?",
+            "japanese": "コーヒー、うまい？",
+            "romaji": "Koohii, umai?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, super good!",
+            "japanese": "うん、マジうまい！",
+            "romaji": "Un, maji umai!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I drink a little?",
+            "japanese": "すこし のんでいい？",
+            "romaji": "Sukoshi nonde ii?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, go ahead!",
+            "japanese": "いいよ、どうぞ！",
+            "romaji": "Ii yo, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
