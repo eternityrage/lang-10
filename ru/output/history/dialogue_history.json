@@ -7559,6 +7559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T21:57:10.212154",
+      "dialogue": {
+        "topic": "Cute scarf compliment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! You have a cute scarf!",
+            "russian": "Привет! У тебя милый шарф!",
+            "translit": "Privet! U tebya milyy sharf!",
+            "japanese": "Привет! У тебя милый шарф!",
+            "romaji": "Privet! U tebya milyy sharf!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! It is new.",
+            "russian": "Спасибо! Он новый.",
+            "translit": "Spasibo! On novyy.",
+            "japanese": "Спасибо! Он новый.",
+            "romaji": "Spasibo! On novyy."
+          },
+          {
+            "speaker": "A",
+            "english": "It really suits you.",
+            "russian": "Тебе очень идёт.",
+            "translit": "Tebe ochen' idyot.",
+            "japanese": "Тебе очень идёт.",
+            "romaji": "Tebe ochen' idyot."
+          },
+          {
+            "speaker": "B",
+            "english": "How nice, thank you!",
+            "russian": "Как приятно, спасибо!",
+            "translit": "Kak priyatno, spasibo!",
+            "japanese": "Как приятно, спасибо!",
+            "romaji": "Kak priyatno, spasibo!"
+          }
+        ]
+      }
     }
   ]
 }
