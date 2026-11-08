@@ -7479,6 +7479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T12:46:36.280599",
+      "dialogue": {
+        "topic": "Cafe & Hot Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, hot tea, please?",
+            "russian": "Здравствуйте, можно горячий чай?",
+            "translit": "Zdravstvuyte, mozhno goryachiy chay?",
+            "japanese": "Здравствуйте, можно горячий чай?",
+            "romaji": "Zdravstvuyte, mozhno goryachiy chay?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, with sugar?",
+            "russian": "Конечно, с сахаром?",
+            "translit": "Konechno, s sakharom?",
+            "japanese": "Конечно, с сахаром?",
+            "romaji": "Konechno, s sakharom?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, one sugar, please.",
+            "russian": "Да, один сахар, пожалуйста.",
+            "translit": "Da, odin sakhar, pozhaluysta.",
+            "japanese": "Да, один сахар, пожалуйста.",
+            "romaji": "Da, odin sakhar, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Here is your hot tea!",
+            "russian": "Вот ваш горячий чай!",
+            "translit": "Vot vash goryachiy chay!",
+            "japanese": "Вот ваш горячий чай!",
+            "romaji": "Vot vash goryachiy chay!"
+          }
+        ]
+      }
     }
   ]
 }
