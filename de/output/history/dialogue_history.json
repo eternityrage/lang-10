@@ -6803,6 +6803,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-08T12:20:09.269229",
+      "dialogue": {
+        "topic": "Berlin Street Life - By the Spree",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is that the Spree?",
+            "target_text": "Hallo, ist das die Spree?",
+            "japanese": "Hallo, ist das die Spree?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, beautiful, right?",
+            "target_text": "Ja, schön, oder?",
+            "japanese": "Ja, schön, oder?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the bridge close?",
+            "target_text": "Ist die Brücke nah?",
+            "japanese": "Ist die Brücke nah?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, two minutes straight ahead.",
+            "target_text": "Ja, zwei Minuten geradeaus.",
+            "japanese": "Ja, zwei Minuten geradeaus.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
