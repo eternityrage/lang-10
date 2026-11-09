@@ -7639,6 +7639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T13:58:13.030819",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have cookies?",
+            "target_text": "שלום, יש לכם עוגיות?",
+            "transliteration": "Shalom, yesh lachem ugiyot?",
+            "japanese": "שלום, יש לכם עוגיות?",
+            "romaji": "Shalom, yesh lachem ugiyot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, tasty cookies!",
+            "target_text": "כן, יש עוגיות טעימות!",
+            "transliteration": "Ken, yesh ugiyot te'imot!",
+            "japanese": "כן, יש עוגיות טעימות!",
+            "romaji": "Ken, yesh ugiyot te'imot!"
+          },
+          {
+            "speaker": "A",
+            "english": "Small coffee too, please.",
+            "target_text": "קפה קטן גם, בבקשה.",
+            "transliteration": "Kafe katan gam, bevakasha.",
+            "japanese": "קפה קטן גם, בבקשה.",
+            "romaji": "Kafe katan gam, bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, here is everything.",
+            "target_text": "בשמחה, הנה הכול.",
+            "transliteration": "Besimcha, hine hakol.",
+            "japanese": "בשמחה, הנה הכול.",
+            "romaji": "Besimcha, hine hakol."
+          }
+        ]
+      }
     }
   ]
 }
