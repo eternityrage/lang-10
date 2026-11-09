@@ -6911,6 +6911,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T21:38:23.972208",
+      "dialogue": {
+        "topic": "Olives at the cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there olives?",
+            "target_text": "Hola, ¿hay aceitunas?",
+            "japanese": "Hola, ¿hay aceitunas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very good!",
+            "target_text": "¡Sí, están muy buenas!",
+            "japanese": "¡Sí, están muy buenas!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One tapa, please.",
+            "target_text": "Una tapa, por favor.",
+            "japanese": "Una tapa, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, right now!",
+            "target_text": "¡Claro, ahora mismo!",
+            "japanese": "¡Claro, ahora mismo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
