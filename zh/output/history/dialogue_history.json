@@ -7799,6 +7799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T03:23:06.451445",
+      "dialogue": {
+        "topic": "Ordering Milk Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have milk tea?",
+            "chinese": "有奶茶吗？",
+            "pinyin": "Yǒu nǎichá ma?",
+            "japanese": "有奶茶吗？",
+            "romaji": "Yǒu nǎichá ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, hot ones!",
+            "chinese": "有，热的！",
+            "pinyin": "Yǒu, rè de!",
+            "japanese": "有，热的！",
+            "romaji": "Yǒu, rè de!"
+          },
+          {
+            "speaker": "A",
+            "english": "I want one cup.",
+            "chinese": "我要一杯。",
+            "pinyin": "Wǒ yào yì bēi.",
+            "japanese": "我要一杯。",
+            "romaji": "Wǒ yào yì bēi."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here you go.",
+            "chinese": "好，给你。",
+            "pinyin": "Hǎo, gěi nǐ.",
+            "japanese": "好，给你。",
+            "romaji": "Hǎo, gěi nǐ."
+          }
+        ]
+      }
     }
   ]
 }
