@@ -6983,6 +6983,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T21:51:06.811608",
+      "dialogue": {
+        "topic": "Kuchen im Café bestellen",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the cake fresh?",
+            "target_text": "Hallo, ist der Kuchen frisch?",
+            "japanese": "Hallo, ist der Kuchen frisch?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "target_text": "Ja, sehr frisch!",
+            "japanese": "Ja, sehr frisch!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then one piece, please.",
+            "target_text": "Dann ein Stück, bitte.",
+            "japanese": "Dann ein Stück, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, coming right away.",
+            "target_text": "Gern, kommt sofort.",
+            "japanese": "Gern, kommt sofort.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
