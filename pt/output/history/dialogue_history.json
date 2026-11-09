@@ -6875,6 +6875,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T03:36:00.020303",
+      "dialogue": {
+        "topic": "Samba na festa",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there samba today?",
+            "target_text": "Oi, tem samba hoje?",
+            "japanese": "Oi, tem samba hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the party is great!",
+            "target_text": "Tem, a festa bombou!",
+            "japanese": "Tem, a festa bombou!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I dance with you?",
+            "target_text": "Posso dançar com você?",
+            "japanese": "Posso dançar com você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, let’s dance now!",
+            "target_text": "Claro, vamos dançar agora!",
+            "japanese": "Claro, vamos dançar agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
