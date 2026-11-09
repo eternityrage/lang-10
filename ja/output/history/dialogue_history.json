@@ -6143,6 +6143,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T02:37:58.619851",
+      "dialogue": {
+        "topic": "Tiny Hero",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, am I a hero?",
+            "japanese": "マグ、ぼくは ヒーローですか？",
+            "romaji": "Magu, boku wa hiiroo desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a small hero!",
+            "japanese": "はい、ちいさい ヒーローです！",
+            "romaji": "Hai, chiisai hiiroo desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, I will try!",
+            "japanese": "じゃ、がんばります！",
+            "romaji": "Ja, ganbarimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Go, Cupcake!",
+            "japanese": "いけ、カップケーキ！",
+            "romaji": "Ike, kappukeeki!"
+          }
+        ]
+      }
     }
   ]
 }
