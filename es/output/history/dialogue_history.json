@@ -6875,6 +6875,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T14:04:52.167525",
+      "dialogue": {
+        "topic": "Complimenting a jacket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Nice jacket.",
+            "target_text": "¡Hola! Bonita chaqueta.",
+            "japanese": "¡Hola! Bonita chaqueta.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! It's new.",
+            "target_text": "¡Gracias! Es nueva.",
+            "japanese": "¡Gracias! Es nueva.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "It suits you well.",
+            "target_text": "Te queda muy bien.",
+            "japanese": "Te queda muy bien.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "You are so kind!",
+            "target_text": "¡Qué amable eres!",
+            "japanese": "¡Qué amable eres!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
