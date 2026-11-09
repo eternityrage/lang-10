@@ -7639,6 +7639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T14:33:14.324495",
+      "dialogue": {
+        "topic": "Buying Water Before the Subway",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have cold water?",
+            "korean": "차가운 물 있어요?",
+            "romaja": "Chagaun mul isseoyo?",
+            "japanese": "차가운 물 있어요?",
+            "romaji": "Chagaun mul isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is here!",
+            "korean": "네, 여기 있어요!",
+            "romaja": "Ne, yeogi isseoyo!",
+            "japanese": "네, 여기 있어요!",
+            "romaji": "Ne, yeogi isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll drink it on subway.",
+            "korean": "지하철에서 물 마실게요.",
+            "romaja": "Jihacheoreseo mul masilgeyo.",
+            "japanese": "지하철에서 물 마실게요.",
+            "romaji": "Jihacheoreseo mul masilgeyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let’s go together!",
+            "korean": "좋아요, 같이 가요!",
+            "romaja": "Joayo, gachi gayo!",
+            "japanese": "좋아요, 같이 가요!",
+            "romaji": "Joayo, gachi gayo!"
+          }
+        ]
+      }
     }
   ]
 }
