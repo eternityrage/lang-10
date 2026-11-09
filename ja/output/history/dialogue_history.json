@@ -6175,6 +6175,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T13:49:45.476065",
+      "dialogue": {
+        "topic": "Shopping & Fashion - Trying a Hat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, this hat is cute.",
+            "japanese": "マグさん、この ぼうし、かわいいです。",
+            "romaji": "Magu-san, kono boushi, kawaii desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it suits you.",
+            "japanese": "はい、にあいますよ。",
+            "romaji": "Hai, niaimasu yo."
+          },
+          {
+            "speaker": "A",
+            "english": "May I try it?",
+            "japanese": "かぶっても いいですか？",
+            "romaji": "Kabutte mo ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, try it on.",
+            "japanese": "はい、かぶってください。",
+            "romaji": "Hai, kabutte kudasai."
+          }
+        ]
+      }
     }
   ]
 }
