@@ -6911,6 +6911,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T03:03:45.069272",
+      "dialogue": {
+        "topic": "Cafe & Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this free?",
+            "target_text": "Hallo, ist hier frei?",
+            "japanese": "Hallo, ist hier frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please, gladly!",
+            "target_text": "Ja, bitte, gerne!",
+            "japanese": "Ja, bitte, gerne!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A shandy, please.",
+            "target_text": "Ein Radler, bitte.",
+            "japanese": "Ein Radler, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, coming right away!",
+            "target_text": "Gern, kommt sofort!",
+            "japanese": "Gern, kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
