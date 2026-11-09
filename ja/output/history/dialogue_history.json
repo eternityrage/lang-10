@@ -6207,6 +6207,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T21:25:30.807928",
+      "dialogue": {
+        "topic": "Heart on the mug",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, please look here!",
+            "japanese": "マグさん、ここを みて！",
+            "romaji": "Magu-san, koko o mite!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow! It is a heart!",
+            "japanese": "わあ！ハートです！",
+            "romaji": "Waa! Haato desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it very cute?",
+            "japanese": "とても かわいいですか？",
+            "romaji": "Totemo kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Very, very cute!",
+            "japanese": "はい！とても とても かわいいです！",
+            "romaji": "Hai! Totemo totemo kawaii desu!"
+          }
+        ]
+      }
     }
   ]
 }
