@@ -6875,6 +6875,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T03:10:06.849195",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, beautiful square, right?",
+            "target_text": "Ciao, bella piazza, vero?",
+            "japanese": "Ciao, bella piazza, vero?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very beautiful!",
+            "target_text": "Sì, è molto bella!",
+            "japanese": "Sì, è molto bella!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we get a coffee?",
+            "target_text": "Prendiamo un caffè?",
+            "japanese": "Prendiamo un caffè?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly, let's go!",
+            "target_text": "Sì, volentieri, andiamo!",
+            "japanese": "Sì, volentieri, andiamo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
