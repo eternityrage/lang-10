@@ -6947,6 +6947,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T21:57:40.811266",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what a beautiful smile!",
+            "target_text": "Ciao, che bel sorriso!",
+            "japanese": "Ciao, che bel sorriso!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you're very kind!",
+            "target_text": "Grazie, sei molto gentile!",
+            "japanese": "Grazie, sei molto gentile!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Really, you light up the room.",
+            "target_text": "Davvero, illumini la stanza.",
+            "japanese": "Davvero, illumini la stanza.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "You're very sweet, thanks!",
+            "target_text": "Sei molto dolce, grazie!",
+            "japanese": "Sei molto dolce, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
