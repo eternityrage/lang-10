@@ -6947,6 +6947,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T02:57:16.203802",
+      "dialogue": {
+        "topic": "Metro & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this metro direct?",
+            "target_text": "Bonjour, ce métro est direct ?",
+            "japanese": "Bonjour, ce métro est direct ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is direct!",
+            "target_text": "Oui, il est direct !",
+            "japanese": "Oui, il est direct !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go to Bastille?",
+            "target_text": "Il va à Bastille ?",
+            "japanese": "Il va à Bastille ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Oui, bon voyage !",
+            "japanese": "Oui, bon voyage !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
