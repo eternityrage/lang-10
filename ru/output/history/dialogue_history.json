@@ -7679,6 +7679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T22:17:19.441923",
+      "dialogue": {
+        "topic": "Ordering Borsch & Pelmeni",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, can I have borsch?",
+            "russian": "Здравствуйте, можно мне борщ?",
+            "translit": "Zdravstvuyte, mozhno mne borshch?",
+            "japanese": "Здравствуйте, можно мне борщ?",
+            "romaji": "Zdravstvuyte, mozhno mne borshch?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, very tasty!",
+            "russian": "Да, конечно, очень вкусно!",
+            "translit": "Da, konechno, ochen vkusno!",
+            "japanese": "Да, конечно, очень вкусно!",
+            "romaji": "Da, konechno, ochen vkusno!"
+          },
+          {
+            "speaker": "A",
+            "english": "And pelmeni too, please.",
+            "russian": "И пельмени тоже, пожалуйста.",
+            "translit": "I pelmeni tozhe, pozhaluysta.",
+            "japanese": "И пельмени тоже, пожалуйста.",
+            "romaji": "I pelmeni tozhe, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, one minute, please.",
+            "russian": "Отлично, одну минуту, пожалуйста.",
+            "translit": "Otlichno, odnu minutu, pozhaluysta.",
+            "japanese": "Отлично, одну минуту, пожалуйста.",
+            "romaji": "Otlichno, odnu minutu, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
