@@ -7879,6 +7879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T22:10:37.860436",
+      "dialogue": {
+        "topic": "Taxi to the Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Take a taxi?",
+            "chinese": "打车吗？",
+            "pinyin": "Dǎ chē ma?",
+            "japanese": "打车吗？",
+            "romaji": "Dǎ chē ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, let’s go!",
+            "chinese": "好，走吧！",
+            "pinyin": "Hǎo, zǒu ba!",
+            "japanese": "好，走吧！",
+            "romaji": "Hǎo, zǒu ba!"
+          },
+          {
+            "speaker": "A",
+            "english": "To the metro?",
+            "chinese": "去地铁站？",
+            "pinyin": "Qù dì tiě zhàn?",
+            "japanese": "去地铁站？",
+            "romaji": "Qù dì tiě zhàn?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very close.",
+            "chinese": "对，很近。",
+            "pinyin": "Duì, hěn jìn.",
+            "japanese": "对，很近。",
+            "romaji": "Duì, hěn jìn."
+          }
+        ]
+      }
     }
   ]
 }
