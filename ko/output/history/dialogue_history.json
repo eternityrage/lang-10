@@ -7679,6 +7679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-09T22:04:09.138358",
+      "dialogue": {
+        "topic": "A sweet walk together",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we walk together?",
+            "korean": "우리 같이 걸을래요?",
+            "romaja": "Uri gachi georeullaeyo?",
+            "japanese": "우리 같이 걸을래요?",
+            "romaji": "Uri gachi georeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like that!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I hold your hand?",
+            "korean": "손 잡아도 돼요?",
+            "romaja": "Son jabado dwaeyo?",
+            "japanese": "손 잡아도 돼요?",
+            "romaji": "Son jabado dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, my heart flutters too.",
+            "korean": "네, 저도 설레요.",
+            "romaja": "Ne, jeodo seolleyo.",
+            "japanese": "네, 저도 설레요.",
+            "romaji": "Ne, jeodo seolleyo."
+          }
+        ]
+      }
     }
   ]
 }
