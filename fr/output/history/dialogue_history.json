@@ -7163,6 +7163,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T19:00:53.060926",
+      "dialogue": {
+        "topic": "Street Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how are you?",
+            "target_text": "Bonjour, ça va ?",
+            "japanese": "Bonjour, ça va ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, great, thanks!",
+            "target_text": "Oui, super, merci !",
+            "japanese": "Oui, super, merci !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice weather, right?",
+            "target_text": "Il fait beau, non ?",
+            "japanese": "Il fait beau, non ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good day!",
+            "target_text": "Oui, bonne journée !",
+            "japanese": "Oui, bonne journée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
