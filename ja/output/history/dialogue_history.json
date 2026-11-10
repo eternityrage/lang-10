@@ -6303,6 +6303,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T13:37:16.389438",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Work now?",
+            "japanese": "いま、しごとですか？",
+            "romaji": "Ima, shigoto desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but slowly.",
+            "japanese": "はい、ゆっくりです。",
+            "romaji": "Hai, yukkuri desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Let's rest a little.",
+            "japanese": "すこし、やすみましょう。",
+            "romaji": "Sukoshi, yasumimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Coffee, here you go.",
+            "japanese": "はい！コーヒー、どうぞ！",
+            "romaji": "Hai! Koohii, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
