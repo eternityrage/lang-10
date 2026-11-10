@@ -7839,6 +7839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T19:34:37.255088",
+      "dialogue": {
+        "topic": "Street Greetings & Friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "russian": "Привет, как дела?",
+            "translit": "Privet, kak dela?",
+            "japanese": "Привет, как дела?",
+            "romaji": "Privet, kak dela?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I am very happy!",
+            "russian": "Отлично, я очень рад!",
+            "translit": "Otlichno, ya ochen rad!",
+            "japanese": "Отлично, я очень рад!",
+            "romaji": "Otlichno, ya ochen rad!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk together?",
+            "russian": "Идём гулять вместе?",
+            "translit": "Idyom gulyat vmeste?",
+            "japanese": "Идём гулять вместе?",
+            "romaji": "Idyom gulyat vmeste?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go now!",
+            "russian": "Да, идём сейчас!",
+            "translit": "Da, idyom seychas!",
+            "japanese": "Да, идём сейчас!",
+            "romaji": "Da, idyom seychas!"
+          }
+        ]
+      }
     }
   ]
 }
