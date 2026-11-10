@@ -7879,6 +7879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T22:24:41.754959",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, to Dan Hotel?",
+            "target_text": "שלום, למלון דן?",
+            "transliteration": "Shalom, le-malon Dan?",
+            "japanese": "שלום, למלון דן?",
+            "romaji": "Shalom, le-malon Dan?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please, happily!",
+            "target_text": "כן, בבקשה, בכיף!",
+            "transliteration": "Ken, bevakasha, bekef!",
+            "japanese": "כן, בבקשה, בכיף!",
+            "romaji": "Ken, bevakasha, bekef!"
+          },
+          {
+            "speaker": "A",
+            "english": "How long is it?",
+            "target_text": "כמה זמן זה?",
+            "transliteration": "Kama zman ze?",
+            "japanese": "כמה זמן זה?",
+            "romaji": "Kama zman ze?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten minutes, we’ll arrive fast.",
+            "target_text": "עשר דקות, נגיע מהר.",
+            "transliteration": "Eser dakot, nagia maher.",
+            "japanese": "עשר דקות, נגיע מהר.",
+            "romaji": "Eser dakot, nagia maher."
+          }
+        ]
+      }
     }
   ]
 }
