@@ -7799,6 +7799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T13:58:17.469820",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there hot coffee?",
+            "target_text": "שלום, יש קפה חם?",
+            "transliteration": "Shalom, yesh kafe cham?",
+            "japanese": "שלום, יש קפה חם?",
+            "romaji": "Shalom, yesh kafe cham?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh coffee!",
+            "target_text": "כן, קפה טרי מאוד!",
+            "transliteration": "Ken, kafe tari me'od!",
+            "japanese": "כן, קפה טרי מאוד!",
+            "romaji": "Ken, kafe tari me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I also have a cookie?",
+            "target_text": "אפשר גם עוגייה?",
+            "transliteration": "Efshar gam ugiyah?",
+            "japanese": "אפשר גם עוגייה?",
+            "romaji": "Efshar gam ugiyah?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, sweet day!",
+            "target_text": "בטח, יום מתוק!",
+            "transliteration": "Betach, yom matok!",
+            "japanese": "בטח, יום מתוק!",
+            "romaji": "Betach, yom matok!"
+          }
+        ]
+      }
     }
   ]
 }
