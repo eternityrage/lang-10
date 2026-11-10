@@ -7879,6 +7879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T23:11:08.043836",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! Do you have a loaf?",
+            "russian": "Здравствуйте! Есть батон?",
+            "translit": "Zdravstvuyte! Est' baton?",
+            "japanese": "Здравствуйте! Есть батон?",
+            "romaji": "Zdravstvuyte! Est' baton?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, warm and soft!",
+            "russian": "Да, тёплый и мягкий!",
+            "translit": "Da, tyoplyy i myagkiy!",
+            "japanese": "Да, тёплый и мягкий!",
+            "romaji": "Da, tyoplyy i myagkiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "One loaf, please.",
+            "russian": "Один батон, пожалуйста.",
+            "translit": "Odin baton, pozhaluysta.",
+            "japanese": "Один батон, пожалуйста.",
+            "romaji": "Odin baton, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, enjoy!",
+            "russian": "Конечно, приятного аппетита!",
+            "translit": "Konechno, priyatnogo appetita!",
+            "japanese": "Конечно, приятного аппетита!",
+            "romaji": "Konechno, priyatnogo appetita!"
+          }
+        ]
+      }
     }
   ]
 }
