@@ -7019,6 +7019,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T14:16:08.841050",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there tapas today?",
+            "target_text": "Hola, ¿hay tapas hoy?",
+            "japanese": "Hola, ¿hay tapas hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there are many.",
+            "target_text": "Sí, hay muchas.",
+            "japanese": "Sí, hay muchas.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want one with cheese.",
+            "target_text": "Quiero una de queso.",
+            "japanese": "Quiero una de queso.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, right away.",
+            "target_text": "Perfecto, ahora mismo.",
+            "japanese": "Perfecto, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
