@@ -7055,6 +7055,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T05:14:52.361314",
+      "dialogue": {
+        "topic": "Ein Wasser bestellen",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one water, please?",
+            "target_text": "Hallo, ein Wasser, bitte?",
+            "japanese": "Hallo, ein Wasser, bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With ice, please.",
+            "target_text": "Mit Eis, bitte.",
+            "japanese": "Mit Eis, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is coming right away!",
+            "target_text": "Es kommt sofort!",
+            "japanese": "Es kommt sofort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
