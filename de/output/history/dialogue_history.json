@@ -7163,6 +7163,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T22:44:15.403548",
+      "dialogue": {
+        "topic": "Bike ride in Berlin",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is that your bike?",
+            "target_text": "Hallo, ist das dein Rad?",
+            "japanese": "Hallo, ist das dein Rad?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is new!",
+            "target_text": "Ja, es ist neu!",
+            "japanese": "Ja, es ist neu!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you riding to the park?",
+            "target_text": "Fährst du zum Park?",
+            "japanese": "Fährst du zum Park?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come with me!",
+            "target_text": "Ja, komm doch mit!",
+            "japanese": "Ja, komm doch mit!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
