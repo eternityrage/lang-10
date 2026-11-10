@@ -7879,6 +7879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T22:57:35.652175",
+      "dialogue": {
+        "topic": "Buying water at a convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have cold water?",
+            "korean": "시원한 물 있어요?",
+            "romaja": "Siwonhan mul isseoyo?",
+            "japanese": "시원한 물 있어요?",
+            "romaji": "Siwonhan mul isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s right here!",
+            "korean": "네, 여기 있어요!",
+            "romaja": "Ne, yeogi isseoyo!",
+            "japanese": "네, 여기 있어요!",
+            "romaji": "Ne, yeogi isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is this water?",
+            "korean": "이 물 얼마예요?",
+            "romaja": "I mul eolmayeyo?",
+            "japanese": "이 물 얼마예요?",
+            "romaji": "I mul eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "This is 1,000 won!",
+            "korean": "이건 천 원이에요!",
+            "romaja": "Igeon cheon wonieyo!",
+            "japanese": "이건 천 원이에요!",
+            "romaji": "Igeon cheon wonieyo!"
+          }
+        ]
+      }
     }
   ]
 }
