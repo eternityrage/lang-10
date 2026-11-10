@@ -7199,6 +7199,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T22:37:48.300439",
+      "dialogue": {
+        "topic": "Buying a metro ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one ticket, please?",
+            "target_text": "Bonjour, un billet, s’il vous plaît ?",
+            "japanese": "Bonjour, un billet, s’il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, which station?",
+            "target_text": "Bien sûr, quelle station ?",
+            "japanese": "Bien sûr, quelle station ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "To Gare du Nord.",
+            "target_text": "Pour Gare du Nord.",
+            "japanese": "Pour Gare du Nord.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, here is your ticket.",
+            "target_text": "Parfait, voilà votre billet.",
+            "japanese": "Parfait, voilà votre billet.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
