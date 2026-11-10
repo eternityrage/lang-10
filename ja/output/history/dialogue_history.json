@@ -6335,6 +6335,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T18:39:29.347710",
+      "dialogue": {
+        "topic": "Travel & Transit",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, where is the taxi?",
+            "japanese": "マグ、タクシーは どこですか？",
+            "romaji": "Magu, takushii wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's over there!",
+            "japanese": "あそこですよ！",
+            "romaji": "Asoko desu yo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do we wait here?",
+            "japanese": "ここで まちますか？",
+            "romaji": "Koko de machimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we wait here.",
+            "japanese": "はい、ここで まちます。",
+            "romaji": "Hai, koko de machimasu."
+          }
+        ]
+      }
     }
   ]
 }
