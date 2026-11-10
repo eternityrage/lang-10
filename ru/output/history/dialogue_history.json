@@ -7719,6 +7719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T02:04:25.686774",
+      "dialogue": {
+        "topic": "Cute Russian Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you are so cute!",
+            "russian": "Привет, ты такая милая!",
+            "translit": "Privet, ty takaya milaya!",
+            "japanese": "Привет, ты такая милая!",
+            "romaji": "Privet, ty takaya milaya!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are cute too!",
+            "russian": "Спасибо, ты тоже милый!",
+            "translit": "Spasibo, ty tozhe milyy!",
+            "japanese": "Спасибо, ты тоже милый!",
+            "romaji": "Spasibo, ty tozhe milyy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really, you think so?",
+            "russian": "Правда, тебе так кажется?",
+            "translit": "Pravda, tebe tak kazhetsya?",
+            "japanese": "Правда, тебе так кажется?",
+            "romaji": "Pravda, tebe tak kazhetsya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, you are really cool!",
+            "russian": "Да, ты очень классный!",
+            "translit": "Da, ty ochen klassnyy!",
+            "japanese": "Да, ты очень классный!",
+            "romaji": "Da, ty ochen klassnyy!"
+          }
+        ]
+      }
     }
   ]
 }
