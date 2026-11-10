@@ -7127,6 +7127,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T14:22:46.397610",
+      "dialogue": {
+        "topic": "Street greeting: taking a walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how are you?",
+            "target_text": "Bonjour, ça va ?",
+            "japanese": "Bonjour, ça va ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, great, thanks!",
+            "target_text": "Oui, super, merci !",
+            "japanese": "Oui, super, merci !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you taking a walk?",
+            "target_text": "Tu te promènes ?",
+            "japanese": "Tu te promènes ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you!",
+            "target_text": "Oui, à plus !",
+            "japanese": "Oui, à plus !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
