@@ -7091,6 +7091,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T14:29:19.075661",
+      "dialogue": {
+        "topic": "Cafe & Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this table free?",
+            "target_text": "Hallo, ist der Tisch frei?",
+            "japanese": "Hallo, ist der Tisch frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Ja, bitte sehr!",
+            "japanese": "Ja, bitte sehr!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, I’ll have lemonade.",
+            "target_text": "Danke, ich nehme Limo.",
+            "japanese": "Danke, ich nehme Limo.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, coming right up.",
+            "target_text": "Sehr gern, kommt sofort.",
+            "japanese": "Sehr gern, kommt sofort.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
