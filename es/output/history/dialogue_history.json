@@ -6983,6 +6983,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T04:57:38.546567",
+      "dialogue": {
+        "topic": "Madrid and Barcelona are big",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is Madrid big?",
+            "target_text": "Hola, ¿Madrid es grande?",
+            "japanese": "Hola, ¿Madrid es grande?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, and very beautiful!",
+            "target_text": "¡Sí, y muy bonito!",
+            "japanese": "¡Sí, y muy bonito!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is Barcelona big too?",
+            "target_text": "¿Barcelona es grande también?",
+            "japanese": "¿Barcelona es grande también?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love both.",
+            "target_text": "Sí, las dos me encantan.",
+            "japanese": "Sí, las dos me encantan.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
