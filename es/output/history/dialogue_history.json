@@ -7091,6 +7091,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T22:31:18.346156",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we dance a little?",
+            "target_text": "Hola, ¿bailamos un poco?",
+            "japanese": "Hola, ¿bailamos un poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love dancing!",
+            "target_text": "¡Sí, me encanta bailar!",
+            "japanese": "¡Sí, me encanta bailar!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "The music is great.",
+            "target_text": "La música está genial.",
+            "japanese": "La música está genial.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Come on, the night begins!",
+            "target_text": "¡Vamos, la noche empieza!",
+            "japanese": "¡Vamos, la noche empieza!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
