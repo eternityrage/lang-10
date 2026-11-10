@@ -6239,6 +6239,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T00:39:53.975253",
+      "dialogue": {
+        "topic": "Shopping for a hat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this hat nice?",
+            "japanese": "この ぼうし、いいですか？",
+            "romaji": "Kono boushi, ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Very nice.",
+            "japanese": "はい！とても いいです。",
+            "romaji": "Hai! Totemo ii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "One of these, please.",
+            "japanese": "これを ひとつ ください。",
+            "romaji": "Kore o hitotsu kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "japanese": "はい、どうぞ！ありがとう！",
+            "romaji": "Hai, douzo! Arigatou!"
+          }
+        ]
+      }
     }
   ]
 }
