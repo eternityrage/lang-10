@@ -7127,6 +7127,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T19:07:37.391301",
+      "dialogue": {
+        "topic": "Polite request to open a window",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can you open the window?",
+            "target_text": "Können Sie das Fenster öffnen?",
+            "japanese": "Können Sie das Fenster öffnen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, gladly!",
+            "target_text": "Ja, natürlich, gern!",
+            "japanese": "Ja, natürlich, gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, very kind!",
+            "target_text": "Danke, sehr freundlich!",
+            "japanese": "Danke, sehr freundlich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No problem, gladly!",
+            "target_text": "Kein Problem, gern!",
+            "japanese": "Kein Problem, gern!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
