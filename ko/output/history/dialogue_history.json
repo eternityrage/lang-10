@@ -7759,6 +7759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T05:31:16.656359",
+      "dialogue": {
+        "topic": "Cute K-Drama Confession",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Why are you smiling?",
+            "korean": "너 왜 웃어?",
+            "romaja": "Neo wae useo?",
+            "japanese": "너 왜 웃어?",
+            "romaji": "Neo wae useo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Because I like you.",
+            "korean": "너 좋아하니까.",
+            "romaja": "Neo joahanikka.",
+            "japanese": "너 좋아하니까.",
+            "romaji": "Neo joahanikka."
+          },
+          {
+            "speaker": "A",
+            "english": "Really? Me too.",
+            "korean": "진짜? 나도 좋아.",
+            "romaja": "Jinjja? Nado joa.",
+            "japanese": "진짜? 나도 좋아.",
+            "romaji": "Jinjja? Nado joa."
+          },
+          {
+            "speaker": "B",
+            "english": "Today is day one.",
+            "korean": "오늘부터 우리 1일.",
+            "romaja": "Oneulbuteo uri iril.",
+            "japanese": "오늘부터 우리 1일.",
+            "romaji": "Oneulbuteo uri iril."
+          }
+        ]
+      }
     }
   ]
 }
