@@ -7055,6 +7055,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T18:54:29.599989",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there churros today?",
+            "target_text": "Hola, ¿hay churros hoy?",
+            "japanese": "Hola, ¿hay churros hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very tasty!",
+            "target_text": "¡Sí, están muy ricos!",
+            "japanese": "¡Sí, están muy ricos!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And a black coffee?",
+            "target_text": "¿Y un café solo?",
+            "japanese": "¿Y un café solo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, right away.",
+            "target_text": "Claro, ahora mismo.",
+            "japanese": "Claro, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
