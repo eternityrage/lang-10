@@ -7759,6 +7759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T04:43:47.054805",
+      "dialogue": {
+        "topic": "Tel Aviv Street Life - Scooter Ride",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there a free scooter?",
+            "target_text": "שלום, יש קורקינט פנוי?",
+            "transliteration": "Shalom, yesh korkinet panui?",
+            "japanese": "שלום, יש קורקינט פנוי?",
+            "romaji": "Shalom, yesh korkinet panui?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is one here!",
+            "target_text": "כן, יש כאן אחד!",
+            "transliteration": "Ken, yesh kan echad!",
+            "japanese": "כן, יש כאן אחד!",
+            "romaji": "Ken, yesh kan echad!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, how much is it?",
+            "target_text": "יופי, כמה זה עולה?",
+            "transliteration": "Yofi, kama ze oleh?",
+            "japanese": "יופי, כמה זה עולה?",
+            "romaji": "Yofi, kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "One shekel per minute, enjoy!",
+            "target_text": "שקל לדקה, נסיעה טובה!",
+            "transliteration": "Shekel le-daka, nesia tova!",
+            "japanese": "שקל לדקה, נסיעה טובה!",
+            "romaji": "Shekel le-daka, nesia tova!"
+          }
+        ]
+      }
     }
   ]
 }
