@@ -7055,6 +7055,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T16:00:14.011418",
+      "dialogue": {
+        "topic": "Ordering Coxinha & Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good afternoon, can I order?",
+            "target_text": "Boa tarde, posso pedir?",
+            "japanese": "Boa tarde, posso pedir?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course! What would you like?",
+            "target_text": "Claro! O que vai querer?",
+            "japanese": "Claro! O que vai querer?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One coxinha and one coffee.",
+            "target_text": "Uma coxinha e um café.",
+            "japanese": "Uma coxinha e um café.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, coming right up!",
+            "target_text": "Perfeito, já vai sair!",
+            "japanese": "Perfeito, já vai sair!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
