@@ -7127,6 +7127,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T23:18:06.153294",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, stranger!",
+            "target_text": "E aí, sumido?",
+            "japanese": "E aí, sumido?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm great, and you?",
+            "target_text": "Tô ótimo, e você?",
+            "japanese": "Tô ótimo, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "All good over here.",
+            "target_text": "Tudo certo por aqui.",
+            "japanese": "Tudo certo por aqui.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Good to see you!",
+            "target_text": "Que bom te ver!",
+            "japanese": "Que bom te ver!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
