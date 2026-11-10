@@ -7019,6 +7019,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T05:24:35.922111",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, do you have a table?",
+            "target_text": "Buonasera, avete un tavolo?",
+            "japanese": "Buonasera, avete un tavolo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, come here!",
+            "target_text": "Certo, venite qui!",
+            "japanese": "Certo, venite qui!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have margherita pizza?",
+            "target_text": "Avete pizza margherita?",
+            "japanese": "Avete pizza margherita?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is delicious!",
+            "target_text": "Sì, è buonissima!",
+            "japanese": "Sì, è buonissima!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
