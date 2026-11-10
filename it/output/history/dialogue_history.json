@@ -7091,6 +7091,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T19:14:47.523948",
+      "dialogue": {
+        "topic": "Espresso Bar & Cornetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, warm croissants?",
+            "target_text": "Buongiorno, cornetti caldi?",
+            "japanese": "Buongiorno, cornetti caldi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are warm!",
+            "target_text": "Sì, sono caldi!",
+            "japanese": "Sì, sono caldi!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One with cream, please.",
+            "target_text": "Uno alla crema, per favore.",
+            "japanese": "Uno alla crema, per favore.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here is your croissant!",
+            "target_text": "Certo, ecco il cornetto!",
+            "japanese": "Certo, ecco il cornetto!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
