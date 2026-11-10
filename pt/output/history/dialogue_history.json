@@ -7019,6 +7019,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T05:56:41.448242",
+      "dialogue": {
+        "topic": "Ordering Coxinha & Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, one coxinha?",
+            "target_text": "Bom dia, uma coxinha?",
+            "japanese": "Bom dia, uma coxinha?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course! And coffee?",
+            "target_text": "Claro! E café?",
+            "japanese": "Claro! E café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, small coffee.",
+            "target_text": "Sim, café pequeno.",
+            "japanese": "Sim, café pequeno.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, coming right up!",
+            "target_text": "Perfeito, já sai!",
+            "japanese": "Perfeito, já sai!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
