@@ -6983,6 +6983,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-10T01:27:25.551270",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, nice day, right?",
+            "target_text": "Ciao, bella giornata, vero?",
+            "japanese": "Ciao, bella giornata, vero?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very beautiful!",
+            "target_text": "Sì, molto bella!",
+            "japanese": "Sì, molto bella!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the square full?",
+            "target_text": "La piazza è piena?",
+            "japanese": "La piazza è piena?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what joy!",
+            "target_text": "Sì, che allegria!",
+            "japanese": "Sì, che allegria!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
