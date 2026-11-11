@@ -7919,6 +7919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T03:24:17.347028",
+      "dialogue": {
+        "topic": "Buy water for the subway",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Buy one water at the store?",
+            "korean": "편의점에서 물 하나 살까요?",
+            "romaja": "Pyeonuijeomeseo mul hana salkkayo?",
+            "japanese": "편의점에서 물 하나 살까요?",
+            "romaji": "Pyeonuijeomeseo mul hana salkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, great, it's hot!",
+            "korean": "네, 좋아요, 더워요!",
+            "romaja": "Ne, joayo, deowoyo!",
+            "japanese": "네, 좋아요, 더워요!",
+            "romaji": "Ne, joayo, deowoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "The subway is coming soon.",
+            "korean": "지하철 곧 와요.",
+            "romaja": "Jihacheol got wayo.",
+            "japanese": "지하철 곧 와요.",
+            "romaji": "Jihacheol got wayo."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, let's go quickly!",
+            "korean": "좋아요, 빨리 가요!",
+            "romaja": "Joayo, ppalli gayo!",
+            "japanese": "좋아요, 빨리 가요!",
+            "romaji": "Joayo, ppalli gayo!"
+          }
+        ]
+      }
     }
   ]
 }
