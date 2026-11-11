@@ -7959,6 +7959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T12:46:49.448736",
+      "dialogue": {
+        "topic": "Walking to the beach in Tel Aviv",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is the sea?",
+            "target_text": "סליחה, איפה הים?",
+            "transliteration": "Slicha, eifo ha-yam?",
+            "japanese": "סליחה, איפה הים?",
+            "romaji": "Slicha, eifo ha-yam?"
+          },
+          {
+            "speaker": "B",
+            "english": "The sea is very close!",
+            "target_text": "הים קרוב מאוד!",
+            "transliteration": "Ha-yam karov me'od!",
+            "japanese": "הים קרוב מאוד!",
+            "romaji": "Ha-yam karov me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I walk?",
+            "target_text": "אפשר ללכת ברגל?",
+            "transliteration": "Efshar lalekhet ba-regel?",
+            "japanese": "אפשר ללכת ברגל?",
+            "romaji": "Efshar lalekhet ba-regel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, five minutes from here.",
+            "target_text": "כן, חמש דקות מפה.",
+            "transliteration": "Ken, chamesh dakot mi-po.",
+            "japanese": "כן, חמש דקות מפה.",
+            "romaji": "Ken, chamesh dakot mi-po."
+          }
+        ]
+      }
     }
   ]
 }
