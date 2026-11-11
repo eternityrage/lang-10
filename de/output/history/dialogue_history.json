@@ -7307,6 +7307,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T23:54:14.897575",
+      "dialogue": {
+        "topic": "Berlin Street Life",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is this free?",
+            "target_text": "Hallo, ist hier frei?",
+            "japanese": "Hallo, ist hier frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please sit.",
+            "target_text": "Ja, setz dich gern.",
+            "japanese": "Ja, setz dich gern.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, Berlin is loud.",
+            "target_text": "Danke, Berlin ist laut.",
+            "japanese": "Danke, Berlin ist laut.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but very beautiful!",
+            "target_text": "Ja, aber sehr schön!",
+            "japanese": "Ja, aber sehr schön!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
