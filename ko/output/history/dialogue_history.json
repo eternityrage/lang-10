@@ -7999,6 +7999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T19:21:56.621124",
+      "dialogue": {
+        "topic": "Sharing an umbrella",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want to walk together?",
+            "korean": "우리 같이 걸을래요?",
+            "romaja": "Uri gachi georeullaeyo?",
+            "japanese": "우리 같이 걸을래요?",
+            "romaji": "Uri gachi georeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like that!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Use my umbrella together.",
+            "korean": "제 우산 같이 써요.",
+            "romaja": "Je usan gachi sseoyo.",
+            "japanese": "제 우산 같이 써요.",
+            "romaji": "Je usan gachi sseoyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, my heart flutters.",
+            "korean": "좋아요, 마음이 떨려요.",
+            "romaja": "Joayo, maeumi tteollyeoyo.",
+            "japanese": "좋아요, 마음이 떨려요.",
+            "romaji": "Joayo, maeumi tteollyeoyo."
+          }
+        ]
+      }
     }
   ]
 }
