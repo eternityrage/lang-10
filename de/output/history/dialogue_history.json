@@ -7235,6 +7235,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T13:10:15.241293",
+      "dialogue": {
+        "topic": "Berlin flea market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the market open?",
+            "target_text": "Hallo, ist der Markt offen?",
+            "japanese": "Hallo, ist der Markt offen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very nice today!",
+            "target_text": "Ja, sehr schön heute!",
+            "japanese": "Ja, sehr schön heute!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are there old books?",
+            "target_text": "Gibt es alte Bücher?",
+            "japanese": "Gibt es alte Bücher?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right over there.",
+            "target_text": "Ja, gleich da drüben.",
+            "japanese": "Ja, gleich da drüben.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
