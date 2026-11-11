@@ -8039,6 +8039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T23:33:00.637369",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What’s up, friend?",
+            "target_text": "מה נשמע, חבר?",
+            "transliteration": "Ma nishma, chaver?",
+            "japanese": "מה נשמע, חבר?",
+            "romaji": "Ma nishma, chaver?"
+          },
+          {
+            "speaker": "B",
+            "english": "All good, thanks!",
+            "target_text": "הכול סבבה, תודה!",
+            "transliteration": "Hakol sababa, toda!",
+            "japanese": "הכול סבבה, תודה!",
+            "romaji": "Hakol sababa, toda!"
+          },
+          {
+            "speaker": "A",
+            "english": "Feel like coffee?",
+            "target_text": "בא לך קפה?",
+            "transliteration": "Ba lecha kafe?",
+            "japanese": "בא לך קפה?",
+            "romaji": "Ba lecha kafe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go, great!",
+            "target_text": "כן, יאללה, בכיף!",
+            "transliteration": "Ken, yalla, bekef!",
+            "japanese": "כן, יאללה, בכיף!",
+            "romaji": "Ken, yalla, bekef!"
+          }
+        ]
+      }
     }
   ]
 }
