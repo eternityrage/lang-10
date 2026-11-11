@@ -7163,6 +7163,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T12:53:27.730085",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, Madrid or Barcelona?",
+            "target_text": "Hola, ¿Madrid o Barcelona?",
+            "japanese": "Hola, ¿Madrid o Barcelona?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Barcelona, please!",
+            "target_text": "¡Barcelona, por favor!",
+            "japanese": "¡Barcelona, por favor!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And Madrid tomorrow?",
+            "target_text": "¿Y Madrid mañana?",
+            "japanese": "¿Y Madrid mañana?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, perfect plan!",
+            "target_text": "¡Sí, plan perfecto!",
+            "japanese": "¡Sí, plan perfecto!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
