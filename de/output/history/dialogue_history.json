@@ -7199,6 +7199,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T03:10:58.527396",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how are you?",
+            "target_text": "Hallo, wie geht's dir?",
+            "japanese": "Hallo, wie geht's dir?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I am doing great!",
+            "target_text": "Mir geht es super!",
+            "japanese": "Mir geht es super!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice, what are you doing?",
+            "target_text": "Schön, was machst du?",
+            "japanese": "Schön, was machst du?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I am going for a walk now.",
+            "target_text": "Ich gehe jetzt spazieren.",
+            "japanese": "Ich gehe jetzt spazieren.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
