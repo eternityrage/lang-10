@@ -7127,6 +7127,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T02:58:02.001913",
+      "dialogue": {
+        "topic": "Buying a metro ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there metro tickets?",
+            "target_text": "Hola, ¿hay billetes de metro?",
+            "japanese": "Hola, ¿hay billetes de metro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here is one.",
+            "target_text": "Sí, aquí tiene uno.",
+            "japanese": "Sí, aquí tiene uno.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much, please?",
+            "target_text": "¿Cuánto cuesta, por favor?",
+            "japanese": "¿Cuánto cuesta, por favor?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It costs two euros.",
+            "target_text": "Cuesta dos euros.",
+            "japanese": "Cuesta dos euros.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
