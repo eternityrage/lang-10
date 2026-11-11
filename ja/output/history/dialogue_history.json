@@ -6431,6 +6431,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T12:40:20.662950",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, busy today?",
+            "japanese": "マグさん、今日 いそがしいですか？",
+            "romaji": "Magu-san, kyō isogashii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little busy.",
+            "japanese": "はい、すこし いそがしいです。",
+            "romaji": "Hai, sukoshi isogashii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Please rest a little.",
+            "japanese": "すこし やすんでください。",
+            "romaji": "Sukoshi yasunde kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you, I'm okay.",
+            "japanese": "ありがとう、だいじょうぶです。",
+            "romaji": "Arigatō, daijōbu desu."
+          }
+        ]
+      }
     }
   ]
 }
