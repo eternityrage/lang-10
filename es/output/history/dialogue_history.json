@@ -7235,6 +7235,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T23:39:59.698396",
+      "dialogue": {
+        "topic": "Tapas & Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there spicy potatoes?",
+            "target_text": "Hola, ¿hay patatas bravas?",
+            "japanese": "Hola, ¿hay patatas bravas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very tasty.",
+            "target_text": "Sí, están muy ricas.",
+            "japanese": "Sí, están muy ricas.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One tapa, please.",
+            "target_text": "Una tapa, por favor.",
+            "japanese": "Una tapa, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, right now.",
+            "target_text": "Claro, ahora mismo.",
+            "japanese": "Claro, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
