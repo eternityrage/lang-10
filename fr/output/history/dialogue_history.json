@@ -7307,6 +7307,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T19:01:42.530383",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how much is it?",
+            "target_text": "Bonjour, c'est combien ?",
+            "japanese": "Bonjour, c'est combien ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Hello, it's twenty euros.",
+            "target_text": "Bonjour, c'est vingt euros.",
+            "japanese": "Bonjour, c'est vingt euros.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have red?",
+            "target_text": "Vous avez du rouge ?",
+            "japanese": "Vous avez du rouge ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here is the red one.",
+            "target_text": "Oui, voici le rouge.",
+            "japanese": "Oui, voici le rouge.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
