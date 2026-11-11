@@ -8119,6 +8119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T03:30:55.443448",
+      "dialogue": {
+        "topic": "Night Market Street Food",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What is this?",
+            "chinese": "这是什么？",
+            "pinyin": "Zhè shì shénme?",
+            "japanese": "这是什么？",
+            "romaji": "Zhè shì shénme?"
+          },
+          {
+            "speaker": "B",
+            "english": "These are skewers!",
+            "chinese": "这是烤串！",
+            "pinyin": "Zhè shì kǎochuàn!",
+            "japanese": "这是烤串！",
+            "romaji": "Zhè shì kǎochuàn!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it tasty?",
+            "chinese": "好吃吗？",
+            "pinyin": "Hǎochī ma?",
+            "japanese": "好吃吗？",
+            "romaji": "Hǎochī ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Tasty! Come on!",
+            "chinese": "好吃，来吧！",
+            "pinyin": "Hǎochī, lái ba!",
+            "japanese": "好吃，来吧！",
+            "romaji": "Hǎochī, lái ba!"
+          }
+        ]
+      }
     }
   ]
 }
