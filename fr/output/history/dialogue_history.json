@@ -7343,6 +7343,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T23:47:37.565253",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how much is this bag?",
+            "target_text": "Bonjour, ce sac coûte combien ?",
+            "japanese": "Bonjour, ce sac coûte combien ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Hello, only twenty euros!",
+            "target_text": "Bonjour, vingt euros seulement !",
+            "japanese": "Bonjour, vingt euros seulement !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have it in blue?",
+            "target_text": "Vous l'avez en bleu ?",
+            "japanese": "Vous l'avez en bleu ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here it is!",
+            "target_text": "Oui, le voici !",
+            "japanese": "Oui, le voici !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
