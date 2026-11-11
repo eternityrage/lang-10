@@ -7199,6 +7199,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T18:54:55.468986",
+      "dialogue": {
+        "topic": "Buying cheese at the market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much is the cheese?",
+            "target_text": "Hola, ¿cuánto cuesta el queso?",
+            "japanese": "Hola, ¿cuánto cuesta el queso?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only three euros!",
+            "target_text": "¡Solo tres euros!",
+            "japanese": "¡Solo tres euros!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want a piece, please.",
+            "target_text": "Quiero un trozo, por favor.",
+            "japanese": "Quiero un trozo, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go.",
+            "target_text": "Claro, aquí tienes.",
+            "japanese": "Claro, aquí tienes.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
