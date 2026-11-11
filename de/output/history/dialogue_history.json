@@ -7271,6 +7271,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-11T19:08:21.617329",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is the subway?",
+            "target_text": "Entschuldigung, wo ist die U-Bahn?",
+            "japanese": "Entschuldigung, wo ist die U-Bahn?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, right there on the left!",
+            "target_text": "Klar, gleich dort links!",
+            "japanese": "Klar, gleich dort links!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Which line to city hall?",
+            "target_text": "Welche Linie zum Rathaus?",
+            "japanese": "Welche Linie zum Rathaus?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Take line two.",
+            "target_text": "Nimm die Linie zwei.",
+            "japanese": "Nimm die Linie zwei.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
