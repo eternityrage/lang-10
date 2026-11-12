@@ -8119,6 +8119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T13:52:05.170685",
+      "dialogue": {
+        "topic": "Shopping for white shoes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have white shoes?",
+            "target_text": "היי, יש נעליים לבנות?",
+            "transliteration": "Hi, yesh na'alayim levanot?",
+            "japanese": "היי, יש נעליים לבנות?",
+            "romaji": "Hi, yesh na'alayim levanot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we do! They’re pretty.",
+            "target_text": "כן, יש! הן יפות.",
+            "transliteration": "Ken, yesh! Hen yafot.",
+            "japanese": "כן, יש! הן יפות.",
+            "romaji": "Ken, yesh! Hen yafot."
+          },
+          {
+            "speaker": "A",
+            "english": "How much are they?",
+            "target_text": "כמה הן עולות?",
+            "transliteration": "Kama hen olot?",
+            "japanese": "כמה הן עולות?",
+            "romaji": "Kama hen olot?"
+          },
+          {
+            "speaker": "B",
+            "english": "One hundred shekels, please.",
+            "target_text": "מאה שקל, בבקשה.",
+            "transliteration": "Me'a shekel, bevakasha.",
+            "japanese": "מאה שקל, בבקשה.",
+            "romaji": "Me'a shekel, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
