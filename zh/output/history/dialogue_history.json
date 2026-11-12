@@ -8399,6 +8399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T23:34:41.886643",
+      "dialogue": {
+        "topic": "Bargaining & Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Boss, cheaper?",
+            "chinese": "老板，便宜吗？",
+            "pinyin": "Lǎobǎn, piányi ma?",
+            "japanese": "老板，便宜吗？",
+            "romaji": "Lǎobǎn, piányi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, yes!",
+            "chinese": "可以，可以！",
+            "pinyin": "Kěyǐ, kěyǐ!",
+            "japanese": "可以，可以！",
+            "romaji": "Kěyǐ, kěyǐ!"
+          },
+          {
+            "speaker": "A",
+            "english": "Ten yuan, okay?",
+            "chinese": "十块行吗？",
+            "pinyin": "Shí kuài xíng ma?",
+            "japanese": "十块行吗？",
+            "romaji": "Shí kuài xíng ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here!",
+            "chinese": "好，给你！",
+            "pinyin": "Hǎo, gěi nǐ!",
+            "japanese": "好，给你！",
+            "romaji": "Hǎo, gěi nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
