@@ -7451,6 +7451,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T19:14:23.021278",
+      "dialogue": {
+        "topic": "Parisian Cafe & Bakery - Macarons",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have macarons?",
+            "target_text": "Bonjour, vous avez des macarons ?",
+            "japanese": "Bonjour, vous avez des macarons ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very good!",
+            "target_text": "Oui, ils sont très bons !",
+            "japanese": "Oui, ils sont très bons !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take two, thanks.",
+            "target_text": "J’en prends deux, merci.",
+            "japanese": "J’en prends deux, merci.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, enjoy!",
+            "target_text": "Parfait, bonne dégustation !",
+            "japanese": "Parfait, bonne dégustation !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
