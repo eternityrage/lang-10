@@ -6623,6 +6623,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T22:41:32.485523",
+      "dialogue": {
+        "topic": "After Work Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is work finished?",
+            "japanese": "しごと、おわりましたか？",
+            "romaji": "Shigoto, owarimashita ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little tired.",
+            "japanese": "はい、すこし つかれました。",
+            "romaji": "Hai, sukoshi tsukaremashita."
+          },
+          {
+            "speaker": "A",
+            "english": "Rest here?",
+            "japanese": "ここで やすみますか？",
+            "romaji": "Koko de yasumimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's rest together.",
+            "japanese": "はい、いっしょに やすみましょう。",
+            "romaji": "Hai, issho ni yasumimashou."
+          }
+        ]
+      }
     }
   ]
 }
