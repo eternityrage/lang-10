@@ -7343,6 +7343,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T14:19:37.972251",
+      "dialogue": {
+        "topic": "Italian Gestures & Slang: “Boh”",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what does “boh” mean?",
+            "target_text": "Ciao, cosa vuol dire boh?",
+            "japanese": "Ciao, cosa vuol dire boh?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: I don’t know!",
+            "target_text": "Vuol dire: non lo so!",
+            "japanese": "Vuol dire: non lo so!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And this gesture?",
+            "target_text": "E questo gesto?",
+            "japanese": "E questo gesto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, raise your shoulders: boh!",
+            "target_text": "Sì, alza le spalle: boh!",
+            "japanese": "Sì, alza le spalle: boh!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
