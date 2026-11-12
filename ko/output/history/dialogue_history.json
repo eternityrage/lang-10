@@ -8199,6 +8199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T23:23:57.900640",
+      "dialogue": {
+        "topic": "Shopping for a T-shirt in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this T-shirt pretty?",
+            "korean": "이 티셔츠 예뻐요?",
+            "romaja": "I tisyeocheu yeppeoyo?",
+            "japanese": "이 티셔츠 예뻐요?",
+            "romaji": "I tisyeocheu yeppeoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s really pretty!",
+            "korean": "네, 정말 예뻐요!",
+            "romaja": "Ne, jeongmal yeppeoyo!",
+            "japanese": "네, 정말 예뻐요!",
+            "romaji": "Ne, jeongmal yeppeoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then should I buy this?",
+            "korean": "그럼 이거 살까요?",
+            "romaja": "Geureom igeo salkkayo?",
+            "japanese": "그럼 이거 살까요?",
+            "romaji": "Geureom igeo salkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, let’s buy it together!",
+            "korean": "좋아요, 같이 사요!",
+            "romaja": "Joayo, gachi sayo!",
+            "japanese": "좋아요, 같이 사요!",
+            "romaji": "Joayo, gachi sayo!"
+          }
+        ]
+      }
     }
   ]
 }
