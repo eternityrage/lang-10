@@ -7379,6 +7379,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T14:12:42.893954",
+      "dialogue": {
+        "topic": "Greeting a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, nice to see you!",
+            "target_text": "Hallo, schön, dich zu sehen!",
+            "japanese": "Hallo, schön, dich zu sehen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Hi! I am happy too.",
+            "target_text": "Hallo! Ich freue mich auch.",
+            "japanese": "Hallo! Ich freue mich auch.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have a little time?",
+            "target_text": "Hast du kurz Zeit?",
+            "japanese": "Hast du kurz Zeit?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
