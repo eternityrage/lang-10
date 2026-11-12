@@ -7271,6 +7271,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T00:01:17.797231",
+      "dialogue": {
+        "topic": "Buying a train ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, one ticket to Rome?",
+            "target_text": "Buongiorno, un biglietto per Roma?",
+            "japanese": "Buongiorno, un biglietto per Roma?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here is the ticket!",
+            "target_text": "Certo, ecco il biglietto!",
+            "japanese": "Certo, ecco il biglietto!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it, please?",
+            "target_text": "Quanto costa, per favore?",
+            "japanese": "Quanto costa, per favore?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It costs ten euros.",
+            "target_text": "Costa dieci euro.",
+            "japanese": "Costa dieci euro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
