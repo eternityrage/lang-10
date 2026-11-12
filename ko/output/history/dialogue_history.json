@@ -8079,6 +8079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T04:28:15.296328",
+      "dialogue": {
+        "topic": "Buying tint in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this tint?",
+            "korean": "이 틴트 얼마예요?",
+            "romaja": "I tinteu eolmayeyo?",
+            "japanese": "이 틴트 얼마예요?",
+            "romaji": "I tinteu eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's just 5,000 won!",
+            "korean": "딱 오천 원이에요!",
+            "romaja": "Ttak ocheon won-ieyo!",
+            "japanese": "딱 오천 원이에요!",
+            "romaji": "Ttak ocheon won-ieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then one, please.",
+            "korean": "그럼 하나 주세요.",
+            "romaja": "Geureom hana juseyo.",
+            "japanese": "그럼 하나 주세요.",
+            "romaji": "Geureom hana juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "korean": "네, 여기 있어요!",
+            "romaja": "Ne, yeogi isseoyo!",
+            "japanese": "네, 여기 있어요!",
+            "romaji": "Ne, yeogi isseoyo!"
+          }
+        ]
+      }
     }
   ]
 }
