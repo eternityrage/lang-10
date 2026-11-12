@@ -7271,6 +7271,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T00:28:30.195908",
+      "dialogue": {
+        "topic": "Açaí Bowl & Smoothies",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have smoothies today?",
+            "target_text": "Oi, tem vitamina hoje?",
+            "japanese": "Oi, tem vitamina hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold!",
+            "target_text": "Tem, bem gelada!",
+            "japanese": "Tem, bem gelada!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want a mango one.",
+            "target_text": "Quero uma de manga.",
+            "japanese": "Quero uma de manga.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, it’s ready soon!",
+            "target_text": "Claro, fica pronta já!",
+            "japanese": "Claro, fica pronta já!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
