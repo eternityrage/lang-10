@@ -6559,6 +6559,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T13:45:12.228721",
+      "dialogue": {
+        "topic": "Buying a Cute Bag",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this bag cute?",
+            "japanese": "このバッグ、かわいいですか？",
+            "romaji": "Kono baggu, kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's cute!",
+            "japanese": "はい、かわいいです！",
+            "romaji": "Hai, kawaii desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "japanese": "いくらですか？",
+            "romaji": "Ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's 300 yen.",
+            "japanese": "さんびゃくえんです。",
+            "romaji": "Sanbyaku en desu."
+          }
+        ]
+      }
     }
   ]
 }
