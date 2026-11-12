@@ -8119,6 +8119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T14:26:17.138530",
+      "dialogue": {
+        "topic": "Shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have this T-shirt?",
+            "korean": "이 티셔츠 있어요?",
+            "romaja": "I tisyeocheu isseoyo?",
+            "japanese": "이 티셔츠 있어요?",
+            "romaji": "I tisyeocheu isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's right here!",
+            "korean": "네, 여기 있어요!",
+            "romaja": "Ne, yeogi isseoyo!",
+            "japanese": "네, 여기 있어요!",
+            "romaji": "Ne, yeogi isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have black too?",
+            "korean": "검은색 티셔츠도 있어요?",
+            "romaja": "Geomeunsaek tisyeocheudo isseoyo?",
+            "japanese": "검은색 티셔츠도 있어요?",
+            "romaji": "Geomeunsaek tisyeocheudo isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's really pretty!",
+            "korean": "네, 정말 예뻐요!",
+            "romaja": "Ne, jeongmal yeppeoyo!",
+            "japanese": "네, 정말 예뻐요!",
+            "romaji": "Ne, jeongmal yeppeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
