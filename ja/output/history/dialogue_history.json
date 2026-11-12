@@ -6591,6 +6591,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T18:54:27.464132",
+      "dialogue": {
+        "topic": "しごと と ひとやすみ",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you working?",
+            "japanese": "マグさん、しごとですか？",
+            "romaji": "Magu-san, shigoto desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes. I write emails.",
+            "japanese": "はい。メールを かきます。",
+            "romaji": "Hai. Meeru o kakimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we rest a little?",
+            "japanese": "すこし やすみませんか？",
+            "romaji": "Sukoshi yasumimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good. Coffee, please.",
+            "japanese": "いいですね。コーヒーを どうぞ。",
+            "romaji": "Ii desu ne. Koohii o douzo."
+          }
+        ]
+      }
     }
   ]
 }
