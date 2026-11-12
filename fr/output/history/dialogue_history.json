@@ -7379,6 +7379,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T04:07:46.673215",
+      "dialogue": {
+        "topic": "Metro seat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this seat free?",
+            "target_text": "Bonjour, cette place est libre ?",
+            "japanese": "Bonjour, cette place est libre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, I’ll sit here.",
+            "target_text": "Merci, je m’assois ici.",
+            "japanese": "Merci, je m’assois ici.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, have a good trip!",
+            "target_text": "Parfait, bon voyage !",
+            "japanese": "Parfait, bon voyage !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
