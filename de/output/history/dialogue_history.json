@@ -7415,6 +7415,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T19:21:19.965194",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, nice to see you!",
+            "target_text": "Hallo, schön dich zu sehen!",
+            "japanese": "Hallo, schön dich zu sehen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Hello, that makes me happy!",
+            "target_text": "Hallo, das freut mich!",
+            "japanese": "Hallo, das freut mich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have a moment?",
+            "target_text": "Hast du kurz Zeit?",
+            "japanese": "Hast du kurz Zeit?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
