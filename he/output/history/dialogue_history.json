@@ -8159,6 +8159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T19:00:59.701724",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, beach today?",
+            "target_text": "היי, הולכים לים היום?",
+            "transliteration": "Hai, holkhim layam hayom?",
+            "japanese": "היי, הולכים לים היום?",
+            "romaji": "Hai, holkhim layam hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is sun!",
+            "target_text": "כן, יש שמש!",
+            "transliteration": "Ken, yesh shemesh!",
+            "japanese": "כן, יש שמש!",
+            "romaji": "Ken, yesh shemesh!"
+          },
+          {
+            "speaker": "A",
+            "english": "Bring water and a hat?",
+            "target_text": "נביא מים וכובע?",
+            "transliteration": "Navi mayim ve-kova?",
+            "japanese": "נביא מים וכובע?",
+            "romaji": "Navi mayim ve-kova?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, perfect day!",
+            "target_text": "בטח, יום מושלם!",
+            "transliteration": "Betach, yom mushlam!",
+            "japanese": "בטח, יום מושלם!",
+            "romaji": "Betach, yom mushlam!"
+          }
+        ]
+      }
     }
   ]
 }
