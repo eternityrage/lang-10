@@ -6527,6 +6527,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T03:47:53.593131",
+      "dialogue": {
+        "topic": "Sugar and Milk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you need sugar?",
+            "japanese": "さとうは いりますか？",
+            "romaji": "Satou wa irimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little please.",
+            "japanese": "はい、すこし おねがいします。",
+            "romaji": "Hai, sukoshi onegaishimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "Do you need milk too?",
+            "japanese": "ミルクも いりますか？",
+            "romaji": "Miruku mo irimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I am okay.",
+            "japanese": "いいえ、だいじょうぶです。",
+            "romaji": "Iie, daijoubu desu."
+          }
+        ]
+      }
     }
   ]
 }
