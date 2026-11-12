@@ -7307,6 +7307,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T13:58:57.079553",
+      "dialogue": {
+        "topic": "Greetings & Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Nice hat.",
+            "target_text": "¡Hola! Bonito sombrero.",
+            "japanese": "¡Hola! Bonito sombrero.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you! It is new.",
+            "target_text": "¡Gracias! Es nuevo.",
+            "japanese": "¡Gracias! Es nuevo.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "It looks very good on you.",
+            "target_text": "Te queda muy bien.",
+            "japanese": "Te queda muy bien.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How kind! See you later.",
+            "target_text": "¡Qué amable! Hasta luego.",
+            "japanese": "¡Qué amable! Hasta luego.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
