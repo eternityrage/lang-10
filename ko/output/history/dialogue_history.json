@@ -8039,6 +8039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T00:08:17.307634",
+      "dialogue": {
+        "topic": "Hongdae & Gangnam Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this cafe good?",
+            "korean": "여기 카페 좋아요?",
+            "romaja": "Yeogi kape joayo?",
+            "japanese": "여기 카페 좋아요?",
+            "romaji": "Yeogi kape joayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's really good!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, want a latte?",
+            "korean": "그럼 라떼 마실래요?",
+            "romaja": "Geureom latte masillaeyo?",
+            "japanese": "그럼 라떼 마실래요?",
+            "romaji": "Geureom latte masillaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, two cups please!",
+            "korean": "좋아요, 두 잔 주세요!",
+            "romaja": "Joayo, du jan juseyo!",
+            "japanese": "좋아요, 두 잔 주세요!",
+            "romaji": "Joayo, du jan juseyo!"
+          }
+        ]
+      }
     }
   ]
 }
