@@ -7379,6 +7379,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-12T22:55:07.619813",
+      "dialogue": {
+        "topic": "Travel & Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where do I buy tickets?",
+            "target_text": "Hola, ¿dónde compro billetes?",
+            "japanese": "Hola, ¿dónde compro billetes?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here, at this machine.",
+            "target_text": "¡Aquí, en esta máquina!",
+            "japanese": "¡Aquí, en esta máquina!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it take cards here?",
+            "target_text": "¿Acepta tarjeta aquí?",
+            "japanese": "¿Acepta tarjeta aquí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip.",
+            "target_text": "Sí, buen viaje.",
+            "japanese": "Sí, buen viaje.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
