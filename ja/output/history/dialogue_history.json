@@ -6751,6 +6751,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T22:31:13.761622",
+      "dialogue": {
+        "topic": "shirt shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this shirt cute?",
+            "japanese": "この シャツ、かわいいですか？",
+            "romaji": "Kono shatsu, kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cute.",
+            "japanese": "はい、とても かわいいです。",
+            "romaji": "Hai, totemo kawaii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "japanese": "これは いくらですか？",
+            "romaji": "Kore wa ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "This is 1000 yen.",
+            "japanese": "これは せんえん です。",
+            "romaji": "Kore wa sen en desu."
+          }
+        ]
+      }
     }
   ]
 }
