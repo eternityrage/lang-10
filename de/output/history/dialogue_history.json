@@ -7487,6 +7487,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T03:50:13.444017",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, where is U2?",
+            "target_text": "Hallo, wo ist die U2?",
+            "japanese": "Hallo, wo ist die U2?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Over there, on the left!",
+            "target_text": "Dort links, ganz nah!",
+            "japanese": "Dort links, ganz nah!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go to Zoo?",
+            "target_text": "Fährt sie zum Zoo?",
+            "japanese": "Fährt sie zum Zoo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, in five minutes.",
+            "target_text": "Ja, in fünf Minuten.",
+            "japanese": "Ja, in fünf Minuten.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
