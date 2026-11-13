@@ -8479,6 +8479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T13:48:21.087088",
+      "dialogue": {
+        "topic": "Taxi to the Airport",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "To the airport?",
+            "chinese": "去机场吗？",
+            "pinyin": "Qù jīchǎng ma?",
+            "japanese": "去机场吗？",
+            "romaji": "Qù jīchǎng ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, get in!",
+            "chinese": "可以，上车！",
+            "pinyin": "Kěyǐ, shàng chē!",
+            "japanese": "可以，上车！",
+            "romaji": "Kěyǐ, shàng chē!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much?",
+            "chinese": "多少钱？",
+            "pinyin": "Duōshǎo qián?",
+            "japanese": "多少钱？",
+            "romaji": "Duōshǎo qián?"
+          },
+          {
+            "speaker": "B",
+            "english": "Thirty yuan.",
+            "chinese": "三十块。",
+            "pinyin": "Sānshí kuài.",
+            "japanese": "三十块。",
+            "romaji": "Sānshí kuài."
+          }
+        ]
+      }
     }
   ]
 }
