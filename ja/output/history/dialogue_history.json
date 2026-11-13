@@ -6719,6 +6719,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T18:30:15.933592",
+      "dialogue": {
+        "topic": "Cute Sprinkle Surprise",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, it’s sprinkles!",
+            "japanese": "マグさん、チョコです！",
+            "romaji": "Magu-san, choko desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow! So cute!",
+            "japanese": "わあ！とても かわいいです！",
+            "romaji": "Waa! Totemo kawaii desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Are you happy?",
+            "japanese": "うれしいですか？",
+            "romaji": "Ureshii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Very happy!",
+            "japanese": "はい！とても うれしいです！",
+            "romaji": "Hai! Totemo ureshii desu!"
+          }
+        ]
+      }
     }
   ]
 }
