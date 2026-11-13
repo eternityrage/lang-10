@@ -7523,6 +7523,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T03:43:52.859483",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how much is this sweater?",
+            "target_text": "Bonjour, ce pull est combien ?",
+            "japanese": "Bonjour, ce pull est combien ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It costs twenty euros!",
+            "target_text": "Il coûte vingt euros !",
+            "japanese": "Il coûte vingt euros !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take it, thank you.",
+            "target_text": "Je le prends, merci.",
+            "japanese": "Je le prends, merci.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, to the register!",
+            "target_text": "Parfait, à la caisse !",
+            "japanese": "Parfait, à la caisse !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
