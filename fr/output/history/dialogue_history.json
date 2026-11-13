@@ -7631,6 +7631,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T22:50:43.080058",
+      "dialogue": {
+        "topic": "Borrowing a pen",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have a pen?",
+            "target_text": "Salut, tu as un stylo ?",
+            "japanese": "Salut, tu as un stylo ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, it’s to sign.",
+            "target_text": "Merci, c’est pour signer.",
+            "japanese": "Merci, c’est pour signer.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "My pleasure, here!",
+            "target_text": "Avec plaisir, tiens !",
+            "japanese": "Avec plaisir, tiens !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
