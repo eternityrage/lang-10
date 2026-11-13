@@ -7487,6 +7487,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T18:43:36.516511",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, party today?",
+            "target_text": "Hola, ¿hay fiesta hoy?",
+            "japanese": "Hola, ¿hay fiesta hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with music!",
+            "target_text": "¡Sí, con música!",
+            "japanese": "¡Sí, con música!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we dance a little?",
+            "target_text": "¿Bailamos un poco?",
+            "japanese": "¿Bailamos un poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, let's go now!",
+            "target_text": "¡Claro, vamos ya!",
+            "japanese": "¡Claro, vamos ya!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
