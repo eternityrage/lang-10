@@ -8279,6 +8279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T13:56:04.412587",
+      "dialogue": {
+        "topic": "Street Greetings & Friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Long time no see?",
+            "russian": "Привет! Давно не виделись?",
+            "translit": "Privet! Davno ne videlis'?",
+            "japanese": "Привет! Давно не виделись?",
+            "romaji": "Privet! Davno ne videlis'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi! I am so happy!",
+            "russian": "Привет! Я очень рад!",
+            "translit": "Privet! Ya ochen' rad!",
+            "japanese": "Привет! Я очень рад!",
+            "romaji": "Privet! Ya ochen' rad!"
+          },
+          {
+            "speaker": "A",
+            "english": "How are you?",
+            "russian": "Как твои дела?",
+            "translit": "Kak tvoi dela?",
+            "japanese": "Как твои дела?",
+            "romaji": "Kak tvoi dela?"
+          },
+          {
+            "speaker": "B",
+            "english": "All good, see you!",
+            "russian": "Всё хорошо, до встречи!",
+            "translit": "Vsyo khorosho, do vstrechi!",
+            "japanese": "Всё хорошо, до встречи!",
+            "romaji": "Vsyo khorosho, do vstrechi!"
+          }
+        ]
+      }
     }
   ]
 }
