@@ -6687,6 +6687,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T13:01:37.085569",
+      "dialogue": {
+        "topic": "Taking a selfie",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, take a photo?",
+            "japanese": "マグ、写真 とる？",
+            "romaji": "Magu, shashin toru?"
+          },
+          {
+            "speaker": "B",
+            "english": "Nice! Let's take one!",
+            "japanese": "いいね！とろう！",
+            "romaji": "Ii ne! Torou!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? I'm happy!",
+            "japanese": "まじ？うれしい！",
+            "romaji": "Maji? Ureshii!"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, say cheese!",
+            "japanese": "はい、チーズ！",
+            "romaji": "Hai, chiizu!"
+          }
+        ]
+      }
     }
   ]
 }
