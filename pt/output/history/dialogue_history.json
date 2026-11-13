@@ -7523,6 +7523,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T19:36:01.384985",
+      "dialogue": {
+        "topic": "Street greeting with slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What's up, stranger?",
+            "target_text": "E aí, sumido?",
+            "japanese": "E aí, sumido?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Hey, all peaceful!",
+            "target_text": "Opa, tudo na paz!",
+            "japanese": "Opa, tudo na paz!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Want to grab coffee?",
+            "target_text": "Bora tomar café?",
+            "japanese": "Bora tomar café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go, bakery time!",
+            "target_text": "Bora, partiu padaria!",
+            "japanese": "Bora, partiu padaria!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
