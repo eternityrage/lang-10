@@ -8239,6 +8239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T04:18:44.749619",
+      "dialogue": {
+        "topic": "Moscow Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, where is the metro?",
+            "russian": "Здравствуйте, где метро?",
+            "translit": "Zdravstvuyte, gde metro?",
+            "japanese": "Здравствуйте, где метро?",
+            "romaji": "Zdravstvuyte, gde metro?"
+          },
+          {
+            "speaker": "B",
+            "english": "Straight ahead, very close!",
+            "russian": "Прямо, очень близко!",
+            "translit": "Pryamo, ochen' blizko!",
+            "japanese": "Прямо, очень близко!",
+            "romaji": "Pryamo, ochen' blizko!"
+          },
+          {
+            "speaker": "A",
+            "english": "And where is a taxi?",
+            "russian": "А такси где?",
+            "translit": "A taksi gde?",
+            "japanese": "А такси где?",
+            "romaji": "A taksi gde?"
+          },
+          {
+            "speaker": "B",
+            "english": "Taxi is there, near metro.",
+            "russian": "Такси там, у метро.",
+            "translit": "Taksi tam, u metro.",
+            "japanese": "Такси там, у метро.",
+            "romaji": "Taksi tam, u metro."
+          }
+        ]
+      }
     }
   ]
 }
