@@ -7595,6 +7595,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T22:59:42.966739",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, to Alexanderplatz?",
+            "target_text": "Entschuldigung, zum Alexanderplatz?",
+            "japanese": "Entschuldigung, zum Alexanderplatz?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, take the U2!",
+            "target_text": "Ja, nimm die U2!",
+            "japanese": "Ja, nimm die U2!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Which direction, please?",
+            "target_text": "Welche Richtung, bitte?",
+            "japanese": "Welche Richtung, bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Toward Pankow, only three stops.",
+            "target_text": "Richtung Pankow, nur drei Stationen.",
+            "japanese": "Richtung Pankow, nur drei Stationen.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
