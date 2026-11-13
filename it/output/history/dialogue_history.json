@@ -7523,6 +7523,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T19:09:39.056049",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what a lovely voice!",
+            "target_text": "Ciao, che bella voce!",
+            "japanese": "Ciao, che bella voce!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you, you are kind!",
+            "target_text": "Grazie, sei gentile!",
+            "japanese": "Grazie, sei gentile!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You sing very well.",
+            "target_text": "Canti molto bene.",
+            "japanese": "Canti molto bene.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How sweet, thank you!",
+            "target_text": "Che dolce, grazie!",
+            "japanese": "Che dolce, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
