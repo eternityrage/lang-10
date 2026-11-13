@@ -7559,6 +7559,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T23:06:22.562005",
+      "dialogue": {
+        "topic": "Gelateria Orders",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you want a cup?",
+            "target_text": "Ciao, vuoi una coppetta?",
+            "japanese": "Ciao, vuoi una coppetta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, strawberry and lemon!",
+            "target_text": "Sì, fragola e limone!",
+            "japanese": "Sì, fragola e limone!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With whipped cream on top?",
+            "target_text": "Con panna sopra?",
+            "japanese": "Con panna sopra?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Without whipped cream, thanks!",
+            "target_text": "Senza panna, grazie!",
+            "japanese": "Senza panna, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
