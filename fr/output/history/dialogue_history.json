@@ -7559,6 +7559,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T13:21:30.222151",
+      "dialogue": {
+        "topic": "Street Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "target_text": "Salut, ça va ?",
+            "japanese": "Salut, ça va ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m great!",
+            "target_text": "Oui, ça va super !",
+            "japanese": "Oui, ça va super !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you going to the market?",
+            "target_text": "Tu vas au marché ?",
+            "japanese": "Tu vas au marché ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you later!",
+            "target_text": "Oui, à tout à l’heure !",
+            "japanese": "Oui, à tout à l’heure !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
