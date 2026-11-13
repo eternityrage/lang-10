@@ -8519,6 +8519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T19:22:46.550809",
+      "dialogue": {
+        "topic": "Compliments & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, you’re so cool!",
+            "chinese": "嘿，你真酷！",
+            "pinyin": "Hēi, nǐ zhēn kù!",
+            "japanese": "嘿，你真酷！",
+            "romaji": "Hēi, nǐ zhēn kù!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! Super happy.",
+            "chinese": "谢谢！超开心。",
+            "pinyin": "Xièxie! Chāo kāixīn.",
+            "japanese": "谢谢！超开心。",
+            "romaji": "Xièxie! Chāo kāixīn."
+          },
+          {
+            "speaker": "A",
+            "english": "New hat?",
+            "chinese": "新帽子吗？",
+            "pinyin": "Xīn màozi ma?",
+            "japanese": "新帽子吗？",
+            "romaji": "Xīn màozi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, super cool!",
+            "chinese": "对，超酷！",
+            "pinyin": "Duì, chāo kù!",
+            "japanese": "对，超酷！",
+            "romaji": "Duì, chāo kù!"
+          }
+        ]
+      }
     }
   ]
 }
