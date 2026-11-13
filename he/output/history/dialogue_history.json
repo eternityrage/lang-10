@@ -8239,6 +8239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T03:30:46.146034",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what's up?",
+            "target_text": "היי, מה קורה?",
+            "transliteration": "Hai, ma kore?",
+            "japanese": "היי, מה קורה?",
+            "romaji": "Hai, ma kore?"
+          },
+          {
+            "speaker": "B",
+            "english": "Everything is awesome!",
+            "target_text": "הכול סבבה!",
+            "transliteration": "Hakol sababa!",
+            "japanese": "הכול סבבה!",
+            "romaji": "Hakol sababa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want coffee?",
+            "target_text": "רוצה קפה?",
+            "transliteration": "Rotze kafe?",
+            "japanese": "רוצה קפה?",
+            "romaji": "Rotze kafe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "כן, יאללה!",
+            "transliteration": "Ken, yalla!",
+            "japanese": "כן, יאללה!",
+            "romaji": "Ken, yalla!"
+          }
+        ]
+      }
     }
   ]
 }
