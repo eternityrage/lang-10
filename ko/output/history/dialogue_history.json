@@ -8319,6 +8319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T19:16:22.865874",
+      "dialogue": {
+        "topic": "Polite speech first",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Use polite speech?",
+            "korean": "존댓말 할까요?",
+            "romaja": "Jondaenmal halkkayo?",
+            "japanese": "존댓말 할까요?",
+            "romaji": "Jondaenmal halkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds good!",
+            "korean": "네, 좋아요!",
+            "romaja": "Ne, joayo!",
+            "japanese": "네, 좋아요!",
+            "romaji": "Ne, joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Banmal later?",
+            "korean": "반말은 나중에요?",
+            "romaja": "Banmareun najungeyo?",
+            "japanese": "반말은 나중에요?",
+            "romaji": "Banmareun najungeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, slowly.",
+            "korean": "네, 천천히 해요.",
+            "romaja": "Ne, cheoncheonhi haeyo.",
+            "japanese": "네, 천천히 해요.",
+            "romaji": "Ne, cheoncheonhi haeyo."
+          }
+        ]
+      }
     }
   ]
 }
