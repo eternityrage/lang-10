@@ -7595,6 +7595,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T18:54:09.668809",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you free?",
+            "target_text": "Salut, tu es libre ?",
+            "japanese": "Salut, tu es libre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, and you?",
+            "target_text": "Oui, et toi ?",
+            "japanese": "Oui, et toi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I really like you.",
+            "target_text": "Tu me plais beaucoup.",
+            "japanese": "Tu me plais beaucoup.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "You too, really.",
+            "target_text": "Toi aussi, vraiment.",
+            "japanese": "Toi aussi, vraiment.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
