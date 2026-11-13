@@ -8319,6 +8319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T19:29:38.842036",
+      "dialogue": {
+        "topic": "Buying milk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have milk?",
+            "russian": "Здравствуйте, молоко есть?",
+            "translit": "Zdravstvuyte, moloko yest?",
+            "japanese": "Здравствуйте, молоко есть?",
+            "romaji": "Zdravstvuyte, moloko yest?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, fresh milk!",
+            "russian": "Да, свежее молоко!",
+            "translit": "Da, svezheye moloko!",
+            "japanese": "Да, свежее молоко!",
+            "romaji": "Da, svezheye moloko!"
+          },
+          {
+            "speaker": "A",
+            "english": "One carton, please.",
+            "russian": "Один пакет, пожалуйста.",
+            "translit": "Odin paket, pozhaluysta.",
+            "japanese": "Один пакет, пожалуйста.",
+            "romaji": "Odin paket, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, please!",
+            "russian": "Вот, держите, пожалуйста!",
+            "translit": "Vot, derzhite, pozhaluysta!",
+            "japanese": "Вот, держите, пожалуйста!",
+            "romaji": "Vot, derzhite, pozhaluysta!"
+          }
+        ]
+      }
     }
   ]
 }
