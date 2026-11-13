@@ -7523,6 +7523,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T13:27:56.948949",
+      "dialogue": {
+        "topic": "Asking for water and a glass",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can I have water, please?",
+            "target_text": "Kann ich bitte Wasser haben?",
+            "japanese": "Kann ich bitte Wasser haben?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sure, here is water!",
+            "target_text": "Ja, gern, hier ist Wasser!",
+            "japanese": "Ja, gern, hier ist Wasser!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have a glass, please?",
+            "target_text": "Kann ich bitte ein Glas haben?",
+            "japanese": "Kann ich bitte ein Glas haben?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here is a glass.",
+            "target_text": "Natürlich, hier ist ein Glas.",
+            "japanese": "Natürlich, hier ist ein Glas.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
