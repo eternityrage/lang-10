@@ -6655,6 +6655,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T03:24:14.884476",
+      "dialogue": {
+        "topic": "A sweet date invitation",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, do you like me?",
+            "japanese": "マグさん、わたしが すきですか？",
+            "romaji": "Magu-san, watashi ga suki desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love you!",
+            "japanese": "はい、だいすきです！",
+            "romaji": "Hai, daisuki desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Today, shall we date?",
+            "japanese": "きょう、デートに いきませんか？",
+            "romaji": "Kyou, deeto ni ikimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go together!",
+            "japanese": "はい、いっしょに いきましょう！",
+            "romaji": "Hai, issho ni ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
