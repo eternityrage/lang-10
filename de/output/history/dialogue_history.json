@@ -7559,6 +7559,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T19:00:40.953427",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, which exit?",
+            "target_text": "Entschuldigung, welcher Ausgang?",
+            "japanese": "Entschuldigung, welcher Ausgang?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Exit B, right there.",
+            "target_text": "Ausgang B, gleich rechts.",
+            "japanese": "Ausgang B, gleich rechts.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far?",
+            "target_text": "Ist es weit?",
+            "japanese": "Ist es weit?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, only two minutes.",
+            "target_text": "Nein, nur zwei Minuten.",
+            "japanese": "Nein, nur zwei Minuten.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
