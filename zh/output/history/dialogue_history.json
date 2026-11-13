@@ -8559,6 +8559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T23:20:56.302820",
+      "dialogue": {
+        "topic": "Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the metro fast?",
+            "chinese": "地铁快吗？",
+            "pinyin": "Dìtiě kuài ma?",
+            "japanese": "地铁快吗？",
+            "romaji": "Dìtiě kuài ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Very fast!",
+            "chinese": "很快呀！",
+            "pinyin": "Hěn kuài ya!",
+            "japanese": "很快呀！",
+            "romaji": "Hěn kuài ya!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is a taxi expensive?",
+            "chinese": "打车贵吗？",
+            "pinyin": "Dǎchē guì ma?",
+            "japanese": "打车贵吗？",
+            "romaji": "Dǎchē guì ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Take the metro!",
+            "chinese": "坐地铁吧！",
+            "pinyin": "Zuò dìtiě ba!",
+            "japanese": "坐地铁吧！",
+            "romaji": "Zuò dìtiě ba!"
+          }
+        ]
+      }
     }
   ]
 }
