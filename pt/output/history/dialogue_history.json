@@ -7451,6 +7451,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T04:25:16.690574",
+      "dialogue": {
+        "topic": "Coffee with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want coffee?",
+            "target_text": "Oi, bora tomar café?",
+            "japanese": "Oi, bora tomar café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I love coffee.",
+            "target_text": "Bora! Eu adoro café.",
+            "japanese": "Bora! Eu adoro café.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go now?",
+            "target_text": "Vamos agora então?",
+            "japanese": "Vamos agora então?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go!",
+            "target_text": "Sim, vamos lá!",
+            "japanese": "Sim, vamos lá!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
