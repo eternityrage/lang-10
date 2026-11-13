@@ -8359,6 +8359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-13T22:37:46.432024",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is it sunny at the beach?",
+            "target_text": "היי, יש שמש בים?",
+            "transliteration": "Hey, yesh shemesh ba-yam?",
+            "japanese": "היי, יש שמש בים?",
+            "romaji": "Hey, yesh shemesh ba-yam?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, wonderful sun!",
+            "target_text": "כן, שמש נהדרת!",
+            "transliteration": "Ken, shemesh nehederet!",
+            "japanese": "כן, שמש נהדרת!",
+            "romaji": "Ken, shemesh nehederet!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want cold ice cream?",
+            "target_text": "רוצה גלידה קרה?",
+            "transliteration": "Rotze glida kara?",
+            "japanese": "רוצה גלידה קרה?",
+            "romaji": "Rotze glida kara?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, perfect day!",
+            "target_text": "כן, יום מושלם!",
+            "transliteration": "Ken, yom mushlam!",
+            "japanese": "כן, יום מושלם!",
+            "romaji": "Ken, yom mushlam!"
+          }
+        ]
+      }
     }
   ]
 }
