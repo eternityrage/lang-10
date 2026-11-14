@@ -8399,6 +8399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T03:16:04.948827",
+      "dialogue": {
+        "topic": "Buying black shoes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there black shoes?",
+            "target_text": "שלום, יש נעליים שחורות?",
+            "transliteration": "Shalom, yesh na'alayim sh'chorot?",
+            "japanese": "שלום, יש נעליים שחורות?",
+            "romaji": "Shalom, yesh na'alayim sh'chorot?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are here!",
+            "target_text": "כן, הן כאן!",
+            "transliteration": "Ken, hen kan!",
+            "japanese": "כן, הן כאן!",
+            "romaji": "Ken, hen kan!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is there size forty?",
+            "target_text": "יש מידה ארבעים?",
+            "transliteration": "Yesh mida arba'im?",
+            "japanese": "יש מידה ארבעים?",
+            "romaji": "Yesh mida arba'im?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "target_text": "כן, הנה בבקשה!",
+            "transliteration": "Ken, hineh bevakasha!",
+            "japanese": "כן, הנה בבקשה!",
+            "romaji": "Ken, hineh bevakasha!"
+          }
+        ]
+      }
     }
   ]
 }
