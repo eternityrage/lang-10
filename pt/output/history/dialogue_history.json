@@ -7595,6 +7595,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T04:08:51.221872",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, all steady?",
+            "target_text": "Fala, tudo firme?",
+            "japanese": "Fala, tudo firme?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All steady, thanks!",
+            "target_text": "Tudo firme, valeu!",
+            "japanese": "Tudo firme, valeu!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Wanna take a walk?",
+            "target_text": "Bora dar uma volta?",
+            "japanese": "Bora dar uma volta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go, right now!",
+            "target_text": "Bora, partiu agora!",
+            "japanese": "Bora, partiu agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
