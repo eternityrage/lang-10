@@ -8479,6 +8479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T17:40:20.424653",
+      "dialogue": {
+        "topic": "Tteokbokki and water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this tteokbokki spicy?",
+            "korean": "이 떡볶이 매워요?",
+            "romaja": "I tteokbokki maewoyo?",
+            "japanese": "이 떡볶이 매워요?",
+            "romaji": "I tteokbokki maewoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little spicy, delicious!",
+            "korean": "조금 매워요, 맛있어요!",
+            "romaja": "Jogeum maewoyo, masisseoyo!",
+            "japanese": "조금 매워요, 맛있어요!",
+            "romaji": "Jogeum maewoyo, masisseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Drink water together too?",
+            "korean": "물도 같이 마셔요?",
+            "romaja": "Muldo gachi masyeoyo?",
+            "japanese": "물도 같이 마셔요?",
+            "romaji": "Muldo gachi masyeoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, really good!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          }
+        ]
+      }
     }
   ]
 }
