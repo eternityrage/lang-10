@@ -8599,6 +8599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T03:56:16.674669",
+      "dialogue": {
+        "topic": "Hotpot Dinner",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the soup hot?",
+            "chinese": "汤热吗？",
+            "pinyin": "Tāng rè ma?",
+            "japanese": "汤热吗？",
+            "romaji": "Tāng rè ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hot!",
+            "chinese": "很热呀！",
+            "pinyin": "Hěn rè ya!",
+            "japanese": "很热呀！",
+            "romaji": "Hěn rè ya!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is the meat ready?",
+            "chinese": "肉好了吗？",
+            "pinyin": "Ròu hǎo le ma?",
+            "japanese": "肉好了吗？",
+            "romaji": "Ròu hǎo le ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Let's eat together!",
+            "chinese": "我们吃吧！",
+            "pinyin": "Wǒmen chī ba!",
+            "japanese": "我们吃吧！",
+            "romaji": "Wǒmen chī ba!"
+          }
+        ]
+      }
     }
   ]
 }
