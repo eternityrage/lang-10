@@ -7739,6 +7739,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T17:21:06.708160",
+      "dialogue": {
+        "topic": "Metro stop",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, what stop is this?",
+            "target_text": "Bonjour, c'est quel arrêt ?",
+            "japanese": "Bonjour, c'est quel arrêt ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's Bastille, great!",
+            "target_text": "C'est Bastille, super !",
+            "japanese": "C'est Bastille, super !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do we get off here?",
+            "target_text": "On descend ici ?",
+            "japanese": "On descend ici ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come with me.",
+            "target_text": "Oui, viens avec moi.",
+            "japanese": "Oui, viens avec moi.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
