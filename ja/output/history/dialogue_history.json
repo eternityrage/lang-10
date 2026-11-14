@@ -6879,6 +6879,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T21:22:24.489985",
+      "dialogue": {
+        "topic": "Taking the train",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is this train okay?",
+            "japanese": "マグさん、この でんしゃで いいですか？",
+            "romaji": "Magu-san, kono densha de ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is okay.",
+            "japanese": "はい、それで いいです。",
+            "romaji": "Hai, sore de ii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Can we ride now?",
+            "japanese": "いま、のっても いいですか？",
+            "romaji": "Ima, notte mo ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go now!",
+            "japanese": "はい、いま いきましょう！",
+            "romaji": "Hai, ima ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
