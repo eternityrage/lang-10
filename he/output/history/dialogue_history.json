@@ -8519,6 +8519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T21:29:06.518699",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there hummus today?",
+            "target_text": "שלום, יש חומוס היום?",
+            "transliteration": "Shalom, yesh hummus hayom?",
+            "japanese": "שלום, יש חומוס היום?",
+            "romaji": "Shalom, yesh hummus hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh hummus!",
+            "target_text": "כן, חומוס טרי מאוד!",
+            "transliteration": "Ken, hummus tari me'od!",
+            "japanese": "כן, חומוס טרי מאוד!",
+            "romaji": "Ken, hummus tari me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have a small plate?",
+            "target_text": "אפשר צלחת קטנה?",
+            "transliteration": "Efshar tzalahat ktana?",
+            "japanese": "אפשר צלחת קטנה?",
+            "romaji": "Efshar tzalahat ktana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, enjoy, friend!",
+            "target_text": "בטח, בתיאבון, חבר!",
+            "transliteration": "Betach, bete'avon, chaver!",
+            "japanese": "בטח, בתיאבון, חבר!",
+            "romaji": "Betach, bete'avon, chaver!"
+          }
+        ]
+      }
     }
   ]
 }
