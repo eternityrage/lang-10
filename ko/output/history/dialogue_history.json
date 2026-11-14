@@ -8439,6 +8439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T12:45:21.023041",
+      "dialogue": {
+        "topic": "Heart Flutter Confession",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Feeling good today?",
+            "korean": "오늘 기분 좋아?",
+            "romaja": "Oneul gibun joa?",
+            "japanese": "오늘 기분 좋아?",
+            "romaji": "Oneul gibun joa?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, because of you.",
+            "korean": "응, 너 때문에.",
+            "romaja": "Eung, neo ttaemune.",
+            "japanese": "응, 너 때문에.",
+            "romaji": "Eung, neo ttaemune."
+          },
+          {
+            "speaker": "A",
+            "english": "My heart flutters too.",
+            "korean": "나도 심장이 떨려.",
+            "romaja": "Nado simjangi tteollyeo.",
+            "japanese": "나도 심장이 떨려.",
+            "romaji": "Nado simjangi tteollyeo."
+          },
+          {
+            "speaker": "B",
+            "english": "Then let’s date.",
+            "korean": "그럼 우리 만나자.",
+            "romaja": "Geureom uri mannaja.",
+            "japanese": "그럼 우리 만나자.",
+            "romaji": "Geureom uri mannaja."
+          }
+        ]
+      }
     }
   ]
 }
