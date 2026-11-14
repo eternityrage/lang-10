@@ -8439,6 +8439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T12:13:23.202435",
+      "dialogue": {
+        "topic": "Shuk Carmel Market - grapes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much are the grapes?",
+            "target_text": "שלום, כמה עולים הענבים?",
+            "transliteration": "Shalom, kama olim ha'anavim?",
+            "japanese": "שלום, כמה עולים הענבים?",
+            "romaji": "Shalom, kama olim ha'anavim?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, very sweet!",
+            "target_text": "עשרה שקלים, מתוקים מאוד!",
+            "transliteration": "Asara shkalim, metukim me'od!",
+            "japanese": "עשרה שקלים, מתוקים מאוד!",
+            "romaji": "Asara shkalim, metukim me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I taste a grape?",
+            "target_text": "אפשר לטעום ענב?",
+            "transliteration": "Efshar lit'om enav?",
+            "japanese": "אפשר לטעום ענב?",
+            "romaji": "Efshar lit'om enav?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please, very tasty!",
+            "target_text": "כן, בבקשה, טעים מאוד!",
+            "transliteration": "Ken, bevakasha, ta'im me'od!",
+            "japanese": "כן, בבקשה, טעים מאוד!",
+            "romaji": "Ken, bevakasha, ta'im me'od!"
+          }
+        ]
+      }
     }
   ]
 }
