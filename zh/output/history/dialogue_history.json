@@ -8639,6 +8639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T12:52:18.806704",
+      "dialogue": {
+        "topic": "Bargaining for apples",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Any apples?",
+            "chinese": "苹果有吗？",
+            "pinyin": "Píngguǒ yǒu ma?",
+            "japanese": "苹果有吗？",
+            "romaji": "Píngguǒ yǒu ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very sweet!",
+            "chinese": "有，很甜！",
+            "pinyin": "Yǒu, hěn tián!",
+            "japanese": "有，很甜！",
+            "romaji": "Yǒu, hěn tián!"
+          },
+          {
+            "speaker": "A",
+            "english": "A little less?",
+            "chinese": "少一点？",
+            "pinyin": "Shǎo yìdiǎn?",
+            "japanese": "少一点？",
+            "romaji": "Shǎo yìdiǎn?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, eight yuan!",
+            "chinese": "好，八元！",
+            "pinyin": "Hǎo, bā yuán!",
+            "japanese": "好，八元！",
+            "romaji": "Hǎo, bā yuán!"
+          }
+        ]
+      }
     }
   ]
 }
