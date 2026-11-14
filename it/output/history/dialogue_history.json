@@ -7667,6 +7667,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T17:33:53.344418",
+      "dialogue": {
+        "topic": "Meeting in the piazza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you waiting?",
+            "target_text": "Ciao, aspetti qualcuno?",
+            "japanese": "Ciao, aspetti qualcuno?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m waiting for Marco!",
+            "target_text": "Sì, aspetto Marco!",
+            "japanese": "Sì, aspetto Marco!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is Marco arriving soon?",
+            "target_text": "Marco arriva presto?",
+            "japanese": "Marco arriva presto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there he is!",
+            "target_text": "Sì, eccolo lì!",
+            "japanese": "Sì, eccolo lì!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
