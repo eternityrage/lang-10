@@ -8479,6 +8479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T17:08:25.521928",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there a croissant?",
+            "target_text": "שלום, יש קרואסון?",
+            "transliteration": "Shalom, yesh kruason?",
+            "japanese": "שלום, יש קרואסון?",
+            "romaji": "Shalom, yesh kruason?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a fresh croissant!",
+            "target_text": "כן, קרואסון טרי!",
+            "transliteration": "Ken, kruason tari!",
+            "japanese": "כן, קרואסון טרי!",
+            "romaji": "Ken, kruason tari!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, one please.",
+            "target_text": "מעולה, אחד בבקשה.",
+            "transliteration": "Me'ule, echad bevakasha.",
+            "japanese": "מעולה, אחד בבקשה.",
+            "romaji": "Me'ule, echad bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here is the croissant.",
+            "target_text": "בטח, הנה הקרואסון.",
+            "transliteration": "Betach, hine hakruason.",
+            "japanese": "בטח, הנה הקרואסון.",
+            "romaji": "Betach, hine hakruason."
+          }
+        ]
+      }
     }
   ]
 }
