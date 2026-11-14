@@ -7631,6 +7631,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T13:05:29.086242",
+      "dialogue": {
+        "topic": "Street slang greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, you good?",
+            "target_text": "E aí, firmeza?",
+            "japanese": "E aí, firmeza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Good! I’m chill.",
+            "target_text": "Firmeza! Tô suave.",
+            "japanese": "Firmeza! Tô suave.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Let’s chat?",
+            "target_text": "Vamos trocar ideia?",
+            "japanese": "Vamos trocar ideia?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go, no rush.",
+            "target_text": "Bora, sem pressa.",
+            "japanese": "Bora, sem pressa.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
