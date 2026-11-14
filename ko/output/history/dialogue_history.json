@@ -8399,6 +8399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T03:49:46.006018",
+      "dialogue": {
+        "topic": "Gangnam cafe window seat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there a seat at this Gangnam cafe?",
+            "korean": "강남 카페에 자리 있어요?",
+            "romaja": "Gangnam kape-e jari isseoyo?",
+            "japanese": "강남 카페에 자리 있어요?",
+            "romaji": "Gangnam kape-e jari isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is a window seat.",
+            "korean": "네, 창가 자리 있어요.",
+            "romaja": "Ne, changga jari isseoyo.",
+            "japanese": "네, 창가 자리 있어요.",
+            "romaji": "Ne, changga jari isseoyo."
+          },
+          {
+            "speaker": "A",
+            "english": "Is the coffee good here?",
+            "korean": "여기 커피도 맛있어요?",
+            "romaja": "Yeogi keopido masisseoyo?",
+            "japanese": "여기 커피도 맛있어요?",
+            "romaji": "Yeogi keopido masisseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is really good!",
+            "korean": "네, 정말 맛있어요!",
+            "romaja": "Ne, jeongmal masisseoyo!",
+            "japanese": "네, 정말 맛있어요!",
+            "romaji": "Ne, jeongmal masisseoyo!"
+          }
+        ]
+      }
     }
   ]
 }
