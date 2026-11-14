@@ -7559,6 +7559,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T03:22:48.550306",
+      "dialogue": {
+        "topic": "Buying apples at the market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have apples?",
+            "target_text": "Hola, ¿tiene manzanas?",
+            "japanese": "Hola, ¿tiene manzanas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh.",
+            "target_text": "Sí, muy frescas.",
+            "japanese": "Sí, muy frescas.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one kilo?",
+            "target_text": "¿Cuánto cuesta un kilo?",
+            "japanese": "¿Cuánto cuesta un kilo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Two euros, please.",
+            "target_text": "Dos euros, por favor.",
+            "japanese": "Dos euros, por favor.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
