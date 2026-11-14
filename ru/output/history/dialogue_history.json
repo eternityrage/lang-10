@@ -8519,6 +8519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T22:15:14.726495",
+      "dialogue": {
+        "topic": "Street Greetings & Friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you free?",
+            "russian": "Привет, ты свободен?",
+            "translit": "Privet, ty svoboden?",
+            "japanese": "Привет, ты свободен?",
+            "romaji": "Privet, ty svoboden?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am free!",
+            "russian": "Да, я свободен!",
+            "translit": "Da, ya svoboden!",
+            "japanese": "Да, я свободен!",
+            "romaji": "Da, ya svoboden!"
+          },
+          {
+            "speaker": "A",
+            "english": "Meet by the metro?",
+            "russian": "Встретимся у метро?",
+            "translit": "Vstretimsya u metro?",
+            "japanese": "Встретимся у метро?",
+            "romaji": "Vstretimsya u metro?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’ll wait there!",
+            "russian": "Да, жду тебя там!",
+            "translit": "Da, zhdu tebya tam!",
+            "japanese": "Да, жду тебя там!",
+            "romaji": "Da, zhdu tebya tam!"
+          }
+        ]
+      }
     }
   ]
 }
