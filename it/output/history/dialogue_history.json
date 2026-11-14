@@ -7631,6 +7631,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T12:38:44.693989",
+      "dialogue": {
+        "topic": "Train Station & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is platform three?",
+            "target_text": "Ciao, dov'è il binario tre?",
+            "japanese": "Ciao, dov'è il binario tre?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's there, on the right!",
+            "target_text": "È là, a destra!",
+            "japanese": "È là, a destra!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the train ready?",
+            "target_text": "Il treno è pronto?",
+            "japanese": "Il treno è pronto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Sì, buon viaggio!",
+            "japanese": "Sì, buon viaggio!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
