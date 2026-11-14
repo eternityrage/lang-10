@@ -6815,6 +6815,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T12:06:48.540209",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, work is hard.",
+            "japanese": "マグさん、しごとは たいへんです。",
+            "romaji": "Magu-san, shigoto wa taihen desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes. But it’s okay.",
+            "japanese": "はい。でも、だいじょうぶです。",
+            "romaji": "Hai. Demo, daijoubu desu."
+          },
+          {
+            "speaker": "A",
+            "english": "After this, coffee?",
+            "japanese": "このあと、コーヒーですか？",
+            "romaji": "Kono ato, koohii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s relax.",
+            "japanese": "はい、ゆっくり しましょう。",
+            "romaji": "Hai, yukkuri shimashou."
+          }
+        ]
+      }
     }
   ]
 }
