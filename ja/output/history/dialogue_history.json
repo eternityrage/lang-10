@@ -6847,6 +6847,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T17:01:34.968523",
+      "dialogue": {
+        "topic": "Sugar at the cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, do you have sugar?",
+            "japanese": "マグさん、さとう ありますか？",
+            "romaji": "Magu-san, satou arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's here!",
+            "japanese": "はい、ここに ありますよ！",
+            "romaji": "Hai, koko ni arimasu yo!"
+          },
+          {
+            "speaker": "A",
+            "english": "One sugar, please.",
+            "japanese": "さとうを ひとつ ください。",
+            "romaji": "Satou o hitotsu kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, go ahead!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
