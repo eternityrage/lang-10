@@ -8679,6 +8679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T17:47:14.342210",
+      "dialogue": {
+        "topic": "Compliments & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Wow, you're cool!",
+            "chinese": "哇，你真酷！",
+            "pinyin": "Wā, nǐ zhēn kù!",
+            "japanese": "哇，你真酷！",
+            "romaji": "Wā, nǐ zhēn kù!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, I'm happy!",
+            "chinese": "谢谢，很开心！",
+            "pinyin": "Xièxie, hěn kāixīn!",
+            "japanese": "谢谢，很开心！",
+            "romaji": "Xièxie, hěn kāixīn!"
+          },
+          {
+            "speaker": "A",
+            "english": "I want to be cool too!",
+            "chinese": "我也想酷！",
+            "pinyin": "Wǒ yě xiǎng kù!",
+            "japanese": "我也想酷！",
+            "romaji": "Wǒ yě xiǎng kù!"
+          },
+          {
+            "speaker": "B",
+            "english": "You're cool too!",
+            "chinese": "你也很酷！",
+            "pinyin": "Nǐ yě hěn kù!",
+            "japanese": "你也很酷！",
+            "romaji": "Nǐ yě hěn kù!"
+          }
+        ]
+      }
     }
   ]
 }
