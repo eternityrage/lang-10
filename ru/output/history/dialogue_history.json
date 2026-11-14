@@ -8399,6 +8399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T04:02:34.785231",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! Is the bread fresh?",
+            "russian": "Здравствуйте! Хлеб свежий?",
+            "translit": "Zdravstvuyte! Khleb svezhiy?",
+            "japanese": "Здравствуйте! Хлеб свежий?",
+            "romaji": "Zdravstvuyte! Khleb svezhiy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "russian": "Да, очень свежий!",
+            "translit": "Da, ochen' svezhiy!",
+            "japanese": "Да, очень свежий!",
+            "romaji": "Da, ochen' svezhiy!"
+          },
+          {
+            "speaker": "A",
+            "english": "One white loaf, please.",
+            "russian": "Один белый, пожалуйста.",
+            "translit": "Odin belyy, pozhaluysta.",
+            "japanese": "Один белый, пожалуйста.",
+            "romaji": "Odin belyy, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course. Enjoy!",
+            "russian": "Конечно. Приятного аппетита!",
+            "translit": "Konechno. Priyatnogo appetita!",
+            "japanese": "Конечно. Приятного аппетита!",
+            "romaji": "Konechno. Priyatnogo appetita!"
+          }
+        ]
+      }
     }
   ]
 }
