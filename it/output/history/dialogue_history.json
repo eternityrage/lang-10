@@ -7595,6 +7595,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T03:42:57.730821",
+      "dialogue": {
+        "topic": "Rome & Florence Walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you see the Tiber?",
+            "target_text": "Ciao, vedi il Tevere?",
+            "japanese": "Ciao, vedi il Tevere?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is beautiful!",
+            "target_text": "Sì, è bellissimo!",
+            "japanese": "Sì, è bellissimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the bridge?",
+            "target_text": "Andiamo al ponte?",
+            "japanese": "Andiamo al ponte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, slowly slowly!",
+            "target_text": "Sì, piano piano!",
+            "japanese": "Sì, piano piano!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
