@@ -7703,6 +7703,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T17:27:26.317797",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, dear Mia!",
+            "target_text": "Guten Abend, liebe Mia!",
+            "japanese": "Guten Abend, liebe Mia!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Hello, nice to see you!",
+            "target_text": "Hallo, schön dich zu sehen!",
+            "japanese": "Hallo, schön dich zu sehen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How was your day?",
+            "target_text": "Wie war dein Tag?",
+            "japanese": "Wie war dein Tag?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very good, thanks, see you tomorrow!",
+            "target_text": "Sehr gut, danke, bis morgen!",
+            "japanese": "Sehr gut, danke, bis morgen!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
