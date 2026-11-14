@@ -8519,6 +8519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T22:02:11.936388",
+      "dialogue": {
+        "topic": "Going home together",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you going home now?",
+            "korean": "지금 집에 가요?",
+            "romaja": "Jigeum jibe gayo?",
+            "japanese": "지금 집에 가요?",
+            "romaji": "Jigeum jibe gayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m going home.",
+            "korean": "응, 집에 가.",
+            "romaja": "Eung, jibe ga.",
+            "japanese": "응, 집에 가.",
+            "romaji": "Eung, jibe ga."
+          },
+          {
+            "speaker": "A",
+            "english": "Can I go too?",
+            "korean": "저도 같이 가요?",
+            "romaja": "Jeodo gachi gayo?",
+            "japanese": "저도 같이 가요?",
+            "romaji": "Jeodo gachi gayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, let’s go together!",
+            "korean": "좋아, 같이 가자!",
+            "romaja": "Joa, gachi gaja!",
+            "japanese": "좋아, 같이 가자!",
+            "romaji": "Joa, gachi gaja!"
+          }
+        ]
+      }
     }
   ]
 }
