@@ -8479,6 +8479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-14T17:53:42.878414",
+      "dialogue": {
+        "topic": "Cafe & Hot Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good afternoon, is the tea hot?",
+            "russian": "Добрый день, чай горячий?",
+            "translit": "Dobryy den', chay goryachiy?",
+            "japanese": "Добрый день, чай горячий?",
+            "romaji": "Dobryy den', chay goryachiy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hot and tasty!",
+            "russian": "Да, очень горячий и вкусный!",
+            "translit": "Da, ochen' goryachiy i vkusnyy!",
+            "japanese": "Да, очень горячий и вкусный!",
+            "romaji": "Da, ochen' goryachiy i vkusnyy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, black tea for me.",
+            "russian": "Отлично, мне чёрный чай.",
+            "translit": "Otlichno, mne chyornyy chay.",
+            "japanese": "Отлично, мне чёрный чай.",
+            "romaji": "Otlichno, mne chyornyy chay."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, I'll bring it now.",
+            "russian": "Конечно, сейчас принесу.",
+            "translit": "Konechno, seychas prinesu.",
+            "japanese": "Конечно, сейчас принесу.",
+            "romaji": "Konechno, seychas prinesu."
+          }
+        ]
+      }
     }
   ]
 }
