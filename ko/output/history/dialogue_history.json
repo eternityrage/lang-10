@@ -8679,6 +8679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T22:20:08.521380",
+      "dialogue": {
+        "topic": "Buying a cute hat in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How is this hat?",
+            "korean": "이 모자 어때요?",
+            "romaja": "I moja eottaeyo?",
+            "japanese": "이 모자 어때요?",
+            "romaji": "I moja eottaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow, it's really cute!",
+            "korean": "와, 정말 귀여워요!",
+            "romaja": "Wa, jeongmal gwiyeowoyo!",
+            "japanese": "와, 정말 귀여워요!",
+            "romaji": "Wa, jeongmal gwiyeowoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then should I buy this?",
+            "korean": "그럼 이거 살까요?",
+            "romaja": "Geureom igeo salkkayo?",
+            "japanese": "그럼 이거 살까요?",
+            "romaji": "Geureom igeo salkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, buy it now!",
+            "korean": "네, 지금 사요!",
+            "romaja": "Ne, jigeum sayo!",
+            "japanese": "네, 지금 사요!",
+            "romaji": "Ne, jigeum sayo!"
+          }
+        ]
+      }
     }
   ]
 }
