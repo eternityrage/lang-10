@@ -8639,6 +8639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T18:23:29.311875",
+      "dialogue": {
+        "topic": "Buying and recharging a transit card at a convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have transit cards here?",
+            "korean": "여기 교통카드 있어요?",
+            "romaja": "Yeogi gyotongkadeu isseoyo?",
+            "japanese": "여기 교통카드 있어요?",
+            "romaji": "Yeogi gyotongkadeu isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here they are!",
+            "korean": "네, 여기 있어요!",
+            "romaja": "Ne, yeogi isseoyo!",
+            "japanese": "네, 여기 있어요!",
+            "romaji": "Ne, yeogi isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I recharge here too?",
+            "korean": "여기서 충전도 돼요?",
+            "romaja": "Yeogiseo chungjeondo dwaeyo?",
+            "japanese": "여기서 충전도 돼요?",
+            "romaji": "Yeogiseo chungjeondo dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right away!",
+            "korean": "네, 바로 돼요!",
+            "romaja": "Ne, baro dwaeyo!",
+            "japanese": "네, 바로 돼요!",
+            "romaji": "Ne, baro dwaeyo!"
+          }
+        ]
+      }
     }
   ]
 }
