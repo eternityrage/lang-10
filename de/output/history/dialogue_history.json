@@ -7811,6 +7811,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T13:08:21.874440",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the pretzel warm?",
+            "target_text": "Hallo, ist die Brezel warm?",
+            "japanese": "Hallo, ist die Brezel warm?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is warm!",
+            "target_text": "Ja, sie ist warm!",
+            "japanese": "Ja, sie ist warm!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, one pretzel please.",
+            "target_text": "Super, eine Brezel bitte.",
+            "japanese": "Super, eine Brezel bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, enjoy your meal!",
+            "target_text": "Gern, guten Appetit!",
+            "japanese": "Gern, guten Appetit!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
