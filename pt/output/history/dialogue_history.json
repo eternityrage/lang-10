@@ -7739,6 +7739,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T03:36:11.941104",
+      "dialogue": {
+        "topic": "New sneakers",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, new sneakers?",
+            "target_text": "Ei, tênis novo?",
+            "japanese": "Ei, tênis novo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I found them beautiful!",
+            "target_text": "Sim, achei muito lindo!",
+            "japanese": "Sim, achei muito lindo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where did you buy them?",
+            "target_text": "Onde você comprou?",
+            "japanese": "Onde você comprou?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’ll take you there later!",
+            "target_text": "Depois te levo lá!",
+            "japanese": "Depois te levo lá!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
