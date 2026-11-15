@@ -7847,6 +7847,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T18:09:47.463948",
+      "dialogue": {
+        "topic": "Morning greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, are you awake?",
+            "target_text": "Guten Morgen, bist du wach?",
+            "japanese": "Guten Morgen, bist du wach?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, good morning!",
+            "target_text": "Ja, guten Morgen!",
+            "japanese": "Ja, guten Morgen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you drinking coffee?",
+            "target_text": "Trinkst du Kaffee?",
+            "japanese": "Trinkst du Kaffee?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you soon!",
+            "target_text": "Ja, bis gleich!",
+            "japanese": "Ja, bis gleich!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
