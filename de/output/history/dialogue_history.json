@@ -7775,6 +7775,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T03:02:52.632051",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, does the subway go to Zoo?",
+            "target_text": "Hallo, fährt die U-Bahn zum Zoo?",
+            "japanese": "Hallo, fährt die U-Bahn zum Zoo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it goes directly.",
+            "target_text": "Ja, sie fährt direkt.",
+            "japanese": "Ja, sie fährt direkt.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How many more stops?",
+            "target_text": "Wie viele Stationen noch?",
+            "japanese": "Wie viele Stationen noch?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only two more stops.",
+            "target_text": "Nur zwei Stationen noch.",
+            "japanese": "Nur zwei Stationen noch.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
