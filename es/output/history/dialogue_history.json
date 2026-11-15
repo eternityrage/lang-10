@@ -7775,6 +7775,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T17:54:42.427136",
+      "dialogue": {
+        "topic": "Tortilla at a café",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there tortilla?",
+            "target_text": "Hola, ¿hay tortilla?",
+            "japanese": "Hola, ¿hay tortilla?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very tasty.",
+            "target_text": "Sí, está muy rica.",
+            "japanese": "Sí, está muy rica.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One slice, please.",
+            "target_text": "Una porción, por favor.",
+            "japanese": "Una porción, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go.",
+            "target_text": "Claro, aquí tienes.",
+            "japanese": "Claro, aquí tienes.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
