@@ -7811,6 +7811,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T18:16:22.511520",
+      "dialogue": {
+        "topic": "At the espresso bar",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, what are you having?",
+            "target_text": "Buongiorno, cosa prendi?",
+            "japanese": "Buongiorno, cosa prendi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "A croissant, thank you!",
+            "target_text": "Un cornetto, grazie!",
+            "japanese": "Un cornetto, grazie!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And to drink?",
+            "target_text": "E da bere?",
+            "japanese": "E da bere?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "An espresso, perfect!",
+            "target_text": "Un caffè, perfetto!",
+            "japanese": "Un caffè, perfetto!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
