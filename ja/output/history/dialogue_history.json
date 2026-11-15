@@ -7007,6 +7007,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T21:40:46.480916",
+      "dialogue": {
+        "topic": "Buying a Rice Ball",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have rice balls?",
+            "japanese": "おにぎりは ありますか？",
+            "romaji": "Onigiri wa arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we do.",
+            "japanese": "はい、あります。",
+            "romaji": "Hai, arimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one?",
+            "japanese": "ひとつ いくらですか？",
+            "romaji": "Hitotsu ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is 100 yen.",
+            "japanese": "ひゃくえんです。",
+            "romaji": "Hyaku-en desu."
+          }
+        ]
+      }
     }
   ]
 }
