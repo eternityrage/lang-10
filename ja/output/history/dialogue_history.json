@@ -6975,6 +6975,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T17:41:15.915183",
+      "dialogue": {
+        "topic": "Casual slang: cool and cute",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, am I cool?",
+            "japanese": "マグ、ぼく イケてる？",
+            "romaji": "Magu, boku iketeru?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, super cool!",
+            "japanese": "うん、めちゃ イケてる！",
+            "romaji": "Un, mecha iketeru!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? Yay!",
+            "japanese": "ほんと？やった！",
+            "romaji": "Honto? Yatta!"
+          },
+          {
+            "speaker": "B",
+            "english": "For real, so cute!",
+            "japanese": "マジ、とても かわいい！",
+            "romaji": "Maji, totemo kawaii!"
+          }
+        ]
+      }
     }
   ]
 }
