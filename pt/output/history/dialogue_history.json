@@ -7811,6 +7811,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T18:43:04.711402",
+      "dialogue": {
+        "topic": "New haircut",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, new haircut?",
+            "target_text": "Ei, cabelo novo?",
+            "japanese": "Ei, cabelo novo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Does it look cool?",
+            "target_text": "Sim! Ficou legal?",
+            "japanese": "Sim! Ficou legal?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "It looks very nice!",
+            "target_text": "Ficou muito bonito!",
+            "japanese": "Ficou muito bonito!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, my friend!",
+            "target_text": "Valeu, meu amigo!",
+            "japanese": "Valeu, meu amigo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
