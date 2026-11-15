@@ -8559,6 +8559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T02:43:49.607513",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, taxi to the market?",
+            "target_text": "שלום, מונית לשוק?",
+            "transliteration": "Shalom, monit la-shuk?",
+            "japanese": "שלום, מונית לשוק?",
+            "romaji": "Shalom, monit la-shuk?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly, now.",
+            "target_text": "כן, בשמחה, עכשיו.",
+            "transliteration": "Ken, besimcha, achshav.",
+            "japanese": "כן, בשמחה, עכשיו.",
+            "romaji": "Ken, besimcha, achshav."
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Twenty shekels, please.",
+            "target_text": "עשרים שקל, בבקשה.",
+            "transliteration": "Esrim shekel, bevakasha.",
+            "japanese": "עשרים שקל, בבקשה.",
+            "romaji": "Esrim shekel, bevakasha."
+          }
+        ]
+      }
     }
   ]
 }
