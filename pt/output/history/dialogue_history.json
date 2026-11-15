@@ -7775,6 +7775,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T13:41:34.864634",
+      "dialogue": {
+        "topic": "Casual park plan",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, going to the park?",
+            "target_text": "Oi, vai ao parque?",
+            "japanese": "Oi, vai ao parque?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! The day is beautiful.",
+            "target_text": "Sim! O dia está lindo.",
+            "japanese": "Sim! O dia está lindo.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go together?",
+            "target_text": "Vamos juntos então?",
+            "japanese": "Vamos juntos então?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, let’s go!",
+            "target_text": "Claro, bora lá!",
+            "japanese": "Claro, bora lá!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
