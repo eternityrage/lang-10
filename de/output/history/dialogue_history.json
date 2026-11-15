@@ -7883,6 +7883,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T22:07:03.176958",
+      "dialogue": {
+        "topic": "Berlin street musician",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you play here?",
+            "target_text": "Hallo, spielst du hier?",
+            "japanese": "Hallo, spielst du hier?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, every evening!",
+            "target_text": "Ja, jeden Abend!",
+            "japanese": "Ja, jeden Abend!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "That sounds very nice.",
+            "target_text": "Das klingt sehr schön.",
+            "japanese": "Das klingt sehr schön.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, Berlin is dancing!",
+            "target_text": "Danke, Berlin tanzt!",
+            "japanese": "Danke, Berlin tanzt!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
