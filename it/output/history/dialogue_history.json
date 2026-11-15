@@ -7775,6 +7775,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T13:15:04.512768",
+      "dialogue": {
+        "topic": "Florence river walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the Arno?",
+            "target_text": "Ciao, dov'è l'Arno?",
+            "japanese": "Ciao, dov'è l'Arno?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It’s here, very close!",
+            "target_text": "È qui, molto vicino!",
+            "japanese": "È qui, molto vicino!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a photo?",
+            "target_text": "Facciamo una foto?",
+            "japanese": "Facciamo una foto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what a beautiful view!",
+            "target_text": "Sì, che bella vista!",
+            "japanese": "Sì, che bella vista!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
