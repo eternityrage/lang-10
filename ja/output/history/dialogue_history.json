@@ -6943,6 +6943,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T12:41:19.656005",
+      "dialogue": {
+        "topic": "Dating & Romance",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, I like you.",
+            "japanese": "マグさん、すきです。",
+            "romaji": "Magu-san, suki desu."
+          },
+          {
+            "speaker": "B",
+            "english": "I like you too.",
+            "japanese": "わたしも すきです。",
+            "romaji": "Watashi mo suki desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go on a date?",
+            "japanese": "デート しませんか？",
+            "romaji": "Deeto shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go!",
+            "japanese": "はい、いきましょう！",
+            "romaji": "Hai, ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
