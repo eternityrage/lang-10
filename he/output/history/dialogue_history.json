@@ -8639,6 +8639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T17:47:59.998857",
+      "dialogue": {
+        "topic": "Shopping & Boutiques",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much is the hat?",
+            "target_text": "שלום, כמה עולה הכובע?",
+            "transliteration": "Shalom, kama oleh hakova?",
+            "japanese": "שלום, כמה עולה הכובע?",
+            "romaji": "Shalom, kama oleh hakova?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only twenty shekels!",
+            "target_text": "רק עשרים שקלים!",
+            "transliteration": "Rak esrim shkalim!",
+            "japanese": "רק עשרים שקלים!",
+            "romaji": "Rak esrim shkalim!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try it on?",
+            "target_text": "אפשר למדוד אותו?",
+            "transliteration": "Efshar limdod oto?",
+            "japanese": "אפשר למדוד אותו?",
+            "romaji": "Efshar limdod oto?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please, happily!",
+            "target_text": "כן, בבקשה, בשמחה!",
+            "transliteration": "Ken, bevakasha, besimcha!",
+            "japanese": "כן, בבקשה, בשמחה!",
+            "romaji": "Ken, bevakasha, besimcha!"
+          }
+        ]
+      }
     }
   ]
 }
