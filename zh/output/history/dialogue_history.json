@@ -8799,6 +8799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T13:28:28.265354",
+      "dialogue": {
+        "topic": "Hotpot Dinner",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want meat?",
+            "chinese": "要肉吗？",
+            "pinyin": "Yào ròu ma?",
+            "japanese": "要肉吗？",
+            "romaji": "Yào ròu ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! It smells good!",
+            "chinese": "要！好香！",
+            "pinyin": "Yào! Hǎo xiāng!",
+            "japanese": "要！好香！",
+            "romaji": "Yào! Hǎo xiāng!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want vegetables?",
+            "chinese": "要菜吗？",
+            "pinyin": "Yào cài ma?",
+            "japanese": "要菜吗？",
+            "romaji": "Yào cài ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s eat!",
+            "chinese": "要，开吃！",
+            "pinyin": "Yào, kāi chī!",
+            "japanese": "要，开吃！",
+            "romaji": "Yào, kāi chī!"
+          }
+        ]
+      }
     }
   ]
 }
