@@ -8679,6 +8679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T21:47:34.369004",
+      "dialogue": {
+        "topic": "Shuk Carmel Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much is a kilo?",
+            "target_text": "שלום, כמה עולה קילו?",
+            "transliteration": "Shalom, kama oleh kilo?",
+            "japanese": "שלום, כמה עולה קילו?",
+            "romaji": "Shalom, kama oleh kilo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, fresh!",
+            "target_text": "עשרה שקלים, טרי!",
+            "transliteration": "Asara shkalim, tari!",
+            "japanese": "עשרה שקלים, טרי!",
+            "romaji": "Asara shkalim, tari!"
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take one kilo.",
+            "target_text": "אקח קילו אחד.",
+            "transliteration": "Ekakh kilo ekhad.",
+            "japanese": "אקח קילו אחד.",
+            "romaji": "Ekakh kilo ekhad."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, have a good day!",
+            "target_text": "יופי, יום טוב!",
+            "transliteration": "Yofi, yom tov!",
+            "japanese": "יופי, יום טוב!",
+            "romaji": "Yofi, yom tov!"
+          }
+        ]
+      }
     }
   ]
 }
