@@ -8639,6 +8639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T18:36:37.490400",
+      "dialogue": {
+        "topic": "Ordering Borsch & Pelmeni",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening! Borsch and pelmeni?",
+            "russian": "Добрый вечер! Борщ и пельмени?",
+            "translit": "Dobryy vecher! Borshch i pelmeni?",
+            "japanese": "Добрый вечер! Борщ и пельмени?",
+            "romaji": "Dobryy vecher! Borshch i pelmeni?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course! Very tasty.",
+            "russian": "Конечно! Очень вкусно.",
+            "translit": "Konechno! Ochen vkusno.",
+            "japanese": "Конечно! Очень вкусно.",
+            "romaji": "Konechno! Ochen vkusno."
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have sour cream?",
+            "russian": "Сметану можно?",
+            "translit": "Smetanu mozhno?",
+            "japanese": "Сметану можно?",
+            "romaji": "Smetanu mozhno?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, enjoy your meal!",
+            "russian": "Да, приятного аппетита!",
+            "translit": "Da, priyatnogo appetita!",
+            "japanese": "Да, приятного аппетита!",
+            "romaji": "Da, priyatnogo appetita!"
+          }
+        ]
+      }
     }
   ]
 }
