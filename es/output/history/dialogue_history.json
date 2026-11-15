@@ -7739,6 +7739,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-15T12:54:48.350538",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there music?",
+            "target_text": "Hola, ¿hay música?",
+            "japanese": "Hola, ¿hay música?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, great music!",
+            "target_text": "¡Sí, música genial!",
+            "japanese": "¡Sí, música genial!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do we sit here?",
+            "target_text": "¿Nos sentamos aquí?",
+            "japanese": "¿Nos sentamos aquí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's relax.",
+            "target_text": "Sí, vamos a relajarnos.",
+            "japanese": "Sí, vamos a relajarnos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
