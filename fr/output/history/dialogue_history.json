@@ -7991,6 +7991,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T13:54:16.363765",
+      "dialogue": {
+        "topic": "Metro platform",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, which platform?",
+            "target_text": "Bonjour, c’est quel quai ?",
+            "japanese": "Bonjour, c’est quel quai ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Platform two!",
+            "target_text": "Le quai deux !",
+            "japanese": "Le quai deux !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, is it far?",
+            "target_text": "Merci, c’est loin ?",
+            "japanese": "Merci, c’est loin ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, straight ahead!",
+            "target_text": "Non, tout droit !",
+            "japanese": "Non, tout droit !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
