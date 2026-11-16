@@ -7103,6 +7103,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T20:58:03.083587",
+      "dialogue": {
+        "topic": "Coffee Break",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, break time?",
+            "japanese": "マグさん、きゅうけいですか？",
+            "romaji": "Magu-san, kyuukei desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s rest.",
+            "japanese": "はい、やすみましょう。",
+            "romaji": "Hai, yasumimashou."
+          },
+          {
+            "speaker": "A",
+            "english": "Coffee is warm.",
+            "japanese": "コーヒーは あたたかいです。",
+            "romaji": "Koohii wa atatakai desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Cupcake, relax please.",
+            "japanese": "カップケーキさん、ゆっくりしてください。",
+            "romaji": "Kappukeeki-san, yukkuri shite kudasai."
+          }
+        ]
+      }
     }
   ]
 }
