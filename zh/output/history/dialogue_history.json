@@ -8919,6 +8919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T03:29:04.324237",
+      "dialogue": {
+        "topic": "Bargaining for a Small Item",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "chinese": "这个多少钱？",
+            "pinyin": "Zhège duōshao qián?",
+            "japanese": "这个多少钱？",
+            "romaji": "Zhège duōshao qián?"
+          },
+          {
+            "speaker": "B",
+            "english": "Five yuan!",
+            "chinese": "五块钱！",
+            "pinyin": "Wǔ kuài qián!",
+            "japanese": "五块钱！",
+            "romaji": "Wǔ kuài qián!"
+          },
+          {
+            "speaker": "A",
+            "english": "Too expensive.",
+            "chinese": "太贵了。",
+            "pinyin": "Tài guì le.",
+            "japanese": "太贵了。",
+            "romaji": "Tài guì le."
+          },
+          {
+            "speaker": "B",
+            "english": "Four yuan, okay.",
+            "chinese": "四块吧。",
+            "pinyin": "Sì kuài ba.",
+            "japanese": "四块吧。",
+            "romaji": "Sì kuài ba."
+          }
+        ]
+      }
     }
   ]
 }
