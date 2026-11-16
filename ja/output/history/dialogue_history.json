@@ -7071,6 +7071,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T13:34:37.059840",
+      "dialogue": {
+        "topic": "Anime-style courage",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you okay?",
+            "japanese": "マグさん、だいじょうぶですか？",
+            "romaji": "Magu-san, daijoubu desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I won't lose!",
+            "japanese": "はい！まけません！",
+            "romaji": "Hai! Makemasen!"
+          },
+          {
+            "speaker": "A",
+            "english": "I go too!",
+            "japanese": "わたしも 行きます！",
+            "romaji": "Watashi mo ikimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Good. Let's go!",
+            "japanese": "いいですね。行きましょう！",
+            "romaji": "Ii desu ne. Ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
