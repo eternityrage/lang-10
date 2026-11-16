@@ -8799,6 +8799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T21:40:51.856932",
+      "dialogue": {
+        "topic": "Charging a subway card at a convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can I charge my card?",
+            "korean": "카드 충전 돼요?",
+            "romaja": "Kadeu chungjeon dwaeyo?",
+            "japanese": "카드 충전 돼요?",
+            "romaji": "Kadeu chungjeon dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, you can here!",
+            "korean": "네, 여기서 돼요!",
+            "romaja": "Ne, yeogiseo dwaeyo!",
+            "japanese": "네, 여기서 돼요!",
+            "romaji": "Ne, yeogiseo dwaeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Five thousand won, please.",
+            "korean": "오천 원 부탁해요.",
+            "romaja": "Ocheon won butakhaeyo.",
+            "japanese": "오천 원 부탁해요.",
+            "romaji": "Ocheon won butakhaeyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, it's charged!",
+            "korean": "네, 충전 됐어요!",
+            "romaja": "Ne, chungjeon dwaesseoyo!",
+            "japanese": "네, 충전 됐어요!",
+            "romaji": "Ne, chungjeon dwaesseoyo!"
+          }
+        ]
+      }
     }
   ]
 }
