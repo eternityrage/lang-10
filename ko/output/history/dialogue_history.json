@@ -8719,6 +8719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T03:22:09.563637",
+      "dialogue": {
+        "topic": "Quick convenience store stop before the subway",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we go there?",
+            "korean": "저기 편의점 갈까요?",
+            "romaja": "Jeogi pyeonuijeom galkkayo?",
+            "japanese": "저기 편의점 갈까요?",
+            "romaji": "Jeogi pyeonuijeom galkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds great!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Before taking the subway?",
+            "korean": "지하철 타기 전에요?",
+            "romaja": "Jihacheol tagi jeoneyo?",
+            "japanese": "지하철 타기 전에요?",
+            "romaji": "Jihacheol tagi jeoneyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s buy gimbap!",
+            "korean": "네, 김밥 사요!",
+            "romaja": "Ne, gimbap sayo!",
+            "japanese": "네, 김밥 사요!",
+            "romaji": "Ne, gimbap sayo!"
+          }
+        ]
+      }
     }
   ]
 }
