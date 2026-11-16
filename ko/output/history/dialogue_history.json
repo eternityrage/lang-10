@@ -8759,6 +8759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T14:14:48.456741",
+      "dialogue": {
+        "topic": "Movie date",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have time today?",
+            "korean": "오늘 시간 있어요?",
+            "romaja": "oneul sigan isseoyo?",
+            "japanese": "오늘 시간 있어요?",
+            "romaji": "oneul sigan isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I have time!",
+            "korean": "네, 시간 있어요!",
+            "romaja": "ne, sigan isseoyo!",
+            "japanese": "네, 시간 있어요!",
+            "romaji": "ne, sigan isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Want to watch a movie?",
+            "korean": "영화 볼래요?",
+            "romaja": "yeonghwa bollaeyo?",
+            "japanese": "영화 볼래요?",
+            "romaji": "yeonghwa bollaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let's watch together!",
+            "korean": "좋아요, 같이 봐요!",
+            "romaja": "joayo, gachi bwayo!",
+            "japanese": "좋아요, 같이 봐요!",
+            "romaji": "joayo, gachi bwayo!"
+          }
+        ]
+      }
     }
   ]
 }
