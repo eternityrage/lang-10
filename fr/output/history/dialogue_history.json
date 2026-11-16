@@ -8027,6 +8027,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T21:17:58.671438",
+      "dialogue": {
+        "topic": "Metro & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, where is the station?",
+            "target_text": "Bonjour, où est la gare ?",
+            "japanese": "Bonjour, où est la gare ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right there, on the left!",
+            "target_text": "Juste là, à gauche !",
+            "japanese": "Juste là, à gauche !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it very far?",
+            "target_text": "C'est très loin ?",
+            "japanese": "C'est très loin ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, two minutes on foot.",
+            "target_text": "Non, deux minutes à pied.",
+            "japanese": "Non, deux minutes à pied.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
