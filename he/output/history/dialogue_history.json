@@ -8759,6 +8759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T13:41:20.029612",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, all good?",
+            "target_text": "ערב טוב, הכל טוב?",
+            "transliteration": "Erev tov, hakol tov?",
+            "japanese": "ערב טוב, הכל טוב?",
+            "romaji": "Erev tov, hakol tov?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, all cool!",
+            "target_text": "כן, הכל סבבה!",
+            "transliteration": "Ken, hakol sababa!",
+            "japanese": "כן, הכל סבבה!",
+            "romaji": "Ken, hakol sababa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, see you tomorrow?",
+            "target_text": "מעולה, נתראה מחר?",
+            "transliteration": "Me'uleh, nitra'eh machar?",
+            "japanese": "מעולה, נתראה מחר?",
+            "romaji": "Me'uleh, nitra'eh machar?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, good night!",
+            "target_text": "בטח, לילה טוב!",
+            "transliteration": "Betach, laila tov!",
+            "japanese": "בטח, לילה טוב!",
+            "romaji": "Betach, laila tov!"
+          }
+        ]
+      }
     }
   ]
 }
