@@ -8759,6 +8759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T14:27:59.039083",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! Any warm baguette?",
+            "russian": "Здравствуйте! Есть тёплый багет?",
+            "translit": "Zdravstvuyte! Yest tyoplyy baget?",
+            "japanese": "Здравствуйте! Есть тёплый багет?",
+            "romaji": "Zdravstvuyte! Yest tyoplyy baget?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, just from the oven!",
+            "russian": "Да, только из печи!",
+            "translit": "Da, tolko iz pechi!",
+            "japanese": "Да, только из печи!",
+            "romaji": "Da, tolko iz pechi!"
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take one, please.",
+            "russian": "Возьму один, пожалуйста.",
+            "translit": "Vozmu odin, pozhaluysta.",
+            "japanese": "Возьму один, пожалуйста.",
+            "romaji": "Vozmu odin, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Here is your baguette!",
+            "russian": "Вот ваш багет!",
+            "translit": "Vot vash baget!",
+            "japanese": "Вот ваш багет!",
+            "romaji": "Vot vash baget!"
+          }
+        ]
+      }
     }
   ]
 }
