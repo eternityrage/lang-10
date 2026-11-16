@@ -7955,6 +7955,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T14:01:15.293539",
+      "dialogue": {
+        "topic": "Polite request for help",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, can you help?",
+            "target_text": "Entschuldigung, können Sie helfen?",
+            "japanese": "Entschuldigung, können Sie helfen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very gladly!",
+            "target_text": "Ja, sehr gern!",
+            "japanese": "Ja, sehr gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "The bag is heavy.",
+            "target_text": "Die Tasche ist schwer.",
+            "japanese": "Die Tasche ist schwer.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I will carry it.",
+            "target_text": "Ich trage sie gern.",
+            "japanese": "Ich trage sie gern.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
