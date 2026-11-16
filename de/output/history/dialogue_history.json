@@ -7919,6 +7919,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T03:09:18.555242",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, Ben!",
+            "target_text": "Hallo, guten Morgen, Ben!",
+            "japanese": "Hallo, guten Morgen, Ben!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Good morning, I'm happy!",
+            "target_text": "Guten Morgen, ich freue mich!",
+            "japanese": "Guten Morgen, ich freue mich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice to see you.",
+            "target_text": "Schön, dich zu sehen.",
+            "japanese": "Schön, dich zu sehen.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you later!",
+            "target_text": "Ja, bis später dann!",
+            "japanese": "Ja, bis später dann!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
