@@ -8999,6 +8999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-16T21:47:18.647204",
+      "dialogue": {
+        "topic": "Bargaining for apples",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "chinese": "这个多少钱？",
+            "pinyin": "Zhège duōshao qián?",
+            "japanese": "这个多少钱？",
+            "romaji": "Zhège duōshao qián?"
+          },
+          {
+            "speaker": "B",
+            "english": "Three yuan!",
+            "chinese": "三块钱！",
+            "pinyin": "Sān kuài qián!",
+            "japanese": "三块钱！",
+            "romaji": "Sān kuài qián!"
+          },
+          {
+            "speaker": "A",
+            "english": "Too expensive.",
+            "chinese": "太贵了。",
+            "pinyin": "Tài guì le.",
+            "japanese": "太贵了。",
+            "romaji": "Tài guì le."
+          },
+          {
+            "speaker": "B",
+            "english": "Two yuan then!",
+            "chinese": "两块吧！",
+            "pinyin": "Liǎng kuài ba!",
+            "japanese": "两块吧！",
+            "romaji": "Liǎng kuài ba!"
+          }
+        ]
+      }
     }
   ]
 }
