@@ -7135,6 +7135,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T00:45:37.887087",
+      "dialogue": {
+        "topic": "Milk for Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Coffee, please.",
+            "japanese": "コーヒーを ください。",
+            "romaji": "Koohii o kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Do you need milk?",
+            "japanese": "ミルクは いりますか？",
+            "romaji": "Miruku wa irimasu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, a little, please.",
+            "japanese": "はい、すこし ください。",
+            "romaji": "Hai, sukoshi kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "japanese": "はい、どうぞ。",
+            "romaji": "Hai, douzo."
+          }
+        ]
+      }
     }
   ]
 }
