@@ -7231,6 +7231,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T19:48:17.398046",
+      "dialogue": {
+        "topic": "Hot day iced coffee slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, hot today.",
+            "japanese": "マグ、きょう あついね。",
+            "romaji": "Magu, kyou atsui ne."
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, super hot.",
+            "japanese": "うん、めっちゃ あつい。",
+            "romaji": "Un, meccha atsui."
+          },
+          {
+            "speaker": "A",
+            "english": "Drink iced coffee?",
+            "japanese": "アイスコーヒー、のむ？",
+            "romaji": "Aisu koohii, nomu?"
+          },
+          {
+            "speaker": "B",
+            "english": "Nice! Let's drink now.",
+            "japanese": "いいね！いま のもう。",
+            "romaji": "Ii ne! Ima nomou."
+          }
+        ]
+      }
     }
   ]
 }
