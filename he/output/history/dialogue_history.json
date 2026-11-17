@@ -8959,6 +8959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T19:54:46.438641",
+      "dialogue": {
+        "topic": "Buying a mango at Shuk Carmel Market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much is mango?",
+            "target_text": "שלום, כמה עולה מנגו?",
+            "transliteration": "Shalom, kama oleh mango?",
+            "japanese": "שלום, כמה עולה מנגו?",
+            "romaji": "Shalom, kama oleh mango?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, very tasty!",
+            "target_text": "עשרה שקלים, טעים מאוד!",
+            "transliteration": "Asara shkalim, ta'im me'od!",
+            "japanese": "עשרה שקלים, טעים מאוד!",
+            "romaji": "Asara shkalim, ta'im me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take one.",
+            "target_text": "אני לוקח אחד.",
+            "transliteration": "Ani loke'ach echad.",
+            "japanese": "אני לוקח אחד.",
+            "romaji": "Ani loke'ach echad."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, have a good day!",
+            "target_text": "בכיף, יום טוב!",
+            "transliteration": "Bekef, yom tov!",
+            "japanese": "בכיף, יום טוב!",
+            "romaji": "Bekef, yom tov!"
+          }
+        ]
+      }
     }
   ]
 }
