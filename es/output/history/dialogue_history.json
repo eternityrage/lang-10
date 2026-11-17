@@ -8063,6 +8063,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T20:01:08.612771",
+      "dialogue": {
+        "topic": "Chill music and lemonade",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there soft music?",
+            "target_text": "Hola, ¿hay música suave?",
+            "japanese": "Hola, ¿hay música suave?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very calm!",
+            "target_text": "¡Sí, muy tranquila!",
+            "japanese": "¡Sí, muy tranquila!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we drink lemonade?",
+            "target_text": "¿Tomamos una limonada?",
+            "japanese": "¿Tomamos una limonada?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, to the patio.",
+            "target_text": "Sí, vamos al patio.",
+            "japanese": "Sí, vamos al patio.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
