@@ -8879,6 +8879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T05:44:31.059142",
+      "dialogue": {
+        "topic": "You Are My Star",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you happy today?",
+            "korean": "오늘 기분 좋아?",
+            "romaja": "Oneul gibun joa?",
+            "japanese": "오늘 기분 좋아?",
+            "romaji": "Oneul gibun joa?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, because of you!",
+            "korean": "응, 너 때문에!",
+            "romaja": "Eung, neo ttaemune!",
+            "japanese": "응, 너 때문에!",
+            "romaji": "Eung, neo ttaemune!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really, because of me?",
+            "korean": "정말 나 때문이야?",
+            "romaja": "Jeongmal na ttaemuniya?",
+            "japanese": "정말 나 때문이야?",
+            "romaji": "Jeongmal na ttaemuniya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, you are my star.",
+            "korean": "응, 너는 내 별이야.",
+            "romaja": "Eung, neoneun nae byeoriya.",
+            "japanese": "응, 너는 내 별이야.",
+            "romaji": "Eung, neoneun nae byeoriya."
+          }
+        ]
+      }
     }
   ]
 }
