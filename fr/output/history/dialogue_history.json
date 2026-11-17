@@ -8063,6 +8063,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T01:05:44.620376",
+      "dialogue": {
+        "topic": "Daily Life - Finding keys",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have my keys?",
+            "target_text": "Tu as mes clés ?",
+            "japanese": "Tu as mes clés ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are here!",
+            "target_text": "Oui, elles sont ici !",
+            "japanese": "Oui, elles sont ici !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, I’m leaving.",
+            "target_text": "Merci, je pars.",
+            "japanese": "Merci, je pars.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Have a good day, see you!",
+            "target_text": "Bonne journée, à plus !",
+            "japanese": "Bonne journée, à plus !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
