@@ -9039,6 +9039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T01:32:06.542884",
+      "dialogue": {
+        "topic": "Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there a metro?",
+            "chinese": "有地铁吗？",
+            "pinyin": "Yǒu dìtiě ma?",
+            "japanese": "有地铁吗？",
+            "romaji": "Yǒu dìtiě ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very close.",
+            "chinese": "有，很近。",
+            "pinyin": "Yǒu, hěn jìn.",
+            "japanese": "有，很近。",
+            "romaji": "Yǒu, hěn jìn."
+          },
+          {
+            "speaker": "A",
+            "english": "Where is it?",
+            "chinese": "在哪儿？",
+            "pinyin": "Zài nǎr?",
+            "japanese": "在哪儿？",
+            "romaji": "Zài nǎr?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ahead. Let’s go.",
+            "chinese": "前面，走吧。",
+            "pinyin": "Qiánmiàn, zǒu ba.",
+            "japanese": "前面，走吧。",
+            "romaji": "Qiánmiàn, zǒu ba."
+          }
+        ]
+      }
     }
   ]
 }
