@@ -7991,6 +7991,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T05:17:37.906313",
+      "dialogue": {
+        "topic": "Refrescos en la fiesta",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there drinks?",
+            "target_text": "Hola, ¿hay refrescos?",
+            "japanese": "Hola, ¿hay refrescos?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, cold lemonade.",
+            "target_text": "Sí, limonada fría.",
+            "japanese": "Sí, limonada fría.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, I want one.",
+            "target_text": "Genial, quiero una.",
+            "japanese": "Genial, quiero una.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Come, let's relax.",
+            "target_text": "Ven, vamos a relajarnos.",
+            "japanese": "Ven, vamos a relajarnos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
