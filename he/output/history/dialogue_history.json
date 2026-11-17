@@ -8879,6 +8879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T05:11:12.434224",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, all good?",
+            "target_text": "אהלן, הכל טוב?",
+            "transliteration": "Ahlan, hakol tov?",
+            "japanese": "אהלן, הכל טוב?",
+            "romaji": "Ahlan, hakol tov?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, everything is great!",
+            "target_text": "כן, הכל מעולה!",
+            "transliteration": "Ken, hakol me'ule!",
+            "japanese": "כן, הכל מעולה!",
+            "romaji": "Ken, hakol me'ule!"
+          },
+          {
+            "speaker": "A",
+            "english": "Nice, want coffee?",
+            "target_text": "יופי, בא לך קפה?",
+            "transliteration": "Yofi, ba lecha kafe?",
+            "japanese": "יופי, בא לך קפה?",
+            "romaji": "Yofi, ba lecha kafe?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, let's go!",
+            "target_text": "בטח, יאללה נלך!",
+            "transliteration": "Betach, yalla nelech!",
+            "japanese": "בטח, יאללה נלך!",
+            "romaji": "Betach, yalla nelech!"
+          }
+        ]
+      }
     }
   ]
 }
