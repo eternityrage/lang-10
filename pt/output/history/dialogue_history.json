@@ -7955,6 +7955,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T01:45:43.389723",
+      "dialogue": {
+        "topic": "Rio Beach & Coconut Water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we go to Ipanema?",
+            "target_text": "Oi, vamos pra Ipanema?",
+            "japanese": "Oi, vamos pra Ipanema?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the sea is beautiful!",
+            "target_text": "Sim, o mar está lindo!",
+            "japanese": "Sim, o mar está lindo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we drink coconut water?",
+            "target_text": "Bebemos água de coco?",
+            "japanese": "Bebemos água de coco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, ice-cold water!",
+            "target_text": "Claro, água bem gelada!",
+            "japanese": "Claro, água bem gelada!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
