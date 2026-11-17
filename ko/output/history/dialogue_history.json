@@ -8959,6 +8959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T20:30:46.645470",
+      "dialogue": {
+        "topic": "Same Age Friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are we the same age?",
+            "korean": "우리 동갑이에요?",
+            "romaja": "Uri donggabieyo?",
+            "japanese": "우리 동갑이에요?",
+            "romaji": "Uri donggabieyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, that's right!",
+            "korean": "네, 맞아요!",
+            "romaja": "Ne, majayo!",
+            "japanese": "네, 맞아요!",
+            "romaji": "Ne, majayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then speak casually?",
+            "korean": "그럼 말 놓을까?",
+            "romaja": "Geureom mal noeulkka?",
+            "japanese": "그럼 말 놓을까?",
+            "romaji": "Geureom mal noeulkka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, let's be friends!",
+            "korean": "좋아, 친구 하자!",
+            "romaja": "Joa, chingu haja!",
+            "japanese": "좋아, 친구 하자!",
+            "romaji": "Joa, chingu haja!"
+          }
+        ]
+      }
     }
   ]
 }
