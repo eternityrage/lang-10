@@ -7263,6 +7263,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T23:49:30.759734",
+      "dialogue": {
+        "topic": "こわくても、がんばる！",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you scared?",
+            "japanese": "マグさん、こわいですか？",
+            "romaji": "Magu-san, kowai desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little scared.",
+            "japanese": "はい、すこし こわいです。",
+            "romaji": "Hai, sukoshi kowai desu."
+          },
+          {
+            "speaker": "A",
+            "english": "It is okay. Together!",
+            "japanese": "だいじょうぶ。いっしょです！",
+            "romaji": "Daijoubu. Issho desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I will try!",
+            "japanese": "はい！がんばります！",
+            "romaji": "Hai! Ganbarimasu!"
+          }
+        ]
+      }
     }
   ]
 }
