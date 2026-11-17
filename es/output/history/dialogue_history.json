@@ -8027,6 +8027,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T14:32:22.195607",
+      "dialogue": {
+        "topic": "Greetings & Compliments - Nice shirt",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, nice shirt.",
+            "target_text": "Hola, bonita camisa.",
+            "japanese": "Hola, bonita camisa.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, I like it a lot.",
+            "target_text": "Gracias, me gusta mucho.",
+            "japanese": "Gracias, me gusta mucho.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it a new shirt?",
+            "target_text": "¿Es una camisa nueva?",
+            "japanese": "¿Es una camisa nueva?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very comfortable.",
+            "target_text": "Sí, es muy cómoda.",
+            "japanese": "Sí, es muy cómoda.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
