@@ -8027,6 +8027,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T15:19:37.787493",
+      "dialogue": {
+        "topic": "Açaí Bowl & Smoothies",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, açaí with banana?",
+            "target_text": "Oi, açaí com banana?",
+            "japanese": "Oi, açaí com banana?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course! It tastes great.",
+            "target_text": "Claro! Fica muito bom.",
+            "japanese": "Claro! Fica muito bom.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can you add granola too?",
+            "target_text": "Pode pôr granola também?",
+            "japanese": "Pode pôr granola também?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, coming right up!",
+            "target_text": "Sim, sai já!",
+            "japanese": "Sim, sai já!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
