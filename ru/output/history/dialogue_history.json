@@ -8919,6 +8919,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T15:12:17.235822",
+      "dialogue": {
+        "topic": "Street walk with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Going for a walk?",
+            "russian": "Привет! Идёшь гулять?",
+            "translit": "Privet! Idyosh' gulyat'?",
+            "japanese": "Привет! Идёшь гулять?",
+            "romaji": "Privet! Idyosh' gulyat'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am happy!",
+            "russian": "Да, я рад!",
+            "translit": "Da, ya rad!",
+            "japanese": "Да, я рад!",
+            "romaji": "Da, ya rad!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to park?",
+            "russian": "Пойдём в парк?",
+            "translit": "Poydyom v park?",
+            "japanese": "Пойдём в парк?",
+            "romaji": "Poydyom v park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, my friend!",
+            "russian": "Конечно, мой друг!",
+            "translit": "Konechno, moy drug!",
+            "japanese": "Конечно, мой друг!",
+            "romaji": "Konechno, moy drug!"
+          }
+        ]
+      }
     }
   ]
 }
