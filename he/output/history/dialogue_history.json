@@ -8999,6 +8999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T23:56:18.910817",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the croissant fresh?",
+            "target_text": "שלום, הקרואסון טרי?",
+            "transliteration": "Shalom, ha-kruason tari?",
+            "japanese": "שלום, הקרואסון טרי?",
+            "romaji": "Shalom, ha-kruason tari?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "target_text": "כן, טרי מאוד!",
+            "transliteration": "Ken, tari me'od!",
+            "japanese": "כן, טרי מאוד!",
+            "romaji": "Ken, tari me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, one croissant please.",
+            "target_text": "יופי, קרואסון אחד בבקשה.",
+            "transliteration": "Yofi, kruason echad bevakasha.",
+            "japanese": "יופי, קרואסון אחד בבקשה.",
+            "romaji": "Yofi, kruason echad bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Here, have a nice day!",
+            "target_text": "הנה, יום נעים!",
+            "transliteration": "Hine, yom na'im!",
+            "japanese": "הנה, יום נעים!",
+            "romaji": "Hine, yom na'im!"
+          }
+        ]
+      }
     }
   ]
 }
