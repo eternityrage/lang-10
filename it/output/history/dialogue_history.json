@@ -8099,6 +8099,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T20:23:40.778365",
+      "dialogue": {
+        "topic": "Italian gesture: che vuoi?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what is this?",
+            "target_text": "Ciao, cos’è questo?",
+            "japanese": "Ciao, cos’è questo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: what do you want?",
+            "target_text": "Vuol dire: che vuoi?",
+            "japanese": "Vuol dire: che vuoi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Ah, an Italian gesture?",
+            "target_text": "Ah, gesto italiano?",
+            "japanese": "Ah, gesto italiano?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very famous!",
+            "target_text": "Sì, molto famoso!",
+            "japanese": "Sì, molto famoso!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
