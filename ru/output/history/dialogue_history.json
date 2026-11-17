@@ -8879,6 +8879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-17T05:58:04.105423",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we walk today?",
+            "russian": "Привет, пойдём гулять сегодня?",
+            "translit": "Privet, poydyom gulyat' segodnya?",
+            "japanese": "Привет, пойдём гулять сегодня?",
+            "romaji": "Privet, poydyom gulyat' segodnya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the snow is beautiful!",
+            "russian": "Да, снег очень красивый!",
+            "translit": "Da, sneg ochen' krasivyy!",
+            "japanese": "Да, снег очень красивый!",
+            "romaji": "Da, sneg ochen' krasivyy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is the wind strong?",
+            "russian": "А ветер не сильный?",
+            "translit": "A veter ne sil'nyy?",
+            "japanese": "А ветер не сильный?",
+            "romaji": "A veter ne sil'nyy?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, let’s go to the park!",
+            "russian": "Нет, идём в парк!",
+            "translit": "Net, idyom v park!",
+            "japanese": "Нет, идём в парк!",
+            "romaji": "Net, idyom v park!"
+          }
+        ]
+      }
     }
   ]
 }
