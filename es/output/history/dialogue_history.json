@@ -8243,6 +8243,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T23:34:50.539629",
+      "dialogue": {
+        "topic": "Greeting and complimenting a shirt",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! Nice shirt.",
+            "target_text": "¡Hola! Bonita camiseta.",
+            "japanese": "¡Hola! Bonita camiseta.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! It is new.",
+            "target_text": "¡Gracias! Es nueva.",
+            "japanese": "¡Gracias! Es nueva.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "It looks very good.",
+            "target_text": "Te queda muy bien.",
+            "japanese": "Te queda muy bien.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How kind! Thanks.",
+            "target_text": "¡Qué amable! Gracias.",
+            "japanese": "¡Qué amable! Gracias.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
