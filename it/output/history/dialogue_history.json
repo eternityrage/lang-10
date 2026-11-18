@@ -8243,6 +8243,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T19:57:04.489843",
+      "dialogue": {
+        "topic": "Rome & Florence Walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, Rome or Florence?",
+            "target_text": "Ciao, Roma o Firenze?",
+            "japanese": "Ciao, Roma o Firenze?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Florence, it's beautiful!",
+            "target_text": "Firenze, è bellissima!",
+            "japanese": "Firenze, è bellissima!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a walk?",
+            "target_text": "Facciamo una passeggiata?",
+            "japanese": "Facciamo una passeggiata?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go to the Duomo!",
+            "target_text": "Sì, andiamo al Duomo!",
+            "japanese": "Sì, andiamo al Duomo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
