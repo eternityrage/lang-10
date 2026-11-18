@@ -8243,6 +8243,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T14:40:01.952570",
+      "dialogue": {
+        "topic": "Borrowing a pen",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, got a pen?",
+            "target_text": "Entschuldigung, hast du einen Stift?",
+            "japanese": "Entschuldigung, hast du einen Stift?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here is one!",
+            "target_text": "Ja, hier ist einer!",
+            "japanese": "Ja, hier ist einer!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "May I use it?",
+            "target_text": "Darf ich ihn nutzen?",
+            "japanese": "Darf ich ihn nutzen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, no problem!",
+            "target_text": "Klar, kein Problem!",
+            "japanese": "Klar, kein Problem!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
