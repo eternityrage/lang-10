@@ -9039,6 +9039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T04:52:09.909408",
+      "dialogue": {
+        "topic": "Tel Aviv Scooter on the Street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, is there a scooter here?",
+            "target_text": "סליחה, יש קורקינט פה?",
+            "transliteration": "Slicha, yesh korkinet po?",
+            "japanese": "סליחה, יש קורקינט פה?",
+            "romaji": "Slicha, yesh korkinet po?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, near the tree!",
+            "target_text": "כן, ליד העץ!",
+            "transliteration": "Ken, leyad ha-etz!",
+            "japanese": "כן, ליד העץ!",
+            "romaji": "Ken, leyad ha-etz!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten shekels, easy!",
+            "target_text": "עשרה שקלים, קל!",
+            "transliteration": "Asara shkalim, kal!",
+            "japanese": "עשרה שקלים, קל!",
+            "romaji": "Asara shkalim, kal!"
+          }
+        ]
+      }
     }
   ]
 }
