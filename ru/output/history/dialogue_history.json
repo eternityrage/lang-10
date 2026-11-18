@@ -8999,6 +8999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T00:42:29.687649",
+      "dialogue": {
+        "topic": "Moscow Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Taxi to the metro?",
+            "russian": "Такси до метро?",
+            "translit": "Taksi do metro?",
+            "japanese": "Такси до метро?",
+            "romaji": "Taksi do metro?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, get in, let's go!",
+            "russian": "Да, садитесь, поехали!",
+            "translit": "Da, sadites', poekhali!",
+            "japanese": "Да, садитесь, поехали!",
+            "romaji": "Da, sadites', poekhali!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "russian": "Сколько это стоит?",
+            "translit": "Skol'ko eto stoit?",
+            "japanese": "Сколько это стоит?",
+            "romaji": "Skol'ko eto stoit?"
+          },
+          {
+            "speaker": "B",
+            "english": "Three hundred rubles, cheap!",
+            "russian": "Триста рублей, недорого!",
+            "translit": "Trista rubley, nedorogo!",
+            "japanese": "Триста рублей, недорого!",
+            "romaji": "Trista rubley, nedorogo!"
+          }
+        ]
+      }
     }
   ]
 }
