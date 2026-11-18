@@ -9119,6 +9119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T19:29:15.532321",
+      "dialogue": {
+        "topic": "Shuk Carmel Market - Watermelon",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how much is watermelon?",
+            "target_text": "שלום, כמה עולה אבטיח?",
+            "transliteration": "Shalom, kama oleh avatiach?",
+            "japanese": "שלום, כמה עולה אבטיח?",
+            "romaji": "Shalom, kama oleh avatiach?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only ten shekels, great!",
+            "target_text": "רק עשרה שקלים, אחלה!",
+            "transliteration": "Rak asara shkalim, achla!",
+            "japanese": "רק עשרה שקלים, אחלה!",
+            "romaji": "Rak asara shkalim, achla!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is the watermelon sweet today?",
+            "target_text": "האבטיח מתוק היום?",
+            "transliteration": "Haavatiach matok hayom?",
+            "japanese": "האבטיח מתוק היום?",
+            "romaji": "Haavatiach matok hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very sweet!",
+            "target_text": "כן, מתוק מאוד!",
+            "transliteration": "Ken, matok me'od!",
+            "japanese": "כן, מתוק מאוד!",
+            "romaji": "Ken, matok me'od!"
+          }
+        ]
+      }
     }
   ]
 }
