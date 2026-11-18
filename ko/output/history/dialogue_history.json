@@ -9079,6 +9079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T15:26:18.367527",
+      "dialogue": {
+        "topic": "Gangnam Cafe Latte",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want a Gangnam cafe?",
+            "korean": "강남 카페 갈래요?",
+            "romaja": "Gangnam kape gallaeyo?",
+            "japanese": "강남 카페 갈래요?",
+            "romaji": "Gangnam kape gallaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very good!",
+            "korean": "네, 아주 좋아요!",
+            "romaja": "Ne, aju joayo!",
+            "japanese": "네, 아주 좋아요!",
+            "romaji": "Ne, aju joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we drink lattes?",
+            "korean": "우리 라떼 마실래요?",
+            "romaja": "Uri latte masillaeyo?",
+            "japanese": "우리 라떼 마실래요?",
+            "romaji": "Uri latte masillaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I will buy.",
+            "korean": "좋아요, 제가 살게요.",
+            "romaja": "Joayo, jega salgeyo.",
+            "japanese": "좋아요, 제가 살게요.",
+            "romaji": "Joayo, jega salgeyo."
+          }
+        ]
+      }
     }
   ]
 }
