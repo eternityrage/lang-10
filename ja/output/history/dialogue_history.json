@@ -7327,6 +7327,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T13:53:22.056436",
+      "dialogue": {
+        "topic": "Heart Surprise",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, look!",
+            "japanese": "マグさん、見て！",
+            "romaji": "Magu-san, mite!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow! It's a heart!",
+            "japanese": "わあ！ハートです！",
+            "romaji": "Waa! Haato desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Are you happy?",
+            "japanese": "うれしいですか？",
+            "romaji": "Ureshii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very happy!",
+            "japanese": "はい、とても うれしいです！",
+            "romaji": "Hai, totemo ureshii desu!"
+          }
+        ]
+      }
     }
   ]
 }
