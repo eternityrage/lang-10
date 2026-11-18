@@ -8171,6 +8171,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T05:19:55.082473",
+      "dialogue": {
+        "topic": "Italian gesture: Che vuoi?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, why do that?",
+            "target_text": "Ciao, perché fai così?",
+            "japanese": "Ciao, perché fai così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's the Italian gesture!",
+            "target_text": "È il gesto italiano!",
+            "japanese": "È il gesto italiano!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What does it mean?",
+            "target_text": "Che cosa vuol dire?",
+            "japanese": "Che cosa vuol dire?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: what do you want?",
+            "target_text": "Vuol dire: che vuoi?",
+            "japanese": "Vuol dire: che vuoi?",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
