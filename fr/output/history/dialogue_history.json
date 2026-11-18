@@ -8243,6 +8243,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T05:04:49.674699",
+      "dialogue": {
+        "topic": "Going to the park",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you coming to the park?",
+            "target_text": "Tu viens au parc ?",
+            "japanese": "Tu viens au parc ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are we leaving now?",
+            "target_text": "On part maintenant ?",
+            "japanese": "On part maintenant ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go!",
+            "target_text": "Oui, on y va !",
+            "japanese": "Oui, on y va !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
