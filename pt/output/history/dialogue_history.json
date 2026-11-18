@@ -8135,6 +8135,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T06:08:36.486798",
+      "dialogue": {
+        "topic": "Making plans at the park",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "target_text": "Oi, tudo bem?",
+            "japanese": "Oi, tudo bem?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, and you?",
+            "target_text": "Tudo ótimo, e você?",
+            "japanese": "Tudo ótimo, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Me too. Shall we go to the park?",
+            "target_text": "Também. Vamos ao parque?",
+            "japanese": "Também. Vamos ao parque?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go! I'll bring the snack.",
+            "target_text": "Vamos! Levo o lanche.",
+            "japanese": "Vamos! Levo o lanche.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
