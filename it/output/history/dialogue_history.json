@@ -8279,6 +8279,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T23:54:15.285643",
+      "dialogue": {
+        "topic": "Italian hand gesture: “che vuoi?”",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what gesture is this?",
+            "target_text": "Ciao, che gesto è?",
+            "japanese": "Ciao, che gesto è?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means, “What do you want?”",
+            "target_text": "Vuol dire: “che vuoi?”",
+            "japanese": "Vuol dire: “che vuoi?”",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do it like this?",
+            "target_text": "Si fa così?",
+            "japanese": "Si fa così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, perfect! Bravo!",
+            "target_text": "Sì, perfetto! Bravo!",
+            "japanese": "Sì, perfetto! Bravo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
