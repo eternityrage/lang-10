@@ -8351,6 +8351,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T23:41:14.211061",
+      "dialogue": {
+        "topic": "Trying on a dress",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have dresses?",
+            "target_text": "Bonjour, vous avez des robes ?",
+            "japanese": "Bonjour, vous avez des robes ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try it on?",
+            "target_text": "Je peux essayer ?",
+            "japanese": "Je peux essayer ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the fitting room is there.",
+            "target_text": "Oui, la cabine est là.",
+            "japanese": "Oui, la cabine est là.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
