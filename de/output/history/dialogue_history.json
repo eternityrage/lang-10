@@ -8279,6 +8279,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T19:48:20.702807",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "One pretzel, please?",
+            "target_text": "Eine Brezel, bitte?",
+            "japanese": "Eine Brezel, bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, it is fresh!",
+            "target_text": "Gern, sie ist frisch!",
+            "japanese": "Gern, sie ist frisch!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "target_text": "Was kostet sie?",
+            "japanese": "Was kostet sie?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only two euros.",
+            "target_text": "Nur zwei Euro.",
+            "japanese": "Nur zwei Euro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
