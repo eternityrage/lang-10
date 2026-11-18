@@ -9159,6 +9159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T23:28:25.630044",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, one coffee please?",
+            "target_text": "בוקר טוב, קפה אחד בבקשה?",
+            "transliteration": "Boker tov, kafe echad bevakasha?",
+            "japanese": "בוקר טוב, קפה אחד בבקשה?",
+            "romaji": "Boker tov, kafe echad bevakasha?"
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, with sweet cake?",
+            "target_text": "בשמחה, עם עוגה מתוקה?",
+            "transliteration": "Besimcha, im uga metuka?",
+            "japanese": "בשמחה, עם עוגה מתוקה?",
+            "romaji": "Besimcha, im uga metuka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, small chocolate cake.",
+            "target_text": "כן, עוגת שוקולד קטנה.",
+            "transliteration": "Ken, ugat shokolad ktana.",
+            "japanese": "כן, עוגת שוקולד קטנה.",
+            "romaji": "Ken, ugat shokolad ktana."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, enjoy and good day!",
+            "target_text": "מעולה, בתיאבון ויום טוב!",
+            "transliteration": "Me'ule, bete'avon veyom tov!",
+            "japanese": "מעולה, בתיאבון ויום טוב!",
+            "romaji": "Me'ule, bete'avon veyom tov!"
+          }
+        ]
+      }
     }
   ]
 }
