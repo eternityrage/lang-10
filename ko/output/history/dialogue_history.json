@@ -9039,6 +9039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T05:26:06.720717",
+      "dialogue": {
+        "topic": "Sharing hotteok",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want some hotteok?",
+            "korean": "호떡 먹을래?",
+            "romaja": "Hotteok meogeullae?",
+            "japanese": "호떡 먹을래?",
+            "romaji": "Hotteok meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds great!",
+            "korean": "응, 정말 좋아!",
+            "romaja": "Eung, jeongmal joa!",
+            "japanese": "응, 정말 좋아!",
+            "romaji": "Eung, jeongmal joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Let’s buy one.",
+            "korean": "우리 하나 사자.",
+            "romaja": "Uri hana saja.",
+            "japanese": "우리 하나 사자.",
+            "romaji": "Uri hana saja."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let’s share!",
+            "korean": "좋아, 같이 먹자!",
+            "romaja": "Joa, gachi meokja!",
+            "japanese": "좋아, 같이 먹자!",
+            "romaji": "Joa, gachi meokja!"
+          }
+        ]
+      }
     }
   ]
 }
