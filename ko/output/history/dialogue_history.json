@@ -8999,6 +8999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T00:29:52.558351",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, can I sit here?",
+            "korean": "안녕, 여기 앉아도 돼?",
+            "romaja": "Annyeong, yeogi anjado dwae?",
+            "japanese": "안녕, 여기 앉아도 돼?",
+            "romaji": "Annyeong, yeogi anjado dwae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, sit here.",
+            "korean": "응, 여기 앉아.",
+            "romaja": "Eung, yeogi anja.",
+            "japanese": "응, 여기 앉아.",
+            "romaji": "Eung, yeogi anja."
+          },
+          {
+            "speaker": "A",
+            "english": "Want one fish cake?",
+            "korean": "어묵 하나 먹을래?",
+            "romaja": "Eomuk hana meogeullae?",
+            "japanese": "어묵 하나 먹을래?",
+            "romaji": "Eomuk hana meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, night pocha is best!",
+            "korean": "응, 밤 포차 최고!",
+            "romaja": "Eung, bam pocha choego!",
+            "japanese": "응, 밤 포차 최고!",
+            "romaji": "Eung, bam pocha choego!"
+          }
+        ]
+      }
     }
   ]
 }
