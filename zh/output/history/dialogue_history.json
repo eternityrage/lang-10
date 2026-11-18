@@ -9279,6 +9279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T15:33:09.726537",
+      "dialogue": {
+        "topic": "Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Driver, going?",
+            "chinese": "师傅，走吗？",
+            "pinyin": "Shīfu, zǒu ma?",
+            "japanese": "师傅，走吗？",
+            "romaji": "Shīfu, zǒu ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, get in!",
+            "chinese": "走，上车！",
+            "pinyin": "Zǒu, shàng chē!",
+            "japanese": "走，上车！",
+            "romaji": "Zǒu, shàng chē!"
+          },
+          {
+            "speaker": "A",
+            "english": "To school.",
+            "chinese": "去学校。",
+            "pinyin": "Qù xuéxiào.",
+            "japanese": "去学校。",
+            "romaji": "Qù xuéxiào."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, let’s go!",
+            "chinese": "好，走吧！",
+            "pinyin": "Hǎo, zǒu ba!",
+            "japanese": "好，走吧！",
+            "romaji": "Hǎo, zǒu ba!"
+          }
+        ]
+      }
     }
   ]
 }
