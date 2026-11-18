@@ -9079,6 +9079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T14:01:31.536865",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the hummus fresh?",
+            "target_text": "היי, החומוס טרי?",
+            "transliteration": "Hi, ha-hummus tari?",
+            "japanese": "היי, החומוס טרי?",
+            "romaji": "Hi, ha-hummus tari?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "target_text": "כן, טרי מאוד!",
+            "transliteration": "Ken, tari me'od!",
+            "japanese": "כן, טרי מאוד!",
+            "romaji": "Ken, tari me'od!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have one pita?",
+            "target_text": "אפשר פיתה אחת?",
+            "transliteration": "Efshar pita achat?",
+            "japanese": "אפשר פיתה אחת?",
+            "romaji": "Efshar pita achat?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, enjoy, friend!",
+            "target_text": "בטח, בתיאבון חבר!",
+            "transliteration": "Betach, bete'avon chaver!",
+            "japanese": "בטח, בתיאבון חבר!",
+            "romaji": "Betach, bete'avon chaver!"
+          }
+        ]
+      }
     }
   ]
 }
