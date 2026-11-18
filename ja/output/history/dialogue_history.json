@@ -7391,6 +7391,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T23:21:58.178145",
+      "dialogue": {
+        "topic": "Break Time Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, break time?",
+            "japanese": "マグさん、やすみですか？",
+            "romaji": "Magu-san, yasumi desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes. Just a little.",
+            "japanese": "はい。すこしだけ。",
+            "romaji": "Hai. Sukoshi dake."
+          },
+          {
+            "speaker": "A",
+            "english": "I want coffee.",
+            "japanese": "コーヒーが ほしいです。",
+            "romaji": "Koohii ga hoshii desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure. Please relax.",
+            "japanese": "どうぞ。ゆっくりして ください。",
+            "romaji": "Douzo. Yukkuri shite kudasai."
+          }
+        ]
+      }
     }
   ]
 }
