@@ -9119,6 +9119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T20:03:32.706148",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Ma'am, are you open?",
+            "korean": "이모, 아직 해요?",
+            "romaja": "Imo, ajik haeyo?",
+            "japanese": "이모, 아직 해요?",
+            "romaji": "Imo, ajik haeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come on in!",
+            "korean": "네, 어서 와요!",
+            "romaja": "Ne, eoseo wayo!",
+            "japanese": "네, 어서 와요!",
+            "romaji": "Ne, eoseo wayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "One kimchi pancake, please.",
+            "korean": "김치전 하나 주세요.",
+            "romaja": "Gimchijeon hana juseyo.",
+            "japanese": "김치전 하나 주세요.",
+            "romaji": "Gimchijeon hana juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, coming right up!",
+            "korean": "좋아요, 금방 나와요!",
+            "romaja": "Joayo, geumbang nawayo!",
+            "japanese": "좋아요, 금방 나와요!",
+            "romaji": "Joayo, geumbang nawayo!"
+          }
+        ]
+      }
     }
   ]
 }
