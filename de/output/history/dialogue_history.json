@@ -8171,6 +8171,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T00:15:54.534333",
+      "dialogue": {
+        "topic": "Morning greeting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, Tom!",
+            "target_text": "Guten Morgen, Tom!",
+            "japanese": "Guten Morgen, Tom!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Good morning, I’m great!",
+            "target_text": "Guten Morgen, mir geht's super!",
+            "japanese": "Guten Morgen, mir geht's super!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Did you sleep well?",
+            "target_text": "Hast du gut geschlafen?",
+            "japanese": "Hast du gut geschlafen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very well. See you later, my friend!",
+            "target_text": "Ja, sehr gut. Bis später, mein Freund!",
+            "japanese": "Ja, sehr gut. Bis später, mein Freund!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
