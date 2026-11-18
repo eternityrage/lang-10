@@ -8171,6 +8171,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T14:23:45.475649",
+      "dialogue": {
+        "topic": "Tortilla and coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there tortilla?",
+            "target_text": "Hola, ¿hay tortilla?",
+            "japanese": "Hola, ¿hay tortilla?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's very tasty!",
+            "target_text": "¡Sí, está muy rica!",
+            "japanese": "¡Sí, está muy rica!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And a coffee?",
+            "target_text": "¿Y un café?",
+            "japanese": "¿Y un café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, right now.",
+            "target_text": "Claro, ahora mismo.",
+            "japanese": "Claro, ahora mismo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
