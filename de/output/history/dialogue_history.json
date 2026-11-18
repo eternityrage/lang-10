@@ -8315,6 +8315,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T23:47:39.601067",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is platform three?",
+            "target_text": "Entschuldigung, wo ist Bahnsteig drei?",
+            "japanese": "Entschuldigung, wo ist Bahnsteig drei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, up ahead on the left!",
+            "target_text": "Gern, da vorne links!",
+            "japanese": "Gern, da vorne links!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the subway coming soon?",
+            "target_text": "Kommt die U-Bahn bald?",
+            "japanese": "Kommt die U-Bahn bald?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, in two minutes!",
+            "target_text": "Ja, in zwei Minuten!",
+            "japanese": "Ja, in zwei Minuten!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
