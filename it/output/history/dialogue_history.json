@@ -8207,6 +8207,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T15:19:33.617810",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what a nice smile!",
+            "target_text": "Ciao, che bel sorriso!",
+            "japanese": "Ciao, che bel sorriso!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are kind!",
+            "target_text": "Grazie, sei gentile!",
+            "japanese": "Grazie, sei gentile!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Blue suits you well.",
+            "target_text": "Ti sta bene il blu.",
+            "japanese": "Ti sta bene il blu.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, how sweet!",
+            "target_text": "Grazie, che dolce!",
+            "japanese": "Grazie, che dolce!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
