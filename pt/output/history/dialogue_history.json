@@ -8099,6 +8099,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T00:49:21.738265",
+      "dialogue": {
+        "topic": "Açaí com banana",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have açaí with banana?",
+            "target_text": "Oi, tem açaí com banana?",
+            "japanese": "Oi, tem açaí com banana?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cold!",
+            "target_text": "Tem sim, bem gelado!",
+            "japanese": "Tem sim, bem gelado!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can it be without granola?",
+            "target_text": "Pode ser sem granola?",
+            "japanese": "Pode ser sem granola?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, it’s delicious!",
+            "target_text": "Claro, fica uma delícia!",
+            "japanese": "Claro, fica uma delícia!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
