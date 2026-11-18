@@ -9079,6 +9079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-18T15:39:34.229190",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we walk in the park?",
+            "russian": "Пойдём гулять в парк?",
+            "translit": "Poydyom gulyat v park?",
+            "japanese": "Пойдём гулять в парк?",
+            "romaji": "Poydyom gulyat v park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the snow is so pretty!",
+            "russian": "Да, снег такой красивый!",
+            "translit": "Da, sneg takoy krasivyy!",
+            "japanese": "Да, снег такой красивый!",
+            "romaji": "Da, sneg takoy krasivyy!"
+          },
+          {
+            "speaker": "A",
+            "english": "Are you not cold?",
+            "russian": "Тебе не холодно?",
+            "translit": "Tebe ne kholodno?",
+            "japanese": "Тебе не холодно?",
+            "romaji": "Tebe ne kholodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, the scarf is very warm.",
+            "russian": "Нет, шарф очень тёплый.",
+            "translit": "Net, sharf ochen tyoplyy.",
+            "japanese": "Нет, шарф очень тёплый.",
+            "romaji": "Net, sharf ochen tyoplyy."
+          }
+        ]
+      }
     }
   ]
 }
