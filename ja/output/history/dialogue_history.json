@@ -7519,6 +7519,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T23:30:19.405329",
+      "dialogue": {
+        "topic": "Buying an umbrella at the convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have umbrellas?",
+            "japanese": "かさはありますか？",
+            "romaji": "Kasa wa arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we do.",
+            "japanese": "はい、あります。",
+            "romaji": "Hai, arimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it?",
+            "japanese": "いくらですか？",
+            "romaji": "Ikura desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is 500 yen.",
+            "japanese": "ごひゃくえんです。",
+            "romaji": "Gohyaku-en desu."
+          }
+        ]
+      }
     }
   ]
 }
