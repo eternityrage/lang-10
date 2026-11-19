@@ -7487,6 +7487,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T19:28:46.062313",
+      "dialogue": {
+        "topic": "A tiny heart",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is that a heart?",
+            "japanese": "マグさん、それは ハートですか？",
+            "romaji": "Magu-san, sore wa haato desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! A small heart.",
+            "japanese": "はい！ちいさい ハートです。",
+            "romaji": "Hai! Chiisai haato desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Wow, so cute!",
+            "japanese": "わあ、とても かわいいです！",
+            "romaji": "Waa, totemo kawaii desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you, Cupcake!",
+            "japanese": "ありがとう、カップケーキさん！",
+            "romaji": "Arigatou, kappukeeki-san!"
+          }
+        ]
+      }
     }
   ]
 }
