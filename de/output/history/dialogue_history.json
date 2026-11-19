@@ -8351,6 +8351,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T04:34:46.003413",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, which platform to Central Station?",
+            "target_text": "Entschuldigung, welcher Bahnsteig zum Hauptbahnhof?",
+            "japanese": "Entschuldigung, welcher Bahnsteig zum Hauptbahnhof?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Platform three, right here!",
+            "target_text": "Bahnsteig drei, gleich hier!",
+            "japanese": "Bahnsteig drei, gleich hier!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do I need to change?",
+            "target_text": "Muss ich umsteigen?",
+            "japanese": "Muss ich umsteigen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, direct with the U5.",
+            "target_text": "Nein, direkt mit der U5.",
+            "japanese": "Nein, direkt mit der U5.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
