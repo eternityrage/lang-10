@@ -8387,6 +8387,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T20:00:43.430526",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what a beautiful smile!",
+            "target_text": "Ciao, che bel sorriso!",
+            "japanese": "Ciao, che bel sorriso!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are kind!",
+            "target_text": "Grazie, sei gentile!",
+            "japanese": "Grazie, sei gentile!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Really, you bring joy.",
+            "target_text": "Davvero, porti gioia.",
+            "japanese": "Davvero, porti gioia.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How sweet, thanks a lot!",
+            "target_text": "Che dolce, grazie mille!",
+            "japanese": "Che dolce, grazie mille!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
