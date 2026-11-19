@@ -9239,6 +9239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T15:29:08.586618",
+      "dialogue": {
+        "topic": "Street greeting with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "russian": "Привет, как дела?",
+            "translit": "Privet, kak dela?",
+            "japanese": "Привет, как дела?",
+            "romaji": "Privet, kak dela?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks, and you?",
+            "russian": "Отлично, спасибо, а ты?",
+            "translit": "Otlichno, spasibo, a ty?",
+            "japanese": "Отлично, спасибо, а ты?",
+            "romaji": "Otlichno, spasibo, a ty?"
+          },
+          {
+            "speaker": "A",
+            "english": "Good too, let’s walk?",
+            "russian": "Тоже хорошо, пойдём гулять?",
+            "translit": "Tozhe khorosho, poydyom gulyat'?",
+            "japanese": "Тоже хорошо, пойдём гулять?",
+            "romaji": "Tozhe khorosho, poydyom gulyat'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go now!",
+            "russian": "Да, давай пойдём сейчас!",
+            "translit": "Da, davay poydyom seychas!",
+            "japanese": "Да, давай пойдём сейчас!",
+            "romaji": "Da, davay poydyom seychas!"
+          }
+        ]
+      }
     }
   ]
 }
