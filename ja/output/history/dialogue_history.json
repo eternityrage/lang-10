@@ -7455,6 +7455,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T14:21:32.962579",
+      "dialogue": {
+        "topic": "Tokyo street crepe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is that a crepe?",
+            "japanese": "マグさん、あれ クレープですか？",
+            "romaji": "Magu-san, are kureepu desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! It is sweet.",
+            "japanese": "はい！あまいですよ。",
+            "romaji": "Hai! Amai desu yo."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we buy one?",
+            "japanese": "ひとつ かいますか？",
+            "romaji": "Hitotsu kaimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's eat!",
+            "japanese": "はい、たべましょう！",
+            "romaji": "Hai, tabemashou!"
+          }
+        ]
+      }
     }
   ]
 }
