@@ -8459,6 +8459,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T19:47:44.783675",
+      "dialogue": {
+        "topic": "Ordering tea with milk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, one tea, please?",
+            "target_text": "Bonjour, un thé, s'il vous plaît ?",
+            "japanese": "Bonjour, un thé, s'il vous plaît ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With milk, please.",
+            "target_text": "Avec du lait, s'il vous plaît.",
+            "japanese": "Avec du lait, s'il vous plaît.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very well, here you go!",
+            "target_text": "Très bien, voilà !",
+            "japanese": "Très bien, voilà !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
