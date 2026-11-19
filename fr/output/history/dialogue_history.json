@@ -8495,6 +8495,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T23:50:40.044067",
+      "dialogue": {
+        "topic": "Dinner at home",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you hungry?",
+            "target_text": "Tu as faim ?",
+            "japanese": "Tu as faim ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hungry!",
+            "target_text": "Oui, très faim !",
+            "japanese": "Oui, très faim !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What are we eating?",
+            "target_text": "On mange quoi ?",
+            "japanese": "On mange quoi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Pasta, it’s ready!",
+            "target_text": "Des pâtes, c’est prêt !",
+            "japanese": "Des pâtes, c’est prêt !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
