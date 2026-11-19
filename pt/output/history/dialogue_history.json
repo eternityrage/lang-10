@@ -8243,6 +8243,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T01:29:13.911052",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What's up, all good?",
+            "target_text": "E aí, beleza?",
+            "japanese": "E aí, beleza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All great, thanks!",
+            "target_text": "Beleza demais, valeu!",
+            "japanese": "Beleza demais, valeu!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a walk?",
+            "target_text": "Bora dar uma volta?",
+            "japanese": "Bora dar uma volta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go, right now!",
+            "target_text": "Bora, partiu agora!",
+            "japanese": "Bora, partiu agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
