@@ -8351,6 +8351,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T15:08:12.756000",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the pizza ready?",
+            "target_text": "Ciao, la pizza è pronta?",
+            "japanese": "Ciao, la pizza è pronta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is hot!",
+            "target_text": "Sì, è calda!",
+            "japanese": "Sì, è calda!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Perfect, one slice, please.",
+            "target_text": "Perfetto, una fetta, grazie.",
+            "japanese": "Perfetto, una fetta, grazie.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right away, enjoy your meal!",
+            "target_text": "Subito, buon appetito!",
+            "japanese": "Subito, buon appetito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
