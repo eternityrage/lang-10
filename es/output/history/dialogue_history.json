@@ -8351,6 +8351,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T19:41:26.599001",
+      "dialogue": {
+        "topic": "Bailar y tomar algo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want to dance a little?",
+            "target_text": "¿Quieres bailar un poco?",
+            "japanese": "¿Quieres bailar un poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sure, let's go!",
+            "target_text": "¡Sí, claro, vamos!",
+            "japanese": "¡Sí, claro, vamos!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then, shall we drink?",
+            "target_text": "¿Luego tomamos algo?",
+            "japanese": "¿Luego tomamos algo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, a calm party.",
+            "target_text": "Perfecto, fiesta tranquila.",
+            "japanese": "Perfecto, fiesta tranquila.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
