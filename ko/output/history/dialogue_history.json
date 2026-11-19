@@ -9279,6 +9279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T20:07:39.277949",
+      "dialogue": {
+        "topic": "I Missed You",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Did you miss me?",
+            "korean": "나 보고 싶었어?",
+            "romaja": "Na bogo sipeosseo?",
+            "japanese": "나 보고 싶었어?",
+            "romaji": "Na bogo sipeosseo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I missed you a lot!",
+            "korean": "응, 많이 보고 싶었어!",
+            "romaja": "Eung, mani bogo sipeosseo!",
+            "japanese": "응, 많이 보고 싶었어!",
+            "romaji": "Eung, mani bogo sipeosseo!"
+          },
+          {
+            "speaker": "A",
+            "english": "I missed you too.",
+            "korean": "나도 보고 싶었어.",
+            "romaja": "Nado bogo sipeosseo.",
+            "japanese": "나도 보고 싶었어.",
+            "romaji": "Nado bogo sipeosseo."
+          },
+          {
+            "speaker": "B",
+            "english": "Then, let’s go together!",
+            "korean": "그럼, 같이 가자!",
+            "romaja": "Geureom, gachi gaja!",
+            "japanese": "그럼, 같이 가자!",
+            "romaji": "Geureom, gachi gaja!"
+          }
+        ]
+      }
     }
   ]
 }
