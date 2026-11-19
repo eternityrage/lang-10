@@ -9239,6 +9239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T14:27:55.096176",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have a hat?",
+            "target_text": "שלום, יש לך כובע?",
+            "transliteration": "Shalom, yesh lecha kova?",
+            "japanese": "שלום, יש לך כובע?",
+            "romaji": "Shalom, yesh lecha kova?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a big hat!",
+            "target_text": "כן, כובע גדול!",
+            "transliteration": "Ken, kova gadol!",
+            "japanese": "כן, כובע גדול!",
+            "romaji": "Ken, kova gadol!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can we sit in shade?",
+            "target_text": "אפשר לשבת בצל?",
+            "transliteration": "Efshar lashevet batzel?",
+            "japanese": "אפשר לשבת בצל?",
+            "romaji": "Efshar lashevet batzel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, perfect day for the sea!",
+            "target_text": "כן, יום מושלם לים!",
+            "transliteration": "Ken, yom mushlam la-yam!",
+            "japanese": "כן, יום מושלם לים!",
+            "romaji": "Ken, yom mushlam la-yam!"
+          }
+        ]
+      }
     }
   ]
 }
