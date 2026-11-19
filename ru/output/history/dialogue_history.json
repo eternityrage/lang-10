@@ -9279,6 +9279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T20:53:14.760363",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello! Any croissants?",
+            "russian": "Здравствуйте! Есть круассаны?",
+            "translit": "Zdravstvuyte! Yest kruassany?",
+            "japanese": "Здравствуйте! Есть круассаны?",
+            "romaji": "Zdravstvuyte! Yest kruassany?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are warm!",
+            "russian": "Да, они тёплые!",
+            "translit": "Da, oni tyoplye!",
+            "japanese": "Да, они тёплые!",
+            "romaji": "Da, oni tyoplye!"
+          },
+          {
+            "speaker": "A",
+            "english": "Two buns, please.",
+            "russian": "Мне две булочки, пожалуйста.",
+            "translit": "Mne dve bulochki, pozhaluysta.",
+            "japanese": "Мне две булочки, пожалуйста.",
+            "romaji": "Mne dve bulochki, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here they are!",
+            "russian": "Конечно, вот они!",
+            "translit": "Konechno, vot oni!",
+            "japanese": "Конечно, вот они!",
+            "romaji": "Konechno, vot oni!"
+          }
+        ]
+      }
     }
   ]
 }
