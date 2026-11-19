@@ -9239,6 +9239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T15:14:33.920866",
+      "dialogue": {
+        "topic": "Late Night Pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Shall we get fish cake soup?",
+            "korean": "어묵탕 하나 먹을까요?",
+            "romaja": "Eomuktang hana meogeulkkayo?",
+            "japanese": "어묵탕 하나 먹을까요?",
+            "romaji": "Eomuktang hana meogeulkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds really good!",
+            "korean": "네, 완전 좋아요!",
+            "romaja": "Ne, wanjeon joayo!",
+            "japanese": "네, 완전 좋아요!",
+            "romaji": "Ne, wanjeon joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "One bottle of soju too?",
+            "korean": "소주도 한 병요?",
+            "romaja": "Sojudo han byeongyo?",
+            "japanese": "소주도 한 병요?",
+            "romaji": "Sojudo han byeongyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, the night is warm.",
+            "korean": "좋아요, 밤이 따뜻해요.",
+            "romaja": "Joayo, bami ttatteutaeyo.",
+            "japanese": "좋아요, 밤이 따뜻해요.",
+            "romaji": "Joayo, bami ttatteutaeyo."
+          }
+        ]
+      }
     }
   ]
 }
