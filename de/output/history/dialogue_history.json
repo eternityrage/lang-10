@@ -8423,6 +8423,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T19:54:18.449870",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, how much is the pretzel?",
+            "target_text": "Guten Morgen, was kostet die Brezel?",
+            "japanese": "Guten Morgen, was kostet die Brezel?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Only two euros, please!",
+            "target_text": "Nur zwei Euro, bitte!",
+            "japanese": "Nur zwei Euro, bitte!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take one, thanks.",
+            "target_text": "Ich nehme eine, danke.",
+            "japanese": "Ich nehme eine, danke.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With pleasure, enjoy!",
+            "target_text": "Sehr gern, guten Appetit!",
+            "japanese": "Sehr gern, guten Appetit!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
