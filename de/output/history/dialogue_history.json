@@ -8387,6 +8387,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T15:01:44.750934",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, platform one?",
+            "target_text": "Entschuldigung, Gleis eins?",
+            "japanese": "Entschuldigung, Gleis eins?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right here, on the left!",
+            "target_text": "Gleich hier links!",
+            "japanese": "Gleich hier links!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does the train leave now?",
+            "target_text": "Fährt die Bahn jetzt?",
+            "japanese": "Fährt die Bahn jetzt?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, in two minutes!",
+            "target_text": "Ja, in zwei Minuten!",
+            "japanese": "Ja, in zwei Minuten!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
