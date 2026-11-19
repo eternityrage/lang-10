@@ -8423,6 +8423,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-19T14:54:37.398831",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, I want a dress.",
+            "target_text": "Bonjour, je cherche une robe.",
+            "japanese": "Bonjour, je cherche une robe.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great! Which color?",
+            "target_text": "Super ! Quelle couleur ?",
+            "japanese": "Super ! Quelle couleur ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A black dress, please.",
+            "target_text": "Une robe noire, merci.",
+            "japanese": "Une robe noire, merci.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, it is here.",
+            "target_text": "Parfait, elle est ici.",
+            "japanese": "Parfait, elle est ici.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
