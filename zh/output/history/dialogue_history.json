@@ -9519,6 +9519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T00:28:15.624945",
+      "dialogue": {
+        "topic": "Morning Coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Morning! Is the coffee fragrant?",
+            "chinese": "早上好！咖啡香吗？",
+            "pinyin": "Zǎoshang hǎo! Kāfēi xiāng ma?",
+            "japanese": "早上好！咖啡香吗？",
+            "romaji": "Zǎoshang hǎo! Kāfēi xiāng ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "It smells great. I like it.",
+            "chinese": "咖啡很香，我喜欢。",
+            "pinyin": "Kāfēi hěn xiāng, wǒ xǐhuān.",
+            "japanese": "咖啡很香，我喜欢。",
+            "romaji": "Kāfēi hěn xiāng, wǒ xǐhuān."
+          },
+          {
+            "speaker": "A",
+            "english": "Add milk?",
+            "chinese": "加牛奶吗？",
+            "pinyin": "Jiā niúnǎi ma?",
+            "japanese": "加牛奶吗？",
+            "romaji": "Jiā niúnǎi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Add a little. So tasty!",
+            "chinese": "加一点儿，真好喝！",
+            "pinyin": "Jiā yìdiǎnr, zhēn hǎohē!",
+            "japanese": "加一点儿，真好喝！",
+            "romaji": "Jiā yìdiǎnr, zhēn hǎohē!"
+          }
+        ]
+      }
     }
   ]
 }
