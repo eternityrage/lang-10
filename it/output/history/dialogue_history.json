@@ -8423,6 +8423,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T00:08:37.373873",
+      "dialogue": {
+        "topic": "Espresso Bar & Cornetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is the bar open?",
+            "target_text": "Ciao, il bar è aperto?",
+            "japanese": "Ciao, il bar è aperto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, come on in!",
+            "target_text": "Sì, entra pure!",
+            "japanese": "Sì, entra pure!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Espresso and croissant, thanks.",
+            "target_text": "Espresso e cornetto, grazie.",
+            "japanese": "Espresso e cornetto, grazie.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right away, enjoy breakfast!",
+            "target_text": "Subito, buona colazione!",
+            "japanese": "Subito, buona colazione!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
