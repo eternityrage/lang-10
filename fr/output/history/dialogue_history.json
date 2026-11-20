@@ -8603,6 +8603,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T21:01:15.925512",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you smiling for me?",
+            "target_text": "Salut, tu souris pour moi ?",
+            "japanese": "Salut, tu souris pour moi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little!",
+            "target_text": "Oui, un peu !",
+            "japanese": "Oui, un peu !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Your smile is magical.",
+            "target_text": "Ton sourire est magique.",
+            "japanese": "Ton sourire est magique.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Then stay with me.",
+            "target_text": "Alors, reste avec moi.",
+            "japanese": "Alors, reste avec moi.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
