@@ -8531,6 +8531,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T14:30:16.706388",
+      "dialogue": {
+        "topic": "Cafe & Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this seat free?",
+            "target_text": "Hallo, ist hier frei?",
+            "japanese": "Hallo, ist hier frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, please sit down!",
+            "target_text": "Ja, bitte, setz dich!",
+            "japanese": "Ja, bitte, setz dich!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Thanks, what are you drinking?",
+            "target_text": "Danke, was trinkst du?",
+            "japanese": "Danke, was trinkst du?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I am drinking apple spritzer.",
+            "target_text": "Ich trinke Apfelschorle.",
+            "japanese": "Ich trinke Apfelschorle.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
