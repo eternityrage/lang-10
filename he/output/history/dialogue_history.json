@@ -9399,6 +9399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T14:09:08.827242",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, can I have small hummus?",
+            "target_text": "שלום, אפשר חומוס קטן?",
+            "transliteration": "Shalom, efshar hummus katan?",
+            "japanese": "שלום, אפשר חומוס קטן?",
+            "romaji": "Shalom, efshar hummus katan?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly, it is tasty!",
+            "target_text": "כן, בשמחה, זה טעים!",
+            "transliteration": "Ken, besimcha, ze ta'im!",
+            "japanese": "כן, בשמחה, זה טעים!",
+            "romaji": "Ken, besimcha, ze ta'im!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I also have warm pita?",
+            "target_text": "אפשר גם פיתה חמה?",
+            "transliteration": "Efshar gam pita chama?",
+            "japanese": "אפשר גם פיתה חמה?",
+            "romaji": "Efshar gam pita chama?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here, enjoy!",
+            "target_text": "בטח, הנה, בתיאבון!",
+            "transliteration": "Betach, hine, bete'avon!",
+            "japanese": "בטח, הנה, בתיאבון!",
+            "romaji": "Betach, hine, bete'avon!"
+          }
+        ]
+      }
     }
   ]
 }
