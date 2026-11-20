@@ -9359,6 +9359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T04:04:31.470096",
+      "dialogue": {
+        "topic": "Beach & Sunshine",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, going to the beach?",
+            "target_text": "שלום, הולכים לחוף?",
+            "transliteration": "Shalom, holkhim la-khof?",
+            "japanese": "שלום, הולכים לחוף?",
+            "romaji": "Shalom, holkhim la-khof?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what a beautiful day!",
+            "target_text": "כן, איזה יום יפה!",
+            "transliteration": "Ken, eize yom yafe!",
+            "japanese": "כן, איזה יום יפה!",
+            "romaji": "Ken, eize yom yafe!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is there strong sun?",
+            "target_text": "יש שמש חזקה?",
+            "transliteration": "Yesh shemesh khazaka?",
+            "japanese": "יש שמש חזקה?",
+            "romaji": "Yesh shemesh khazaka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, take a hat!",
+            "target_text": "כן, קח כובע!",
+            "transliteration": "Ken, kakh kova!",
+            "japanese": "כן, קח כובע!",
+            "romaji": "Ken, kakh kova!"
+          }
+        ]
+      }
     }
   ]
 }
