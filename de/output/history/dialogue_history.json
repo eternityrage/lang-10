@@ -8603,6 +8603,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T23:29:35.911674",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning. One roll, please.",
+            "target_text": "Guten Morgen. Ein Brötchen, bitte.",
+            "japanese": "Guten Morgen. Ein Brötchen, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very gladly. Here you go.",
+            "target_text": "Sehr gern. Hier, bitte.",
+            "japanese": "Sehr gern. Hier, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And one pretzel, please.",
+            "target_text": "Und eine Brezel, bitte.",
+            "japanese": "Und eine Brezel, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly! That is three euros.",
+            "target_text": "Gern! Das macht drei Euro.",
+            "japanese": "Gern! Das macht drei Euro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
