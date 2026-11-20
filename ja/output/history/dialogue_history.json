@@ -7583,6 +7583,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T14:01:53.999894",
+      "dialogue": {
+        "topic": "Anime Quotes: Little Heroes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you a hero?",
+            "japanese": "マグさん、ヒーローですか？",
+            "romaji": "Magu-san, hiiroo desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, today I am a hero!",
+            "japanese": "はい、きょうは ヒーローです！",
+            "romaji": "Hai, kyou wa hiiroo desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "I will do my best too!",
+            "japanese": "わたしも がんばります！",
+            "romaji": "Watashi mo ganbarimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Let's go together!",
+            "japanese": "いっしょに いきましょう！",
+            "romaji": "Issho ni ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
