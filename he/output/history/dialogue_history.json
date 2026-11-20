@@ -9479,6 +9479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T23:08:46.528056",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want hummus?",
+            "target_text": "שלום, רוצה חומוס?",
+            "transliteration": "Shalom, rotze hummus?",
+            "japanese": "שלום, רוצה חומוס?",
+            "romaji": "Shalom, rotze hummus?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pita!",
+            "target_text": "כן, עם פיתה!",
+            "transliteration": "Ken, im pita!",
+            "japanese": "כן, עם פיתה!",
+            "romaji": "Ken, im pita!"
+          },
+          {
+            "speaker": "A",
+            "english": "Spicy or not?",
+            "target_text": "חריף או לא?",
+            "transliteration": "Harif o lo?",
+            "japanese": "חריף או לא?",
+            "romaji": "Harif o lo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not spicy, thanks!",
+            "target_text": "לא חריף, תודה!",
+            "transliteration": "Lo harif, toda!",
+            "japanese": "לא חריף, תודה!",
+            "romaji": "Lo harif, toda!"
+          }
+        ]
+      }
     }
   ]
 }
