@@ -8459,6 +8459,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T14:17:06.534563",
+      "dialogue": {
+        "topic": "Madrid and Barcelona by train",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are we going to Barcelona?",
+            "target_text": "Hola, ¿vamos a Barcelona?",
+            "japanese": "Hola, ¿vamos a Barcelona?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, by fast train!",
+            "target_text": "¡Sí, en tren rápido!",
+            "japanese": "¡Sí, en tren rápido!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And Madrid after?",
+            "target_text": "¿Y Madrid después?",
+            "japanese": "¿Y Madrid después?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, two cities!",
+            "target_text": "¡Perfecto, dos ciudades!",
+            "japanese": "¡Perfecto, dos ciudades!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
