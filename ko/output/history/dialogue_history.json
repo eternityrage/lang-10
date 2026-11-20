@@ -9439,6 +9439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T21:21:58.628862",
+      "dialogue": {
+        "topic": "Umbrella, casual and polite",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this umbrella yours?",
+            "korean": "이 우산, 네 거야?",
+            "romaja": "I usan, ne geoya?",
+            "japanese": "이 우산, 네 거야?",
+            "romaji": "I usan, ne geoya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's mine!",
+            "korean": "네, 제 거예요!",
+            "romaja": "Ne, je geoyeyo!",
+            "japanese": "네, 제 거예요!",
+            "romaji": "Ne, je geoyeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Do you need it now?",
+            "korean": "지금 필요해?",
+            "romaja": "Jigeum piryohae?",
+            "japanese": "지금 필요해?",
+            "romaji": "Jigeum piryohae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, thank you!",
+            "korean": "네, 고마워요!",
+            "romaja": "Ne, gomawoyo!",
+            "japanese": "네, 고마워요!",
+            "romaji": "Ne, gomawoyo!"
+          }
+        ]
+      }
     }
   ]
 }
