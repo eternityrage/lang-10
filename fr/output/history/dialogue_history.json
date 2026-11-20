@@ -8567,6 +8567,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T14:23:42.627534",
+      "dialogue": {
+        "topic": "Street Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you waiting here?",
+            "target_text": "Salut, tu attends ici ?",
+            "japanese": "Salut, tu attends ici ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m waiting for my brother!",
+            "target_text": "Oui, j’attends mon frère !",
+            "japanese": "Oui, j’attends mon frère !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is he coming soon?",
+            "target_text": "Il arrive bientôt ?",
+            "japanese": "Il arrive bientôt ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there he is!",
+            "target_text": "Oui, le voilà !",
+            "japanese": "Oui, le voilà !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
