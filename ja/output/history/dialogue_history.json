@@ -7647,6 +7647,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T23:02:33.973017",
+      "dialogue": {
+        "topic": "A sweet night walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you free tonight?",
+            "japanese": "こんや、ひまですか？",
+            "romaji": "Konya, hima desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am free.",
+            "japanese": "はい、ひまです。",
+            "romaji": "Hai, hima desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk together?",
+            "japanese": "いっしょに さんぽしませんか？",
+            "romaji": "Issho ni sanpo shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s go!",
+            "japanese": "はい、いきましょう！",
+            "romaji": "Hai, ikimashou!"
+          }
+        ]
+      }
     }
   ]
 }
