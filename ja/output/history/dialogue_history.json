@@ -7551,6 +7551,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T03:57:51.939766",
+      "dialogue": {
+        "topic": "A cute heart surprise",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, what is that?",
+            "japanese": "マグさん、それは なんですか？",
+            "romaji": "Magu-san, sore wa nan desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is a heart.",
+            "japanese": "ハートです。",
+            "romaji": "Haato desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Wow! So cute!",
+            "japanese": "わあ！とても かわいいです！",
+            "romaji": "Waa! Totemo kawaii desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "You are cute too.",
+            "japanese": "あなたも かわいいです。",
+            "romaji": "Anata mo kawaii desu."
+          }
+        ]
+      }
     }
   ]
 }
