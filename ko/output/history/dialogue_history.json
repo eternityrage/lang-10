@@ -9319,6 +9319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T00:17:32.718027",
+      "dialogue": {
+        "topic": "Warm bungeoppang street snack",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want one bungeoppang?",
+            "korean": "붕어빵 하나 먹을래요?",
+            "romaja": "Bungeoppang hana meogeullaeyo?",
+            "japanese": "붕어빵 하나 먹을래요?",
+            "romaji": "Bungeoppang hana meogeullaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I really like it!",
+            "korean": "네, 정말 좋아요!",
+            "romaja": "Ne, jeongmal joayo!",
+            "japanese": "네, 정말 좋아요!",
+            "romaji": "Ne, jeongmal joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is red bean okay?",
+            "korean": "팥 맛 괜찮아요?",
+            "romaja": "Pat mat gwaenchanayo?",
+            "japanese": "팥 맛 괜찮아요?",
+            "romaji": "Pat mat gwaenchanayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's warm and tasty!",
+            "korean": "네, 따뜻해서 맛있어요!",
+            "romaja": "Ne, ttatteutaeseo masisseoyo!",
+            "japanese": "네, 따뜻해서 맛있어요!",
+            "romaji": "Ne, ttatteutaeseo masisseoyo!"
+          }
+        ]
+      }
     }
   ]
 }
