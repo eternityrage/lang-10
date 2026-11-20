@@ -9359,6 +9359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T05:19:30.211776",
+      "dialogue": {
+        "topic": "Nice weather walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the weather nice today?",
+            "korean": "오늘 날씨 좋아요?",
+            "romaja": "Oneul nalssi joayo?",
+            "japanese": "오늘 날씨 좋아요?",
+            "romaji": "Oneul nalssi joayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, really nice!",
+            "korean": "응, 진짜 좋아!",
+            "romaja": "Eung, jinjja joa!",
+            "japanese": "응, 진짜 좋아!",
+            "romaji": "Eung, jinjja joa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk now?",
+            "korean": "지금 산책 갈까요?",
+            "romaja": "Jigeum sanchaek galkkayo?",
+            "japanese": "지금 산책 갈까요?",
+            "romaji": "Jigeum sanchaek galkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, let's go together!",
+            "korean": "좋아, 같이 가자!",
+            "romaja": "Joa, gachi gaja!",
+            "japanese": "좋아, 같이 가자!",
+            "romaji": "Joa, gachi gaja!"
+          }
+        ]
+      }
     }
   ]
 }
