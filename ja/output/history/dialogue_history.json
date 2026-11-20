@@ -7615,6 +7615,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T20:41:51.588892",
+      "dialogue": {
+        "topic": "Work & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Work now?",
+            "japanese": "いま、しごとですか？",
+            "romaji": "Ima, shigoto desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, coffee now.",
+            "japanese": "いいえ、コーヒーです。",
+            "romaji": "Iie, koohii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Nice. Let’s relax.",
+            "japanese": "いいですね。ゆっくりしましょう。",
+            "romaji": "Ii desu ne. Yukkuri shimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, work later.",
+            "japanese": "はい、しごとはあとです。",
+            "romaji": "Hai, shigoto wa ato desu."
+          }
+        ]
+      }
     }
   ]
 }
