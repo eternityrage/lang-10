@@ -9439,6 +9439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T20:48:15.257114",
+      "dialogue": {
+        "topic": "Greetings & Slang: Long Time",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, long time!",
+            "target_text": "היי, הרבה זמן!",
+            "transliteration": "Hey, harbe zman!",
+            "japanese": "היי, הרבה זמן!",
+            "romaji": "Hey, harbe zman!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, so fun!",
+            "target_text": "כן, איזה כיף!",
+            "transliteration": "Ken, eize kef!",
+            "japanese": "כן, איזה כיף!",
+            "romaji": "Ken, eize kef!"
+          },
+          {
+            "speaker": "A",
+            "english": "What’s new with you?",
+            "target_text": "מה חדש אצלך?",
+            "transliteration": "Ma chadash etzlecha?",
+            "japanese": "מה חדש אצלך?",
+            "romaji": "Ma chadash etzlecha?"
+          },
+          {
+            "speaker": "B",
+            "english": "Everything’s cool, thanks!",
+            "target_text": "הכול סבבה, תודה!",
+            "transliteration": "Hakol sababa, toda!",
+            "japanese": "הכול סבבה, תודה!",
+            "romaji": "Hakol sababa, toda!"
+          }
+        ]
+      }
     }
   ]
 }
