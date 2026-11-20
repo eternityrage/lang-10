@@ -8531,6 +8531,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T04:17:46.617222",
+      "dialogue": {
+        "topic": "Dinner plans",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you coming for dinner?",
+            "target_text": "Tu viens dîner ?",
+            "japanese": "Tu viens dîner ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "At seven o’clock?",
+            "target_text": "À sept heures ?",
+            "japanese": "À sept heures ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, see you tonight.",
+            "target_text": "Parfait, à ce soir.",
+            "japanese": "Parfait, à ce soir.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
