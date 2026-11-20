@@ -8567,6 +8567,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T21:08:08.462214",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, one butter pretzel please?",
+            "target_text": "Guten Morgen, eine Butterbrezel bitte?",
+            "japanese": "Guten Morgen, eine Butterbrezel bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very gladly, freshly made!",
+            "target_text": "Sehr gern, frisch gemacht!",
+            "japanese": "Sehr gern, frisch gemacht!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is it, please?",
+            "target_text": "Was kostet sie bitte?",
+            "japanese": "Was kostet sie bitte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Three euros, please.",
+            "target_text": "Drei Euro, bitte.",
+            "japanese": "Drei Euro, bitte.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
