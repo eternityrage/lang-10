@@ -9439,6 +9439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-20T21:35:24.256416",
+      "dialogue": {
+        "topic": "Street Greetings & Friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "russian": "Привет, как твои дела?",
+            "translit": "Privet, kak tvoi dela?",
+            "japanese": "Привет, как твои дела?",
+            "romaji": "Privet, kak tvoi dela?"
+          },
+          {
+            "speaker": "B",
+            "english": "Everything is great, thanks!",
+            "russian": "Всё отлично, спасибо!",
+            "translit": "Vsyo otlichno, spasibo!",
+            "japanese": "Всё отлично, спасибо!",
+            "romaji": "Vsyo otlichno, spasibo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Let's walk in the park?",
+            "russian": "Пойдём гулять в парк?",
+            "translit": "Poydyom gulyat v park?",
+            "japanese": "Пойдём гулять в парк?",
+            "romaji": "Poydyom gulyat v park?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, great idea!",
+            "russian": "Да, отличная идея!",
+            "translit": "Da, otlichnaya ideya!",
+            "japanese": "Да, отличная идея!",
+            "romaji": "Da, otlichnaya ideya!"
+          }
+        ]
+      }
     }
   ]
 }
