@@ -9839,6 +9839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T22:54:59.592739",
+      "dialogue": {
+        "topic": "Hotpot Dinner",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is it tasty?",
+            "chinese": "好吃吗？",
+            "pinyin": "Hǎo chī ma?",
+            "japanese": "好吃吗？",
+            "romaji": "Hǎo chī ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Very tasty!",
+            "chinese": "很好吃！",
+            "pinyin": "Hěn hǎo chī!",
+            "japanese": "很好吃！",
+            "romaji": "Hěn hǎo chī!"
+          },
+          {
+            "speaker": "A",
+            "english": "Drink water?",
+            "chinese": "喝水吗？",
+            "pinyin": "Hē shuǐ ma?",
+            "japanese": "喝水吗？",
+            "romaji": "Hē shuǐ ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, thanks!",
+            "chinese": "好，谢谢！",
+            "pinyin": "Hǎo, xièxie!",
+            "japanese": "好，谢谢！",
+            "romaji": "Hǎo, xièxie!"
+          }
+        ]
+      }
     }
   ]
 }
