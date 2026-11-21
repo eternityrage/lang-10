@@ -9559,6 +9559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T13:31:46.287587",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, to the train station, please?",
+            "target_text": "שלום, לתחנת הרכבת, בבקשה?",
+            "transliteration": "Shalom, le-takhanat ha-rakevet, bevakasha?",
+            "japanese": "שלום, לתחנת הרכבת, בבקשה?",
+            "romaji": "Shalom, le-takhanat ha-rakevet, bevakasha?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sure! Let's go.",
+            "target_text": "כן, בטח! בוא ננסע.",
+            "transliteration": "Ken, betach! Bo nisa.",
+            "japanese": "כן, בטח! בוא ננסע.",
+            "romaji": "Ken, betach! Bo nisa."
+          },
+          {
+            "speaker": "A",
+            "english": "How long is it?",
+            "target_text": "כמה זמן זה?",
+            "transliteration": "Kama zman ze?",
+            "japanese": "כמה זמן זה?",
+            "romaji": "Kama zman ze?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten minutes, no problem.",
+            "target_text": "עשר דקות, אין בעיה.",
+            "transliteration": "Eser dakot, ein be'aya.",
+            "japanese": "עשר דקות, אין בעיה.",
+            "romaji": "Eser dakot, ein be'aya."
+          }
+        ]
+      }
     }
   ]
 }
