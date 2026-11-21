@@ -8603,6 +8603,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T13:38:13.113520",
+      "dialogue": {
+        "topic": "Travel & Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what line is it?",
+            "target_text": "Hola, ¿qué línea es?",
+            "japanese": "Hola, ¿qué línea es?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is the blue line!",
+            "target_text": "¡Es la línea azul!",
+            "japanese": "¡Es la línea azul!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go downtown?",
+            "target_text": "¿Va al centro?",
+            "japanese": "¿Va al centro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it arrives in ten minutes.",
+            "target_text": "Sí, llega en diez minutos.",
+            "japanese": "Sí, llega en diez minutos.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
