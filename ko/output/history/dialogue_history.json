@@ -9559,6 +9559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T14:04:50.686145",
+      "dialogue": {
+        "topic": "Shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how much is this?",
+            "korean": "안녕하세요, 이거 얼마예요?",
+            "romaja": "Annyeonghaseyo, igeo eolmayeyo?",
+            "japanese": "안녕하세요, 이거 얼마예요?",
+            "romaji": "Annyeonghaseyo, igeo eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's ten thousand won!",
+            "korean": "이거 만 원이에요!",
+            "romaja": "Igeo man wonieyo!",
+            "japanese": "이거 만 원이에요!",
+            "romaji": "Igeo man wonieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I pay by card?",
+            "korean": "카드 결제 돼요?",
+            "romaja": "Kadeu gyeolje doeyo?",
+            "japanese": "카드 결제 돼요?",
+            "romaji": "Kadeu gyeolje doeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, card is okay!",
+            "korean": "네, 카드 돼요!",
+            "romaja": "Ne, kadeu doeyo!",
+            "japanese": "네, 카드 돼요!",
+            "romaji": "Ne, kadeu doeyo!"
+          }
+        ]
+      }
     }
   ]
 }
