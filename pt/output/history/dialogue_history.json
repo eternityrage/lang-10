@@ -8639,6 +8639,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T18:58:18.232754",
+      "dialogue": {
+        "topic": "Movie night with friends",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, movie today?",
+            "target_text": "Oi, filme hoje?",
+            "japanese": "Oi, filme hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, great idea!",
+            "target_text": "Sim, ótima ideia!",
+            "japanese": "Sim, ótima ideia!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And popcorn too?",
+            "target_text": "E pipoca também?",
+            "japanese": "E pipoca também?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, I'll bring it.",
+            "target_text": "Claro, eu levo.",
+            "japanese": "Claro, eu levo.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
