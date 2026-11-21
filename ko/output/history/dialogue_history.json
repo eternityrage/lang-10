@@ -9599,6 +9599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T18:36:12.513233",
+      "dialogue": {
+        "topic": "Buying socks in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "korean": "이거 얼마예요, 사장님?",
+            "romaja": "Igeo eolmayeyo, sajangnim?",
+            "japanese": "이거 얼마예요, 사장님?",
+            "romaji": "Igeo eolmayeyo, sajangnim?"
+          },
+          {
+            "speaker": "B",
+            "english": "Just five thousand won!",
+            "korean": "딱 오천 원이에요!",
+            "romaja": "Ttak ocheon won-ieyo!",
+            "japanese": "딱 오천 원이에요!",
+            "romaji": "Ttak ocheon won-ieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Two, please.",
+            "korean": "두 개 주세요.",
+            "romaja": "Du gae juseyo.",
+            "japanese": "두 개 주세요.",
+            "romaji": "Du gae juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go.",
+            "korean": "네, 여기 있어요.",
+            "romaja": "Ne, yeogi isseoyo.",
+            "japanese": "네, 여기 있어요.",
+            "romaji": "Ne, yeogi isseoyo."
+          }
+        ]
+      }
     }
   ]
 }
