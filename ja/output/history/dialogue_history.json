@@ -7711,6 +7711,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T13:25:23.246531",
+      "dialogue": {
+        "topic": "Sleepy at Work",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you sleepy?",
+            "japanese": "マグさん、ねむいですか？",
+            "romaji": "Magu-san, nemui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little sleepy.",
+            "japanese": "はい、すこし ねむいです。",
+            "romaji": "Hai, sukoshi nemui desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Let's rest a little.",
+            "japanese": "すこし やすみましょう。",
+            "romaji": "Sukoshi yasumimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Good idea. Let's drink water.",
+            "japanese": "いいですね。みずを のみましょう。",
+            "romaji": "Ii desu ne. Mizu o nomimashou."
+          }
+        ]
+      }
     }
   ]
 }
