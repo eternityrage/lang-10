@@ -7775,6 +7775,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T22:09:19.408821",
+      "dialogue": {
+        "topic": "Cupcake shows a heart",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, look!",
+            "japanese": "マグさん、みて！",
+            "romaji": "Magu-san, mite!"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow! A heart!",
+            "japanese": "わあ！ハートです！",
+            "romaji": "Waa! Haato desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it cute?",
+            "japanese": "かわいいですか？",
+            "romaji": "Kawaii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Very cute!",
+            "japanese": "はい！とても かわいいです！",
+            "romaji": "Hai! Totemo kawaii desu!"
+          }
+        ]
+      }
     }
   ]
 }
