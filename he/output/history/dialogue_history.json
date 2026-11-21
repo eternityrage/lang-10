@@ -9639,6 +9639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T22:16:02.568000",
+      "dialogue": {
+        "topic": "Tel Aviv scooter to the beach",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is this scooter free?",
+            "target_text": "היי, הקורקינט הזה פנוי?",
+            "transliteration": "Hey, ha-korkinet ha-ze panui?",
+            "japanese": "היי, הקורקינט הזה פנוי?",
+            "romaji": "Hey, ha-korkinet ha-ze panui?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good ride!",
+            "target_text": "כן, נסיעה טובה!",
+            "transliteration": "Ken, nesia tova!",
+            "japanese": "כן, נסיעה טובה!",
+            "romaji": "Ken, nesia tova!"
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the beach?",
+            "target_text": "איפה חוף הים?",
+            "transliteration": "Eifo chof ha-yam?",
+            "japanese": "איפה חוף הים?",
+            "romaji": "Eifo chof ha-yam?"
+          },
+          {
+            "speaker": "B",
+            "english": "Straight, two minutes!",
+            "target_text": "ישר, שתי דקות!",
+            "transliteration": "Yashar, shtey dakot!",
+            "japanese": "ישר, שתי דקות!",
+            "romaji": "Yashar, shtey dakot!"
+          }
+        ]
+      }
     }
   ]
 }
