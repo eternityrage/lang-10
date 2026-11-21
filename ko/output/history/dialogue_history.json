@@ -9639,6 +9639,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T22:48:22.154565",
+      "dialogue": {
+        "topic": "Warm soup at a late-night pocha",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there warm soup?",
+            "korean": "따뜻한 국물 있어요?",
+            "romaja": "Ttatteuthan gungmul isseoyo?",
+            "japanese": "따뜻한 국물 있어요?",
+            "romaji": "Ttatteuthan gungmul isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we have fish cake soup!",
+            "korean": "네, 어묵탕 있어요!",
+            "romaja": "Ne, eomuktang isseoyo!",
+            "japanese": "네, 어묵탕 있어요!",
+            "romaji": "Ne, eomuktang isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Please give me one.",
+            "korean": "그거 하나 주세요.",
+            "romaja": "Geugeo hana juseyo.",
+            "japanese": "그거 하나 주세요.",
+            "romaji": "Geugeo hana juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let’s eat together!",
+            "korean": "좋아요, 같이 먹어요!",
+            "romaja": "Joayo, gachi meogeoyo!",
+            "japanese": "좋아요, 같이 먹어요!",
+            "romaji": "Joayo, gachi meogeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
