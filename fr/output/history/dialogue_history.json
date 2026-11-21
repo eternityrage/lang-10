@@ -8675,6 +8675,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T04:15:54.991930",
+      "dialogue": {
+        "topic": "A cute smile",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you smile often?",
+            "target_text": "Salut, tu souris souvent ?",
+            "japanese": "Salut, tu souris souvent ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am happy!",
+            "target_text": "Oui, je suis contente !",
+            "japanese": "Oui, je suis contente !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Your smile is pretty.",
+            "target_text": "Ton sourire est joli.",
+            "japanese": "Ton sourire est joli.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are adorable.",
+            "target_text": "Merci, tu es adorable.",
+            "japanese": "Merci, tu es adorable.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
