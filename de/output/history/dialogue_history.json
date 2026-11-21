@@ -8675,6 +8675,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T13:52:12.121679",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how are you?",
+            "target_text": "Hallo, wie geht es dir?",
+            "japanese": "Hallo, wie geht es dir?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm doing great!",
+            "target_text": "Mir geht es super!",
+            "japanese": "Mir geht es super!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice, that makes me happy.",
+            "target_text": "Schön, das freut mich.",
+            "japanese": "Schön, das freut mich.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, see you later!",
+            "target_text": "Danke, bis später!",
+            "japanese": "Danke, bis später!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
