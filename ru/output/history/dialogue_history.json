@@ -9599,6 +9599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T18:51:16.918790",
+      "dialogue": {
+        "topic": "Bakery & Fresh Bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, any fresh rolls?",
+            "russian": "Здравствуйте, есть свежие булочки?",
+            "translit": "Zdravstvuyte, est' svezhiye bulochki?",
+            "japanese": "Здравствуйте, есть свежие булочки?",
+            "romaji": "Zdravstvuyte, est' svezhiye bulochki?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, rolls are just baked!",
+            "russian": "Да, булочки только из печи!",
+            "translit": "Da, bulochki tol'ko iz pechi!",
+            "japanese": "Да, булочки только из печи!",
+            "romaji": "Da, bulochki tol'ko iz pechi!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, I’ll take two rolls.",
+            "russian": "Отлично, возьму две булочки.",
+            "translit": "Otlichno, voz'mu dve bulochki.",
+            "japanese": "Отлично, возьму две булочки.",
+            "romaji": "Otlichno, voz'mu dve bulochki."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, enjoy your meal!",
+            "russian": "Конечно, приятного аппетита!",
+            "translit": "Konechno, priyatnogo appetita!",
+            "japanese": "Конечно, приятного аппетита!",
+            "romaji": "Konechno, priyatnogo appetita!"
+          }
+        ]
+      }
     }
   ]
 }
