@@ -9519,6 +9519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T04:49:11.725221",
+      "dialogue": {
+        "topic": "Street greeting with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi! How are you?",
+            "russian": "Привет! Как дела?",
+            "translit": "Privet! Kak dela?",
+            "japanese": "Привет! Как дела?",
+            "romaji": "Privet! Kak dela?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, happy to see you!",
+            "russian": "Отлично, рад тебя видеть!",
+            "translit": "Otlichno, rad tebya videt'!",
+            "japanese": "Отлично, рад тебя видеть!",
+            "romaji": "Otlichno, rad tebya videt'!"
+          },
+          {
+            "speaker": "A",
+            "english": "Where are you going?",
+            "russian": "Куда ты идёшь?",
+            "translit": "Kuda ty idyosh'?",
+            "japanese": "Куда ты идёшь?",
+            "romaji": "Kuda ty idyosh'?"
+          },
+          {
+            "speaker": "B",
+            "english": "To the park. Let's go together!",
+            "russian": "В парк. Пойдём вместе!",
+            "translit": "V park. Poydyom vmeste!",
+            "japanese": "В парк. Пойдём вместе!",
+            "romaji": "V park. Poydyom vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
