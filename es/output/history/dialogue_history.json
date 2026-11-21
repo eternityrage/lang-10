@@ -8675,6 +8675,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T22:22:20.612465",
+      "dialogue": {
+        "topic": "Ordering croquettes at a tapas cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there croquettes?",
+            "target_text": "Hola, ¿hay croquetas?",
+            "japanese": "Hola, ¿hay croquetas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very good.",
+            "target_text": "Sí, están muy buenas.",
+            "japanese": "Sí, están muy buenas.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Two croquettes, please.",
+            "target_text": "Dos croquetas, por favor.",
+            "japanese": "Dos croquetas, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go.",
+            "target_text": "Claro, aquí tienes.",
+            "japanese": "Claro, aquí tienes.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
