@@ -7679,6 +7679,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T03:56:24.958866",
+      "dialogue": {
+        "topic": "Anime Hero Quote",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, let's go!",
+            "japanese": "マグ、いくよ！",
+            "romaji": "Magu, iku yo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! Are you a hero?",
+            "japanese": "はい！ヒーローですか？",
+            "romaji": "Hai! Hiiroo desu ka?"
+          },
+          {
+            "speaker": "A",
+            "english": "Yes! I am a hero.",
+            "japanese": "はい！わたしは ヒーローです。",
+            "romaji": "Hai! Watashi wa hiiroo desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Nice! Do your best!",
+            "japanese": "いいね！がんばってください！",
+            "romaji": "Ii ne! Ganbatte kudasai!"
+          }
+        ]
+      }
     }
   ]
 }
