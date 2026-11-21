@@ -8603,6 +8603,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T04:28:56.865999",
+      "dialogue": {
+        "topic": "Train Station & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, is the train ready?",
+            "target_text": "Buongiorno, il treno è pronto?",
+            "japanese": "Buongiorno, il treno è pronto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it leaves soon!",
+            "target_text": "Sì, parte tra poco!",
+            "japanese": "Sì, parte tra poco!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do I need the ticket?",
+            "target_text": "Serve il biglietto?",
+            "japanese": "Serve il biglietto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Sì, buon viaggio!",
+            "japanese": "Sì, buon viaggio!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
