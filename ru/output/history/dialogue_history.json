@@ -9559,6 +9559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T14:17:43.764877",
+      "dialogue": {
+        "topic": "Cafe & Hot Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have tea?",
+            "russian": "Здравствуйте, у вас чай?",
+            "translit": "Zdravstvuyte, u vas chay?",
+            "japanese": "Здравствуйте, у вас чай?",
+            "romaji": "Zdravstvuyte, u vas chay?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we have hot tea!",
+            "russian": "Да, горячий чай есть!",
+            "translit": "Da, goryachiy chay est!",
+            "japanese": "Да, горячий чай есть!",
+            "romaji": "Da, goryachiy chay est!"
+          },
+          {
+            "speaker": "A",
+            "english": "One black tea for me.",
+            "russian": "Мне один чёрный чай.",
+            "translit": "Mne odin chornyy chay.",
+            "japanese": "Мне один чёрный чай.",
+            "romaji": "Mne odin chornyy chay."
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, I'll bring it now.",
+            "russian": "Конечно, сейчас принесу.",
+            "translit": "Konechno, seychas prinesu.",
+            "japanese": "Конечно, сейчас принесу.",
+            "romaji": "Konechno, seychas prinesu."
+          }
+        ]
+      }
     }
   ]
 }
