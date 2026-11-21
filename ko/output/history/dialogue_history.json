@@ -9519,6 +9519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T04:35:36.107652",
+      "dialogue": {
+        "topic": "Hongdae cafe order",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "What will you drink?",
+            "korean": "뭐 마실래요?",
+            "romaja": "Mwo masillaeyo?",
+            "japanese": "뭐 마실래요?",
+            "romaji": "Mwo masillaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "I like latte!",
+            "korean": "저는 라테 좋아요!",
+            "romaja": "Jeoneun rate joayo!",
+            "japanese": "저는 라테 좋아요!",
+            "romaji": "Jeoneun rate joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we eat cake too?",
+            "korean": "케이크도 먹을까요?",
+            "romaja": "Keikeudo meogeulkkayo?",
+            "japanese": "케이크도 먹을까요?",
+            "romaji": "Keikeudo meogeulkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's eat together!",
+            "korean": "네, 같이 먹어요!",
+            "romaja": "Ne, gachi meogeoyo!",
+            "japanese": "네, 같이 먹어요!",
+            "romaji": "Ne, gachi meogeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
