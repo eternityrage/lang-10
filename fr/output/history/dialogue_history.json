@@ -8783,6 +8783,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T22:28:48.477838",
+      "dialogue": {
+        "topic": "Making lunch plans",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you hungry?",
+            "target_text": "Salut, tu as faim ?",
+            "japanese": "Salut, tu as faim ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very hungry!",
+            "target_text": "Oui, très faim !",
+            "japanese": "Oui, très faim !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we eat now?",
+            "target_text": "On mange maintenant ?",
+            "japanese": "On mange maintenant ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's go now!",
+            "target_text": "Oui, allons-y maintenant !",
+            "japanese": "Oui, allons-y maintenant !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
