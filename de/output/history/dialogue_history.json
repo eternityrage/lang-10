@@ -8639,6 +8639,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T04:22:14.542853",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you?",
+            "target_text": "Hallo, wie geht's dir?",
+            "japanese": "Hallo, wie geht's dir?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very well, thanks!",
+            "target_text": "Sehr gut, danke!",
+            "japanese": "Sehr gut, danke!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great! See you later?",
+            "target_text": "Schön! Bis später?",
+            "japanese": "Schön! Bis später?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you later!",
+            "target_text": "Ja, bis später!",
+            "japanese": "Ja, bis später!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
