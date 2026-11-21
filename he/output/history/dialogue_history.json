@@ -9599,6 +9599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-21T18:04:20.861037",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you want hummus?",
+            "target_text": "היי, אתה רוצה חומוס?",
+            "transliteration": "Hai, ata rotze hummus?",
+            "japanese": "היי, אתה רוצה חומוס?",
+            "romaji": "Hai, ata rotze hummus?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, hummus is tasty!",
+            "target_text": "כן, חומוס זה טעים!",
+            "transliteration": "Ken, hummus ze taim!",
+            "japanese": "כן, חומוס זה טעים!",
+            "romaji": "Ken, hummus ze taim!"
+          },
+          {
+            "speaker": "A",
+            "english": "With pita or salad?",
+            "target_text": "עם פיתה או סלט?",
+            "transliteration": "Im pita o salat?",
+            "japanese": "עם פיתה או סלט?",
+            "romaji": "Im pita o salat?"
+          },
+          {
+            "speaker": "B",
+            "english": "With pita, please!",
+            "target_text": "עם פיתה, בבקשה!",
+            "transliteration": "Im pita, bevakasha!",
+            "japanese": "עם פיתה, בבקשה!",
+            "romaji": "Im pita, bevakasha!"
+          }
+        ]
+      }
     }
   ]
 }
