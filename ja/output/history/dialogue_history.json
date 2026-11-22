@@ -7871,6 +7871,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T18:27:51.651266",
+      "dialogue": {
+        "topic": "Anime Quotes",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, let's go!",
+            "japanese": "マグさん、行きましょう！",
+            "romaji": "Magu-san, ikimashou!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I am a hero!",
+            "japanese": "はい！ぼくは ヒーローです！",
+            "romaji": "Hai! Boku wa hiiroo desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Me too! I am strong!",
+            "japanese": "わたしも！つよいです！",
+            "romaji": "Watashi mo! Tsuyoi desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Good! We are friends!",
+            "japanese": "いいですね！友だちです！",
+            "romaji": "Ii desu ne! Tomodachi desu!"
+          }
+        ]
+      }
     }
   ]
 }
