@@ -8783,6 +8783,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T13:49:16.103831",
+      "dialogue": {
+        "topic": "Gesture: perfetto + slang 'che figata'",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what does this mean?",
+            "target_text": "Ciao, che significa questo?",
+            "japanese": "Ciao, che significa questo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's the perfect gesture!",
+            "target_text": "È il gesto perfetto!",
+            "japanese": "È il gesto perfetto!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it mean perfect?",
+            "target_text": "Vuol dire perfetto?",
+            "japanese": "Vuol dire perfetto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, how cool!",
+            "target_text": "Sì, che figata!",
+            "japanese": "Sì, che figata!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
