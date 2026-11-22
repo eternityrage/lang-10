@@ -8747,6 +8747,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T03:37:42.845021",
+      "dialogue": {
+        "topic": "Train to Rome",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, the train to Rome?",
+            "target_text": "Buongiorno, il treno per Roma?",
+            "japanese": "Buongiorno, il treno per Roma?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it leaves now!",
+            "target_text": "Sì, parte ora!",
+            "japanese": "Sì, parte ora!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does the ticket cost a lot?",
+            "target_text": "Il biglietto costa molto?",
+            "japanese": "Il biglietto costa molto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, it costs little!",
+            "target_text": "No, costa poco!",
+            "japanese": "No, costa poco!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
