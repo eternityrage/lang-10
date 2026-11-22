@@ -9799,6 +9799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T22:31:28.882118",
+      "dialogue": {
+        "topic": "Tel Aviv Beach Directions",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is the sea?",
+            "target_text": "סליחה, איפה הים?",
+            "transliteration": "Slicha, eifo hayam?",
+            "japanese": "סליחה, איפה הים?",
+            "romaji": "Slicha, eifo hayam?"
+          },
+          {
+            "speaker": "B",
+            "english": "Close! Straight and left.",
+            "target_text": "קרוב! ישר ושמאלה.",
+            "transliteration": "Karov! Yashar u-smola.",
+            "japanese": "קרוב! ישר ושמאלה.",
+            "romaji": "Karov! Yashar u-smola."
+          },
+          {
+            "speaker": "A",
+            "english": "How many minutes on foot?",
+            "target_text": "כמה דקות ברגל?",
+            "transliteration": "Kama dakot baregel?",
+            "japanese": "כמה דקות ברגל?",
+            "romaji": "Kama dakot baregel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Five minutes, enjoy!",
+            "target_text": "חמש דקות, תהנה!",
+            "transliteration": "Chamesh dakot, tehene!",
+            "japanese": "חמש דקות, תהנה!",
+            "romaji": "Chamesh dakot, tehene!"
+          }
+        ]
+      }
     }
   ]
 }
