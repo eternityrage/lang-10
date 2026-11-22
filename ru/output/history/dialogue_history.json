@@ -9719,6 +9719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T14:08:50.524048",
+      "dialogue": {
+        "topic": "Moscow metro line",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this the red line?",
+            "russian": "Это красная линия?",
+            "translit": "Eto krasnaya liniya?",
+            "japanese": "Это красная линия?",
+            "romaji": "Eto krasnaya liniya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, exactly!",
+            "russian": "Да, всё верно!",
+            "translit": "Da, vsyo verno!",
+            "japanese": "Да, всё верно!",
+            "romaji": "Da, vsyo verno!"
+          },
+          {
+            "speaker": "A",
+            "english": "I need the blue one.",
+            "russian": "Мне нужна синяя.",
+            "translit": "Mne nuzhna sinyaya.",
+            "japanese": "Мне нужна синяя.",
+            "romaji": "Mne nuzhna sinyaya."
+          },
+          {
+            "speaker": "B",
+            "english": "Change at the next station.",
+            "russian": "Переходите на следующей станции.",
+            "translit": "Perekhodite na sleduyushchey stantsii.",
+            "japanese": "Переходите на следующей станции.",
+            "romaji": "Perekhodite na sleduyushchey stantsii."
+          }
+        ]
+      }
     }
   ]
 }
