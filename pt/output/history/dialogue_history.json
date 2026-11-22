@@ -8711,6 +8711,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T04:04:13.819216",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, all good?",
+            "target_text": "E aí, tudo firme?",
+            "japanese": "E aí, tudo firme?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All good, thanks!",
+            "target_text": "Tudo firme, valeu!",
+            "japanese": "Tudo firme, valeu!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we grab coffee?",
+            "target_text": "Bora tomar um café?",
+            "japanese": "Bora tomar um café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Deal, let's go now!",
+            "target_text": "Fechou, vamos agora!",
+            "japanese": "Fechou, vamos agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
