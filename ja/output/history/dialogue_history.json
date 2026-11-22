@@ -7839,6 +7839,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T13:16:42.005819",
+      "dialogue": {
+        "topic": "Dating & Romance",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, want a date?",
+            "japanese": "マグさん、デートしませんか？",
+            "romaji": "Magu-san, deeto shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, that is fine!",
+            "japanese": "はい、いいですよ！",
+            "romaji": "Hai, ii desu yo!"
+          },
+          {
+            "speaker": "A",
+            "english": "How about the park?",
+            "japanese": "こうえんはどうですか？",
+            "romaji": "Kouen wa dou desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sounds good! Let's go.",
+            "japanese": "いいですね！いきましょう。",
+            "romaji": "Ii desu ne! Ikimashou."
+          }
+        ]
+      }
     }
   ]
 }
