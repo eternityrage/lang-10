@@ -9799,6 +9799,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T23:06:31.410791",
+      "dialogue": {
+        "topic": "Quiet Gangnam Cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this Gangnam cafe quiet?",
+            "korean": "강남 카페 조용해요?",
+            "romaja": "Gangnam kape joyonghaeyo?",
+            "japanese": "강남 카페 조용해요?",
+            "romaji": "Gangnam kape joyonghaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very quiet!",
+            "korean": "네, 아주 조용해요!",
+            "romaja": "Ne, aju joyonghaeyo!",
+            "japanese": "네, 아주 조용해요!",
+            "romaji": "Ne, aju joyonghaeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is the latte good here?",
+            "korean": "여기 라떼 맛있어요?",
+            "romaja": "Yeogi latte masisseoyo?",
+            "japanese": "여기 라떼 맛있어요?",
+            "romaji": "Yeogi latte masisseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let’s drink together!",
+            "korean": "네, 같이 마셔요!",
+            "romaja": "Ne, gachi masyeoyo!",
+            "japanese": "네, 같이 마셔요!",
+            "romaji": "Ne, gachi masyeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
