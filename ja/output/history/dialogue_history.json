@@ -7903,6 +7903,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T22:25:15.016597",
+      "dialogue": {
+        "topic": "Quiet sit after work",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is work over?",
+            "japanese": "マグさん、しごとは おわりですか？",
+            "romaji": "Magu-san, shigoto wa owari desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is over.",
+            "japanese": "はい、おわりです。",
+            "romaji": "Hai, owari desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Let's sit here.",
+            "japanese": "ここに すわりましょう。",
+            "romaji": "Koko ni suwarimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Good. It's quiet.",
+            "japanese": "いいですね。しずかです。",
+            "romaji": "Ii desu ne. Shizuka desu."
+          }
+        ]
+      }
     }
   ]
 }
