@@ -8783,6 +8783,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T18:40:45.301178",
+      "dialogue": {
+        "topic": "Fiesta & Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, dance with me?",
+            "target_text": "Hola, ¿bailas conmigo?",
+            "japanese": "Hola, ¿bailas conmigo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love dancing!",
+            "target_text": "¡Sí, me encanta bailar!",
+            "japanese": "¡Sí, me encanta bailar!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A slow song?",
+            "target_text": "¿Una canción lenta?",
+            "japanese": "¿Una canción lenta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, let's dance.",
+            "target_text": "Perfecto, vamos a bailar.",
+            "japanese": "Perfecto, vamos a bailar.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
