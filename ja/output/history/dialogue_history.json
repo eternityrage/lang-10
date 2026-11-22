@@ -7807,6 +7807,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T03:04:24.633476",
+      "dialogue": {
+        "topic": "ミルクをください",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is there milk?",
+            "japanese": "マグさん、ミルクはありますか？",
+            "romaji": "Magu-san, miruku wa arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is.",
+            "japanese": "はい、ありますよ。",
+            "romaji": "Hai, arimasu yo."
+          },
+          {
+            "speaker": "A",
+            "english": "A little, please.",
+            "japanese": "すこし ください。",
+            "romaji": "Sukoshi kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go!",
+            "japanese": "どうぞ！",
+            "romaji": "Douzo!"
+          }
+        ]
+      }
     }
   ]
 }
