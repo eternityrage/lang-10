@@ -8819,6 +8819,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T13:42:50.653749",
+      "dialogue": {
+        "topic": "Asking for water politely",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, do you have water?",
+            "target_text": "Entschuldigung, haben Sie Wasser?",
+            "japanese": "Entschuldigung, haben Sie Wasser?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, gladly.",
+            "target_text": "Ja, natürlich, gern.",
+            "japanese": "Ja, natürlich, gern.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One water, please.",
+            "target_text": "Ein Wasser, bitte.",
+            "japanese": "Ein Wasser, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go.",
+            "target_text": "Hier, bitte schön.",
+            "japanese": "Hier, bitte schön.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
