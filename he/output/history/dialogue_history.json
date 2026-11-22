@@ -9759,6 +9759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T18:34:22.761085",
+      "dialogue": {
+        "topic": "Directions & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, to the train station?",
+            "target_text": "שלום, לתחנת הרכבת בבקשה?",
+            "transliteration": "Shalom, le-takhanat ha-rakevet bevakasha?",
+            "japanese": "שלום, לתחנת הרכבת בבקשה?",
+            "romaji": "Shalom, le-takhanat ha-rakevet bevakasha?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, happily, it is close.",
+            "target_text": "כן, בשמחה, זה קרוב.",
+            "transliteration": "Ken, besimcha, ze karov.",
+            "japanese": "כן, בשמחה, זה קרוב.",
+            "romaji": "Ken, besimcha, ze karov."
+          },
+          {
+            "speaker": "A",
+            "english": "How long is the ride?",
+            "target_text": "כמה זמן הנסיעה?",
+            "transliteration": "Kama zman ha-nesi'a?",
+            "japanese": "כמה זמן הנסיעה?",
+            "romaji": "Kama zman ha-nesi'a?"
+          },
+          {
+            "speaker": "B",
+            "english": "Ten minutes, we arrive fast.",
+            "target_text": "עשר דקות, נגיע מהר.",
+            "transliteration": "Eser dakot, nagi'a maher.",
+            "japanese": "עשר דקות, נגיע מהר.",
+            "romaji": "Eser dakot, nagi'a maher."
+          }
+        ]
+      }
     }
   ]
 }
