@@ -9719,6 +9719,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T13:22:59.060190",
+      "dialogue": {
+        "topic": "Shopping & Boutiques",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have a blue dress?",
+            "target_text": "שלום, יש לכם שמלה כחולה?",
+            "transliteration": "Shalom, yesh lakhem simla kkhula?",
+            "japanese": "שלום, יש לכם שמלה כחולה?",
+            "romaji": "Shalom, yesh lakhem simla kkhula?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a very pretty dress.",
+            "target_text": "כן, שמלה מאוד יפה.",
+            "transliteration": "Ken, simla me'od yafa.",
+            "japanese": "כן, שמלה מאוד יפה.",
+            "romaji": "Ken, simla me'od yafa."
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try it?",
+            "target_text": "אפשר למדוד אותה?",
+            "transliteration": "Efshar limdod ota?",
+            "japanese": "אפשר למדוד אותה?",
+            "romaji": "Efshar limdod ota?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, the fitting room is there.",
+            "target_text": "בטח, תא ההלבשה שם.",
+            "transliteration": "Betakh, ta ha-halbashah sham.",
+            "japanese": "בטח, תא ההלבשה שם.",
+            "romaji": "Betakh, ta ha-halbashah sham."
+          }
+        ]
+      }
     }
   ]
 }
