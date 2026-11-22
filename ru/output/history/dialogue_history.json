@@ -9759,6 +9759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T19:21:01.454404",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is it cold outside?",
+            "russian": "Привет, на улице холодно?",
+            "translit": "Privet, na ulitse kholodno?",
+            "japanese": "Привет, на улице холодно?",
+            "romaji": "Privet, na ulitse kholodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but the sun shines!",
+            "russian": "Да, но солнце светит!",
+            "translit": "Da, no solntse svetit!",
+            "japanese": "Да, но солнце светит!",
+            "romaji": "Da, no solntse svetit!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then I need a scarf.",
+            "russian": "Тогда мне нужен шарф.",
+            "translit": "Togda mne nuzhen sharf.",
+            "japanese": "Тогда мне нужен шарф.",
+            "romaji": "Togda mne nuzhen sharf."
+          },
+          {
+            "speaker": "B",
+            "english": "Great, we will be warm.",
+            "russian": "Отлично, нам будет тепло.",
+            "translit": "Otlichno, nam budet teplo.",
+            "japanese": "Отлично, нам будет тепло.",
+            "romaji": "Otlichno, nam budet teplo."
+          }
+        ]
+      }
     }
   ]
 }
