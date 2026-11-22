@@ -8891,6 +8891,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T18:47:46.050002",
+      "dialogue": {
+        "topic": "Buying bread",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want bread?",
+            "target_text": "Tu veux du pain ?",
+            "japanese": "Tu veux du pain ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I'm going to the bakery.",
+            "target_text": "Je vais à la boulangerie.",
+            "japanese": "Je vais à la boulangerie.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks a lot!",
+            "target_text": "Super, merci beaucoup !",
+            "japanese": "Super, merci beaucoup !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
