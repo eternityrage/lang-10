@@ -9679,6 +9679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T03:44:06.727203",
+      "dialogue": {
+        "topic": "Subway exit to a convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Which exit is the convenience store?",
+            "korean": "편의점은 몇 번 출구예요?",
+            "romaja": "Pyeonuijeomeun myeot beon chulguyeyo?",
+            "japanese": "편의점은 몇 번 출구예요?",
+            "romaji": "Pyeonuijeomeun myeot beon chulguyeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Exit three!",
+            "korean": "삼 번 출구예요!",
+            "romaja": "Sam beon chulguyeyo!",
+            "japanese": "삼 번 출구예요!",
+            "romaji": "Sam beon chulguyeyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it really close?",
+            "korean": "역에서 정말 가까워요?",
+            "romaja": "Yeogeseo jeongmal gakkawoyo?",
+            "japanese": "역에서 정말 가까워요?",
+            "romaji": "Yeogeseo jeongmal gakkawoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right in front.",
+            "korean": "네, 바로 앞이에요.",
+            "romaja": "Ne, baro apieyo.",
+            "japanese": "네, 바로 앞이에요.",
+            "romaji": "Ne, baro apieyo."
+          }
+        ]
+      }
     }
   ]
 }
