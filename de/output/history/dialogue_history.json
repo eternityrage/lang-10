@@ -8855,6 +8855,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-22T18:54:23.449355",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the pretzel salty?",
+            "target_text": "Hallo, ist die Brezel salzig?",
+            "japanese": "Hallo, ist die Brezel salzig?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very tasty!",
+            "target_text": "Ja, sehr lecker!",
+            "japanese": "Ja, sehr lecker!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then I'll take two.",
+            "target_text": "Dann nehme ich zwei.",
+            "japanese": "Dann nehme ich zwei.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, that is two euros.",
+            "target_text": "Gern, das macht zwei Euro.",
+            "japanese": "Gern, das macht zwei Euro.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
