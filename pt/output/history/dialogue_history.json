@@ -8927,6 +8927,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T23:34:35.163716",
+      "dialogue": {
+        "topic": "Cinema com amigos",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, movie tonight?",
+            "target_text": "Oi, cinema hoje à noite?",
+            "japanese": "Oi, cinema hoje à noite?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it will be fun!",
+            "target_text": "Sim, vai ser divertido!",
+            "japanese": "Sim, vai ser divertido!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Which movie do you want?",
+            "target_text": "Qual filme você quer?",
+            "japanese": "Qual filme você quer?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I want a comedy!",
+            "target_text": "Quero uma comédia!",
+            "japanese": "Quero uma comédia!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
