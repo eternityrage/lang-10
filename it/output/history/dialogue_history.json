@@ -8963,6 +8963,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T23:08:04.538198",
+      "dialogue": {
+        "topic": "Rome & Florence Walk",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we walk in Rome?",
+            "target_text": "Ciao, passeggiamo a Roma?",
+            "japanese": "Ciao, passeggiamo a Roma?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, what beautiful sun!",
+            "target_text": "Sì, che bel sole!",
+            "japanese": "Sì, che bel sole!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Tomorrow Florence, okay?",
+            "target_text": "Domani Firenze, va bene?",
+            "japanese": "Domani Firenze, va bene?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, let's walk together!",
+            "target_text": "Perfetto, camminiamo insieme!",
+            "japanese": "Perfetto, camminiamo insieme!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
