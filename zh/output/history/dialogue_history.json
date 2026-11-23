@@ -10039,6 +10039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T04:29:17.771274",
+      "dialogue": {
+        "topic": "Cool Hat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this hat cool?",
+            "chinese": "这帽子酷吗？",
+            "pinyin": "Zhè màozi kù ma?",
+            "japanese": "这帽子酷吗？",
+            "romaji": "Zhè màozi kù ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Super cool!",
+            "chinese": "超酷啊！",
+            "pinyin": "Chāo kù a!",
+            "japanese": "超酷啊！",
+            "romaji": "Chāo kù a!"
+          },
+          {
+            "speaker": "A",
+            "english": "Am I cool too?",
+            "chinese": "我也酷吗？",
+            "pinyin": "Wǒ yě kù ma?",
+            "japanese": "我也酷吗？",
+            "romaji": "Wǒ yě kù ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "You’re the coolest!",
+            "chinese": "你最酷！",
+            "pinyin": "Nǐ zuì kù!",
+            "japanese": "你最酷！",
+            "romaji": "Nǐ zuì kù!"
+          }
+        ]
+      }
     }
   ]
 }
