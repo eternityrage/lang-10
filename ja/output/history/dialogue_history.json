@@ -7935,6 +7935,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T03:41:57.863020",
+      "dialogue": {
+        "topic": "Shibuya is busy",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is this Shibuya?",
+            "japanese": "マグ、ここは しぶやですか？",
+            "romaji": "Magu, koko wa Shibuya desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is Shibuya.",
+            "japanese": "はい、しぶやです。",
+            "romaji": "Hai, Shibuya desu."
+          },
+          {
+            "speaker": "A",
+            "english": "So many people.",
+            "japanese": "ひとが おおいですね。",
+            "romaji": "Hito ga ooi desu ne."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is lively!",
+            "japanese": "はい、にぎやかです！",
+            "romaji": "Hai, nigiyaka desu!"
+          }
+        ]
+      }
     }
   ]
 }
