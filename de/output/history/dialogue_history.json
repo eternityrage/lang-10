@@ -8963,6 +8963,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T16:29:35.212776",
+      "dialogue": {
+        "topic": "Im Biergarten sitzen",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this free?",
+            "target_text": "Hallo, ist hier frei?",
+            "japanese": "Hallo, ist hier frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sit down!",
+            "target_text": "Ja, setz dich gern!",
+            "japanese": "Ja, setz dich gern!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What are you drinking today?",
+            "target_text": "Was trinkst du heute?",
+            "japanese": "Was trinkst du heute?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I am drinking a shandy.",
+            "target_text": "Ich trinke ein Radler.",
+            "japanese": "Ich trinke ein Radler.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
