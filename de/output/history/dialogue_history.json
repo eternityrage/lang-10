@@ -8927,6 +8927,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T04:09:02.730072",
+      "dialogue": {
+        "topic": "Cafe & Biergarten",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the table free?",
+            "target_text": "Hallo, ist der Tisch frei?",
+            "japanese": "Hallo, ist der Tisch frei?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sure, come here!",
+            "target_text": "Ja, klar, komm her!",
+            "japanese": "Ja, klar, komm her!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What are you ordering now?",
+            "target_text": "Was bestellst du jetzt?",
+            "japanese": "Was bestellst du jetzt?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "A beer, that's perfect!",
+            "target_text": "Ein Bier, das passt!",
+            "japanese": "Ein Bier, das passt!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
