@@ -9839,6 +9839,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T03:48:46.353696",
+      "dialogue": {
+        "topic": "Casual greeting with slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, what's new?",
+            "target_text": "אהלן, מה חדש?",
+            "transliteration": "Ahlan, ma chadash?",
+            "japanese": "אהלן, מה חדש?",
+            "romaji": "Ahlan, ma chadash?"
+          },
+          {
+            "speaker": "B",
+            "english": "All cool, thanks!",
+            "target_text": "הכול סבבה, תודה!",
+            "transliteration": "Hakol sababa, toda!",
+            "japanese": "הכול סבבה, תודה!",
+            "romaji": "Hakol sababa, toda!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, where are you going?",
+            "target_text": "יופי, לאן אתה הולך?",
+            "transliteration": "Yofi, le'an ata holech?",
+            "japanese": "יופי, לאן אתה הולך?",
+            "romaji": "Yofi, le'an ata holech?"
+          },
+          {
+            "speaker": "B",
+            "english": "Home, see you later!",
+            "target_text": "הביתה, נתראה אחר כך!",
+            "transliteration": "Habayta, nitra'eh achar kach!",
+            "japanese": "הביתה, נתראה אחר כך!",
+            "romaji": "Habayta, nitra'eh achar kach!"
+          }
+        ]
+      }
     }
   ]
 }
