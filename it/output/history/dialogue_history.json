@@ -8891,6 +8891,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T04:15:46.597998",
+      "dialogue": {
+        "topic": "Slang: boh + spalle",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, why say “boh”?",
+            "target_text": "Ciao, perché dici “boh”?",
+            "japanese": "Ciao, perché dici “boh”?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Because it means “I don’t know”!",
+            "target_text": "Perché vuol dire “non so”!",
+            "japanese": "Perché vuol dire “non so”!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "And you raise your shoulders?",
+            "target_text": "E alzi le spalle?",
+            "japanese": "E alzi le spalle?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, perfect gesture!",
+            "target_text": "Sì, gesto perfetto!",
+            "japanese": "Sì, gesto perfetto!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
