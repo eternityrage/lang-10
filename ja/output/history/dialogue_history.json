@@ -7999,6 +7999,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T22:35:56.763143",
+      "dialogue": {
+        "topic": "Milk at the cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have milk?",
+            "japanese": "ミルク、ありますか？",
+            "romaji": "Miruku, arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we do.",
+            "japanese": "はい、あります。",
+            "romaji": "Hai, arimasu."
+          },
+          {
+            "speaker": "A",
+            "english": "A little, please.",
+            "japanese": "すこし ください。",
+            "romaji": "Sukoshi kudasai."
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go. It's sweet.",
+            "japanese": "どうぞ。あまいですよ。",
+            "romaji": "Dōzo. Amai desu yo."
+          }
+        ]
+      }
     }
   ]
 }
