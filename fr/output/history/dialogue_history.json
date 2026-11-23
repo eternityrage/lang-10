@@ -8963,6 +8963,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T04:01:58.174972",
+      "dialogue": {
+        "topic": "Parisian Cafe & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have croissants?",
+            "target_text": "Bonjour, vous avez des croissants ?",
+            "japanese": "Bonjour, vous avez des croissants ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are warm!",
+            "target_text": "Oui, ils sont chauds !",
+            "japanese": "Oui, ils sont chauds !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I’ll take two, thank you.",
+            "target_text": "J’en prends deux, merci.",
+            "japanese": "J’en prends deux, merci.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, have a nice day!",
+            "target_text": "Parfait, bonne journée !",
+            "japanese": "Parfait, bonne journée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
