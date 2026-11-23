@@ -9879,6 +9879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T16:59:05.970341",
+      "dialogue": {
+        "topic": "Shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "korean": "이거 얼마예요, 사장님?",
+            "romaja": "Igeo eolmayeyo, sajangnim?",
+            "japanese": "이거 얼마예요, 사장님?",
+            "romaji": "Igeo eolmayeyo, sajangnim?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's 10,000 won, very pretty!",
+            "korean": "만 원이에요, 정말 예뻐요!",
+            "romaja": "Man won-ieyo, jeongmal yeppeoyo!",
+            "japanese": "만 원이에요, 정말 예뻐요!",
+            "romaji": "Man won-ieyo, jeongmal yeppeoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Please lower it a little.",
+            "korean": "조금 깎아 주세요.",
+            "romaja": "Jogeum kkakka juseyo.",
+            "japanese": "조금 깎아 주세요.",
+            "romaji": "Jogeum kkakka juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, it's 9,000 won!",
+            "korean": "좋아요, 구천 원이에요!",
+            "romaja": "Joayo, gucheon won-ieyo!",
+            "japanese": "좋아요, 구천 원이에요!",
+            "romaji": "Joayo, gucheon won-ieyo!"
+          }
+        ]
+      }
     }
   ]
 }
