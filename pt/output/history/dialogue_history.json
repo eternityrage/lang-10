@@ -8855,6 +8855,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T04:42:22.477326",
+      "dialogue": {
+        "topic": "Street slang greeting: long time no see",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, stranger!",
+            "target_text": "E aí, sumido?",
+            "japanese": "E aí, sumido?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm back!",
+            "target_text": "Tô de volta!",
+            "japanese": "Tô de volta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we get coffee?",
+            "target_text": "Bora tomar café?",
+            "japanese": "Bora tomar café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, right now!",
+            "target_text": "Bora, agora mesmo!",
+            "japanese": "Bora, agora mesmo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
