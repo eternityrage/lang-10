@@ -9879,6 +9879,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T17:12:14.435332",
+      "dialogue": {
+        "topic": "Moscow Metro & Taxi",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is this the blue line?",
+            "russian": "Привет, это синяя линия?",
+            "translit": "Privet, eto sinyaya liniya?",
+            "japanese": "Привет, это синяя линия?",
+            "romaji": "Privet, eto sinyaya liniya?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very easy!",
+            "russian": "Да, очень легко!",
+            "translit": "Da, ochen' legko!",
+            "japanese": "Да, очень легко!",
+            "romaji": "Da, ochen' legko!"
+          },
+          {
+            "speaker": "A",
+            "english": "And is taxi far?",
+            "russian": "А такси далеко?",
+            "translit": "A taksi daleko?",
+            "japanese": "А такси далеко?",
+            "romaji": "A taksi daleko?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, taxi is outside.",
+            "russian": "Нет, такси на улице.",
+            "translit": "Net, taksi na ulitse.",
+            "japanese": "Нет, такси на улице.",
+            "romaji": "Net, taksi na ulitse."
+          }
+        ]
+      }
     }
   ]
 }
