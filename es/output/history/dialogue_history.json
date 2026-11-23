@@ -8927,6 +8927,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T22:48:38.340900",
+      "dialogue": {
+        "topic": "Fiesta tranquila",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how is the party?",
+            "target_text": "Hola, ¿qué tal la fiesta?",
+            "japanese": "Hola, ¿qué tal la fiesta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very fun and calm!",
+            "target_text": "¡Muy divertida y tranquila!",
+            "japanese": "¡Muy divertida y tranquila!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you here with friends?",
+            "target_text": "¿Vienes con amigos?",
+            "japanese": "¿Vienes con amigos?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, everyone is very happy.",
+            "target_text": "Sí, todos muy felices.",
+            "japanese": "Sí, todos muy felices.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
