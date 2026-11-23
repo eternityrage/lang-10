@@ -8999,6 +8999,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T16:22:48.567523",
+      "dialogue": {
+        "topic": "Going Outside",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is it nice out?",
+            "target_text": "Bonjour, il fait beau ?",
+            "japanese": "Bonjour, il fait beau ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very nice!",
+            "target_text": "Oui, très beau !",
+            "japanese": "Oui, très beau !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go out now?",
+            "target_text": "On sort maintenant ?",
+            "japanese": "On sort maintenant ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, good idea!",
+            "target_text": "Oui, bonne idée !",
+            "japanese": "Oui, bonne idée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
