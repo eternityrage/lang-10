@@ -8999,6 +8999,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T23:01:35.009538",
+      "dialogue": {
+        "topic": "At a Berlin Späti",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the Späti open?",
+            "target_text": "Hallo, ist der Späti offen?",
+            "japanese": "Hallo, ist der Späti offen?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is open!",
+            "target_text": "Ja, er ist offen!",
+            "japanese": "Ja, er ist offen!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is there cold water?",
+            "target_text": "Gibt es kaltes Wasser?",
+            "japanese": "Gibt es kaltes Wasser?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, by the entrance!",
+            "target_text": "Ja, vorne am Eingang!",
+            "japanese": "Ja, vorne am Eingang!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
