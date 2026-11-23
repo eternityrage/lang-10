@@ -8855,6 +8855,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-23T03:55:30.560429",
+      "dialogue": {
+        "topic": "Ordering churros at a café",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are there churros today?",
+            "target_text": "Hola, ¿hay churros hoy?",
+            "japanese": "Hola, ¿hay churros hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very tasty!",
+            "target_text": "¡Sí, están muy ricos!",
+            "japanese": "¡Sí, están muy ricos!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want two, please.",
+            "target_text": "Quiero dos, por favor.",
+            "japanese": "Quiero dos, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here you go.",
+            "target_text": "Claro, aquí tienes.",
+            "japanese": "Claro, aquí tienes.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
