@@ -9035,6 +9035,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T06:39:00.414535",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Does the pretzel taste good?",
+            "target_text": "Schmeckt die Brezel gut?",
+            "japanese": "Schmeckt die Brezel gut?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very tasty!",
+            "target_text": "Ja, sie ist sehr lecker!",
+            "japanese": "Ja, sie ist sehr lecker!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then I will take two.",
+            "target_text": "Dann nehme ich zwei.",
+            "japanese": "Dann nehme ich zwei.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, here they are.",
+            "target_text": "Gern, hier sind sie.",
+            "japanese": "Gern, hier sind sie.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
