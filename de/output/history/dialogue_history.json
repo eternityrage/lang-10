@@ -9107,6 +9107,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T16:13:03.158871",
+      "dialogue": {
+        "topic": "Bakery & Bretzel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the pretzel warm?",
+            "target_text": "Hallo, ist die Brezel warm?",
+            "japanese": "Hallo, ist die Brezel warm?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very warm!",
+            "target_text": "Ja, sie ist ganz warm!",
+            "japanese": "Ja, sie ist ganz warm!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, I’ll take two.",
+            "target_text": "Super, ich nehme zwei.",
+            "japanese": "Super, ich nehme zwei.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, here they are.",
+            "target_text": "Gern, hier sind sie.",
+            "japanese": "Gern, hier sind sie.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
