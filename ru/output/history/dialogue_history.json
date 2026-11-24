@@ -9999,6 +9999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T16:40:22.740616",
+      "dialogue": {
+        "topic": "Ordering Borsch & Pelmeni",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have pelmeni?",
+            "russian": "У вас есть пельмени?",
+            "translit": "U vas yest pelmeni?",
+            "japanese": "У вас есть пельмени?",
+            "romaji": "U vas yest pelmeni?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, hot pelmeni!",
+            "russian": "Да, есть горячие пельмени!",
+            "translit": "Da, yest goryachie pelmeni!",
+            "japanese": "Да, есть горячие пельмени!",
+            "romaji": "Da, yest goryachie pelmeni!"
+          },
+          {
+            "speaker": "A",
+            "english": "And borsch too?",
+            "russian": "И борщ тоже есть?",
+            "translit": "I borshch tozhe yest?",
+            "japanese": "И борщ тоже есть?",
+            "romaji": "I borshch tozhe yest?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’ll bring both dishes!",
+            "russian": "Да, принесу оба блюда!",
+            "translit": "Da, prinesu oba blyuda!",
+            "japanese": "Да, принесу оба блюда!",
+            "romaji": "Da, prinesu oba blyuda!"
+          }
+        ]
+      }
     }
   ]
 }
