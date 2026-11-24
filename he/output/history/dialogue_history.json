@@ -9959,6 +9959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T03:44:48.803483",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, what's up?",
+            "target_text": "היי, מה קורה?",
+            "transliteration": "Hey, ma kore?",
+            "japanese": "היי, מה קורה?",
+            "romaji": "Hey, ma kore?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thank you!",
+            "target_text": "סבבה, תודה רבה!",
+            "transliteration": "Sababa, toda raba!",
+            "japanese": "סבבה, תודה רבה!",
+            "romaji": "Sababa, toda raba!"
+          },
+          {
+            "speaker": "A",
+            "english": "So nice to hear!",
+            "target_text": "איזה כיף לשמוע!",
+            "transliteration": "Eize kef lishmoa!",
+            "japanese": "איזה כיף לשמוע!",
+            "romaji": "Eize kef lishmoa!"
+          },
+          {
+            "speaker": "B",
+            "english": "Alright, see you soon!",
+            "target_text": "יאללה, נתראה בקרוב!",
+            "transliteration": "Yalla, nitra'eh bekarov!",
+            "japanese": "יאללה, נתראה בקרוב!",
+            "romaji": "Yalla, nitra'eh bekarov!"
+          }
+        ]
+      }
     }
   ]
 }
