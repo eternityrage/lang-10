@@ -8999,6 +8999,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T07:24:53.959654",
+      "dialogue": {
+        "topic": "Travel & Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, which line do I take?",
+            "target_text": "Hola, ¿qué línea tomo?",
+            "japanese": "Hola, ¿qué línea tomo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Line two!",
+            "target_text": "¡La línea dos!",
+            "japanese": "¡La línea dos!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go downtown?",
+            "target_text": "¿Va al centro?",
+            "japanese": "¿Va al centro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is fast.",
+            "target_text": "Sí, es rápido.",
+            "japanese": "Sí, es rápido.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
