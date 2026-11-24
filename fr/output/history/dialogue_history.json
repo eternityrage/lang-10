@@ -9071,6 +9071,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T05:48:51.380203",
+      "dialogue": {
+        "topic": "Going to the market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you free?",
+            "target_text": "Bonjour, tu es libre ?",
+            "japanese": "Bonjour, tu es libre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am free!",
+            "target_text": "Oui, je suis libre !",
+            "japanese": "Oui, je suis libre !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we go to the market?",
+            "target_text": "On va au marché ?",
+            "japanese": "On va au marché ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
