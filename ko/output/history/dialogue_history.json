@@ -9999,6 +9999,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T08:48:01.353513",
+      "dialogue": {
+        "topic": "Shopping in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "How much is this?",
+            "korean": "이거 얼마예요?",
+            "romaja": "Igeo eolmayeyo?",
+            "japanese": "이거 얼마예요?",
+            "romaji": "Igeo eolmayeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "It's ten thousand won!",
+            "korean": "만원이에요!",
+            "romaja": "Man won-ieyo!",
+            "japanese": "만원이에요!",
+            "romaji": "Man won-ieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "One of these, please.",
+            "korean": "이거 하나 주세요.",
+            "romaja": "Igeo hana juseyo.",
+            "japanese": "이거 하나 주세요.",
+            "romaji": "Igeo hana juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "korean": "네, 여기 있어요!",
+            "romaja": "Ne, yeogi isseoyo!",
+            "japanese": "네, 여기 있어요!",
+            "romaji": "Ne, yeogi isseoyo!"
+          }
+        ]
+      }
     }
   ]
 }
