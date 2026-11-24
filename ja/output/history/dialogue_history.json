@@ -8031,6 +8031,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T03:38:28.994187",
+      "dialogue": {
+        "topic": "Asking for the station in Shibuya",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this Shibuya?",
+            "japanese": "ここは しぶやですか？",
+            "romaji": "Koko wa Shibuya desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, this is Shibuya.",
+            "japanese": "はい、ここは しぶやです。",
+            "romaji": "Hai, koko wa Shibuya desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the station?",
+            "japanese": "えきは どこですか？",
+            "romaji": "Eki wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "The station is over there.",
+            "japanese": "えきは あそこです。",
+            "romaji": "Eki wa asoko desu."
+          }
+        ]
+      }
     }
   ]
 }
