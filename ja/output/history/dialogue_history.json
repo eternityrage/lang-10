@@ -8063,6 +8063,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T07:12:23.264243",
+      "dialogue": {
+        "topic": "Cute compliment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is this cute?",
+            "japanese": "マグ、これ かわいい？",
+            "romaji": "Magu, kore kawaii?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yeah, super cute!",
+            "japanese": "うん、めっちゃ かわいい！",
+            "romaji": "Un, meccha kawaii!"
+          },
+          {
+            "speaker": "A",
+            "english": "Really? I'm happy!",
+            "japanese": "ほんと？うれしい！",
+            "romaji": "Honto? Ureshii!"
+          },
+          {
+            "speaker": "B",
+            "english": "Cupcake, you're the best!",
+            "japanese": "カップケーキ、さいこう！",
+            "romaji": "Kappukeeki, saikou!"
+          }
+        ]
+      }
     }
   ]
 }
