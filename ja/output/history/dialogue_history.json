@@ -8127,6 +8127,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T21:08:04.755687",
+      "dialogue": {
+        "topic": "Anime-style courage",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, let's go!",
+            "japanese": "マグさん、いくよ！",
+            "romaji": "Magu-san, iku yo!"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I'll do my best!",
+            "japanese": "はい！がんばります！",
+            "romaji": "Hai! Ganbarimasu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Together, we can do it!",
+            "japanese": "いっしょに できます！",
+            "romaji": "Issho ni dekimasu!"
+          },
+          {
+            "speaker": "B",
+            "english": "We are strong!",
+            "japanese": "わたしたちは つよいです！",
+            "romaji": "Watashitachi wa tsuyoi desu!"
+          }
+        ]
+      }
     }
   ]
 }
