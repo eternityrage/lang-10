@@ -9959,6 +9959,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T07:04:26.824654",
+      "dialogue": {
+        "topic": "Buying gum at a convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have gum?",
+            "russian": "Здравствуйте, у вас есть жвачка?",
+            "translit": "Zdravstvuyte, u vas yest' zhvachka?",
+            "japanese": "Здравствуйте, у вас есть жвачка?",
+            "romaji": "Zdravstvuyte, u vas yest' zhvachka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, here's gum!",
+            "russian": "Да, конечно, вот жвачка!",
+            "translit": "Da, konechno, vot zhvachka!",
+            "japanese": "Да, конечно, вот жвачка!",
+            "romaji": "Da, konechno, vot zhvachka!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one pack?",
+            "russian": "Сколько стоит одна пачка?",
+            "translit": "Skol'ko stoit odna pachka?",
+            "japanese": "Сколько стоит одна пачка?",
+            "romaji": "Skol'ko stoit odna pachka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Fifty rubles, please.",
+            "russian": "Пятьдесят рублей, пожалуйста.",
+            "translit": "Pyat'desyat rubley, pozhaluysta.",
+            "japanese": "Пятьдесят рублей, пожалуйста.",
+            "romaji": "Pyat'desyat rubley, pozhaluysta."
+          }
+        ]
+      }
     }
   ]
 }
