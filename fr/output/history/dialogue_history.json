@@ -9107,6 +9107,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T07:31:06.053912",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have bags?",
+            "target_text": "Bonjour, vous avez des sacs ?",
+            "japanese": "Bonjour, vous avez des sacs ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, nice bags!",
+            "target_text": "Oui, de jolis sacs !",
+            "japanese": "Oui, de jolis sacs !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is this bag?",
+            "target_text": "Combien coûte ce sac ?",
+            "japanese": "Combien coûte ce sac ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It costs ten euros.",
+            "target_text": "Il coûte dix euros.",
+            "japanese": "Il coûte dix euros.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
