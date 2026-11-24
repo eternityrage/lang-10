@@ -9143,6 +9143,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T21:33:42.991669",
+      "dialogue": {
+        "topic": "Warm pretzel with butter",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is the pretzel warm?",
+            "target_text": "Hallo, ist die Brezel warm?",
+            "japanese": "Hallo, ist die Brezel warm?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very warm!",
+            "target_text": "Ja, ganz warm!",
+            "japanese": "Ja, ganz warm!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Great, with butter please.",
+            "target_text": "Super, mit Butter bitte.",
+            "japanese": "Super, mit Butter bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here it is.",
+            "target_text": "Gern, hier ist sie.",
+            "japanese": "Gern, hier ist sie.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
