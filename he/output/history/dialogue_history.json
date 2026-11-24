@@ -10039,6 +10039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T15:52:55.709423",
+      "dialogue": {
+        "topic": "Taxi to the train station",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, to the train station?",
+            "target_text": "סליחה, לתחנת הרכבת?",
+            "transliteration": "Slicha, le-takhanat ha-rakevet?",
+            "japanese": "סליחה, לתחנת הרכבת?",
+            "romaji": "Slicha, le-takhanat ha-rakevet?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly, get in!",
+            "target_text": "כן, בשמחה, תעלה!",
+            "transliteration": "Ken, besimcha, ta'ale!",
+            "japanese": "כן, בשמחה, תעלה!",
+            "romaji": "Ken, besimcha, ta'ale!"
+          },
+          {
+            "speaker": "A",
+            "english": "How long is it?",
+            "target_text": "כמה זמן זה?",
+            "transliteration": "Kama zman ze?",
+            "japanese": "כמה זמן זה?",
+            "romaji": "Kama zman ze?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only ten minutes.",
+            "target_text": "רק עשר דקות.",
+            "transliteration": "Rak eser dakot.",
+            "japanese": "רק עשר דקות.",
+            "romaji": "Rak eser dakot."
+          }
+        ]
+      }
     }
   ]
 }
