@@ -9143,6 +9143,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T16:06:33.179695",
+      "dialogue": {
+        "topic": "Metro & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, which line is it?",
+            "target_text": "Bonjour, c'est quelle ligne ?",
+            "japanese": "Bonjour, c'est quelle ligne ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's line two!",
+            "target_text": "C'est la ligne deux !",
+            "japanese": "C'est la ligne deux !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it go to the Louvre?",
+            "target_text": "Elle va au Louvre ?",
+            "japanese": "Elle va au Louvre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, enjoy your visit!",
+            "target_text": "Oui, bonne visite !",
+            "japanese": "Oui, bonne visite !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
