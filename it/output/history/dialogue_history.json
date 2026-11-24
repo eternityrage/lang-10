@@ -9071,6 +9071,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T16:19:33.144995",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, a table for two?",
+            "target_text": "Ciao, un tavolo per due?",
+            "japanese": "Ciao, un tavolo per due?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, come here!",
+            "target_text": "Certo, venite qui!",
+            "japanese": "Certo, venite qui!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have Margherita pizza?",
+            "target_text": "Avete pizza margherita?",
+            "japanese": "Avete pizza margherita?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it’s delicious!",
+            "target_text": "Sì, è buonissima!",
+            "japanese": "Sì, è buonissima!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
