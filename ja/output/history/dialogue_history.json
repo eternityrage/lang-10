@@ -8095,6 +8095,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T15:46:38.320534",
+      "dialogue": {
+        "topic": "Trying on a cute hat",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, that hat is cute!",
+            "japanese": "マグ、その ぼうし かわいいね！",
+            "romaji": "Magu, sono boushi kawaii ne!"
+          },
+          {
+            "speaker": "B",
+            "english": "Right? Super cute!",
+            "japanese": "でしょ？めちゃ かわいい！",
+            "romaji": "Desho? Mecha kawaii!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I try it?",
+            "japanese": "ぼくも かぶって いい？",
+            "romaji": "Boku mo kabutte ii?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! You look cute!",
+            "japanese": "いいよ！めちゃ かわいいよ！",
+            "romaji": "Ii yo! Mecha kawaii yo!"
+          }
+        ]
+      }
     }
   ]
 }
