@@ -9035,6 +9035,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T22:05:58.350655",
+      "dialogue": {
+        "topic": "Coffee with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we have coffee?",
+            "target_text": "Oi, vamos tomar café?",
+            "japanese": "Oi, vamos tomar café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love coffee!",
+            "target_text": "Sim, eu adoro café!",
+            "japanese": "Sim, eu adoro café!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "At the corner bakery?",
+            "target_text": "Na padaria da esquina?",
+            "japanese": "Na padaria da esquina?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, let's go now!",
+            "target_text": "Perfeito, bora agora!",
+            "japanese": "Perfeito, bora agora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
