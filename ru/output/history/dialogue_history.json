@@ -10039,6 +10039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T21:59:28.580403",
+      "dialogue": {
+        "topic": "Winter Walk & Weather",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is it cold outside?",
+            "russian": "Привет, на улице холодно?",
+            "translit": "Privet, na ulitse kholodno?",
+            "japanese": "Привет, на улице холодно?",
+            "romaji": "Privet, na ulitse kholodno?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, but very beautiful!",
+            "russian": "Да, но очень красиво!",
+            "translit": "Da, no ochen krasivo!",
+            "japanese": "Да, но очень красиво!",
+            "romaji": "Da, no ochen krasivo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Where is your warm hat?",
+            "russian": "Где твоя тёплая шапка?",
+            "translit": "Gde tvoya tyoplaya shapka?",
+            "japanese": "Где твоя тёплая шапка?",
+            "romaji": "Gde tvoya tyoplaya shapka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Here it is, I'm ready!",
+            "russian": "Вот она, я готов!",
+            "translit": "Vot ona, ya gotov!",
+            "japanese": "Вот она, я готов!",
+            "romaji": "Vot ona, ya gotov!"
+          }
+        ]
+      }
     }
   ]
 }
