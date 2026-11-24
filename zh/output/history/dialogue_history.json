@@ -10239,6 +10239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T21:53:17.189077",
+      "dialogue": {
+        "topic": "Bargaining for a small item",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Boss, cheaper?",
+            "chinese": "老板，便宜点？",
+            "pinyin": "Lǎobǎn, piányi diǎn?",
+            "japanese": "老板，便宜点？",
+            "romaji": "Lǎobǎn, piányi diǎn?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, sure!",
+            "chinese": "好，可以！",
+            "pinyin": "Hǎo, kěyǐ!",
+            "japanese": "好，可以！",
+            "romaji": "Hǎo, kěyǐ!"
+          },
+          {
+            "speaker": "A",
+            "english": "Ten yuan, okay?",
+            "chinese": "十块，好吗？",
+            "pinyin": "Shí kuài, hǎo ma?",
+            "japanese": "十块，好吗？",
+            "romaji": "Shí kuài, hǎo ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, for you!",
+            "chinese": "好，给你！",
+            "pinyin": "Hǎo, gěi nǐ!",
+            "japanese": "好，给你！",
+            "romaji": "Hǎo, gěi nǐ!"
+          }
+        ]
+      }
     }
   ]
 }
