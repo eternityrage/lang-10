@@ -9071,6 +9071,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T21:20:57.542428",
+      "dialogue": {
+        "topic": "Pizza en la fiesta",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you want some pizza?",
+            "target_text": "¿Quieres un poco de pizza?",
+            "japanese": "¿Quieres un poco de pizza?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love it!",
+            "target_text": "¡Sí, me encanta!",
+            "japanese": "¡Sí, me encanta!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we eat on the sofa?",
+            "target_text": "¿Comemos en el sofá?",
+            "japanese": "¿Comemos en el sofá?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, chill party.",
+            "target_text": "Perfecto, fiesta tranquila.",
+            "japanese": "Perfecto, fiesta tranquila.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
