@@ -10039,6 +10039,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T16:25:59.943168",
+      "dialogue": {
+        "topic": "Cute heart-fluttering compliment",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Why so cute?",
+            "korean": "왜 이렇게 귀여워요?",
+            "romaja": "Wae ireoke gwiyeowoyo?",
+            "japanese": "왜 이렇게 귀여워요?",
+            "romaji": "Wae ireoke gwiyeowoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Wow, so happy!",
+            "korean": "와, 너무 좋아요!",
+            "romaja": "Wa, neomu joayo!",
+            "japanese": "와, 너무 좋아요!",
+            "romaji": "Wa, neomu joayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "My heart flutters.",
+            "korean": "내 마음 설레요.",
+            "romaja": "Nae maeum seolleoyo.",
+            "japanese": "내 마음 설레요.",
+            "romaji": "Nae maeum seolleoyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Then it’s a date.",
+            "korean": "그럼 데이트해요.",
+            "romaja": "Geureom deiteuhaeyo.",
+            "japanese": "그럼 데이트해요.",
+            "romaji": "Geureom deiteuhaeyo."
+          }
+        ]
+      }
     }
   ]
 }
