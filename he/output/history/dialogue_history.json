@@ -10079,6 +10079,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-24T21:14:36.210808",
+      "dialogue": {
+        "topic": "Food & Hummus",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is there hummus?",
+            "target_text": "שלום, יש חומוס?",
+            "transliteration": "Shalom, yesh hummus?",
+            "japanese": "שלום, יש חומוס?",
+            "romaji": "Shalom, yesh hummus?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, there is good hummus!",
+            "target_text": "כן, יש חומוס טוב!",
+            "transliteration": "Ken, yesh hummus tov!",
+            "japanese": "כן, יש חומוס טוב!",
+            "romaji": "Ken, yesh hummus tov!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I have pita with hummus?",
+            "target_text": "אפשר פיתה עם חומוס?",
+            "transliteration": "Efshar pita im hummus?",
+            "japanese": "אפשר פיתה עם חומוס?",
+            "romaji": "Efshar pita im hummus?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here, enjoy!",
+            "target_text": "בטח, הנה, בתיאבון!",
+            "transliteration": "Betach, hine, bete'avon!",
+            "japanese": "בטח, הנה, בתיאבון!",
+            "romaji": "Betach, hine, bete'avon!"
+          }
+        ]
+      }
     }
   ]
 }
