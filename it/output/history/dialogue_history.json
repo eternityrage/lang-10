@@ -9251,6 +9251,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T21:00:56.803339",
+      "dialogue": {
+        "topic": "Il gesto delle dita unite",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, like this?",
+            "target_text": "Ciao, così va bene?",
+            "japanese": "Ciao, così va bene?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very Italian!",
+            "target_text": "Sì, molto italiano!",
+            "japanese": "Sì, molto italiano!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "What does it mean?",
+            "target_text": "Che vuol dire?",
+            "japanese": "Che vuol dire?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: what do you want?",
+            "target_text": "Vuol dire: che vuoi?",
+            "japanese": "Vuol dire: che vuoi?",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
