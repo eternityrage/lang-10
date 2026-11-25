@@ -10159,6 +10159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T06:02:22.954069",
+      "dialogue": {
+        "topic": "Pretty latte at a Hongdae cafe",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this latte pretty?",
+            "korean": "이 라테 예뻐요?",
+            "romaja": "I rate yeppeoyo?",
+            "japanese": "이 라테 예뻐요?",
+            "romaji": "I rate yeppeoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, so pretty!",
+            "korean": "네, 진짜 예뻐요!",
+            "romaja": "Ne, jinjja yeppeoyo!",
+            "japanese": "네, 진짜 예뻐요!",
+            "romaji": "Ne, jinjja yeppeoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we take a photo?",
+            "korean": "같이 사진 찍을까요?",
+            "romaja": "Gachi sajin jjigeulkkayo?",
+            "japanese": "같이 사진 찍을까요?",
+            "romaji": "Gachi sajin jjigeulkkayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, take it now!",
+            "korean": "좋아요, 빨리 찍어요!",
+            "romaja": "Joayo, ppalli jjigeoyo!",
+            "japanese": "좋아요, 빨리 찍어요!",
+            "romaji": "Joayo, ppalli jjigeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
