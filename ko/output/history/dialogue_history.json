@@ -10199,6 +10199,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T16:09:18.309637",
+      "dialogue": {
+        "topic": "Trying on a hat in Myeongdong",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Can I try this hat?",
+            "korean": "이 모자 써 봐도 돼요?",
+            "romaja": "I moja sseo bwado dwaeyo?",
+            "japanese": "이 모자 써 봐도 돼요?",
+            "romaji": "I moja sseo bwado dwaeyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "korean": "네, 물론이에요!",
+            "romaja": "Ne, mullonieyo!",
+            "japanese": "네, 물론이에요!",
+            "romaji": "Ne, mullonieyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Does it suit me?",
+            "korean": "저한테 잘 어울려요?",
+            "romaja": "Jeohante jal eoullyeoyo?",
+            "japanese": "저한테 잘 어울려요?",
+            "romaji": "Jeohante jal eoullyeoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cute!",
+            "korean": "네, 정말 귀여워요!",
+            "romaja": "Ne, jeongmal gwiyeowoyo!",
+            "japanese": "네, 정말 귀여워요!",
+            "romaji": "Ne, jeongmal gwiyeowoyo!"
+          }
+        ]
+      }
     }
   ]
 }
