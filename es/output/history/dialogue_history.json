@@ -9107,6 +9107,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T01:35:46.566543",
+      "dialogue": {
+        "topic": "Tapas & Cafe - aceitunas",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have olives?",
+            "target_text": "Hola, ¿tiene aceitunas?",
+            "japanese": "Hola, ¿tiene aceitunas?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very good!",
+            "target_text": "¡Sí, muy buenas!",
+            "japanese": "¡Sí, muy buenas!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One tapa, please.",
+            "target_text": "Una tapa, por favor.",
+            "japanese": "Una tapa, por favor.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, here you go!",
+            "target_text": "¡Claro, aquí tienes!",
+            "japanese": "¡Claro, aquí tienes!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
