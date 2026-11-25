@@ -10159,6 +10159,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T16:22:02.172182",
+      "dialogue": {
+        "topic": "Buying milk at a convenience store",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good afternoon, is there milk?",
+            "russian": "Добрый день, есть молоко?",
+            "translit": "Dobryy den, est moloko?",
+            "japanese": "Добрый день, есть молоко?",
+            "romaji": "Dobryy den, est moloko?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, milk is right here!",
+            "russian": "Да, молоко вот здесь!",
+            "translit": "Da, moloko vot zdes!",
+            "japanese": "Да, молоко вот здесь!",
+            "romaji": "Da, moloko vot zdes!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, how much is it?",
+            "russian": "Отлично, сколько стоит?",
+            "translit": "Otlichno, skolko stoit?",
+            "japanese": "Отлично, сколько стоит?",
+            "romaji": "Otlichno, skolko stoit?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only one hundred rubles.",
+            "russian": "Всего сто рублей.",
+            "translit": "Vsego sto rubley.",
+            "japanese": "Всего сто рублей.",
+            "romaji": "Vsego sto rubley."
+          }
+        ]
+      }
     }
   ]
 }
