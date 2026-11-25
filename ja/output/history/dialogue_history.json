@@ -8223,6 +8223,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T15:30:36.419162",
+      "dialogue": {
+        "topic": "Cupcake confesses love to Coffee Mug",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, I like you.",
+            "japanese": "マグさん、すきです。",
+            "romaji": "Magu-san, suki desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Really? I like you too.",
+            "japanese": "ほんとう？わたしも すきです。",
+            "romaji": "Hontou? Watashi mo suki desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we date?",
+            "japanese": "デート しませんか？",
+            "romaji": "Deeto shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I am happy.",
+            "japanese": "はい！うれしいです。",
+            "romaji": "Hai! Ureshii desu."
+          }
+        ]
+      }
     }
   ]
 }
