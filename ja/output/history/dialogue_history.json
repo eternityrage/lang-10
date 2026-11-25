@@ -8159,6 +8159,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T01:21:40.804972",
+      "dialogue": {
+        "topic": "Cute sticker",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, cute sticker!",
+            "japanese": "マグ、シール かわいいね！",
+            "romaji": "Magu, shiiru kawaii ne!"
+          },
+          {
+            "speaker": "B",
+            "english": "Right? Nice, huh!",
+            "japanese": "でしょ？ いいね！",
+            "romaji": "Desho? Ii ne!"
+          },
+          {
+            "speaker": "A",
+            "english": "I want one too.",
+            "japanese": "わたしも ほしいな。",
+            "romaji": "Watashi mo hoshii na."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, here you go!",
+            "japanese": "いいよ、どうぞ！",
+            "romaji": "Ii yo, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
