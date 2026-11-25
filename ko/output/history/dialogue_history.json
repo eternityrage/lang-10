@@ -10239,6 +10239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T21:07:20.197012",
+      "dialogue": {
+        "topic": "Tteokbokki with water",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want to eat tteokbokki together?",
+            "korean": "떡볶이 같이 먹을래?",
+            "romaja": "Tteokbokki gachi meogeullae?",
+            "japanese": "떡볶이 같이 먹을래?",
+            "romaji": "Tteokbokki gachi meogeullae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, I'm hungry!",
+            "korean": "좋아, 나 배고파!",
+            "romaja": "Joa, na baegopa!",
+            "japanese": "좋아, 나 배고파!",
+            "romaji": "Joa, na baegopa!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is spicy food okay?",
+            "korean": "매운 거 괜찮아?",
+            "romaja": "Maeun geo gwaenchana?",
+            "japanese": "매운 거 괜찮아?",
+            "romaji": "Maeun geo gwaenchana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we have water!",
+            "korean": "응, 물도 있어!",
+            "romaja": "Eung, muldo isseo!",
+            "japanese": "응, 물도 있어!",
+            "romaji": "Eung, muldo isseo!"
+          }
+        ]
+      }
     }
   ]
 }
