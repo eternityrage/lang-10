@@ -9071,6 +9071,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T02:22:07.192961",
+      "dialogue": {
+        "topic": "Coffee with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, shall we have coffee?",
+            "target_text": "Oi, vamos tomar café?",
+            "japanese": "Oi, vamos tomar café?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes! I love coffee.",
+            "target_text": "Vamos! Eu amo café.",
+            "japanese": "Vamos! Eu amo café.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "At the park today?",
+            "target_text": "No parque hoje?",
+            "japanese": "No parque hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, at three.",
+            "target_text": "Sim, às três.",
+            "japanese": "Sim, às três.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
