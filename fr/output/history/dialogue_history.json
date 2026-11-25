@@ -9215,6 +9215,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T01:42:09.404201",
+      "dialogue": {
+        "topic": "Street greeting on the way",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, how are you?",
+            "target_text": "Bonjour, ça va ?",
+            "japanese": "Bonjour, ça va ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m very well!",
+            "target_text": "Oui, très bien !",
+            "japanese": "Oui, très bien !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where are you going?",
+            "target_text": "Tu vas où ?",
+            "japanese": "Tu vas où ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’m going to the market.",
+            "target_text": "Je vais au marché.",
+            "japanese": "Je vais au marché.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
