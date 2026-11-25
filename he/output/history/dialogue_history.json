@@ -10239,6 +10239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T20:34:38.651806",
+      "dialogue": {
+        "topic": "Tasting olives at Shuk Carmel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are the olives tasty?",
+            "target_text": "היי, הזיתים טעימים?",
+            "transliteration": "Hi, ha-zeytim te'imim?",
+            "japanese": "היי, הזיתים טעימים?",
+            "romaji": "Hi, ha-zeytim te'imim?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, they are very tasty!",
+            "target_text": "כן, הם מאוד טעימים!",
+            "transliteration": "Ken, hem me'od te'imim!",
+            "japanese": "כן, הם מאוד טעימים!",
+            "romaji": "Ken, hem me'od te'imim!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I taste one?",
+            "target_text": "אפשר לטעום אחד?",
+            "transliteration": "Efshar lit'om echad?",
+            "japanese": "אפשר לטעום אחד?",
+            "romaji": "Efshar lit'om echad?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, it's on me!",
+            "target_text": "בטח, זה עליי!",
+            "transliteration": "Betach, ze alai!",
+            "japanese": "בטח, זה עליי!",
+            "romaji": "Betach, ze alai!"
+          }
+        ]
+      }
     }
   ]
 }
