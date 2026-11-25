@@ -10319,6 +10319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T06:09:05.875394",
+      "dialogue": {
+        "topic": "Cool New Outfit",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, so cool!",
+            "chinese": "嗨，真酷！",
+            "pinyin": "Hāi, zhēn kù!",
+            "japanese": "嗨，真酷！",
+            "romaji": "Hāi, zhēn kù!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thank you!",
+            "chinese": "谢谢你！",
+            "pinyin": "Xièxie nǐ!",
+            "japanese": "谢谢你！",
+            "romaji": "Xièxie nǐ!"
+          },
+          {
+            "speaker": "A",
+            "english": "New clothes?",
+            "chinese": "新衣服吗？",
+            "pinyin": "Xīn yīfu ma?",
+            "japanese": "新衣服吗？",
+            "romaji": "Xīn yīfu ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very cool!",
+            "chinese": "对，很酷！",
+            "pinyin": "Duì, hěn kù!",
+            "japanese": "对，很酷！",
+            "romaji": "Duì, hěn kù!"
+          }
+        ]
+      }
     }
   ]
 }
