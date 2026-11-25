@@ -10399,6 +10399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T21:13:42.684325",
+      "dialogue": {
+        "topic": "Metro: Is it far?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is the metro far?",
+            "chinese": "地铁远吗？",
+            "pinyin": "Dìtiě yuǎn ma?",
+            "japanese": "地铁远吗？",
+            "romaji": "Dìtiě yuǎn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not far, very near.",
+            "chinese": "不远，很近。",
+            "pinyin": "Bù yuǎn, hěn jìn.",
+            "japanese": "不远，很近。",
+            "romaji": "Bù yuǎn, hěn jìn."
+          },
+          {
+            "speaker": "A",
+            "english": "Walk together?",
+            "chinese": "一起走吗？",
+            "pinyin": "Yìqǐ zǒu ma?",
+            "japanese": "一起走吗？",
+            "romaji": "Yìqǐ zǒu ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, let’s go!",
+            "chinese": "好，走吧！",
+            "pinyin": "Hǎo, zǒu ba!",
+            "japanese": "好，走吧！",
+            "romaji": "Hǎo, zǒu ba!"
+          }
+        ]
+      }
     }
   ]
 }
