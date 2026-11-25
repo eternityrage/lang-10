@@ -9287,6 +9287,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T20:54:19.748949",
+      "dialogue": {
+        "topic": "Ordering a cold apple spritzer",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have apple spritzer?",
+            "target_text": "Hallo, haben Sie Apfelschorle?",
+            "japanese": "Hallo, haben Sie Apfelschorle?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is cold.",
+            "target_text": "Ja, die ist kalt.",
+            "japanese": "Ja, die ist kalt.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then one, please.",
+            "target_text": "Dann eine, bitte.",
+            "japanese": "Dann eine, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Coming right away, thanks!",
+            "target_text": "Kommt sofort, danke!",
+            "japanese": "Kommt sofort, danke!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
