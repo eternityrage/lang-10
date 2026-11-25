@@ -9215,6 +9215,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T16:02:49.612068",
+      "dialogue": {
+        "topic": "Espresso Bar & Cornetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, want a cornetto?",
+            "target_text": "Ciao, vuoi un cornetto?",
+            "japanese": "Ciao, vuoi un cornetto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very gladly!",
+            "target_text": "Sì, molto volentieri!",
+            "japanese": "Sì, molto volentieri!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With cream or chocolate?",
+            "target_text": "Con crema o cioccolato?",
+            "japanese": "Con crema o cioccolato?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With cream, thanks!",
+            "target_text": "Con crema, grazie!",
+            "japanese": "Con crema, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
