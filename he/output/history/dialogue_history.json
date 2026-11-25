@@ -10119,6 +10119,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T01:28:39.694397",
+      "dialogue": {
+        "topic": "Tel Aviv Street Life - Rothschild Boulevard",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is Rothschild?",
+            "target_text": "סליחה, איפה שדרות רוטשילד?",
+            "transliteration": "Slicha, eifo Sderot Rothschild?",
+            "japanese": "סליחה, איפה שדרות רוטשילד?",
+            "romaji": "Slicha, eifo Sderot Rothschild?"
+          },
+          {
+            "speaker": "B",
+            "english": "Close, straight straight!",
+            "target_text": "קרוב, ישר ישר!",
+            "transliteration": "Karov, yashar yashar!",
+            "japanese": "קרוב, ישר ישר!",
+            "romaji": "Karov, yashar yashar!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is there good coffee there?",
+            "target_text": "יש שם קפה טוב?",
+            "transliteration": "Yesh sham kafe tov?",
+            "japanese": "יש שם קפה טוב?",
+            "romaji": "Yesh sham kafe tov?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, excellent coffee!",
+            "target_text": "כן, קפה מעולה!",
+            "transliteration": "Ken, kafe me'ule!",
+            "japanese": "כן, קפה מעולה!",
+            "romaji": "Ken, kafe me'ule!"
+          }
+        ]
+      }
     }
   ]
 }
