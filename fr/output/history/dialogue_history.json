@@ -9287,6 +9287,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T15:50:11.773271",
+      "dialogue": {
+        "topic": "Parisian Bakery: Buying a Croissant",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have croissants?",
+            "target_text": "Bonjour, vous avez des croissants ?",
+            "japanese": "Bonjour, vous avez des croissants ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very warm!",
+            "target_text": "Oui, tout chauds !",
+            "japanese": "Oui, tout chauds !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "One croissant, please.",
+            "target_text": "Un croissant, s'il vous plaît.",
+            "japanese": "Un croissant, s'il vous plaît.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Here you go, good day!",
+            "target_text": "Voilà, bonne journée !",
+            "japanese": "Voilà, bonne journée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
