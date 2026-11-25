@@ -9251,6 +9251,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T15:56:35.156200",
+      "dialogue": {
+        "topic": "Berlin Street Music",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you play here?",
+            "target_text": "Hallo, spielst du hier?",
+            "japanese": "Hallo, spielst du hier?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I love music!",
+            "target_text": "Ja, ich liebe Musik!",
+            "japanese": "Ja, ich liebe Musik!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is that your song?",
+            "target_text": "Ist das dein Lied?",
+            "japanese": "Ist das dein Lied?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Berlin dances along!",
+            "target_text": "Ja, Berlin tanzt mit!",
+            "japanese": "Ja, Berlin tanzt mit!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
