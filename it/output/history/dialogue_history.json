@@ -9143,6 +9143,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T01:55:27.494912",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you waiting for someone?",
+            "target_text": "Ciao, aspetti qualcuno?",
+            "japanese": "Ciao, aspetti qualcuno?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Marco is coming soon!",
+            "target_text": "Sì, Marco arriva presto!",
+            "japanese": "Sì, Marco arriva presto!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can I wait here?",
+            "target_text": "Posso aspettare qui?",
+            "japanese": "Posso aspettare qui?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, stay with me!",
+            "target_text": "Certo, resta con me!",
+            "japanese": "Certo, resta con me!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
