@@ -9179,6 +9179,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T21:26:35.174623",
+      "dialogue": {
+        "topic": "Street slang greeting: Fala aí",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey there, all chill?",
+            "target_text": "Fala aí, tudo tranquilo?",
+            "japanese": "Fala aí, tudo tranquilo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "All chill, and you?",
+            "target_text": "Tudo tranquilo, e você?",
+            "japanese": "Tudo tranquilo, e você?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I’m cool, let’s walk?",
+            "target_text": "Tô suave, bora caminhar?",
+            "japanese": "Tô suave, bora caminhar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Let’s go, it’ll be awesome!",
+            "target_text": "Bora, vai ser top!",
+            "japanese": "Bora, vai ser top!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
