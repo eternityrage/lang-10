@@ -8255,6 +8255,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T20:28:06.057837",
+      "dialogue": {
+        "topic": "After Work Chill",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, work finished?",
+            "japanese": "マグさん、しごと おわりましたか？",
+            "romaji": "Magu-san, shigoto owarimashita ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, finished!",
+            "japanese": "はい、おわりました！",
+            "romaji": "Hai, owarimashita!"
+          },
+          {
+            "speaker": "A",
+            "english": "Let's rest here.",
+            "japanese": "ここで やすみましょう。",
+            "romaji": "Koko de yasumimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Good. It's quiet.",
+            "japanese": "いいですね。しずかです。",
+            "romaji": "Ii desu ne. Shizuka desu."
+          }
+        ]
+      }
     }
   ]
 }
