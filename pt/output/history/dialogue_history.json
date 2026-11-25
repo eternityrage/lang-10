@@ -9107,6 +9107,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-25T06:22:06.522594",
+      "dialogue": {
+        "topic": "Coffee with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, coffee now?",
+            "target_text": "E aí, café agora?",
+            "japanese": "E aí, café agora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, I’m in!",
+            "target_text": "Claro, eu topo!",
+            "japanese": "Claro, eu topo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you paying today?",
+            "target_text": "Você paga hoje?",
+            "japanese": "Você paga hoje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Not today, friend!",
+            "target_text": "Hoje não, amigo!",
+            "japanese": "Hoje não, amigo!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
