@@ -10319,6 +10319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T05:05:48.641707",
+      "dialogue": {
+        "topic": "Finding Carmel Market in Tel Aviv",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is Carmel Market?",
+            "target_text": "סליחה, איפה שוק הכרמל?",
+            "transliteration": "Slicha, eifo Shuk HaCarmel?",
+            "japanese": "סליחה, איפה שוק הכרמל?",
+            "romaji": "Slicha, eifo Shuk HaCarmel?"
+          },
+          {
+            "speaker": "B",
+            "english": "Very close, straight ahead!",
+            "target_text": "קרוב מאוד, ישר קדימה!",
+            "transliteration": "Karov me'od, yashar kadima!",
+            "japanese": "קרוב מאוד, ישר קדימה!",
+            "romaji": "Karov me'od, yashar kadima!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is it busy today?",
+            "target_text": "היום עמוס שם?",
+            "transliteration": "Hayom amus sham?",
+            "japanese": "היום עמוס שם?",
+            "romaji": "Hayom amus sham?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little, but fun!",
+            "target_text": "קצת, אבל כיף!",
+            "transliteration": "Ktsat, aval kef!",
+            "japanese": "קצת, אבל כיף!",
+            "romaji": "Ktsat, aval kef!"
+          }
+        ]
+      }
     }
   ]
 }
