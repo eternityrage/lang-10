@@ -10239,6 +10239,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T01:47:33.554672",
+      "dialogue": {
+        "topic": "Cute Russian Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you are so cute!",
+            "russian": "Привет, ты такая милая!",
+            "translit": "Privet, ty takaya milaya!",
+            "japanese": "Привет, ты такая милая!",
+            "romaji": "Privet, ty takaya milaya!"
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, I feel happy!",
+            "russian": "Спасибо, мне очень радостно!",
+            "translit": "Spasibo, mne ochen radostno!",
+            "japanese": "Спасибо, мне очень радостно!",
+            "romaji": "Spasibo, mne ochen radostno!"
+          },
+          {
+            "speaker": "A",
+            "english": "You have a cute laugh.",
+            "russian": "У тебя милый смех.",
+            "translit": "U tebya milyy smekh.",
+            "japanese": "У тебя милый смех.",
+            "romaji": "U tebya milyy smekh."
+          },
+          {
+            "speaker": "B",
+            "english": "You are very kind.",
+            "russian": "Ты очень добрый.",
+            "translit": "Ty ochen dobryy.",
+            "japanese": "Ты очень добрый.",
+            "romaji": "Ty ochen dobryy."
+          }
+        ]
+      }
     }
   ]
 }
