@@ -10319,6 +10319,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T15:56:49.258457",
+      "dialogue": {
+        "topic": "Cute Russian Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you glowing today?",
+            "russian": "Привет, ты сегодня сияешь?",
+            "translit": "Privet, ty segodnya siyayesh?",
+            "japanese": "Привет, ты сегодня сияешь?",
+            "romaji": "Privet, ty segodnya siyayesh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, you make me happy!",
+            "russian": "Да, ты меня радуешь!",
+            "translit": "Da, ty menya raduyesh!",
+            "japanese": "Да, ты меня радуешь!",
+            "romaji": "Da, ty menya raduyesh!"
+          },
+          {
+            "speaker": "A",
+            "english": "You have a cute smile.",
+            "russian": "У тебя милая улыбка.",
+            "translit": "U tebya milaya ulybka.",
+            "japanese": "У тебя милая улыбка.",
+            "romaji": "U tebya milaya ulybka."
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are cute too.",
+            "russian": "Спасибо, ты тоже милый.",
+            "translit": "Spasibo, ty tozhe milyy.",
+            "japanese": "Спасибо, ты тоже милый.",
+            "romaji": "Spasibo, ty tozhe milyy."
+          }
+        ]
+      }
     }
   ]
 }
