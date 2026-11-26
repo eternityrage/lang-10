@@ -9359,6 +9359,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T01:16:07.697967",
+      "dialogue": {
+        "topic": "Romantic coffee invitation",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you free?",
+            "target_text": "Salut, tu es libre ?",
+            "japanese": "Salut, tu es libre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I am free!",
+            "target_text": "Oui, je suis libre !",
+            "japanese": "Oui, je suis libre !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A coffee with me?",
+            "target_text": "Un café avec moi ?",
+            "japanese": "Un café avec moi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with great pleasure!",
+            "target_text": "Oui, avec grand plaisir !",
+            "japanese": "Oui, avec grand plaisir !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
