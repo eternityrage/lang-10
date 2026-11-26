@@ -10399,6 +10399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T20:13:30.657904",
+      "dialogue": {
+        "topic": "Casual greeting: what's up?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, what's up today?",
+            "target_text": "היי, מה נשמע היום?",
+            "transliteration": "Hey, ma nishma hayom?",
+            "japanese": "היי, מה נשמע היום?",
+            "romaji": "Hey, ma nishma hayom?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, everything is really good!",
+            "target_text": "סבבה, הכל ממש טוב!",
+            "transliteration": "Sababa, hakol mamash tov!",
+            "japanese": "סבבה, הכל ממש טוב!",
+            "romaji": "Sababa, hakol mamash tov!"
+          },
+          {
+            "speaker": "A",
+            "english": "Nice, see you later?",
+            "target_text": "יופי, נתראה אחר כך?",
+            "transliteration": "Yofi, nit'ra'e achar kach?",
+            "japanese": "יופי, נתראה אחר כך?",
+            "romaji": "Yofi, nit'ra'e achar kach?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, bye, good day!",
+            "target_text": "כן, ביי, יום טוב!",
+            "transliteration": "Ken, bye, yom tov!",
+            "japanese": "כן, ביי, יום טוב!",
+            "romaji": "Ken, bye, yom tov!"
+          }
+        ]
+      }
     }
   ]
 }
