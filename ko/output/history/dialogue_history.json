@@ -10279,6 +10279,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T01:35:05.815489",
+      "dialogue": {
+        "topic": "Heart Fluttering",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you okay?",
+            "korean": "너 괜찮아?",
+            "romaja": "Neo gwaenchana?",
+            "japanese": "너 괜찮아?",
+            "romaji": "Neo gwaenchana?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, my heart flutters.",
+            "korean": "응, 심장이 콩콩해.",
+            "romaja": "Eung, simjangi kongkonghae.",
+            "japanese": "응, 심장이 콩콩해.",
+            "romaji": "Eung, simjangi kongkonghae."
+          },
+          {
+            "speaker": "A",
+            "english": "Why is that?",
+            "korean": "왜 그래?",
+            "romaja": "Wae geurae?",
+            "japanese": "왜 그래?",
+            "romaji": "Wae geurae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Because of you.",
+            "korean": "너 때문에.",
+            "romaja": "Neo ttaemune.",
+            "japanese": "너 때문에.",
+            "romaji": "Neo ttaemune."
+          }
+        ]
+      }
     }
   ]
 }
