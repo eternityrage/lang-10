@@ -9287,6 +9287,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T05:12:11.759895",
+      "dialogue": {
+        "topic": "Madrid & Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are we in Barcelona?",
+            "target_text": "Hola, ¿estamos en Barcelona?",
+            "japanese": "Hola, ¿estamos en Barcelona?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, look at the beach!",
+            "target_text": "¡Sí, mira la playa!",
+            "japanese": "¡Sí, mira la playa!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Tomorrow, are we going to Madrid?",
+            "target_text": "¿Mañana vamos a Madrid?",
+            "japanese": "¿Mañana vamos a Madrid?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, good plan!",
+            "target_text": "¡Sí, buen plan!",
+            "japanese": "¡Sí, buen plan!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
