@@ -10359,6 +10359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T15:44:01.814971",
+      "dialogue": {
+        "topic": "Do you have time now?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you have time now?",
+            "korean": "지금 시간 있어요?",
+            "romaja": "Jigeum sigan isseoyo?",
+            "japanese": "지금 시간 있어요?",
+            "romaji": "Jigeum sigan isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I have time!",
+            "korean": "네, 시간 있어요!",
+            "romaja": "Ne, sigan isseoyo!",
+            "japanese": "네, 시간 있어요!",
+            "romaji": "Ne, sigan isseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, want coffee?",
+            "korean": "그럼 커피 마실래?",
+            "romaja": "Geureom keopi masillae?",
+            "japanese": "그럼 커피 마실래?",
+            "romaji": "Geureom keopi masillae?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, let’s go together!",
+            "korean": "좋아, 같이 가자!",
+            "romaja": "Joa, gachi gaja!",
+            "japanese": "좋아, 같이 가자!",
+            "romaji": "Joa, gachi gaja!"
+          }
+        ]
+      }
     }
   ]
 }
