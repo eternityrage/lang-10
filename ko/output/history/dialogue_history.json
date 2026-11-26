@@ -10399,6 +10399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T20:45:14.797343",
+      "dialogue": {
+        "topic": "Busy or free?",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Are you busy now?",
+            "korean": "지금 바빠요?",
+            "romaja": "Jigeum bappayo?",
+            "japanese": "지금 바빠요?",
+            "romaji": "Jigeum bappayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "No, I’m okay!",
+            "korean": "아니요, 괜찮아요!",
+            "romaja": "Aniyo, gwaenchanayo!",
+            "japanese": "아니요, 괜찮아요!",
+            "romaji": "Aniyo, gwaenchanayo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then, shall we go together?",
+            "korean": "그럼 같이 가요?",
+            "romaja": "Geureom gachi gayo?",
+            "japanese": "그럼 같이 가요?",
+            "romaji": "Geureom gachi gayo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Good, let’s go!",
+            "korean": "좋아, 가자!",
+            "romaja": "Joa, gaja!",
+            "japanese": "좋아, 가자!",
+            "romaji": "Joa, gaja!"
+          }
+        ]
+      }
     }
   ]
 }
