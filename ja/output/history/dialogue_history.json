@@ -8383,6 +8383,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T20:07:16.345631",
+      "dialogue": {
+        "topic": "Hot Coffee and Sugar",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Coffee, is it hot?",
+            "japanese": "コーヒー、あついですか？",
+            "romaji": "Koohii, atsui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little hot.",
+            "japanese": "はい、すこし あついです。",
+            "romaji": "Hai, sukoshi atsui desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Do you have sugar?",
+            "japanese": "さとう、ありますか？",
+            "romaji": "Satou, arimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here you go!",
+            "japanese": "はい、どうぞ！",
+            "romaji": "Hai, douzo!"
+          }
+        ]
+      }
     }
   ]
 }
