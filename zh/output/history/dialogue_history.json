@@ -10559,6 +10559,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T20:51:36.917696",
+      "dialogue": {
+        "topic": "Bargaining & Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this expensive?",
+            "chinese": "这个贵吗？",
+            "pinyin": "Zhè ge guì ma?",
+            "japanese": "这个贵吗？",
+            "romaji": "Zhè ge guì ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Not expensive, very good!",
+            "chinese": "不贵，很好！",
+            "pinyin": "Bú guì, hěn hǎo!",
+            "japanese": "不贵，很好！",
+            "romaji": "Bú guì, hěn hǎo!"
+          },
+          {
+            "speaker": "A",
+            "english": "A little less, please.",
+            "chinese": "少一点吧。",
+            "pinyin": "Shǎo yì diǎn ba.",
+            "japanese": "少一点吧。",
+            "romaji": "Shǎo yì diǎn ba."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, ten yuan!",
+            "chinese": "好，十块！",
+            "pinyin": "Hǎo, shí kuài!",
+            "japanese": "好，十块！",
+            "romaji": "Hǎo, shí kuài!"
+          }
+        ]
+      }
     }
   ]
 }
