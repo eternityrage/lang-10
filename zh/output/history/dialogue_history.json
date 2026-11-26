@@ -10439,6 +10439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T01:41:23.197869",
+      "dialogue": {
+        "topic": "Ordering Milk Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Want milk tea?",
+            "chinese": "要奶茶吗？",
+            "pinyin": "Yào nǎichá ma?",
+            "japanese": "要奶茶吗？",
+            "romaji": "Yào nǎichá ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, iced!",
+            "chinese": "要，冰的！",
+            "pinyin": "Yào, bīng de!",
+            "japanese": "要，冰的！",
+            "romaji": "Yào, bīng de!"
+          },
+          {
+            "speaker": "A",
+            "english": "How much sugar?",
+            "chinese": "几分糖？",
+            "pinyin": "Jǐ fēn táng?",
+            "japanese": "几分糖？",
+            "romaji": "Jǐ fēn táng?"
+          },
+          {
+            "speaker": "B",
+            "english": "Thirty percent, thanks!",
+            "chinese": "三分糖，谢谢！",
+            "pinyin": "Sān fēn táng, xièxie!",
+            "japanese": "三分糖，谢谢！",
+            "romaji": "Sān fēn táng, xièxie!"
+          }
+        ]
+      }
     }
   ]
 }
