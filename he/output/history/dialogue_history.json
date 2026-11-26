@@ -10359,6 +10359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T15:10:44.557995",
+      "dialogue": {
+        "topic": "Coffee & Bakery",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, is there cake?",
+            "target_text": "היי, יש עוגה?",
+            "transliteration": "Hai, yesh uga?",
+            "japanese": "היי, יש עוגה?",
+            "romaji": "Hai, yesh uga?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, tasty chocolate cake!",
+            "target_text": "כן, עוגת שוקולד טעימה!",
+            "transliteration": "Ken, ugat shokolad te'ima!",
+            "japanese": "כן, עוגת שוקולד טעימה!",
+            "romaji": "Ken, ugat shokolad te'ima!"
+          },
+          {
+            "speaker": "A",
+            "english": "Great, one piece please.",
+            "target_text": "מעולה, חתיכה אחת בבקשה.",
+            "transliteration": "Me'ule, chaticha achat bevakasha.",
+            "japanese": "מעולה, חתיכה אחת בבקשה.",
+            "romaji": "Me'ule, chaticha achat bevakasha."
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly, here is the cake.",
+            "target_text": "בשמחה, הנה העוגה.",
+            "transliteration": "Besimcha, hine ha'uga.",
+            "japanese": "בשמחה, הנה העוגה.",
+            "romaji": "Besimcha, hine ha'uga."
+          }
+        ]
+      }
     }
   ]
 }
