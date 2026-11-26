@@ -8287,6 +8287,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T00:56:46.825287",
+      "dialogue": {
+        "topic": "Finding the station",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the station?",
+            "japanese": "えきは どこですか？",
+            "romaji": "Eki wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "It is over there.",
+            "japanese": "あそこです。",
+            "romaji": "Asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Is this train okay?",
+            "japanese": "この でんしゃで いいですか？",
+            "romaji": "Kono densha de ii desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's ride!",
+            "japanese": "はい、のりましょう！",
+            "romaji": "Hai, norimashou!"
+          }
+        ]
+      }
     }
   ]
 }
