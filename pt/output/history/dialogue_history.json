@@ -9215,6 +9215,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T01:54:03.332382",
+      "dialogue": {
+        "topic": "Walk with a friend",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, shall we walk?",
+            "target_text": "E aí, vamos caminhar?",
+            "japanese": "E aí, vamos caminhar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the day is beautiful!",
+            "target_text": "Vamos, o dia está lindo!",
+            "japanese": "Vamos, o dia está lindo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "After, shall we drink juice?",
+            "target_text": "Depois, tomamos um suco?",
+            "japanese": "Depois, tomamos um suco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Deal, I pay today!",
+            "target_text": "Fechado, eu pago hoje!",
+            "japanese": "Fechado, eu pago hoje!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
