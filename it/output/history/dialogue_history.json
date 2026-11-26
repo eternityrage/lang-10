@@ -9395,6 +9395,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T20:38:40.873787",
+      "dialogue": {
+        "topic": "Trattoria & Pizza",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, do you have a table?",
+            "target_text": "Buonasera, avete un tavolo?",
+            "japanese": "Buonasera, avete un tavolo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, please!",
+            "target_text": "Sì, certo, prego!",
+            "japanese": "Sì, certo, prego!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I would like a Margherita.",
+            "target_text": "Vorrei una margherita.",
+            "japanese": "Vorrei una margherita.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Right away, good choice!",
+            "target_text": "Subito, buona scelta!",
+            "japanese": "Subito, buona scelta!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
