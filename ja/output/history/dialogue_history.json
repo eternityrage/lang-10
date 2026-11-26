@@ -8319,6 +8319,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T04:58:52.762702",
+      "dialogue": {
+        "topic": "Work & Chill: Email Done",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is email done?",
+            "japanese": "マグさん、メールは おわりましたか？",
+            "romaji": "Magu-san, meeru wa owarimashita ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is done.",
+            "japanese": "はい、もう おわりました。",
+            "romaji": "Hai, mou owarimashita."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, let’s relax.",
+            "japanese": "じゃあ、ゆっくり しましょう。",
+            "romaji": "Jaa, yukkuri shimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, coffee please.",
+            "japanese": "はい、コーヒーを どうぞ。",
+            "romaji": "Hai, koohii o douzo."
+          }
+        ]
+      }
     }
   ]
 }
