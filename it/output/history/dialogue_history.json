@@ -9359,6 +9359,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T15:37:06.723358",
+      "dialogue": {
+        "topic": "Sweet Compliments",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, you're a star!",
+            "target_text": "Ciao, sei una stella!",
+            "japanese": "Ciao, sei una stella!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks! You're so kind.",
+            "target_text": "Grazie! Sei troppo gentile.",
+            "japanese": "Grazie! Sei troppo gentile.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "No, I really mean it!",
+            "target_text": "No, dico davvero!",
+            "japanese": "No, dico davvero!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "How nice, thank you!",
+            "target_text": "Che bello, grazie!",
+            "japanese": "Che bello, grazie!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
