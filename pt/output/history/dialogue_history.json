@@ -9323,6 +9323,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T21:04:12.516694",
+      "dialogue": {
+        "topic": "Street Slang & Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, what's the plan?",
+            "target_text": "Salve, qual é a boa?",
+            "japanese": "Salve, qual é a boa?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Cool, there's a hangout today!",
+            "target_text": "Suave, hoje tem rolê!",
+            "japanese": "Suave, hoje tem rolê!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the hangout?",
+            "target_text": "Onde é o rolê?",
+            "japanese": "Onde é o rolê?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Over at the square, let's go!",
+            "target_text": "Ali na praça, bora!",
+            "japanese": "Ali na praça, bora!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
