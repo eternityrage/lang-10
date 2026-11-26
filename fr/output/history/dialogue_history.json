@@ -9467,6 +9467,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T20:26:02.998003",
+      "dialogue": {
+        "topic": "Metro & Travel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, which metro goes to the Louvre?",
+            "target_text": "Bonjour, quel métro va au Louvre ?",
+            "japanese": "Bonjour, quel métro va au Louvre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Line one, yes!",
+            "target_text": "La ligne un, oui !",
+            "japanese": "La ligne un, oui !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is it far from here?",
+            "target_text": "C’est loin d’ici ?",
+            "japanese": "C’est loin d’ici ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "No, only two stops.",
+            "target_text": "Non, deux arrêts seulement.",
+            "japanese": "Non, deux arrêts seulement.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
