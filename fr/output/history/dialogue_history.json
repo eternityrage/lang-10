@@ -9395,6 +9395,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T05:18:38.719610",
+      "dialogue": {
+        "topic": "Romantic Flirting",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you free?",
+            "target_text": "Salut, tu es libre ?",
+            "japanese": "Salut, tu es libre ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, with pleasure!",
+            "target_text": "Oui, avec plaisir !",
+            "japanese": "Oui, avec plaisir !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "A coffee with me?",
+            "target_text": "Un café avec moi ?",
+            "japanese": "Un café avec moi ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, great idea!",
+            "target_text": "Oui, très bonne idée !",
+            "japanese": "Oui, très bonne idée !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
