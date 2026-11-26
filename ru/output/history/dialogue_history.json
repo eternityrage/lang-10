@@ -10359,6 +10359,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T20:57:45.855156",
+      "dialogue": {
+        "topic": "Ordering Borsch & Pelmeni",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have pelmeni?",
+            "russian": "Здравствуйте, у вас есть пельмени?",
+            "translit": "Zdravstvuyte, u vas yest' pel'meni?",
+            "japanese": "Здравствуйте, у вас есть пельмени?",
+            "romaji": "Zdravstvuyte, u vas yest' pel'meni?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, pelmeni are very tasty!",
+            "russian": "Да, пельмени очень вкусные!",
+            "translit": "Da, pel'meni ochen' vkusnye!",
+            "japanese": "Да, пельмени очень вкусные!",
+            "romaji": "Da, pel'meni ochen' vkusnye!"
+          },
+          {
+            "speaker": "A",
+            "english": "And borsch too, please.",
+            "russian": "И борщ тоже, пожалуйста.",
+            "translit": "I borshch tozhe, pozhaluysta.",
+            "japanese": "И борщ тоже, пожалуйста.",
+            "romaji": "I borshch tozhe, pozhaluysta."
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, coming right up.",
+            "russian": "Конечно, сейчас всё будет.",
+            "translit": "Konechno, seychas vsyo budet.",
+            "japanese": "Конечно, сейчас всё будет.",
+            "romaji": "Konechno, seychas vsyo budet."
+          }
+        ]
+      }
     }
   ]
 }
