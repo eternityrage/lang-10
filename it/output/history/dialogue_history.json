@@ -9323,6 +9323,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T05:54:45.066717",
+      "dialogue": {
+        "topic": "Walking to the bridge",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the bridge?",
+            "target_text": "Ciao, dov'è il ponte?",
+            "japanese": "Ciao, dov'è il ponte?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is there, nearby.",
+            "target_text": "È lì, vicino.",
+            "japanese": "È lì, vicino.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we walk?",
+            "target_text": "Andiamo a piedi?",
+            "japanese": "Andiamo a piedi?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is a nice walk.",
+            "target_text": "Sì, è una bella passeggiata.",
+            "japanese": "Sì, è una bella passeggiata.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
