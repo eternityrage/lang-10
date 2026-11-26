@@ -9359,6 +9359,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T05:48:42.835869",
+      "dialogue": {
+        "topic": "Currywurst in Berlin",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is that currywurst?",
+            "target_text": "Hallo, ist das Currywurst?",
+            "japanese": "Hallo, ist das Currywurst?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very tasty!",
+            "target_text": "Ja, sehr lecker!",
+            "japanese": "Ja, sehr lecker!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Then one, please.",
+            "target_text": "Dann eine, bitte.",
+            "japanese": "Dann eine, bitte.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Coming right up, thanks!",
+            "target_text": "Kommt sofort, danke!",
+            "japanese": "Kommt sofort, danke!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
