@@ -10519,6 +10519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T15:50:23.210716",
+      "dialogue": {
+        "topic": "Taxi to the Airport",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "To the airport?",
+            "chinese": "去机场吗？",
+            "pinyin": "Qù jīchǎng ma?",
+            "japanese": "去机场吗？",
+            "romaji": "Qù jīchǎng ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, let’s go!",
+            "chinese": "可以，走吧！",
+            "pinyin": "Kěyǐ, zǒu ba!",
+            "japanese": "可以，走吧！",
+            "romaji": "Kěyǐ, zǒu ba!"
+          },
+          {
+            "speaker": "A",
+            "english": "Please go faster.",
+            "chinese": "请快一点。",
+            "pinyin": "Qǐng kuài yìdiǎn.",
+            "japanese": "请快一点。",
+            "romaji": "Qǐng kuài yìdiǎn."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, soon!",
+            "chinese": "好，马上到。",
+            "pinyin": "Hǎo, mǎshàng dào.",
+            "japanese": "好，马上到。",
+            "romaji": "Hǎo, mǎshàng dào."
+          }
+        ]
+      }
     }
   ]
 }
