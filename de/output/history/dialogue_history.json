@@ -9395,6 +9395,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-26T15:30:11.614196",
+      "dialogue": {
+        "topic": "Daily Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good evening, Mrs. Müller!",
+            "target_text": "Guten Abend, Frau Müller!",
+            "japanese": "Guten Abend, Frau Müller!",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Good evening, Max!",
+            "target_text": "Guten Abend, Max!",
+            "japanese": "Guten Abend, Max!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Nice evening, right?",
+            "target_text": "Schöner Abend, oder?",
+            "japanese": "Schöner Abend, oder?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very nice!",
+            "target_text": "Ja, sehr schön!",
+            "japanese": "Ja, sehr schön!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
