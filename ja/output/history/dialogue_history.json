@@ -8415,6 +8415,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T00:59:49.579186",
+      "dialogue": {
+        "topic": "Buying a cheap rice ball",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, is this rice ball cheap?",
+            "japanese": "マグ、この おにぎり やすいですか？",
+            "romaji": "Magu, kono onigiri yasui desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it's 100 yen.",
+            "japanese": "はい、100えんです。",
+            "romaji": "Hai, hyaku en desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Then, I'll buy this.",
+            "japanese": "じゃあ、これを かいます。",
+            "romaji": "Jaa, kore o kaimasu."
+          },
+          {
+            "speaker": "B",
+            "english": "Great! Let's eat.",
+            "japanese": "いいですね！たべましょう。",
+            "romaji": "Ii desu ne! Tabemashou."
+          }
+        ]
+      }
     }
   ]
 }
