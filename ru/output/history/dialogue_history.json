@@ -10399,6 +10399,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T01:51:13.308020",
+      "dialogue": {
+        "topic": "Meeting a friend on the street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where are you going?",
+            "russian": "Привет, ты куда идёшь?",
+            "translit": "Privet, ty kuda idyosh?",
+            "japanese": "Привет, ты куда идёшь?",
+            "romaji": "Privet, ty kuda idyosh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Hi, I am going to the park!",
+            "russian": "Привет, я иду в парк!",
+            "translit": "Privet, ya idu v park!",
+            "japanese": "Привет, я иду в парк!",
+            "romaji": "Privet, ya idu v park!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I go with you?",
+            "russian": "Можно я пойду с тобой?",
+            "translit": "Mozhno ya poydu s toboy?",
+            "japanese": "Можно я пойду с тобой?",
+            "romaji": "Mozhno ya poydu s toboy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course, let's go together!",
+            "russian": "Да, конечно, пойдём вместе!",
+            "translit": "Da, konechno, poydyom vmeste!",
+            "japanese": "Да, конечно, пойдём вместе!",
+            "romaji": "Da, konechno, poydyom vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
