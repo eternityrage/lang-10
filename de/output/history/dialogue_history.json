@@ -9503,6 +9503,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T05:25:36.747561",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, which subway to the zoo?",
+            "target_text": "Hallo, welche U-Bahn zum Zoo?",
+            "japanese": "Hallo, welche U-Bahn zum Zoo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Take the U2, very easy!",
+            "target_text": "Nimm die U2, ganz einfach!",
+            "japanese": "Nimm die U2, ganz einfach!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where is the platform?",
+            "target_text": "Wo ist der Bahnsteig?",
+            "japanese": "Wo ist der Bahnsteig?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "The platform is on the left.",
+            "target_text": "Der Bahnsteig ist links.",
+            "japanese": "Der Bahnsteig ist links.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
