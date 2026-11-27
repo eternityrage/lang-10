@@ -9431,6 +9431,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T15:53:49.391235",
+      "dialogue": {
+        "topic": "Ordering coxinha and coffee",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "One coxinha, please?",
+            "target_text": "Uma coxinha, por favor?",
+            "japanese": "Uma coxinha, por favor?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure! Coffee too?",
+            "target_text": "Claro! Café também?",
+            "japanese": "Claro! Café também?",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Yes, a small coffee.",
+            "target_text": "Sim, um café pequeno.",
+            "japanese": "Sim, um café pequeno.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Ready, five reais.",
+            "target_text": "Pronto, fica cinco reais.",
+            "japanese": "Pronto, fica cinco reais.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
