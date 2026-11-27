@@ -8447,6 +8447,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T04:58:34.627061",
+      "dialogue": {
+        "topic": "Finding the station",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, where is the station?",
+            "japanese": "マグ、えきは どこですか？",
+            "romaji": "Magu, eki wa doko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "The station is over there.",
+            "japanese": "えきは あそこです。",
+            "romaji": "Eki wa asoko desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Do we walk there?",
+            "japanese": "あるいて いきますか？",
+            "romaji": "Aruite ikimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we arrive soon.",
+            "japanese": "はい、すぐ つきます。",
+            "romaji": "Hai, sugu tsukimasu."
+          }
+        ]
+      }
     }
   ]
 }
