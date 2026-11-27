@@ -10439,6 +10439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T01:38:26.389124",
+      "dialogue": {
+        "topic": "Trying spicy tteokbokki",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is tteokbokki spicy?",
+            "korean": "떡볶이 매워요?",
+            "romaja": "Tteokbokki maewoyo?",
+            "japanese": "떡볶이 매워요?",
+            "romaji": "Tteokbokki maewoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little spicy!",
+            "korean": "조금 매워요!",
+            "romaja": "Jogeum maewoyo!",
+            "japanese": "조금 매워요!",
+            "romaji": "Jogeum maewoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is there water?",
+            "korean": "물 있어요?",
+            "romaja": "Mul isseoyo?",
+            "japanese": "물 있어요?",
+            "romaji": "Mul isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, here it is.",
+            "korean": "네, 여기 있어요.",
+            "romaja": "Ne, yeogi isseoyo.",
+            "japanese": "네, 여기 있어요.",
+            "romaji": "Ne, yeogi isseoyo."
+          }
+        ]
+      }
     }
   ]
 }
