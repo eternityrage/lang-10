@@ -10679,6 +10679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T15:41:18.726323",
+      "dialogue": {
+        "topic": "Bargaining & Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Cheaper, please?",
+            "chinese": "便宜点吗？",
+            "pinyin": "Piányi diǎn ma?",
+            "japanese": "便宜点吗？",
+            "romaji": "Piányi diǎn ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, sure!",
+            "chinese": "可以，可以！",
+            "pinyin": "Kěyǐ, kěyǐ!",
+            "japanese": "可以，可以！",
+            "romaji": "Kěyǐ, kěyǐ!"
+          },
+          {
+            "speaker": "A",
+            "english": "I want two.",
+            "chinese": "我要两个。",
+            "pinyin": "Wǒ yào liǎng gè.",
+            "japanese": "我要两个。",
+            "romaji": "Wǒ yào liǎng gè."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, here you go.",
+            "chinese": "好，给你。",
+            "pinyin": "Hǎo, gěi nǐ.",
+            "japanese": "好，给你。",
+            "romaji": "Hǎo, gěi nǐ."
+          }
+        ]
+      }
     }
   ]
 }
