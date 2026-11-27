@@ -9503,6 +9503,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T15:28:48.910031",
+      "dialogue": {
+        "topic": "Gesture: così così",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what means “così così”?",
+            "target_text": "Ciao, che significa così così?",
+            "japanese": "Ciao, che significa così così?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It means: not great!",
+            "target_text": "Vuol dire: non benissimo!",
+            "japanese": "Vuol dire: non benissimo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Ah, with the hand?",
+            "target_text": "Ah, con la mano?",
+            "japanese": "Ah, con la mano?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, the hand wobbles!",
+            "target_text": "Sì, la mano ondeggia!",
+            "japanese": "Sì, la mano ondeggia!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
