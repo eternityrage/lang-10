@@ -9503,6 +9503,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T20:06:47.631322",
+      "dialogue": {
+        "topic": "Travel & Metro",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Where is the metro?",
+            "target_text": "¿Dónde está el metro?",
+            "japanese": "¿Dónde está el metro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's here, close by!",
+            "target_text": "¡Está aquí, cerca!",
+            "japanese": "¡Está aquí, cerca!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do I need a card?",
+            "target_text": "¿Necesito una tarjeta?",
+            "japanese": "¿Necesito una tarjeta?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, at the machine.",
+            "target_text": "Sí, en la máquina.",
+            "japanese": "Sí, en la máquina.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
