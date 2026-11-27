@@ -10479,6 +10479,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T05:05:07.590007",
+      "dialogue": {
+        "topic": "Morning greeting with slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, how are you?",
+            "target_text": "בוקר טוב, מה נשמע?",
+            "transliteration": "Boker tov, ma nishma?",
+            "japanese": "בוקר טוב, מה נשמע?",
+            "romaji": "Boker tov, ma nishma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Great, thanks! And you?",
+            "target_text": "מעולה, תודה! ואתה?",
+            "transliteration": "Me'uleh, toda! Ve'ata?",
+            "japanese": "מעולה, תודה! ואתה?",
+            "romaji": "Me'uleh, toda! Ve'ata?"
+          },
+          {
+            "speaker": "A",
+            "english": "Also great, thanks.",
+            "target_text": "גם מעולה, תודה.",
+            "transliteration": "Gam me'uleh, toda.",
+            "japanese": "גם מעולה, תודה.",
+            "romaji": "Gam me'uleh, toda."
+          },
+          {
+            "speaker": "B",
+            "english": "Cool, have a good day!",
+            "target_text": "סבבה, יום טוב!",
+            "transliteration": "Sababa, yom tov!",
+            "japanese": "סבבה, יום טוב!",
+            "romaji": "Sababa, yom tov!"
+          }
+        ]
+      }
     }
   ]
 }
