@@ -8479,6 +8479,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T14:57:38.724910",
+      "dialogue": {
+        "topic": "Mug's cute smile",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you smiling?",
+            "japanese": "マグさん、にこにこですか？",
+            "romaji": "Magu-san, nikoniko desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I'm happy!",
+            "japanese": "はい、うれしいです！",
+            "romaji": "Hai, ureshii desu!"
+          },
+          {
+            "speaker": "A",
+            "english": "Wow, so cute!",
+            "japanese": "わあ、とても かわいいです！",
+            "romaji": "Waa, totemo kawaii desu!"
+          },
+          {
+            "speaker": "B",
+            "english": "Hehe, thank you!",
+            "japanese": "えへへ、ありがとう！",
+            "romaji": "Ehehe, arigatou!"
+          }
+        ]
+      }
     }
   ]
 }
