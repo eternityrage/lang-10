@@ -10519,6 +10519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T15:03:44.643962",
+      "dialogue": {
+        "topic": "Directions & Taxi - Museum",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, to the museum, please?",
+            "target_text": "שלום, למוזיאון, בבקשה?",
+            "transliteration": "Shalom, la-muze'on, bevakasha?",
+            "japanese": "שלום, למוזיאון, בבקשה?",
+            "romaji": "Shalom, la-muze'on, bevakasha?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, gladly, let's go!",
+            "target_text": "כן, בשמחה, קדימה!",
+            "transliteration": "Ken, besimcha, kadima!",
+            "japanese": "כן, בשמחה, קדימה!",
+            "romaji": "Ken, besimcha, kadima!"
+          },
+          {
+            "speaker": "A",
+            "english": "How long is it?",
+            "target_text": "כמה זמן זה?",
+            "transliteration": "Kama zman ze?",
+            "japanese": "כמה זמן זה?",
+            "romaji": "Kama zman ze?"
+          },
+          {
+            "speaker": "B",
+            "english": "Only ten minutes.",
+            "target_text": "רק עשר דקות.",
+            "transliteration": "Rak eser dakot.",
+            "japanese": "רק עשר דקות.",
+            "romaji": "Rak eser dakot."
+          }
+        ]
+      }
     }
   ]
 }
