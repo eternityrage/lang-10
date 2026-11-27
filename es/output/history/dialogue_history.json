@@ -9395,6 +9395,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T01:12:28.690854",
+      "dialogue": {
+        "topic": "Finding the metro exit",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where is the exit?",
+            "target_text": "Hola, ¿dónde está la salida?",
+            "japanese": "Hola, ¿dónde está la salida?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It is there, very close.",
+            "target_text": "Está allí, muy cerca.",
+            "japanese": "Está allí, muy cerca.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do I go this way?",
+            "target_text": "¿Voy por aquí?",
+            "japanese": "¿Voy por aquí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, go straight.",
+            "target_text": "Sí, sigue recto.",
+            "japanese": "Sí, sigue recto.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
