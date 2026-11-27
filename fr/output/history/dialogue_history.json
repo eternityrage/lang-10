@@ -9575,6 +9575,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T15:16:21.750499",
+      "dialogue": {
+        "topic": "Street Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you well?",
+            "target_text": "Salut, tu vas bien ?",
+            "japanese": "Salut, tu vas bien ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I'm great!",
+            "target_text": "Oui, ça va super !",
+            "japanese": "Oui, ça va super !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Are you going to the park?",
+            "target_text": "Tu vas au parc ?",
+            "japanese": "Tu vas au parc ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, see you later!",
+            "target_text": "Oui, à plus tard !",
+            "japanese": "Oui, à plus tard !",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
