@@ -9431,6 +9431,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T05:11:51.528314",
+      "dialogue": {
+        "topic": "Fiesta & Chill: música y bebida",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is there music here?",
+            "target_text": "¿Hay música aquí?",
+            "japanese": "¿Hay música aquí?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very good music.",
+            "target_text": "Sí, muy buena música.",
+            "japanese": "Sí, muy buena música.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we drink something now?",
+            "target_text": "¿Tomamos algo ahora?",
+            "japanese": "¿Tomamos algo ahora?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a lemonade.",
+            "target_text": "Sí, una limonada.",
+            "japanese": "Sí, una limonada.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
