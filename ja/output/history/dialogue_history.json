@@ -8511,6 +8511,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T19:54:30.577986",
+      "dialogue": {
+        "topic": "A sweet walk with a flower",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, a flower.",
+            "japanese": "マグさん、花です。",
+            "romaji": "Magu-san, hana desu."
+          },
+          {
+            "speaker": "B",
+            "english": "Wow, it's cute.",
+            "japanese": "わあ、かわいいです。",
+            "romaji": "Waa, kawaii desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Walk with me?",
+            "japanese": "わたしと さんぽ しませんか？",
+            "romaji": "Watashi to sanpo shimasen ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I want to go.",
+            "japanese": "はい、行きたいです。",
+            "romaji": "Hai, ikitai desu."
+          }
+        ]
+      }
     }
   ]
 }
