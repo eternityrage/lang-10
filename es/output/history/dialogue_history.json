@@ -9467,6 +9467,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T15:09:53.184788",
+      "dialogue": {
+        "topic": "Madrid y Barcelona",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Do you live in Madrid?",
+            "target_text": "¿Vives en Madrid?",
+            "japanese": "¿Vives en Madrid?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I live in Madrid!",
+            "target_text": "¡Sí, vivo en Madrid!",
+            "japanese": "¡Sí, vivo en Madrid!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you visit Barcelona too?",
+            "target_text": "¿Visitas Barcelona también?",
+            "japanese": "¿Visitas Barcelona también?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, Barcelona is beautiful!",
+            "target_text": "¡Sí, Barcelona es preciosa!",
+            "japanese": "¡Sí, Barcelona es preciosa!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
