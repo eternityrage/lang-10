@@ -9395,6 +9395,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T05:58:29.527295",
+      "dialogue": {
+        "topic": "Uber to Paulista Avenue in São Paulo",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you going to Paulista Avenue?",
+            "target_text": "Oi, vai para a Paulista?",
+            "japanese": "Oi, vai para a Paulista?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, all good!",
+            "target_text": "Vou sim, tudo certo!",
+            "japanese": "Vou sim, tudo certo!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Can we go through downtown?",
+            "target_text": "Pode seguir pelo centro?",
+            "japanese": "Pode seguir pelo centro?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, we’ll arrive fast.",
+            "target_text": "Claro, chegamos rápido.",
+            "japanese": "Claro, chegamos rápido.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
