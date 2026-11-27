@@ -9539,6 +9539,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T15:22:33.094213",
+      "dialogue": {
+        "topic": "Directions & U-Bahn",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Which subway to downtown?",
+            "target_text": "Welche U-Bahn ins Zentrum?",
+            "japanese": "Welche U-Bahn ins Zentrum?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, take the U2!",
+            "target_text": "Klar, nimm die U2!",
+            "japanese": "Klar, nimm die U2!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is the station near?",
+            "target_text": "Ist die Station nah?",
+            "japanese": "Ist die Station nah?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, around the corner.",
+            "target_text": "Ja, um die Ecke.",
+            "japanese": "Ja, um die Ecke.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
