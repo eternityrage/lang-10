@@ -10439,6 +10439,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T05:52:15.967906",
+      "dialogue": {
+        "topic": "Meeting a Friend on the Street",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you here?",
+            "russian": "Привет, ты здесь?",
+            "translit": "Privet, ty zdes'?",
+            "japanese": "Привет, ты здесь?",
+            "romaji": "Privet, ty zdes'?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m waiting for a friend!",
+            "russian": "Да, я жду друга!",
+            "translit": "Da, ya zhdu druga!",
+            "japanese": "Да, я жду друга!",
+            "romaji": "Da, ya zhdu druga!"
+          },
+          {
+            "speaker": "A",
+            "english": "Can I join you?",
+            "russian": "Можно с тобой?",
+            "translit": "Mozhno s toboy?",
+            "japanese": "Можно с тобой?",
+            "romaji": "Mozhno s toboy?"
+          },
+          {
+            "speaker": "B",
+            "english": "Of course, let’s go together!",
+            "russian": "Конечно, пойдём вместе!",
+            "translit": "Konechno, poydyom vmeste!",
+            "japanese": "Конечно, пойдём вместе!",
+            "romaji": "Konechno, poydyom vmeste!"
+          }
+        ]
+      }
     }
   ]
 }
