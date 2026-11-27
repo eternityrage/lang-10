@@ -10519,6 +10519,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-27T15:35:00.418144",
+      "dialogue": {
+        "topic": "Spicy tteokbokki",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this tteokbokki spicy?",
+            "korean": "이 떡볶이 매워요?",
+            "romaja": "I tteokbokki maewoyo?",
+            "japanese": "이 떡볶이 매워요?",
+            "romaji": "I tteokbokki maewoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "A little spicy, delicious!",
+            "korean": "조금 매워요, 맛있어요!",
+            "romaja": "Jogeum maewoyo, masisseoyo!",
+            "japanese": "조금 매워요, 맛있어요!",
+            "romaji": "Jogeum maewoyo, masisseoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Is there water here too?",
+            "korean": "여기 물도 있어요?",
+            "romaja": "Yeogi muldo isseoyo?",
+            "japanese": "여기 물도 있어요?",
+            "romaji": "Yeogi muldo isseoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, let's eat together!",
+            "korean": "네, 같이 먹어요!",
+            "romaja": "Ne, gachi meogeoyo!",
+            "japanese": "네, 같이 먹어요!",
+            "romaji": "Ne, gachi meogeoyo!"
+          }
+        ]
+      }
     }
   ]
 }
