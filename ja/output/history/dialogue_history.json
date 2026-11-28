@@ -8543,6 +8543,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T00:27:59.456082",
+      "dialogue": {
+        "topic": "Work & Chill: short break",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, break time?",
+            "japanese": "マグさん、きゅうけいですか？",
+            "romaji": "Magu-san, kyuukei desu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, just a little.",
+            "japanese": "はい、すこしだけです。",
+            "romaji": "Hai, sukoshi dake desu."
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we rest here?",
+            "japanese": "ここで 休みますか？",
+            "romaji": "Koko de yasumimasu ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, sounds good.",
+            "japanese": "はい、いいですね。",
+            "romaji": "Hai, ii desu ne."
+          }
+        ]
+      }
     }
   ]
 }
