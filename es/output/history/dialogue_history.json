@@ -9575,6 +9575,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T04:55:18.528956",
+      "dialogue": {
+        "topic": "Buying a metro ticket",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, where do I buy a ticket?",
+            "target_text": "Hola, ¿dónde compro un boleto?",
+            "japanese": "Hola, ¿dónde compro un boleto?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "There, at the machine!",
+            "target_text": "¡Allí, en la máquina!",
+            "japanese": "¡Allí, en la máquina!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is the trip?",
+            "target_text": "¿Cuánto cuesta el viaje?",
+            "japanese": "¿Cuánto cuesta el viaje?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It costs two euros.",
+            "target_text": "Cuesta dos euros.",
+            "japanese": "Cuesta dos euros.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
