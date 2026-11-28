@@ -9611,6 +9611,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T05:14:14.651795",
+      "dialogue": {
+        "topic": "Piazza Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, are you from here?",
+            "target_text": "Ciao, sei di qui?",
+            "japanese": "Ciao, sei di qui?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I live nearby!",
+            "target_text": "Sì, abito qui vicino!",
+            "japanese": "Sì, abito qui vicino!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Do you know a café?",
+            "target_text": "Conosci un bar?",
+            "japanese": "Conosci un bar?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, let’s go together!",
+            "target_text": "Certo, andiamo insieme!",
+            "japanese": "Certo, andiamo insieme!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
