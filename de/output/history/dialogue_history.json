@@ -9611,6 +9611,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T00:52:48.551488",
+      "dialogue": {
+        "topic": "Drinks in the beer garden",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, what are you drinking?",
+            "target_text": "Hallo, was trinkst du?",
+            "japanese": "Hallo, was trinkst du?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I'm drinking apple spritzer.",
+            "target_text": "Ich trinke Apfelschorle.",
+            "japanese": "Ich trinke Apfelschorle.",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it taste good?",
+            "target_text": "Schmeckt sie gut?",
+            "japanese": "Schmeckt sie gut?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very refreshing!",
+            "target_text": "Ja, sehr erfrischend!",
+            "japanese": "Ja, sehr erfrischend!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
