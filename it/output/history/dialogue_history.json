@@ -9647,6 +9647,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T14:39:02.148789",
+      "dialogue": {
+        "topic": "At the train station: finding the platform",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, where is the platform?",
+            "target_text": "Scusi, dov'è il binario?",
+            "japanese": "Scusi, dov'è il binario?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "It's there, on the right!",
+            "target_text": "È lì, a destra!",
+            "japanese": "È lì, a destra!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Does it leave soon?",
+            "target_text": "Parte tra poco?",
+            "japanese": "Parte tra poco?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, have a good trip!",
+            "target_text": "Sì, buon viaggio!",
+            "japanese": "Sì, buon viaggio!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
