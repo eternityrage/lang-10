@@ -9647,6 +9647,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T05:08:11.605099",
+      "dialogue": {
+        "topic": "Berlin Street Life",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, is this Mauerpark?",
+            "target_text": "Hallo, ist das Mauerpark?",
+            "japanese": "Hallo, ist das Mauerpark?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, it is very nice here!",
+            "target_text": "Ja, sehr schön hier!",
+            "japanese": "Ja, sehr schön hier!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Is there music?",
+            "target_text": "Gibt es Musik?",
+            "japanese": "Gibt es Musik?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, right over there!",
+            "target_text": "Ja, gleich dort!",
+            "japanese": "Ja, gleich dort!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
