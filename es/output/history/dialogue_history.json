@@ -9539,6 +9539,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T00:40:22.154633",
+      "dialogue": {
+        "topic": "Greeting and complimenting a smile",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you today?",
+            "target_text": "Hola, ¿cómo estás hoy?",
+            "japanese": "Hola, ¿cómo estás hoy?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Very well, thanks!",
+            "target_text": "¡Muy bien, gracias!",
+            "japanese": "¡Muy bien, gracias!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "You have a nice smile.",
+            "target_text": "Tienes una sonrisa bonita.",
+            "japanese": "Tienes una sonrisa bonita.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Thanks, you are very kind!",
+            "target_text": "¡Gracias, eres muy amable!",
+            "japanese": "¡Gracias, eres muy amable!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
