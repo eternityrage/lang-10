@@ -9575,6 +9575,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T15:04:33.724222",
+      "dialogue": {
+        "topic": "Açaí Bowl & Smoothies",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have strawberry smoothie?",
+            "target_text": "Oi, tem smoothie de morango?",
+            "japanese": "Oi, tem smoothie de morango?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, we do, very cold!",
+            "target_text": "Tem sim, bem gelado!",
+            "japanese": "Tem sim, bem gelado!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "With milk or water?",
+            "target_text": "Com leite ou água?",
+            "japanese": "Com leite ou água?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "With water, it’s light.",
+            "target_text": "Com água, fica leve.",
+            "japanese": "Com água, fica leve.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
