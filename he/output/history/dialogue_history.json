@@ -10679,6 +10679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T14:14:03.220108",
+      "dialogue": {
+        "topic": "Taxi to the hotel",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, to Dan Hotel, please?",
+            "target_text": "שלום, למלון דן, בבקשה?",
+            "transliteration": "Shalom, le-malon Dan, bevakasha?",
+            "japanese": "שלום, למלון דן, בבקשה?",
+            "romaji": "Shalom, le-malon Dan, bevakasha?"
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, it is very close.",
+            "target_text": "בטח, זה קרוב מאוד.",
+            "transliteration": "Betach, ze karov me'od.",
+            "japanese": "בטח, זה קרוב מאוד.",
+            "romaji": "Betach, ze karov me'od."
+          },
+          {
+            "speaker": "A",
+            "english": "How much does it cost?",
+            "target_text": "כמה זה עולה?",
+            "transliteration": "Kama ze oleh?",
+            "japanese": "כמה זה עולה?",
+            "romaji": "Kama ze oleh?"
+          },
+          {
+            "speaker": "B",
+            "english": "Thirty shekels, we leave now.",
+            "target_text": "שלושים שקל, נצא עכשיו.",
+            "transliteration": "Shloshim shekel, netze achshav.",
+            "japanese": "שלושים שקל, נצא עכשיו.",
+            "romaji": "Shloshim shekel, netze achshav."
+          }
+        ]
+      }
     }
   ]
 }
