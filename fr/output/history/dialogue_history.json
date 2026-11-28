@@ -9719,6 +9719,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T14:26:24.361977",
+      "dialogue": {
+        "topic": "Street Greetings",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, how are you today?",
+            "target_text": "Salut, ça va aujourd’hui ?",
+            "japanese": "Salut, ça va aujourd’hui ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, I’m very well!",
+            "target_text": "Oui, ça va très bien !",
+            "japanese": "Oui, ça va très bien !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Where are you going now?",
+            "target_text": "Tu vas où maintenant ?",
+            "japanese": "Tu vas où maintenant ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "I’m going to the market.",
+            "target_text": "Je vais au marché.",
+            "japanese": "Je vais au marché.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
