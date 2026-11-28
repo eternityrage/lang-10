@@ -10599,6 +10599,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T00:34:12.595985",
+      "dialogue": {
+        "topic": "Greetings & Slang",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hey, beautiful day, right?",
+            "target_text": "היי, יום יפה, נכון?",
+            "transliteration": "Hey, yom yafe, nachon?",
+            "japanese": "היי, יום יפה, נכון?",
+            "romaji": "Hey, yom yafe, nachon?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, really beautiful!",
+            "target_text": "כן, ממש יפה!",
+            "transliteration": "Ken, mamash yafe!",
+            "japanese": "כן, ממש יפה!",
+            "romaji": "Ken, mamash yafe!"
+          },
+          {
+            "speaker": "A",
+            "english": "Shall we drink coffee together?",
+            "target_text": "נשתה קפה ביחד?",
+            "transliteration": "Nishte kafe beyachad?",
+            "japanese": "נשתה קפה ביחד?",
+            "romaji": "Nishte kafe beyachad?"
+          },
+          {
+            "speaker": "B",
+            "english": "Cool, let’s go!",
+            "target_text": "סבבה, יאללה, קדימה!",
+            "transliteration": "Sababa, yalla, kadima!",
+            "japanese": "סבבה, יאללה, קדימה!",
+            "romaji": "Sababa, yalla, kadima!"
+          }
+        ]
+      }
     }
   ]
 }
