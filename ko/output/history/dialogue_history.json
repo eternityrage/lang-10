@@ -10679,6 +10679,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T14:45:07.950823",
+      "dialogue": {
+        "topic": "Buying Spicy Tteokbokki",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Is this tteokbokki spicy?",
+            "korean": "이 떡볶이 매워요?",
+            "romaja": "I tteokbokki maewoyo?",
+            "japanese": "이 떡볶이 매워요?",
+            "romaji": "I tteokbokki maewoyo?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little spicy!",
+            "korean": "네, 조금 매워요!",
+            "romaja": "Ne, jogeum maewoyo!",
+            "japanese": "네, 조금 매워요!",
+            "romaji": "Ne, jogeum maewoyo!"
+          },
+          {
+            "speaker": "A",
+            "english": "Then give me one.",
+            "korean": "그럼 하나 주세요.",
+            "romaja": "Geureom hana juseyo.",
+            "japanese": "그럼 하나 주세요.",
+            "romaji": "Geureom hana juseyo."
+          },
+          {
+            "speaker": "B",
+            "english": "Okay, enjoy it!",
+            "korean": "네, 맛있게 드세요!",
+            "romaja": "Ne, masitge deuseyo!",
+            "japanese": "네, 맛있게 드세요!",
+            "romaji": "Ne, masitge deuseyo!"
+          }
+        ]
+      }
     }
   ]
 }
