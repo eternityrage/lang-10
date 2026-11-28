@@ -9611,6 +9611,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T14:20:12.938705",
+      "dialogue": {
+        "topic": "Buying tomatoes at the market",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, do you have tomatoes?",
+            "target_text": "Hola, ¿tiene tomates?",
+            "japanese": "Hola, ¿tiene tomates?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, very fresh!",
+            "target_text": "¡Sí, muy frescos!",
+            "japanese": "¡Sí, muy frescos!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "How much is one kilo?",
+            "target_text": "¿Cuánto cuesta un kilo?",
+            "japanese": "¿Cuánto cuesta un kilo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Three euros, please.",
+            "target_text": "Tres euros, por favor.",
+            "japanese": "Tres euros, por favor.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
