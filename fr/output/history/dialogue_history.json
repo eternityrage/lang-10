@@ -9683,6 +9683,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T05:02:03.300028",
+      "dialogue": {
+        "topic": "Boutique Shopping",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hello, do you have hats?",
+            "target_text": "Bonjour, vous avez des chapeaux ?",
+            "japanese": "Bonjour, vous avez des chapeaux ?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course!",
+            "target_text": "Oui, bien sûr !",
+            "japanese": "Oui, bien sûr !",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "I want the blue one.",
+            "target_text": "Je veux le bleu.",
+            "japanese": "Je veux le bleu.",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Perfect, it is here.",
+            "target_text": "Parfait, il est ici.",
+            "japanese": "Parfait, il est ici.",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
