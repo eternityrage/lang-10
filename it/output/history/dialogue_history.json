@@ -9575,6 +9575,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T00:59:01.030448",
+      "dialogue": {
+        "topic": "Espresso Bar & Cornetto",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Good morning, an espresso?",
+            "target_text": "Buongiorno, un espresso?",
+            "japanese": "Buongiorno, un espresso?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, with pleasure!",
+            "target_text": "Certo, con piacere!",
+            "japanese": "Certo, con piacere!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "Also a warm cornetto?",
+            "target_text": "Anche un cornetto caldo?",
+            "japanese": "Anche un cornetto caldo?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Sure, coming right away!",
+            "target_text": "Certo, arriva subito!",
+            "japanese": "Certo, arriva subito!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
