@@ -8607,6 +8607,38 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T14:07:50.899500",
+      "dialogue": {
+        "topic": "Work & Chill - Break Time",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Mug, are you tired?",
+            "japanese": "マグさん、つかれましたか？",
+            "romaji": "Magu-san, tsukaremashita ka?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, a little tired.",
+            "japanese": "はい、少し つかれました。",
+            "romaji": "Hai, sukoshi tsukaremashita."
+          },
+          {
+            "speaker": "A",
+            "english": "Let's rest together.",
+            "japanese": "いっしょに やすみましょう。",
+            "romaji": "Issho ni yasumimashou."
+          },
+          {
+            "speaker": "B",
+            "english": "Sounds good. Let's chill.",
+            "japanese": "いいですね。ゆっくりしましょう。",
+            "romaji": "Ii desu ne. Yukkuri shimashou."
+          }
+        ]
+      }
     }
   ]
 }
