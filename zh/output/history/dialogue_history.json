@@ -10759,6 +10759,46 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T01:11:24.028200",
+      "dialogue": {
+        "topic": "Ordering Milk Tea",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Hi, what would you like?",
+            "chinese": "你好，点什么？",
+            "pinyin": "Nǐ hǎo, diǎn shénme?",
+            "japanese": "你好，点什么？",
+            "romaji": "Nǐ hǎo, diǎn shénme?"
+          },
+          {
+            "speaker": "B",
+            "english": "Milk tea, thanks!",
+            "chinese": "奶茶，谢谢！",
+            "pinyin": "Nǎichá, xièxie!",
+            "japanese": "奶茶，谢谢！",
+            "romaji": "Nǎichá, xièxie!"
+          },
+          {
+            "speaker": "A",
+            "english": "Large cup?",
+            "chinese": "大杯吗？",
+            "pinyin": "Dà bēi ma?",
+            "japanese": "大杯吗？",
+            "romaji": "Dà bēi ma?"
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, large.",
+            "chinese": "对，大杯。",
+            "pinyin": "Duì, dà bēi.",
+            "japanese": "对，大杯。",
+            "romaji": "Duì, dà bēi."
+          }
+        ]
+      }
     }
   ]
 }
