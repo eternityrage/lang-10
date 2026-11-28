@@ -9683,6 +9683,42 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-11-28T14:32:56.331198",
+      "dialogue": {
+        "topic": "Polite Requests",
+        "lines": [
+          {
+            "speaker": "A",
+            "english": "Excuse me, do you have a pen?",
+            "target_text": "Entschuldigung, haben Sie einen Stift?",
+            "japanese": "Entschuldigung, haben Sie einen Stift?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Yes, of course. Here, please!",
+            "target_text": "Ja, natürlich. Hier, bitte!",
+            "japanese": "Ja, natürlich. Hier, bitte!",
+            "romaji": ""
+          },
+          {
+            "speaker": "A",
+            "english": "May I write briefly?",
+            "target_text": "Darf ich kurz schreiben?",
+            "japanese": "Darf ich kurz schreiben?",
+            "romaji": ""
+          },
+          {
+            "speaker": "B",
+            "english": "Gladly. No problem!",
+            "target_text": "Gern. Kein Problem!",
+            "japanese": "Gern. Kein Problem!",
+            "romaji": ""
+          }
+        ]
+      }
     }
   ]
 }
